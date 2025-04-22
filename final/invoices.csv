@@ -1,0 +1,1533 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician,completed_date,testpoint_count,price
+Ch-WO-00001,Ch-EQ-00001-1,torque,Chicago,Rodriguez-Summers,no,Amanda Henry,2024-09-25,10,173.0
+Ch-WO-00001,Ch-EQ-00001-2,torque,Chicago,Rodriguez-Summers,no,Laura Owens,2024-06-18,10,173.0
+Ch-WO-00002,Ch-EQ-00002-1,torque,Chicago,Kelley-Ramirez,yes,Laura Owens,2025-01-06,15,224.9
+Ch-WO-00002,Ch-EQ-00002-2,flow_meter,Chicago,Kelley-Ramirez,yes,Traci Larson,2024-11-05,15,260.0
+Ch-WO-00003,Ch-EQ-00003-0,torque,Chicago,"Wade, Cruz and White",no,Traci Larson,2024-05-21,10,173.0
+Ch-WO-00004,Ch-EQ-00004-0,torque,Chicago,Carter Group,no,Traci Larson,2025-01-06,10,173.0
+Ch-WO-00004,Ch-EQ-00004-1,thermometer,Chicago,Carter Group,yes,Amanda Henry,2024-12-03,15,292.5
+Ch-WO-00005,Ch-EQ-00005-0,scale,Chicago,Lopez and Sons,no,Laura Owens,2024-09-13,10,241.0
+Ch-WO-00006,Ch-EQ-00006-0,pressure_gauge,Chicago,Freeman-Rice,yes,Amanda Henry,2025-02-06,15,299.0
+Ch-WO-00007,Ch-EQ-00007-1,flow_meter,Chicago,Grant and Sons,yes,Amanda Henry,2024-10-03,15,260.0
+Ch-WO-00007,Ch-EQ-00007-2,scale,Chicago,Grant and Sons,yes,Amanda Henry,2024-11-20,15,313.3
+Ch-WO-00008,Ch-EQ-00008-0,thermometer,Chicago,Stephenson-Herring,yes,Amanda Henry,2025-02-25,15,292.5
+Ch-WO-00008,Ch-EQ-00008-1,pressure_gauge,Chicago,Stephenson-Herring,yes,Amanda Henry,2024-10-17,15,299.0
+Ch-WO-00009,Ch-EQ-00009-0,caliper,Chicago,Lopez and Sons,yes,Laura Owens,2024-11-26,15,201.5
+Ch-WO-00009,Ch-EQ-00009-1,flow_meter,Chicago,Lopez and Sons,yes,Laura Owens,2024-10-13,15,260.0
+Ch-WO-00010,Ch-EQ-00010-1,flow_meter,Chicago,Grant and Sons,no,Traci Larson,2024-06-14,10,200.0
+Ch-WO-00011,Ch-EQ-00011-0,scale,Chicago,Riddle-Faulkner,yes,Amanda Henry,2024-05-18,15,313.3
+Ch-WO-00011,Ch-EQ-00011-1,torque,Chicago,Riddle-Faulkner,yes,Amanda Henry,2024-05-30,15,224.9
+Ch-WO-00012,Ch-EQ-00012-0,thermometer,Chicago,Moreno-Friedman,no,Traci Larson,2024-07-01,10,225.0
+Ch-WO-00014,Ch-EQ-00014-0,torque,Chicago,Smith-Copeland,yes,Laura Owens,2025-03-14,15,224.9
+Ch-WO-00014,Ch-EQ-00014-1,thermometer,Chicago,Smith-Copeland,no,Laura Owens,2025-01-20,10,225.0
+Ch-WO-00014,Ch-EQ-00014-2,scale,Chicago,Smith-Copeland,no,Amanda Henry,2024-07-04,10,241.0
+Ch-WO-00015,Ch-EQ-00015-1,caliper,Chicago,Davis and Sons,yes,Laura Owens,2024-12-09,15,201.5
+Ch-WO-00016,Ch-EQ-00016-0,torque,Chicago,"Armstrong, Fletcher and Wilson",yes,Amanda Henry,2024-07-18,15,224.9
+Ch-WO-00016,Ch-EQ-00016-1,caliper,Chicago,"Armstrong, Fletcher and Wilson",no,Traci Larson,2024-10-09,10,155.0
+Ch-WO-00018,Ch-EQ-00018-0,thermometer,Chicago,"Combs, Gibson and Mitchell",no,Traci Larson,2024-07-08,10,225.0
+Ch-WO-00018,Ch-EQ-00018-1,torque,Chicago,"Combs, Gibson and Mitchell",yes,Traci Larson,2024-07-31,15,224.9
+Ch-WO-00018,Ch-EQ-00018-2,caliper,Chicago,"Combs, Gibson and Mitchell",no,Laura Owens,2024-04-19,10,155.0
+Ch-WO-00019,Ch-EQ-00019-0,thermometer,Chicago,"Martin, Thomas and Huerta",no,Amanda Henry,2024-08-25,10,225.0
+Ch-WO-00019,Ch-EQ-00019-1,scale,Chicago,"Martin, Thomas and Huerta",yes,Amanda Henry,2024-11-07,15,313.3
+Ch-WO-00020,Ch-EQ-00020-0,pressure_gauge,Chicago,Wells Inc,yes,Amanda Henry,2024-12-20,15,299.0
+Ch-WO-00022,Ch-EQ-00022-0,torque,Chicago,Doyle-Barnes,yes,Laura Owens,2024-10-06,15,224.9
+Ch-WO-00022,Ch-EQ-00022-2,scale,Chicago,Doyle-Barnes,no,Traci Larson,2025-02-09,10,241.0
+Ch-WO-00023,Ch-EQ-00023-0,scale,Chicago,Ball LLC,yes,Traci Larson,2024-07-12,15,313.3
+Ch-WO-00023,Ch-EQ-00023-1,torque,Chicago,Ball LLC,no,Amanda Henry,2024-05-09,10,173.0
+Ch-WO-00024,Ch-EQ-00024-0,torque,Chicago,Rodriguez-Summers,no,Amanda Henry,2024-09-27,10,173.0
+Ch-WO-00025,Ch-EQ-00025-1,torque,Chicago,Atkinson Group,yes,Laura Owens,2024-08-11,15,224.9
+Ch-WO-00025,Ch-EQ-00025-2,torque,Chicago,Atkinson Group,no,Laura Owens,2024-12-11,10,173.0
+Ch-WO-00026,Ch-EQ-00026-0,scale,Chicago,"Mitchell, Stephens and Ford",no,Traci Larson,2025-03-08,10,241.0
+Ch-WO-00028,Ch-EQ-00028-0,thermometer,Chicago,"Martin, Thomas and Huerta",yes,Laura Owens,2025-03-15,15,292.5
+Ch-WO-00028,Ch-EQ-00028-2,flow_meter,Chicago,"Martin, Thomas and Huerta",no,Traci Larson,2024-05-01,10,200.0
+Ch-WO-00029,Ch-EQ-00029-1,scale,Chicago,"Rose, Rivera and Cox",no,Amanda Henry,2024-09-20,10,241.0
+Ch-WO-00030,Ch-EQ-00030-1,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry,2025-01-11,15,292.5
+Ch-WO-00030,Ch-EQ-00030-2,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry,2024-08-28,15,292.5
+Ch-WO-00031,Ch-EQ-00031-0,torque,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens,2024-12-08,15,224.9
+Ch-WO-00031,Ch-EQ-00031-1,scale,Chicago,"Moore, Prince and Blankenship",yes,Traci Larson,2025-04-07,15,313.3
+Ch-WO-00031,Ch-EQ-00031-2,torque,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens,2025-01-12,15,224.9
+Ch-WO-00032,Ch-EQ-00032-0,thermometer,Chicago,Tucker-Nelson,no,Laura Owens,2024-12-03,10,225.0
+Ch-WO-00032,Ch-EQ-00032-1,flow_meter,Chicago,Tucker-Nelson,yes,Laura Owens,2024-05-03,15,260.0
+Ch-WO-00032,Ch-EQ-00032-2,flow_meter,Chicago,Tucker-Nelson,yes,Laura Owens,2024-09-12,15,260.0
+Ch-WO-00033,Ch-EQ-00033-0,torque,Chicago,Stephenson-Herring,yes,Laura Owens,2025-02-11,15,224.9
+Ch-WO-00033,Ch-EQ-00033-1,torque,Chicago,Stephenson-Herring,yes,Laura Owens,2024-07-15,15,224.9
+Ch-WO-00035,Ch-EQ-00035-0,thermometer,Chicago,Ibarra-Gonzales,no,Traci Larson,2024-10-15,10,225.0
+Ch-WO-00036,Ch-EQ-00036-0,scale,Chicago,Mccann-Hoffman,yes,Amanda Henry,2024-09-15,15,313.3
+Ch-WO-00036,Ch-EQ-00036-1,thermometer,Chicago,Mccann-Hoffman,no,Laura Owens,2025-01-29,10,225.0
+Ch-WO-00037,Ch-EQ-00037-0,scale,Chicago,Garcia Ltd,yes,Laura Owens,2024-11-18,15,313.3
+Ch-WO-00038,Ch-EQ-00038-0,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Traci Larson,2025-03-18,15,292.5
+Ch-WO-00039,Ch-EQ-00039-0,thermometer,Chicago,Rodriguez-Summers,no,Laura Owens,2025-03-17,10,225.0
+Ch-WO-00040,Ch-EQ-00040-0,torque,Chicago,Rodriguez Inc,yes,Amanda Henry,2024-08-16,15,224.9
+Ch-WO-00040,Ch-EQ-00040-1,flow_meter,Chicago,Rodriguez Inc,yes,Laura Owens,2025-01-23,15,260.0
+Ch-WO-00040,Ch-EQ-00040-2,torque,Chicago,Rodriguez Inc,no,Amanda Henry,2025-03-14,10,173.0
+Ch-WO-00041,Ch-EQ-00041-0,torque,Chicago,Miller-Mcguire,no,Traci Larson,2024-09-10,10,173.0
+Ch-WO-00041,Ch-EQ-00041-1,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry,2024-07-28,15,299.0
+Ch-WO-00042,Ch-EQ-00042-1,thermometer,Chicago,Romero Group,no,Laura Owens,2025-01-04,10,225.0
+Ch-WO-00043,Ch-EQ-00043-0,thermometer,Chicago,Chang-Love,yes,Amanda Henry,2024-08-26,15,292.5
+Ch-WO-00046,Ch-EQ-00046-0,pressure_gauge,Chicago,Ellis Group,yes,Amanda Henry,2024-08-09,15,299.0
+Ch-WO-00046,Ch-EQ-00046-1,caliper,Chicago,Ellis Group,yes,Laura Owens,2025-01-21,15,201.5
+Ch-WO-00047,Ch-EQ-00047-0,flow_meter,Chicago,Holland-Walsh,no,Laura Owens,2024-04-23,10,200.0
+Ch-WO-00047,Ch-EQ-00047-1,torque,Chicago,Holland-Walsh,no,Laura Owens,2024-10-15,10,173.0
+Ch-WO-00048,Ch-EQ-00048-0,thermometer,Chicago,Thomas LLC,yes,Amanda Henry,2025-02-21,15,292.5
+Ch-WO-00049,Ch-EQ-00049-0,caliper,Chicago,Morris-West,yes,Laura Owens,2024-07-10,15,201.5
+Ch-WO-00049,Ch-EQ-00049-1,thermometer,Chicago,Morris-West,no,Traci Larson,2024-05-11,10,225.0
+Ch-WO-00050,Ch-EQ-00050-0,thermometer,Chicago,Allen Ltd,yes,Traci Larson,2024-05-04,15,292.5
+Ch-WO-00051,Ch-EQ-00051-0,flow_meter,Chicago,Santiago and Sons,yes,Traci Larson,2024-04-25,15,260.0
+Ch-WO-00051,Ch-EQ-00051-1,scale,Chicago,Santiago and Sons,no,Laura Owens,2024-06-22,10,241.0
+Ch-WO-00052,Ch-EQ-00052-0,thermometer,Chicago,"Combs, Gibson and Mitchell",no,Laura Owens,2024-11-17,10,225.0
+Ch-WO-00053,Ch-EQ-00053-0,torque,Chicago,Orr LLC,no,Traci Larson,2025-03-09,10,173.0
+Ch-WO-00054,Ch-EQ-00054-0,caliper,Chicago,"Hawkins, Campos and Booth",yes,Laura Owens,2024-08-09,15,201.5
+Ch-WO-00055,Ch-EQ-00055-1,scale,Chicago,"Copeland, Torres and Morales",no,Traci Larson,2024-06-26,10,241.0
+Ch-WO-00056,Ch-EQ-00056-0,torque,Chicago,Mueller LLC,no,Laura Owens,2024-07-22,10,173.0
+Ch-WO-00056,Ch-EQ-00056-1,torque,Chicago,Mueller LLC,yes,Amanda Henry,2024-10-20,15,224.9
+Ch-WO-00058,Ch-EQ-00058-0,thermometer,Chicago,Arnold-Peters,yes,Amanda Henry,2024-04-21,15,292.5
+Ch-WO-00058,Ch-EQ-00058-1,thermometer,Chicago,Arnold-Peters,no,Amanda Henry,2024-11-25,10,225.0
+Ch-WO-00059,Ch-EQ-00059-1,torque,Chicago,"Parks, Miller and Watson",no,Amanda Henry,2024-07-12,10,173.0
+Ch-WO-00060,Ch-EQ-00060-0,thermometer,Chicago,Gonzalez Ltd,yes,Amanda Henry,2024-05-05,15,292.5
+Ch-WO-00060,Ch-EQ-00060-1,caliper,Chicago,Gonzalez Ltd,yes,Laura Owens,2025-02-02,15,201.5
+Ch-WO-00060,Ch-EQ-00060-2,caliper,Chicago,Gonzalez Ltd,yes,Traci Larson,2025-01-08,15,201.5
+Ch-WO-00061,Ch-EQ-00061-1,pressure_gauge,Chicago,Thomas LLC,no,Amanda Henry,2024-08-11,10,230.0
+Ch-WO-00062,Ch-EQ-00062-0,caliper,Chicago,"Martin, Thomas and Huerta",no,Laura Owens,2024-05-02,10,155.0
+Ch-WO-00063,Ch-EQ-00063-0,scale,Chicago,Kelley-Ramirez,no,Amanda Henry,2025-04-08,10,241.0
+Ch-WO-00064,Ch-EQ-00064-0,pressure_gauge,Chicago,Miller-Decker,no,Amanda Henry,2024-08-24,10,230.0
+Ch-WO-00064,Ch-EQ-00064-1,torque,Chicago,Miller-Decker,yes,Laura Owens,2024-10-08,15,224.9
+Ch-WO-00065,Ch-EQ-00065-0,flow_meter,Chicago,Parker-Lee,yes,Amanda Henry,2024-08-01,15,260.0
+Ch-WO-00066,Ch-EQ-00066-0,scale,Chicago,"Martin, Thomas and Huerta",no,Laura Owens,2025-04-07,10,241.0
+Ch-WO-00067,Ch-EQ-00067-0,thermometer,Chicago,Martin-Hale,no,Amanda Henry,2024-07-08,10,225.0
+Ch-WO-00067,Ch-EQ-00067-2,torque,Chicago,Martin-Hale,yes,Traci Larson,2025-02-11,15,224.9
+Ch-WO-00068,Ch-EQ-00068-0,scale,Chicago,Hicks PLC,no,Laura Owens,2024-08-12,10,241.0
+Ch-WO-00068,Ch-EQ-00068-1,scale,Chicago,Hicks PLC,no,Amanda Henry,2025-03-24,10,241.0
+Ch-WO-00069,Ch-EQ-00069-0,torque,Chicago,Morales-Banks,yes,Traci Larson,2024-10-24,15,224.9
+Ch-WO-00069,Ch-EQ-00069-1,thermometer,Chicago,Morales-Banks,no,Amanda Henry,2024-09-11,10,225.0
+Ch-WO-00070,Ch-EQ-00070-0,caliper,Chicago,Riddle-Faulkner,no,Traci Larson,2024-11-29,10,155.0
+Ch-WO-00070,Ch-EQ-00070-1,caliper,Chicago,Riddle-Faulkner,yes,Traci Larson,2024-09-05,15,201.5
+Ch-WO-00071,Ch-EQ-00071-0,scale,Chicago,Morales-Banks,no,Amanda Henry,2024-07-29,10,241.0
+Ch-WO-00073,Ch-EQ-00073-0,torque,Chicago,Smith-Anthony,no,Laura Owens,2024-05-21,10,173.0
+Ch-WO-00073,Ch-EQ-00073-1,thermometer,Chicago,Smith-Anthony,yes,Amanda Henry,2024-06-18,15,292.5
+Ch-WO-00073,Ch-EQ-00073-2,pressure_gauge,Chicago,Smith-Anthony,yes,Amanda Henry,2025-02-02,15,299.0
+Ch-WO-00074,Ch-EQ-00074-0,flow_meter,Chicago,Barnett-Mueller,yes,Amanda Henry,2024-08-03,15,260.0
+Ch-WO-00074,Ch-EQ-00074-1,scale,Chicago,Barnett-Mueller,no,Laura Owens,2024-09-27,10,241.0
+Ch-WO-00075,Ch-EQ-00075-0,caliper,Chicago,Serrano Inc,no,Traci Larson,2024-12-28,10,155.0
+Ch-WO-00075,Ch-EQ-00075-1,caliper,Chicago,Serrano Inc,no,Laura Owens,2024-07-10,10,155.0
+Ch-WO-00075,Ch-EQ-00075-2,thermometer,Chicago,Serrano Inc,yes,Traci Larson,2024-07-04,15,292.5
+Ch-WO-00076,Ch-EQ-00076-0,torque,Chicago,Davis and Sons,yes,Laura Owens,2024-04-24,15,224.9
+Ch-WO-00076,Ch-EQ-00076-2,flow_meter,Chicago,Davis and Sons,no,Amanda Henry,2024-09-17,10,200.0
+Ch-WO-00077,Ch-EQ-00077-0,scale,Chicago,"Rose, Rivera and Cox",no,Traci Larson,2024-12-10,10,241.0
+Ch-WO-00078,Ch-EQ-00078-0,torque,Chicago,"Mitchell, Stephens and Ford",no,Amanda Henry,2024-05-30,10,173.0
+Ch-WO-00080,Ch-EQ-00080-0,scale,Chicago,Mcdowell-Brooks,no,Amanda Henry,2024-12-09,10,241.0
+Ch-WO-00080,Ch-EQ-00080-1,scale,Chicago,Mcdowell-Brooks,no,Traci Larson,2024-11-24,10,241.0
+Ch-WO-00081,Ch-EQ-00081-0,scale,Chicago,"Armstrong, Fletcher and Wilson",yes,Amanda Henry,2024-07-23,15,313.3
+Ch-WO-00082,Ch-EQ-00082-0,flow_meter,Chicago,Hamilton Group,no,Laura Owens,2024-04-27,10,200.0
+Ch-WO-00083,Ch-EQ-00083-1,flow_meter,Chicago,Thomas LLC,yes,Amanda Henry,2024-11-10,15,260.0
+Ch-WO-00083,Ch-EQ-00083-2,caliper,Chicago,Thomas LLC,no,Laura Owens,2024-05-25,10,155.0
+Ch-WO-00084,Ch-EQ-00084-2,scale,Chicago,"Alexander, Green and Mcbride",no,Laura Owens,2024-05-28,10,241.0
+Ch-WO-00085,Ch-EQ-00085-0,thermometer,Chicago,Spencer-Williams,no,Traci Larson,2024-11-20,10,225.0
+Ch-WO-00086,Ch-EQ-00086-1,torque,Chicago,"Combs, Gibson and Mitchell",no,Traci Larson,2024-06-08,10,173.0
+Ch-WO-00087,Ch-EQ-00087-0,thermometer,Chicago,"Martin, Thomas and Huerta",yes,Traci Larson,2025-04-07,15,292.5
+Ch-WO-00087,Ch-EQ-00087-2,torque,Chicago,"Martin, Thomas and Huerta",yes,Laura Owens,2024-06-03,15,224.9
+Ch-WO-00088,Ch-EQ-00088-0,flow_meter,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry,2024-05-18,15,260.0
+Ch-WO-00088,Ch-EQ-00088-1,flow_meter,Chicago,"Dillon, Morton and Wood",no,Amanda Henry,2024-09-13,10,200.0
+Ch-WO-00089,Ch-EQ-00089-0,scale,Chicago,Moreno-Friedman,no,Traci Larson,2024-05-16,10,241.0
+Ch-WO-00090,Ch-EQ-00090-0,caliper,Chicago,"White, Grant and Flores",no,Traci Larson,2024-05-25,10,155.0
+Ch-WO-00090,Ch-EQ-00090-1,thermometer,Chicago,"White, Grant and Flores",no,Amanda Henry,2024-08-21,10,225.0
+Ch-WO-00091,Ch-EQ-00091-0,flow_meter,Chicago,"Ramirez, Marsh and Alvarez",yes,Laura Owens,2024-08-05,15,260.0
+Ch-WO-00092,Ch-EQ-00092-0,thermometer,Chicago,Ross Inc,no,Traci Larson,2024-11-08,10,225.0
+Ch-WO-00092,Ch-EQ-00092-1,flow_meter,Chicago,Ross Inc,no,Traci Larson,2024-09-28,10,200.0
+Ch-WO-00094,Ch-EQ-00094-2,flow_meter,Chicago,Moreno-Friedman,no,Laura Owens,2024-12-05,10,200.0
+Ch-WO-00095,Ch-EQ-00095-1,thermometer,Chicago,Barrett-Figueroa,yes,Laura Owens,2024-06-14,15,292.5
+Ch-WO-00096,Ch-EQ-00096-0,flow_meter,Chicago,"White, Grant and Flores",yes,Traci Larson,2024-07-26,15,260.0
+Ch-WO-00096,Ch-EQ-00096-1,scale,Chicago,"White, Grant and Flores",no,Traci Larson,2024-09-04,10,241.0
+Ch-WO-00097,Ch-EQ-00097-0,scale,Chicago,Santiago and Sons,no,Amanda Henry,2024-12-30,10,241.0
+Ch-WO-00097,Ch-EQ-00097-1,flow_meter,Chicago,Santiago and Sons,no,Amanda Henry,2025-01-12,10,200.0
+Ch-WO-00098,Ch-EQ-00098-0,torque,Chicago,Mueller LLC,yes,Traci Larson,2024-12-04,15,224.9
+Ch-WO-00098,Ch-EQ-00098-1,thermometer,Chicago,Mueller LLC,yes,Laura Owens,2025-02-17,15,292.5
+Ch-WO-00098,Ch-EQ-00098-2,caliper,Chicago,Mueller LLC,yes,Laura Owens,2024-12-27,15,201.5
+Ch-WO-00099,Ch-EQ-00099-0,scale,Chicago,"Copeland, Torres and Morales",yes,Traci Larson,2024-11-03,15,313.3
+Ch-WO-00100,Ch-EQ-00100-0,flow_meter,Chicago,Harris-Matthews,no,Laura Owens,2024-10-10,10,200.0
+Ch-WO-00101,Ch-EQ-00101-0,scale,Chicago,Ellis Group,yes,Laura Owens,2024-10-03,15,313.3
+Ch-WO-00101,Ch-EQ-00101-1,caliper,Chicago,Ellis Group,no,Laura Owens,2024-11-17,10,155.0
+Ch-WO-00101,Ch-EQ-00101-2,thermometer,Chicago,Ellis Group,no,Traci Larson,2025-02-14,10,225.0
+Ch-WO-00102,Ch-EQ-00102-1,flow_meter,Chicago,Parker and Sons,yes,Laura Owens,2024-12-05,15,260.0
+Ch-WO-00103,Ch-EQ-00103-0,torque,Chicago,Mcdowell-Brooks,no,Laura Owens,2024-05-24,10,173.0
+Ch-WO-00103,Ch-EQ-00103-1,caliper,Chicago,Mcdowell-Brooks,yes,Laura Owens,2024-12-20,15,201.5
+Ch-WO-00103,Ch-EQ-00103-2,torque,Chicago,Mcdowell-Brooks,yes,Amanda Henry,2024-07-18,15,224.9
+Ch-WO-00104,Ch-EQ-00104-0,caliper,Chicago,Miller-Mcguire,no,Laura Owens,2024-12-15,10,155.0
+Ch-WO-00105,Ch-EQ-00105-0,flow_meter,Chicago,"Rose, Rivera and Cox",no,Traci Larson,2024-04-09,10,200.0
+Ch-WO-00105,Ch-EQ-00105-2,torque,Chicago,"Rose, Rivera and Cox",no,Amanda Henry,2024-12-26,10,173.0
+Ch-WO-00106,Ch-EQ-00106-1,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry,2024-04-21,15,260.0
+Ch-WO-00107,Ch-EQ-00107-0,scale,Chicago,Willis Inc,no,Amanda Henry,2024-12-18,10,241.0
+Ch-WO-00108,Ch-EQ-00108-0,scale,Chicago,Garner-Rose,no,Laura Owens,2025-03-24,10,241.0
+Ch-WO-00109,Ch-EQ-00109-0,pressure_gauge,Chicago,Mccann-Hoffman,yes,Amanda Henry,2025-01-04,15,299.0
+Ch-WO-00109,Ch-EQ-00109-1,caliper,Chicago,Mccann-Hoffman,no,Traci Larson,2024-06-22,10,155.0
+Ch-WO-00110,Ch-EQ-00110-0,thermometer,Chicago,Clark-Greer,yes,Traci Larson,2025-03-02,15,292.5
+Ch-WO-00110,Ch-EQ-00110-1,thermometer,Chicago,Clark-Greer,no,Amanda Henry,2024-07-06,10,225.0
+Ch-WO-00111,Ch-EQ-00111-0,thermometer,Chicago,Rodriguez-Summers,no,Traci Larson,2024-05-16,10,225.0
+Ch-WO-00111,Ch-EQ-00111-1,caliper,Chicago,Rodriguez-Summers,yes,Traci Larson,2025-04-08,15,201.5
+Ch-WO-00112,Ch-EQ-00112-0,flow_meter,Chicago,Rodriguez Inc,yes,Laura Owens,2024-10-31,15,260.0
+Ch-WO-00112,Ch-EQ-00112-1,caliper,Chicago,Rodriguez Inc,no,Traci Larson,2024-10-02,10,155.0
+Ch-WO-00113,Ch-EQ-00113-0,flow_meter,Chicago,Hamilton Group,yes,Laura Owens,2024-05-22,15,260.0
+Ch-WO-00113,Ch-EQ-00113-1,torque,Chicago,Hamilton Group,no,Laura Owens,2024-10-27,10,173.0
+Ch-WO-00113,Ch-EQ-00113-2,torque,Chicago,Hamilton Group,yes,Traci Larson,2025-02-26,15,224.9
+Ch-WO-00114,Ch-EQ-00114-0,torque,Chicago,Baker PLC,no,Amanda Henry,2024-12-30,10,173.0
+Ch-WO-00114,Ch-EQ-00114-1,torque,Chicago,Baker PLC,no,Traci Larson,2025-03-20,10,173.0
+Ch-WO-00115,Ch-EQ-00115-0,thermometer,Chicago,Hammond-Guerrero,no,Traci Larson,2024-10-21,10,225.0
+Ch-WO-00115,Ch-EQ-00115-1,scale,Chicago,Hammond-Guerrero,no,Amanda Henry,2024-04-20,10,241.0
+Ch-WO-00115,Ch-EQ-00115-2,torque,Chicago,Hammond-Guerrero,no,Amanda Henry,2025-01-19,10,173.0
+Ch-WO-00116,Ch-EQ-00116-0,flow_meter,Chicago,Rodriguez Group,yes,Laura Owens,2024-12-17,15,260.0
+Ch-WO-00117,Ch-EQ-00117-0,thermometer,Chicago,"Thompson, Anderson and Hopkins",no,Laura Owens,2024-05-18,10,225.0
+Ch-WO-00117,Ch-EQ-00117-1,torque,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry,2024-10-17,15,224.9
+Ch-WO-00118,Ch-EQ-00118-0,flow_meter,Chicago,Barnett-Mueller,yes,Amanda Henry,2024-12-11,15,260.0
+Ch-WO-00118,Ch-EQ-00118-1,flow_meter,Chicago,Barnett-Mueller,yes,Laura Owens,2024-04-09,15,260.0
+Ch-WO-00119,Ch-EQ-00119-0,caliper,Chicago,Ibarra-Gonzales,yes,Traci Larson,2024-10-13,15,201.5
+Ch-WO-00119,Ch-EQ-00119-1,scale,Chicago,Ibarra-Gonzales,yes,Amanda Henry,2024-09-24,15,313.3
+Ch-WO-00120,Ch-EQ-00120-0,thermometer,Chicago,Morris-West,no,Traci Larson,2024-10-01,10,225.0
+Ch-WO-00120,Ch-EQ-00120-1,scale,Chicago,Morris-West,yes,Traci Larson,2024-12-23,15,313.3
+Ch-WO-00121,Ch-EQ-00121-0,caliper,Chicago,Gonzalez Ltd,yes,Traci Larson,2024-06-12,15,201.5
+Ch-WO-00122,Ch-EQ-00122-0,caliper,Chicago,Grant and Sons,yes,Traci Larson,2024-04-24,15,201.5
+Ch-WO-00122,Ch-EQ-00122-1,flow_meter,Chicago,Grant and Sons,yes,Traci Larson,2025-02-17,15,260.0
+Ch-WO-00123,Ch-EQ-00123-0,caliper,Chicago,"Rose, Rivera and Cox",no,Traci Larson,2025-03-12,10,155.0
+Ch-WO-00123,Ch-EQ-00123-1,caliper,Chicago,"Rose, Rivera and Cox",yes,Laura Owens,2025-04-07,15,201.5
+Ch-WO-00124,Ch-EQ-00124-0,thermometer,Chicago,Barnett-Mueller,yes,Traci Larson,2024-05-24,15,292.5
+Ch-WO-00125,Ch-EQ-00125-0,scale,Chicago,Huynh Group,no,Traci Larson,2024-04-24,10,241.0
+Ch-WO-00126,Ch-EQ-00126-0,torque,Chicago,"Castro, Austin and Sparks",yes,Amanda Henry,2024-07-01,15,224.9
+Ch-WO-00126,Ch-EQ-00126-2,torque,Chicago,"Castro, Austin and Sparks",no,Amanda Henry,2024-08-22,10,173.0
+Ch-WO-00127,Ch-EQ-00127-0,scale,Chicago,Walker-Morales,no,Traci Larson,2024-05-24,10,241.0
+Ch-WO-00127,Ch-EQ-00127-1,flow_meter,Chicago,Walker-Morales,no,Amanda Henry,2025-01-29,10,200.0
+Ch-WO-00128,Ch-EQ-00128-0,flow_meter,Chicago,Wells Inc,yes,Laura Owens,2024-09-14,15,260.0
+Ch-WO-00128,Ch-EQ-00128-1,caliper,Chicago,Wells Inc,yes,Traci Larson,2025-02-13,15,201.5
+Ch-WO-00128,Ch-EQ-00128-2,flow_meter,Chicago,Wells Inc,yes,Laura Owens,2024-05-01,15,260.0
+Ch-WO-00129,Ch-EQ-00129-1,flow_meter,Chicago,Willis Inc,yes,Amanda Henry,2024-08-28,15,260.0
+Ch-WO-00130,Ch-EQ-00130-0,scale,Chicago,Walker-Morales,yes,Laura Owens,2024-10-15,15,313.3
+Ch-WO-00130,Ch-EQ-00130-1,caliper,Chicago,Walker-Morales,yes,Traci Larson,2024-08-09,15,201.5
+Ch-WO-00131,Ch-EQ-00131-2,thermometer,Chicago,Reed-Moody,yes,Laura Owens,2024-10-21,15,292.5
+Ch-WO-00132,Ch-EQ-00132-0,flow_meter,Chicago,"Moore, Prince and Blankenship",no,Amanda Henry,2024-06-02,10,200.0
+Ch-WO-00132,Ch-EQ-00132-1,thermometer,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry,2024-04-25,15,292.5
+Ch-WO-00133,Ch-EQ-00133-0,torque,Chicago,Hardin-Mcdonald,no,Laura Owens,2025-01-22,10,173.0
+Ch-WO-00133,Ch-EQ-00133-2,caliper,Chicago,Hardin-Mcdonald,no,Traci Larson,2024-05-28,10,155.0
+Ch-WO-00134,Ch-EQ-00134-0,caliper,Chicago,"Hawkins, Campos and Booth",no,Laura Owens,2024-05-30,10,155.0
+Ch-WO-00134,Ch-EQ-00134-1,scale,Chicago,"Hawkins, Campos and Booth",no,Amanda Henry,2025-02-16,10,241.0
+Ch-WO-00135,Ch-EQ-00135-1,scale,Chicago,Arnold-Peters,no,Amanda Henry,2024-06-15,10,241.0
+Ch-WO-00136,Ch-EQ-00136-0,scale,Chicago,Smith-Copeland,no,Amanda Henry,2024-09-23,10,241.0
+Ch-WO-00136,Ch-EQ-00136-1,caliper,Chicago,Smith-Copeland,no,Traci Larson,2024-07-17,10,155.0
+Ch-WO-00136,Ch-EQ-00136-2,flow_meter,Chicago,Smith-Copeland,no,Traci Larson,2025-01-08,10,200.0
+Ch-WO-00137,Ch-EQ-00137-0,torque,Chicago,Parker and Sons,no,Laura Owens,2024-09-23,10,173.0
+Ch-WO-00137,Ch-EQ-00137-1,torque,Chicago,Parker and Sons,yes,Laura Owens,2025-02-12,15,224.9
+Ch-WO-00138,Ch-EQ-00138-1,scale,Chicago,Cole-Cervantes,no,Laura Owens,2024-11-05,10,241.0
+Ch-WO-00139,Ch-EQ-00139-0,torque,Chicago,"Dillon, Morton and Wood",yes,Laura Owens,2024-04-17,15,224.9
+Ch-WO-00139,Ch-EQ-00139-1,thermometer,Chicago,"Dillon, Morton and Wood",no,Amanda Henry,2024-10-10,10,225.0
+Ch-WO-00139,Ch-EQ-00139-2,flow_meter,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry,2024-04-25,15,260.0
+Ch-WO-00140,Ch-EQ-00140-0,thermometer,Chicago,Collins and Sons,yes,Traci Larson,2025-02-16,15,292.5
+Ch-WO-00140,Ch-EQ-00140-1,pressure_gauge,Chicago,Collins and Sons,no,Amanda Henry,2024-07-26,10,230.0
+Ch-WO-00141,Ch-EQ-00141-0,thermometer,Chicago,Miller-Mcguire,yes,Laura Owens,2025-03-09,15,292.5
+Ch-WO-00142,Ch-EQ-00142-0,torque,Chicago,Baker PLC,no,Laura Owens,2024-09-22,10,173.0
+Ch-WO-00142,Ch-EQ-00142-1,torque,Chicago,Baker PLC,no,Traci Larson,2025-03-03,10,173.0
+Ch-WO-00142,Ch-EQ-00142-2,flow_meter,Chicago,Baker PLC,yes,Traci Larson,2024-04-18,15,260.0
+Ch-WO-00143,Ch-EQ-00143-1,thermometer,Chicago,Rodriguez Inc,no,Amanda Henry,2025-01-01,10,225.0
+Ch-WO-00143,Ch-EQ-00143-2,scale,Chicago,Rodriguez Inc,no,Amanda Henry,2024-05-09,10,241.0
+Ch-WO-00144,Ch-EQ-00144-0,caliper,Chicago,Parker and Sons,yes,Traci Larson,2025-02-20,15,201.5
+Ch-WO-00144,Ch-EQ-00144-1,flow_meter,Chicago,Parker and Sons,yes,Traci Larson,2024-09-02,15,260.0
+Ch-WO-00145,Ch-EQ-00145-0,caliper,Chicago,Parker-Reeves,yes,Laura Owens,2024-10-18,15,201.5
+Ch-WO-00147,Ch-EQ-00147-0,pressure_gauge,Chicago,Moreno-Friedman,no,Amanda Henry,2024-08-11,10,230.0
+Ch-WO-00147,Ch-EQ-00147-1,scale,Chicago,Moreno-Friedman,yes,Amanda Henry,2024-06-30,15,313.3
+Ch-WO-00148,Ch-EQ-00148-0,scale,Chicago,Walker-Morales,no,Traci Larson,2025-03-19,10,241.0
+Ch-WO-00149,Ch-EQ-00149-0,torque,Chicago,"Copeland, Torres and Morales",no,Traci Larson,2025-02-16,10,173.0
+Ch-WO-00149,Ch-EQ-00149-1,flow_meter,Chicago,"Copeland, Torres and Morales",yes,Traci Larson,2025-03-19,15,260.0
+Ch-WO-00149,Ch-EQ-00149-2,caliper,Chicago,"Copeland, Torres and Morales",no,Traci Larson,2025-03-02,10,155.0
+Ch-WO-00151,Ch-EQ-00151-0,thermometer,Chicago,Walker-Morales,no,Amanda Henry,2024-04-13,10,225.0
+Ch-WO-00152,Ch-EQ-00152-0,torque,Chicago,Morales-Banks,yes,Traci Larson,2025-01-29,15,224.9
+Ch-WO-00153,Ch-EQ-00153-0,torque,Chicago,Woods Inc,no,Traci Larson,2024-12-13,10,173.0
+Ch-WO-00154,Ch-EQ-00154-0,flow_meter,Chicago,Fletcher-Boone,no,Traci Larson,2025-03-15,10,200.0
+Ch-WO-00155,Ch-EQ-00155-0,scale,Chicago,"Thompson, Anderson and Hopkins",no,Traci Larson,2024-07-31,10,241.0
+Ch-WO-00155,Ch-EQ-00155-2,thermometer,Chicago,"Thompson, Anderson and Hopkins",no,Traci Larson,2024-10-11,10,225.0
+Ch-WO-00156,Ch-EQ-00156-0,caliper,Chicago,Barrett-Figueroa,no,Laura Owens,2024-11-13,10,155.0
+Ch-WO-00157,Ch-EQ-00157-0,flow_meter,Chicago,"Parks, Miller and Watson",yes,Traci Larson,2024-11-21,15,260.0
+Ch-WO-00158,Ch-EQ-00158-1,flow_meter,Chicago,"Bell, Haney and Roberson",yes,Laura Owens,2024-04-24,15,260.0
+Ch-WO-00158,Ch-EQ-00158-2,thermometer,Chicago,"Bell, Haney and Roberson",no,Amanda Henry,2024-04-27,10,225.0
+Ch-WO-00159,Ch-EQ-00159-0,caliper,Chicago,"Hawkins, Campos and Booth",no,Laura Owens,2024-12-19,10,155.0
+Ch-WO-00160,Ch-EQ-00160-0,caliper,Chicago,Smith-Anthony,yes,Traci Larson,2024-06-20,15,201.5
+Ch-WO-00161,Ch-EQ-00161-0,torque,Chicago,Jensen-Bell,yes,Laura Owens,2024-12-05,15,224.9
+Ch-WO-00161,Ch-EQ-00161-1,torque,Chicago,Jensen-Bell,no,Laura Owens,2025-03-07,10,173.0
+Ch-WO-00162,Ch-EQ-00162-0,torque,Chicago,Hammond-Guerrero,no,Amanda Henry,2025-04-08,10,173.0
+Ch-WO-00162,Ch-EQ-00162-1,flow_meter,Chicago,Hammond-Guerrero,no,Laura Owens,2024-07-02,10,200.0
+Ch-WO-00163,Ch-EQ-00163-0,torque,Chicago,Jensen-Bell,no,Amanda Henry,2024-12-14,10,173.0
+Ch-WO-00163,Ch-EQ-00163-1,flow_meter,Chicago,Jensen-Bell,no,Traci Larson,2024-05-14,10,200.0
+Ch-WO-00164,Ch-EQ-00164-0,caliper,Chicago,"Cole, Velasquez and Johnson",no,Laura Owens,2025-02-28,10,155.0
+Ch-WO-00164,Ch-EQ-00164-1,caliper,Chicago,"Cole, Velasquez and Johnson",no,Traci Larson,2024-09-16,10,155.0
+Ch-WO-00165,Ch-EQ-00165-0,scale,Chicago,Carter Group,no,Traci Larson,2024-12-09,10,241.0
+Ch-WO-00165,Ch-EQ-00165-2,caliper,Chicago,Carter Group,yes,Traci Larson,2025-04-08,15,201.5
+Ch-WO-00166,Ch-EQ-00166-0,torque,Chicago,Ball LLC,yes,Traci Larson,2024-11-23,15,224.9
+Ch-WO-00166,Ch-EQ-00166-1,scale,Chicago,Ball LLC,no,Traci Larson,2024-05-16,10,241.0
+Ch-WO-00167,Ch-EQ-00167-0,scale,Chicago,"Parks, Miller and Watson",yes,Traci Larson,2024-08-15,15,313.3
+Ch-WO-00167,Ch-EQ-00167-1,caliper,Chicago,"Parks, Miller and Watson",yes,Traci Larson,2024-12-27,15,201.5
+Ch-WO-00168,Ch-EQ-00168-0,torque,Chicago,"Martin, Thomas and Huerta",no,Traci Larson,2025-03-12,10,173.0
+Ch-WO-00169,Ch-EQ-00169-0,torque,Chicago,Parker-Lee,no,Traci Larson,2024-10-19,10,173.0
+Ch-WO-00169,Ch-EQ-00169-2,torque,Chicago,Parker-Lee,yes,Laura Owens,2024-12-20,15,224.9
+Ch-WO-00170,Ch-EQ-00170-0,flow_meter,Chicago,Cole-Cervantes,yes,Laura Owens,2024-12-13,15,260.0
+Ch-WO-00170,Ch-EQ-00170-1,caliper,Chicago,Cole-Cervantes,yes,Laura Owens,2025-04-03,15,201.5
+Ch-WO-00171,Ch-EQ-00171-0,thermometer,Chicago,"Alexander, Green and Mcbride",yes,Laura Owens,2024-05-06,15,292.5
+Ch-WO-00171,Ch-EQ-00171-1,thermometer,Chicago,"Alexander, Green and Mcbride",yes,Amanda Henry,2024-12-23,15,292.5
+Ch-WO-00172,Ch-EQ-00172-0,torque,Chicago,Barnett-Mueller,no,Laura Owens,2025-02-07,10,173.0
+Ch-WO-00174,Ch-EQ-00174-0,scale,Chicago,"Jensen, Evans and Fowler",no,Laura Owens,2025-02-18,10,241.0
+Ch-WO-00174,Ch-EQ-00174-1,thermometer,Chicago,"Jensen, Evans and Fowler",no,Amanda Henry,2024-10-31,10,225.0
+Ch-WO-00174,Ch-EQ-00174-2,scale,Chicago,"Jensen, Evans and Fowler",no,Amanda Henry,2024-06-03,10,241.0
+Ch-WO-00175,Ch-EQ-00175-0,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens,2025-01-28,15,260.0
+Ch-WO-00175,Ch-EQ-00175-1,thermometer,Chicago,"Moore, Prince and Blankenship",yes,Traci Larson,2024-10-20,15,292.5
+Ch-WO-00175,Ch-EQ-00175-2,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry,2024-11-26,15,260.0
+Ch-WO-00176,Ch-EQ-00176-0,pressure_gauge,Chicago,Mccann-Hoffman,no,Amanda Henry,2024-12-31,10,230.0
+Ch-WO-00176,Ch-EQ-00176-1,torque,Chicago,Mccann-Hoffman,no,Amanda Henry,2025-02-20,10,173.0
+Ch-WO-00177,Ch-EQ-00177-0,thermometer,Chicago,Holland-Walsh,yes,Laura Owens,2024-04-12,15,292.5
+Ch-WO-00177,Ch-EQ-00177-1,pressure_gauge,Chicago,Holland-Walsh,yes,Amanda Henry,2025-03-29,15,299.0
+Ch-WO-00177,Ch-EQ-00177-2,scale,Chicago,Holland-Walsh,no,Laura Owens,2024-05-07,10,241.0
+Ch-WO-00178,Ch-EQ-00178-0,thermometer,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry,2024-07-11,15,292.5
+Ch-WO-00178,Ch-EQ-00178-1,thermometer,Chicago,"Dillon, Morton and Wood",no,Amanda Henry,2024-12-28,10,225.0
+Ch-WO-00178,Ch-EQ-00178-2,caliper,Chicago,"Dillon, Morton and Wood",no,Laura Owens,2024-10-19,10,155.0
+Ch-WO-00179,Ch-EQ-00179-1,caliper,Chicago,Garcia Ltd,yes,Traci Larson,2024-10-22,15,201.5
+Ch-WO-00180,Ch-EQ-00180-0,scale,Chicago,Mccann-Hoffman,no,Amanda Henry,2025-04-06,10,241.0
+Ch-WO-00180,Ch-EQ-00180-1,scale,Chicago,Mccann-Hoffman,yes,Amanda Henry,2024-12-07,15,313.3
+Ch-WO-00181,Ch-EQ-00181-0,torque,Chicago,Garcia Ltd,no,Traci Larson,2024-04-15,10,173.0
+Ch-WO-00182,Ch-EQ-00182-0,torque,Chicago,Ross Inc,no,Traci Larson,2024-07-02,10,173.0
+Ch-WO-00182,Ch-EQ-00182-1,scale,Chicago,Ross Inc,no,Amanda Henry,2024-12-22,10,241.0
+Ch-WO-00183,Ch-EQ-00183-0,scale,Chicago,Fletcher-Boone,no,Traci Larson,2024-09-30,10,241.0
+Ch-WO-00183,Ch-EQ-00183-1,scale,Chicago,Fletcher-Boone,no,Amanda Henry,2024-05-02,10,241.0
+Ch-WO-00183,Ch-EQ-00183-2,caliper,Chicago,Fletcher-Boone,no,Laura Owens,2025-01-13,10,155.0
+Ch-WO-00184,Ch-EQ-00184-0,scale,Chicago,Hamilton Group,yes,Traci Larson,2024-09-20,15,313.3
+Ch-WO-00184,Ch-EQ-00184-1,caliper,Chicago,Hamilton Group,yes,Laura Owens,2025-03-10,15,201.5
+Ch-WO-00185,Ch-EQ-00185-0,scale,Chicago,Holland-Walsh,no,Laura Owens,2024-12-30,10,241.0
+Ch-WO-00186,Ch-EQ-00186-0,caliper,Chicago,"Castro, Austin and Sparks",no,Laura Owens,2025-01-30,10,155.0
+Ch-WO-00186,Ch-EQ-00186-1,torque,Chicago,"Castro, Austin and Sparks",no,Laura Owens,2025-02-09,10,173.0
+Ch-WO-00186,Ch-EQ-00186-2,scale,Chicago,"Castro, Austin and Sparks",yes,Laura Owens,2024-11-24,15,313.3
+Ch-WO-00187,Ch-EQ-00187-0,torque,Chicago,Martin-Hale,yes,Traci Larson,2024-08-20,15,224.9
+Ch-WO-00187,Ch-EQ-00187-1,scale,Chicago,Martin-Hale,no,Laura Owens,2024-10-01,10,241.0
+Ch-WO-00188,Ch-EQ-00188-0,caliper,Chicago,James-Nichols,yes,Traci Larson,2024-07-31,15,201.5
+Ch-WO-00188,Ch-EQ-00188-1,flow_meter,Chicago,James-Nichols,no,Amanda Henry,2024-08-01,10,200.0
+Ch-WO-00188,Ch-EQ-00188-2,thermometer,Chicago,James-Nichols,yes,Laura Owens,2024-12-08,15,292.5
+Ch-WO-00189,Ch-EQ-00189-0,torque,Chicago,"Ramirez, Marsh and Alvarez",yes,Amanda Henry,2024-08-07,15,224.9
+Ch-WO-00189,Ch-EQ-00189-2,thermometer,Chicago,"Ramirez, Marsh and Alvarez",yes,Traci Larson,2024-06-14,15,292.5
+Ch-WO-00190,Ch-EQ-00190-0,caliper,Chicago,"Ramirez, Marsh and Alvarez",no,Traci Larson,2024-10-26,10,155.0
+Ch-WO-00190,Ch-EQ-00190-1,torque,Chicago,"Ramirez, Marsh and Alvarez",no,Traci Larson,2024-04-18,10,173.0
+Ch-WO-00191,Ch-EQ-00191-0,caliper,Chicago,Ellis Group,yes,Laura Owens,2024-12-09,15,201.5
+Ch-WO-00191,Ch-EQ-00191-1,thermometer,Chicago,Ellis Group,yes,Laura Owens,2024-07-05,15,292.5
+Ch-WO-00191,Ch-EQ-00191-2,pressure_gauge,Chicago,Ellis Group,yes,Amanda Henry,2025-03-27,15,299.0
+Ch-WO-00192,Ch-EQ-00192-0,flow_meter,Chicago,Ross Inc,yes,Laura Owens,2024-10-03,15,260.0
+Ch-WO-00192,Ch-EQ-00192-2,scale,Chicago,Ross Inc,no,Traci Larson,2024-08-06,10,241.0
+Ch-WO-00193,Ch-EQ-00193-0,pressure_gauge,Chicago,Smith-Fernandez,yes,Amanda Henry,2024-07-15,15,299.0
+Ch-WO-00193,Ch-EQ-00193-1,scale,Chicago,Smith-Fernandez,no,Traci Larson,2025-03-27,10,241.0
+Ch-WO-00193,Ch-EQ-00193-2,flow_meter,Chicago,Smith-Fernandez,no,Traci Larson,2025-02-01,10,200.0
+Ch-WO-00194,Ch-EQ-00194-0,thermometer,Chicago,Clark-Greer,yes,Amanda Henry,2024-11-22,15,292.5
+Ch-WO-00195,Ch-EQ-00195-0,flow_meter,Chicago,Rodriguez Group,yes,Traci Larson,2025-03-23,15,260.0
+Ch-WO-00195,Ch-EQ-00195-1,thermometer,Chicago,Rodriguez Group,yes,Amanda Henry,2024-07-16,15,292.5
+Ch-WO-00196,Ch-EQ-00196-0,torque,Chicago,Fletcher-Boone,yes,Amanda Henry,2024-08-12,15,224.9
+Ch-WO-00196,Ch-EQ-00196-1,scale,Chicago,Fletcher-Boone,yes,Laura Owens,2024-08-22,15,313.3
+Ch-WO-00197,Ch-EQ-00197-0,scale,Chicago,Mcdowell-Brooks,no,Laura Owens,2024-12-21,10,241.0
+Ch-WO-00197,Ch-EQ-00197-1,thermometer,Chicago,Mcdowell-Brooks,yes,Traci Larson,2025-03-23,15,292.5
+Ch-WO-00197,Ch-EQ-00197-2,flow_meter,Chicago,Mcdowell-Brooks,no,Traci Larson,2024-12-10,10,200.0
+Ch-WO-00198,Ch-EQ-00198-1,torque,Chicago,Reed-Moody,no,Amanda Henry,2024-11-29,10,173.0
+Ch-WO-00198,Ch-EQ-00198-2,pressure_gauge,Chicago,Reed-Moody,yes,Amanda Henry,2024-05-05,15,299.0
+Ch-WO-00199,Ch-EQ-00199-0,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry,2024-11-28,15,299.0
+Ch-WO-00199,Ch-EQ-00199-2,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry,2025-02-27,15,299.0
+Ho-WO-00000,Ho-EQ-00000-0,flow_meter,Houston,Rodriguez-Summers,yes,Jeffrey Pham,2024-09-28,15,244.4
+Ho-WO-00001,Ho-EQ-00001-0,flow_meter,Houston,Ross Inc,yes,Katelyn Hodges,2025-02-05,15,244.4
+Ho-WO-00001,Ho-EQ-00001-1,scale,Houston,Ross Inc,no,Katelyn Hodges,2024-12-24,10,116.0
+Ho-WO-00002,Ho-EQ-00002-0,torque,Houston,"Humphrey, Mullins and Moore",no,Katrina Bartlett,2024-12-17,10,131.0
+Ho-WO-00002,Ho-EQ-00002-1,thermometer,Houston,"Humphrey, Mullins and Moore",no,Katelyn Hodges,2024-07-20,10,113.0
+Ho-WO-00005,Ho-EQ-00005-1,caliper,Houston,Reed-Moody,no,Katrina Bartlett,2024-09-20,10,134.0
+Ho-WO-00006,Ho-EQ-00006-1,scale,Houston,Miller-Decker,no,Katelyn Hodges,2024-07-27,10,116.0
+Ho-WO-00007,Ho-EQ-00007-0,caliper,Houston,Mann PLC,no,Jeffrey Pham,2024-12-24,10,134.0
+Ho-WO-00008,Ho-EQ-00008-0,torque,Houston,Arnold-Peters,yes,Jeffrey Pham,2024-09-08,15,170.3
+Ho-WO-00008,Ho-EQ-00008-1,thermometer,Houston,Arnold-Peters,yes,Katelyn Hodges,2024-11-20,15,146.9
+Ho-WO-00008,Ho-EQ-00008-2,caliper,Houston,Arnold-Peters,no,Katelyn Hodges,2025-03-04,10,134.0
+Ho-WO-00009,Ho-EQ-00009-0,thermometer,Houston,Potts-Huang,no,Katrina Bartlett,2024-05-04,10,113.0
+Ho-WO-00010,Ho-EQ-00010-0,flow_meter,Houston,Rodriguez-Summers,yes,Katrina Bartlett,2024-07-27,15,244.4
+Ho-WO-00010,Ho-EQ-00010-1,flow_meter,Houston,Rodriguez-Summers,yes,Katrina Bartlett,2025-02-09,15,244.4
+Ho-WO-00012,Ho-EQ-00012-0,flow_meter,Houston,Ross Inc,no,Katelyn Hodges,2024-06-19,10,188.0
+Ho-WO-00012,Ho-EQ-00012-1,caliper,Houston,Ross Inc,yes,Katrina Bartlett,2024-05-02,15,174.2
+Ho-WO-00012,Ho-EQ-00012-2,flow_meter,Houston,Ross Inc,no,Katrina Bartlett,2024-06-27,10,188.0
+Ho-WO-00013,Ho-EQ-00013-0,pressure_gauge,Houston,Thomas LLC,no,Jeffrey Pham,2024-11-17,10,199.0
+Ho-WO-00013,Ho-EQ-00013-1,pressure_gauge,Houston,Thomas LLC,yes,Katelyn Hodges,2024-08-31,15,258.7
+Ho-WO-00014,Ho-EQ-00014-0,flow_meter,Houston,Orr LLC,yes,Katelyn Hodges,2025-02-28,15,244.4
+Ho-WO-00014,Ho-EQ-00014-1,torque,Houston,Orr LLC,no,Katrina Bartlett,2025-03-07,10,131.0
+Ho-WO-00015,Ho-EQ-00015-0,flow_meter,Houston,Reed-Moody,no,Katelyn Hodges,2024-06-13,10,188.0
+Ho-WO-00016,Ho-EQ-00016-0,pressure_gauge,Houston,Rodriguez Inc,no,Jeffrey Pham,2024-12-20,10,199.0
+Ho-WO-00017,Ho-EQ-00017-0,caliper,Houston,Grant and Sons,no,Jeffrey Pham,2024-07-27,10,134.0
+Ho-WO-00019,Ho-EQ-00019-0,torque,Houston,Kelley-Ramirez,yes,Katrina Bartlett,2024-12-16,15,170.3
+Ho-WO-00020,Ho-EQ-00020-0,pressure_gauge,Houston,Smith-Copeland,yes,Katrina Bartlett,2024-07-30,15,258.7
+Ho-WO-00020,Ho-EQ-00020-1,caliper,Houston,Smith-Copeland,yes,Katelyn Hodges,2024-10-01,15,174.2
+Ho-WO-00021,Ho-EQ-00021-0,scale,Houston,Thomas LLC,yes,Katelyn Hodges,2024-05-21,15,150.8
+Ho-WO-00021,Ho-EQ-00021-1,pressure_gauge,Houston,Thomas LLC,no,Katelyn Hodges,2025-03-06,10,199.0
+Ho-WO-00022,Ho-EQ-00022-0,thermometer,Houston,"Delgado, Krause and Lopez",no,Katrina Bartlett,2024-06-22,10,113.0
+Ho-WO-00022,Ho-EQ-00022-1,flow_meter,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham,2024-04-20,15,244.4
+Ho-WO-00023,Ho-EQ-00023-0,scale,Houston,Hamilton Group,yes,Katelyn Hodges,2024-08-24,15,150.8
+Ho-WO-00023,Ho-EQ-00023-1,pressure_gauge,Houston,Hamilton Group,no,Jeffrey Pham,2024-06-06,10,199.0
+Ho-WO-00024,Ho-EQ-00024-0,flow_meter,Houston,Fletcher-Boone,yes,Katelyn Hodges,2024-07-04,15,244.4
+Ho-WO-00025,Ho-EQ-00025-0,flow_meter,Houston,Collins and Sons,yes,Katelyn Hodges,2025-03-15,15,244.4
+Ho-WO-00026,Ho-EQ-00026-0,flow_meter,Houston,Gonzalez Ltd,yes,Jeffrey Pham,2025-01-09,15,244.4
+Ho-WO-00027,Ho-EQ-00027-0,caliper,Houston,Cole-Cervantes,yes,Jeffrey Pham,2025-03-16,15,174.2
+Ho-WO-00027,Ho-EQ-00027-1,caliper,Houston,Cole-Cervantes,no,Katelyn Hodges,2025-03-03,10,134.0
+Ho-WO-00028,Ho-EQ-00028-1,pressure_gauge,Houston,Mann PLC,yes,Katelyn Hodges,2025-01-15,15,258.7
+Ho-WO-00028,Ho-EQ-00028-2,scale,Houston,Mann PLC,no,Katelyn Hodges,2025-01-29,10,116.0
+Ho-WO-00030,Ho-EQ-00030-0,caliper,Houston,Ellis Group,yes,Jeffrey Pham,2024-07-22,15,174.2
+Ho-WO-00033,Ho-EQ-00033-0,scale,Houston,James-Nichols,no,Jeffrey Pham,2025-02-28,10,116.0
+Ho-WO-00033,Ho-EQ-00033-1,pressure_gauge,Houston,James-Nichols,no,Katrina Bartlett,2025-03-28,10,199.0
+Ho-WO-00034,Ho-EQ-00034-0,flow_meter,Houston,Mcdowell-Brooks,yes,Katelyn Hodges,2024-06-02,15,244.4
+Ho-WO-00034,Ho-EQ-00034-1,pressure_gauge,Houston,Mcdowell-Brooks,no,Katrina Bartlett,2024-10-26,10,199.0
+Ho-WO-00035,Ho-EQ-00035-0,caliper,Houston,Hardin-Mcdonald,no,Jeffrey Pham,2024-12-08,10,134.0
+Ho-WO-00035,Ho-EQ-00035-1,flow_meter,Houston,Hardin-Mcdonald,yes,Katelyn Hodges,2025-01-08,15,244.4
+Ho-WO-00035,Ho-EQ-00035-2,torque,Houston,Hardin-Mcdonald,no,Katrina Bartlett,2025-01-27,10,131.0
+Ho-WO-00036,Ho-EQ-00036-0,scale,Houston,Serrano Inc,no,Jeffrey Pham,2024-08-25,10,116.0
+Ho-WO-00036,Ho-EQ-00036-1,thermometer,Houston,Serrano Inc,no,Katelyn Hodges,2024-10-04,10,113.0
+Ho-WO-00037,Ho-EQ-00037-1,thermometer,Houston,"Cole, Velasquez and Johnson",yes,Katrina Bartlett,2025-03-23,15,146.9
+Ho-WO-00038,Ho-EQ-00038-0,torque,Houston,Wells Inc,yes,Jeffrey Pham,2024-08-04,15,170.3
+Ho-WO-00038,Ho-EQ-00038-1,flow_meter,Houston,Wells Inc,yes,Jeffrey Pham,2024-07-02,15,244.4
+Ho-WO-00039,Ho-EQ-00039-0,caliper,Houston,"Humphrey, Mullins and Moore",yes,Katrina Bartlett,2024-11-11,15,174.2
+Ho-WO-00039,Ho-EQ-00039-1,scale,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham,2024-09-07,15,150.8
+Ho-WO-00039,Ho-EQ-00039-2,flow_meter,Houston,"Humphrey, Mullins and Moore",no,Katelyn Hodges,2024-10-19,10,188.0
+Ho-WO-00040,Ho-EQ-00040-0,caliper,Houston,Ellis Group,no,Katelyn Hodges,2024-12-15,10,134.0
+Ho-WO-00044,Ho-EQ-00044-0,flow_meter,Houston,"Hawkins, Campos and Booth",no,Jeffrey Pham,2025-02-17,10,188.0
+Ho-WO-00045,Ho-EQ-00045-0,caliper,Houston,Davis and Sons,yes,Jeffrey Pham,2024-09-04,15,174.2
+Ho-WO-00046,Ho-EQ-00046-1,flow_meter,Houston,Gonzalez Ltd,yes,Jeffrey Pham,2024-11-10,15,244.4
+Ho-WO-00046,Ho-EQ-00046-2,thermometer,Houston,Gonzalez Ltd,no,Katelyn Hodges,2024-05-02,10,113.0
+Ho-WO-00047,Ho-EQ-00047-0,flow_meter,Houston,Banks-Hughes,no,Katelyn Hodges,2025-01-05,10,188.0
+Ho-WO-00047,Ho-EQ-00047-1,thermometer,Houston,Banks-Hughes,yes,Katelyn Hodges,2024-04-12,15,146.9
+Ho-WO-00047,Ho-EQ-00047-2,scale,Houston,Banks-Hughes,no,Jeffrey Pham,2024-10-14,10,116.0
+Ho-WO-00048,Ho-EQ-00048-0,flow_meter,Houston,"Castro, Austin and Sparks",yes,Katrina Bartlett,2024-10-31,15,244.4
+Ho-WO-00049,Ho-EQ-00049-1,torque,Houston,Riddle-Faulkner,no,Jeffrey Pham,2024-05-19,10,131.0
+Ho-WO-00050,Ho-EQ-00050-0,thermometer,Houston,Fletcher-Boone,no,Katelyn Hodges,2024-06-10,10,113.0
+Ho-WO-00052,Ho-EQ-00052-0,caliper,Houston,Banks-Hughes,no,Katelyn Hodges,2024-06-30,10,134.0
+Ho-WO-00052,Ho-EQ-00052-1,caliper,Houston,Banks-Hughes,yes,Katelyn Hodges,2024-05-15,15,174.2
+Ho-WO-00053,Ho-EQ-00053-0,torque,Houston,"Cole, Velasquez and Johnson",yes,Jeffrey Pham,2024-12-13,15,170.3
+Ho-WO-00054,Ho-EQ-00054-0,torque,Houston,Ball LLC,no,Katrina Bartlett,2024-06-18,10,131.0
+Ho-WO-00054,Ho-EQ-00054-1,thermometer,Houston,Ball LLC,no,Katrina Bartlett,2025-01-14,10,113.0
+Ho-WO-00054,Ho-EQ-00054-2,caliper,Houston,Ball LLC,yes,Jeffrey Pham,2024-07-31,15,174.2
+Ho-WO-00055,Ho-EQ-00055-0,scale,Houston,Mcdowell-Brooks,no,Katelyn Hodges,2024-09-01,10,116.0
+Ho-WO-00055,Ho-EQ-00055-1,caliper,Houston,Mcdowell-Brooks,yes,Katelyn Hodges,2024-07-13,15,174.2
+Ho-WO-00055,Ho-EQ-00055-2,thermometer,Houston,Mcdowell-Brooks,no,Katrina Bartlett,2025-01-15,10,113.0
+Ho-WO-00056,Ho-EQ-00056-0,flow_meter,Houston,"Rose, Rivera and Cox",yes,Katelyn Hodges,2025-02-27,15,244.4
+Ho-WO-00056,Ho-EQ-00056-1,caliper,Houston,"Rose, Rivera and Cox",no,Katrina Bartlett,2024-08-06,10,134.0
+Ho-WO-00057,Ho-EQ-00057-0,scale,Houston,Kelley-Ramirez,yes,Katelyn Hodges,2024-06-24,15,150.8
+Ho-WO-00059,Ho-EQ-00059-0,pressure_gauge,Houston,Santiago and Sons,yes,Katrina Bartlett,2024-05-07,15,258.7
+Ho-WO-00059,Ho-EQ-00059-1,pressure_gauge,Houston,Santiago and Sons,yes,Katrina Bartlett,2024-08-13,15,258.7
+Ho-WO-00059,Ho-EQ-00059-2,torque,Houston,Santiago and Sons,yes,Katrina Bartlett,2024-06-18,15,170.3
+Ho-WO-00060,Ho-EQ-00060-0,scale,Houston,Mccann-Hoffman,yes,Jeffrey Pham,2025-03-30,15,150.8
+Ho-WO-00061,Ho-EQ-00061-0,flow_meter,Houston,Carter Group,yes,Jeffrey Pham,2025-03-13,15,244.4
+Ho-WO-00062,Ho-EQ-00062-0,pressure_gauge,Houston,"Armstrong, Fletcher and Wilson",no,Jeffrey Pham,2024-10-25,10,199.0
+Ho-WO-00063,Ho-EQ-00063-0,flow_meter,Houston,Parker and Sons,yes,Jeffrey Pham,2024-04-29,15,244.4
+Ho-WO-00064,Ho-EQ-00064-0,thermometer,Houston,"Mitchell, Stephens and Ford",no,Katrina Bartlett,2025-01-03,10,113.0
+Ho-WO-00065,Ho-EQ-00065-0,pressure_gauge,Houston,Freeman-Rice,yes,Katelyn Hodges,2024-10-15,15,258.7
+Ho-WO-00066,Ho-EQ-00066-1,torque,Houston,Wells Inc,no,Jeffrey Pham,2024-05-10,10,131.0
+Ho-WO-00067,Ho-EQ-00067-0,scale,Houston,Banks-Hughes,no,Katelyn Hodges,2024-05-15,10,116.0
+Ho-WO-00067,Ho-EQ-00067-2,thermometer,Houston,Banks-Hughes,no,Katrina Bartlett,2024-05-22,10,113.0
+Ho-WO-00068,Ho-EQ-00068-0,pressure_gauge,Houston,Romero Group,no,Katrina Bartlett,2024-04-19,10,199.0
+Ho-WO-00068,Ho-EQ-00068-1,caliper,Houston,Romero Group,no,Katelyn Hodges,2024-10-20,10,134.0
+Ho-WO-00069,Ho-EQ-00069-1,flow_meter,Houston,Parker and Sons,yes,Jeffrey Pham,2024-06-16,15,244.4
+Ho-WO-00069,Ho-EQ-00069-2,caliper,Houston,Parker and Sons,no,Katelyn Hodges,2024-05-01,10,134.0
+Ho-WO-00070,Ho-EQ-00070-1,scale,Houston,Parker-Reeves,yes,Jeffrey Pham,2024-08-23,15,150.8
+Ho-WO-00070,Ho-EQ-00070-2,torque,Houston,Parker-Reeves,no,Katrina Bartlett,2024-12-18,10,131.0
+Ho-WO-00071,Ho-EQ-00071-0,flow_meter,Houston,Carter Group,yes,Katelyn Hodges,2024-10-26,15,244.4
+Ho-WO-00071,Ho-EQ-00071-1,caliper,Houston,Carter Group,yes,Katelyn Hodges,2024-09-19,15,174.2
+Ho-WO-00072,Ho-EQ-00072-0,flow_meter,Houston,"Mitchell, Stephens and Ford",yes,Jeffrey Pham,2024-04-20,15,244.4
+Ho-WO-00073,Ho-EQ-00073-0,torque,Houston,"Moore, Prince and Blankenship",no,Katrina Bartlett,2024-04-17,10,131.0
+Ho-WO-00074,Ho-EQ-00074-0,caliper,Houston,Lopez and Sons,no,Katelyn Hodges,2024-08-02,10,134.0
+Ho-WO-00074,Ho-EQ-00074-1,flow_meter,Houston,Lopez and Sons,no,Jeffrey Pham,2024-05-16,10,188.0
+Ho-WO-00075,Ho-EQ-00075-0,flow_meter,Houston,Holland-Walsh,no,Katelyn Hodges,2024-08-08,10,188.0
+Ho-WO-00076,Ho-EQ-00076-1,scale,Houston,Mccann-Hoffman,no,Jeffrey Pham,2024-12-21,10,116.0
+Ho-WO-00077,Ho-EQ-00077-0,torque,Houston,Garner-Rose,yes,Jeffrey Pham,2024-10-29,15,170.3
+Ho-WO-00077,Ho-EQ-00077-1,pressure_gauge,Houston,Garner-Rose,yes,Katelyn Hodges,2024-05-21,15,258.7
+Ho-WO-00077,Ho-EQ-00077-2,pressure_gauge,Houston,Garner-Rose,no,Katelyn Hodges,2024-09-04,10,199.0
+Ho-WO-00078,Ho-EQ-00078-0,pressure_gauge,Houston,Miller-Mcguire,no,Jeffrey Pham,2024-10-07,10,199.0
+Ho-WO-00079,Ho-EQ-00079-2,torque,Houston,"White, Grant and Flores",yes,Katrina Bartlett,2024-06-15,15,170.3
+Ho-WO-00081,Ho-EQ-00081-0,flow_meter,Houston,Barnett-Mueller,no,Katrina Bartlett,2024-09-27,10,188.0
+Ho-WO-00081,Ho-EQ-00081-1,thermometer,Houston,Barnett-Mueller,no,Katelyn Hodges,2024-07-05,10,113.0
+Ho-WO-00082,Ho-EQ-00082-0,pressure_gauge,Houston,"Bell, Haney and Roberson",no,Jeffrey Pham,2024-07-28,10,199.0
+Ho-WO-00082,Ho-EQ-00082-2,flow_meter,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham,2024-12-07,15,244.4
+Ho-WO-00083,Ho-EQ-00083-0,caliper,Houston,Kelley-Ramirez,no,Katelyn Hodges,2024-11-28,10,134.0
+Ho-WO-00084,Ho-EQ-00084-0,scale,Houston,Mann PLC,yes,Katelyn Hodges,2024-05-27,15,150.8
+Ho-WO-00084,Ho-EQ-00084-1,torque,Houston,Mann PLC,no,Jeffrey Pham,2024-10-31,10,131.0
+Ho-WO-00085,Ho-EQ-00085-0,pressure_gauge,Houston,Cole-Cervantes,yes,Jeffrey Pham,2025-03-14,15,258.7
+Ho-WO-00085,Ho-EQ-00085-1,caliper,Houston,Cole-Cervantes,no,Katrina Bartlett,2024-09-19,10,134.0
+Ho-WO-00086,Ho-EQ-00086-0,scale,Houston,"Hawkins, Campos and Booth",yes,Katelyn Hodges,2024-08-10,15,150.8
+Ho-WO-00086,Ho-EQ-00086-1,pressure_gauge,Houston,"Hawkins, Campos and Booth",yes,Katrina Bartlett,2024-07-18,15,258.7
+Ho-WO-00087,Ho-EQ-00087-1,caliper,Houston,Freeman-Rice,yes,Jeffrey Pham,2024-05-29,15,174.2
+Ho-WO-00088,Ho-EQ-00088-0,pressure_gauge,Houston,Reed-Moody,no,Katrina Bartlett,2024-07-28,10,199.0
+Ho-WO-00089,Ho-EQ-00089-0,flow_meter,Houston,"Armstrong, Fletcher and Wilson",no,Katelyn Hodges,2025-01-07,10,188.0
+Ho-WO-00089,Ho-EQ-00089-2,thermometer,Houston,"Armstrong, Fletcher and Wilson",yes,Katelyn Hodges,2025-01-14,15,146.9
+Ho-WO-00090,Ho-EQ-00090-1,flow_meter,Houston,Kelley-Young,no,Katelyn Hodges,2024-08-14,10,188.0
+Ho-WO-00091,Ho-EQ-00091-0,thermometer,Houston,Chang-Love,no,Katelyn Hodges,2024-04-12,10,113.0
+Ho-WO-00091,Ho-EQ-00091-1,pressure_gauge,Houston,Chang-Love,no,Katrina Bartlett,2024-07-21,10,199.0
+Ho-WO-00093,Ho-EQ-00093-0,pressure_gauge,Houston,Walker-Morales,no,Katelyn Hodges,2024-07-10,10,199.0
+Ho-WO-00094,Ho-EQ-00094-0,flow_meter,Houston,"Jensen, Evans and Fowler",no,Katrina Bartlett,2024-07-20,10,188.0
+Ho-WO-00094,Ho-EQ-00094-1,caliper,Houston,"Jensen, Evans and Fowler",yes,Jeffrey Pham,2025-01-25,15,174.2
+Ho-WO-00094,Ho-EQ-00094-2,pressure_gauge,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges,2025-03-15,10,199.0
+Ho-WO-00095,Ho-EQ-00095-0,caliper,Houston,"Combs, Gibson and Mitchell",no,Katelyn Hodges,2025-02-22,10,134.0
+Ho-WO-00095,Ho-EQ-00095-2,scale,Houston,"Combs, Gibson and Mitchell",yes,Katelyn Hodges,2024-12-05,15,150.8
+Ho-WO-00096,Ho-EQ-00096-0,flow_meter,Houston,Hicks PLC,yes,Katrina Bartlett,2024-12-08,15,244.4
+Ho-WO-00097,Ho-EQ-00097-0,scale,Houston,Mueller LLC,yes,Katelyn Hodges,2024-05-17,15,150.8
+Ho-WO-00097,Ho-EQ-00097-1,flow_meter,Houston,Mueller LLC,yes,Katelyn Hodges,2025-02-14,15,244.4
+Ho-WO-00099,Ho-EQ-00099-2,flow_meter,Houston,Barnett-Mueller,no,Katrina Bartlett,2024-09-14,10,188.0
+Ho-WO-00100,Ho-EQ-00100-0,caliper,Houston,"Cole, Velasquez and Johnson",no,Katelyn Hodges,2024-11-08,10,134.0
+Ho-WO-00100,Ho-EQ-00100-1,flow_meter,Houston,"Cole, Velasquez and Johnson",no,Katrina Bartlett,2025-03-19,10,188.0
+Ho-WO-00101,Ho-EQ-00101-0,caliper,Houston,Ross Inc,yes,Katelyn Hodges,2025-03-22,15,174.2
+Ho-WO-00101,Ho-EQ-00101-1,pressure_gauge,Houston,Ross Inc,yes,Jeffrey Pham,2024-10-17,15,258.7
+Ho-WO-00102,Ho-EQ-00102-0,scale,Houston,Freeman-Rice,no,Jeffrey Pham,2025-02-11,10,116.0
+Ho-WO-00102,Ho-EQ-00102-1,pressure_gauge,Houston,Freeman-Rice,no,Katrina Bartlett,2025-01-21,10,199.0
+Ho-WO-00102,Ho-EQ-00102-2,flow_meter,Houston,Freeman-Rice,yes,Katrina Bartlett,2024-05-13,15,244.4
+Ho-WO-00103,Ho-EQ-00103-0,flow_meter,Houston,Ibarra-Gonzales,yes,Katrina Bartlett,2024-10-18,15,244.4
+Ho-WO-00104,Ho-EQ-00104-1,scale,Houston,Freeman-Rice,yes,Jeffrey Pham,2024-07-14,15,150.8
+Ho-WO-00104,Ho-EQ-00104-2,caliper,Houston,Freeman-Rice,no,Katrina Bartlett,2024-06-04,10,134.0
+Ho-WO-00105,Ho-EQ-00105-2,flow_meter,Houston,Martin-Hale,no,Jeffrey Pham,2024-05-22,10,188.0
+Ho-WO-00106,Ho-EQ-00106-0,caliper,Houston,Ross Inc,yes,Katrina Bartlett,2024-09-04,15,174.2
+Ho-WO-00106,Ho-EQ-00106-1,torque,Houston,Ross Inc,yes,Katrina Bartlett,2024-09-23,15,170.3
+Ho-WO-00106,Ho-EQ-00106-2,flow_meter,Houston,Ross Inc,no,Katrina Bartlett,2024-05-21,10,188.0
+Ho-WO-00107,Ho-EQ-00107-0,pressure_gauge,Houston,Serrano Inc,no,Jeffrey Pham,2024-08-17,10,199.0
+Ho-WO-00108,Ho-EQ-00108-0,thermometer,Houston,Chang-Love,no,Katrina Bartlett,2024-07-15,10,113.0
+Ho-WO-00108,Ho-EQ-00108-1,pressure_gauge,Houston,Chang-Love,no,Jeffrey Pham,2025-02-08,10,199.0
+Ho-WO-00110,Ho-EQ-00110-1,caliper,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham,2024-11-25,15,174.2
+Ho-WO-00110,Ho-EQ-00110-2,flow_meter,Houston,"Humphrey, Mullins and Moore",no,Katrina Bartlett,2024-12-27,10,188.0
+Ho-WO-00111,Ho-EQ-00111-0,caliper,Houston,Parker and Sons,yes,Katelyn Hodges,2024-08-31,15,174.2
+Ho-WO-00111,Ho-EQ-00111-1,torque,Houston,Parker and Sons,yes,Katrina Bartlett,2025-01-27,15,170.3
+Ho-WO-00111,Ho-EQ-00111-2,torque,Houston,Parker and Sons,yes,Jeffrey Pham,2025-02-02,15,170.3
+Ho-WO-00112,Ho-EQ-00112-0,caliper,Houston,Barrett-Figueroa,yes,Jeffrey Pham,2024-05-20,15,174.2
+Ho-WO-00113,Ho-EQ-00113-0,torque,Houston,Mcdowell-Brooks,yes,Jeffrey Pham,2025-03-12,15,170.3
+Ho-WO-00114,Ho-EQ-00114-0,flow_meter,Houston,Gonzalez LLC,no,Jeffrey Pham,2024-09-07,10,188.0
+Ho-WO-00114,Ho-EQ-00114-1,thermometer,Houston,Gonzalez LLC,no,Katelyn Hodges,2025-03-05,10,113.0
+Ho-WO-00115,Ho-EQ-00115-0,scale,Houston,Rodriguez-Summers,no,Jeffrey Pham,2024-09-18,10,116.0
+Ho-WO-00115,Ho-EQ-00115-1,thermometer,Houston,Rodriguez-Summers,no,Katelyn Hodges,2025-03-30,10,113.0
+Ho-WO-00116,Ho-EQ-00116-0,pressure_gauge,Houston,Rodriguez Inc,yes,Katrina Bartlett,2025-02-22,15,258.7
+Ho-WO-00117,Ho-EQ-00117-0,pressure_gauge,Houston,Cole-Cervantes,yes,Jeffrey Pham,2024-09-21,15,258.7
+Ho-WO-00117,Ho-EQ-00117-2,flow_meter,Houston,Cole-Cervantes,no,Jeffrey Pham,2024-05-18,10,188.0
+Ho-WO-00118,Ho-EQ-00118-0,caliper,Houston,Jensen-Bell,yes,Katelyn Hodges,2024-08-19,15,174.2
+Ho-WO-00119,Ho-EQ-00119-0,torque,Houston,Hamilton Group,yes,Katrina Bartlett,2025-03-09,15,170.3
+Ho-WO-00122,Ho-EQ-00122-0,caliper,Houston,Kelley-Ramirez,no,Jeffrey Pham,2024-11-04,10,134.0
+Ho-WO-00122,Ho-EQ-00122-1,thermometer,Houston,Kelley-Ramirez,no,Katrina Bartlett,2025-01-26,10,113.0
+Ho-WO-00123,Ho-EQ-00123-0,scale,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham,2024-08-29,15,150.8
+Ho-WO-00123,Ho-EQ-00123-1,pressure_gauge,Houston,"Humphrey, Mullins and Moore",yes,Katelyn Hodges,2024-04-28,15,258.7
+Ho-WO-00124,Ho-EQ-00124-0,torque,Houston,Neal-Kelley,no,Jeffrey Pham,2024-07-30,10,131.0
+Ho-WO-00125,Ho-EQ-00125-0,flow_meter,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham,2024-11-14,15,244.4
+Ho-WO-00126,Ho-EQ-00126-0,torque,Houston,"Dillon, Morton and Wood",no,Katrina Bartlett,2025-02-19,10,131.0
+Ho-WO-00126,Ho-EQ-00126-1,scale,Houston,"Dillon, Morton and Wood",no,Jeffrey Pham,2024-07-23,10,116.0
+Ho-WO-00127,Ho-EQ-00127-0,torque,Houston,Hammond-Guerrero,no,Jeffrey Pham,2025-01-23,10,131.0
+Ho-WO-00128,Ho-EQ-00128-0,flow_meter,Houston,Morris-West,yes,Katelyn Hodges,2024-12-24,15,244.4
+Ho-WO-00128,Ho-EQ-00128-2,thermometer,Houston,Morris-West,no,Katelyn Hodges,2024-05-06,10,113.0
+Ho-WO-00130,Ho-EQ-00130-0,caliper,Houston,Orr LLC,yes,Katelyn Hodges,2024-05-17,15,174.2
+Ho-WO-00130,Ho-EQ-00130-1,scale,Houston,Orr LLC,no,Katelyn Hodges,2025-03-13,10,116.0
+Ho-WO-00131,Ho-EQ-00131-0,flow_meter,Houston,Hardin-Mcdonald,yes,Katrina Bartlett,2024-11-07,15,244.4
+Ho-WO-00132,Ho-EQ-00132-0,scale,Houston,Walker-Morales,yes,Jeffrey Pham,2024-07-21,15,150.8
+Ho-WO-00133,Ho-EQ-00133-0,flow_meter,Houston,Jensen-Bell,no,Katrina Bartlett,2024-12-13,10,188.0
+Ho-WO-00134,Ho-EQ-00134-0,torque,Houston,"Delgado, Krause and Lopez",no,Jeffrey Pham,2024-12-01,10,131.0
+Ho-WO-00134,Ho-EQ-00134-1,caliper,Houston,"Delgado, Krause and Lopez",yes,Katrina Bartlett,2024-04-30,15,174.2
+Ho-WO-00135,Ho-EQ-00135-0,flow_meter,Houston,Doyle-Barnes,no,Jeffrey Pham,2025-03-30,10,188.0
+Ho-WO-00135,Ho-EQ-00135-1,caliper,Houston,Doyle-Barnes,no,Jeffrey Pham,2025-02-04,10,134.0
+Ho-WO-00136,Ho-EQ-00136-0,torque,Houston,Ruiz-Davis,no,Jeffrey Pham,2024-05-22,10,131.0
+Ho-WO-00137,Ho-EQ-00137-0,pressure_gauge,Houston,"Delgado, Krause and Lopez",yes,Katrina Bartlett,2025-03-07,15,258.7
+Ho-WO-00138,Ho-EQ-00138-0,caliper,Houston,Neal-Kelley,yes,Jeffrey Pham,2024-05-04,15,174.2
+Ho-WO-00138,Ho-EQ-00138-1,pressure_gauge,Houston,Neal-Kelley,yes,Katelyn Hodges,2025-03-24,15,258.7
+Ho-WO-00139,Ho-EQ-00139-0,flow_meter,Houston,Davis and Sons,no,Jeffrey Pham,2024-09-16,10,188.0
+Ho-WO-00140,Ho-EQ-00140-0,caliper,Houston,Grant and Sons,no,Jeffrey Pham,2024-07-01,10,134.0
+Ho-WO-00142,Ho-EQ-00142-0,flow_meter,Houston,Morales-Banks,no,Katelyn Hodges,2024-10-07,10,188.0
+Ho-WO-00143,Ho-EQ-00143-0,torque,Houston,Parker-Reeves,no,Jeffrey Pham,2024-06-16,10,131.0
+Ho-WO-00144,Ho-EQ-00144-0,caliper,Houston,Morales-Banks,no,Katelyn Hodges,2024-09-28,10,134.0
+Ho-WO-00144,Ho-EQ-00144-1,scale,Houston,Morales-Banks,yes,Jeffrey Pham,2024-04-09,15,150.8
+Ho-WO-00144,Ho-EQ-00144-2,pressure_gauge,Houston,Morales-Banks,no,Katelyn Hodges,2025-01-24,10,199.0
+Ho-WO-00145,Ho-EQ-00145-0,caliper,Houston,Mills Inc,no,Katelyn Hodges,2025-02-03,10,134.0
+Ho-WO-00145,Ho-EQ-00145-1,caliper,Houston,Mills Inc,no,Katrina Bartlett,2024-04-19,10,134.0
+Ho-WO-00146,Ho-EQ-00146-0,thermometer,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges,2025-04-04,10,113.0
+Ho-WO-00146,Ho-EQ-00146-1,scale,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges,2024-07-20,10,116.0
+Ho-WO-00147,Ho-EQ-00147-1,pressure_gauge,Houston,"Jensen, Evans and Fowler",no,Katrina Bartlett,2024-11-08,10,199.0
+Ho-WO-00148,Ho-EQ-00148-1,caliper,Houston,Barrett-Figueroa,no,Jeffrey Pham,2025-01-27,10,134.0
+Ho-WO-00148,Ho-EQ-00148-2,flow_meter,Houston,Barrett-Figueroa,no,Katelyn Hodges,2024-06-30,10,188.0
+Ho-WO-00149,Ho-EQ-00149-1,caliper,Houston,Woods Inc,no,Jeffrey Pham,2024-12-29,10,134.0
+Ho-WO-00149,Ho-EQ-00149-2,caliper,Houston,Woods Inc,no,Jeffrey Pham,2024-10-30,10,134.0
+Ho-WO-00150,Ho-EQ-00150-0,scale,Houston,Moreno-Friedman,yes,Jeffrey Pham,2024-05-17,15,150.8
+Ho-WO-00150,Ho-EQ-00150-1,torque,Houston,Moreno-Friedman,no,Jeffrey Pham,2025-01-21,10,131.0
+Ho-WO-00151,Ho-EQ-00151-0,caliper,Houston,"Copeland, Torres and Morales",yes,Jeffrey Pham,2025-02-01,15,174.2
+Ho-WO-00152,Ho-EQ-00152-0,caliper,Houston,Mccann-Hoffman,yes,Katrina Bartlett,2024-07-19,15,174.2
+Ho-WO-00152,Ho-EQ-00152-1,pressure_gauge,Houston,Mccann-Hoffman,yes,Katrina Bartlett,2025-01-26,15,258.7
+Ho-WO-00153,Ho-EQ-00153-0,thermometer,Houston,Reed-Moody,yes,Katrina Bartlett,2025-01-03,15,146.9
+Ho-WO-00154,Ho-EQ-00154-0,scale,Houston,Morales-Banks,yes,Jeffrey Pham,2024-05-13,15,150.8
+Ho-WO-00155,Ho-EQ-00155-0,flow_meter,Houston,"White, Grant and Flores",no,Katelyn Hodges,2025-01-31,10,188.0
+Ho-WO-00155,Ho-EQ-00155-1,scale,Houston,"White, Grant and Flores",yes,Jeffrey Pham,2024-06-22,15,150.8
+Ho-WO-00157,Ho-EQ-00157-0,pressure_gauge,Houston,Reed-Moody,no,Katrina Bartlett,2024-04-28,10,199.0
+Ho-WO-00157,Ho-EQ-00157-1,flow_meter,Houston,Reed-Moody,yes,Jeffrey Pham,2025-03-10,15,244.4
+Ho-WO-00157,Ho-EQ-00157-2,torque,Houston,Reed-Moody,yes,Jeffrey Pham,2024-06-07,15,170.3
+Ho-WO-00158,Ho-EQ-00158-0,scale,Houston,"Moore, Prince and Blankenship",no,Jeffrey Pham,2024-08-15,10,116.0
+Ho-WO-00159,Ho-EQ-00159-0,torque,Houston,Hardin-Mcdonald,no,Jeffrey Pham,2024-11-13,10,131.0
+Ho-WO-00159,Ho-EQ-00159-1,flow_meter,Houston,Hardin-Mcdonald,yes,Jeffrey Pham,2024-05-30,15,244.4
+Ho-WO-00160,Ho-EQ-00160-0,pressure_gauge,Houston,Kelley-Ramirez,no,Katelyn Hodges,2024-06-26,10,199.0
+Ho-WO-00160,Ho-EQ-00160-1,torque,Houston,Kelley-Ramirez,yes,Jeffrey Pham,2024-07-24,15,170.3
+Ho-WO-00162,Ho-EQ-00162-0,thermometer,Houston,Carter Group,no,Katrina Bartlett,2024-11-01,10,113.0
+Ho-WO-00162,Ho-EQ-00162-1,torque,Houston,Carter Group,no,Jeffrey Pham,2024-07-04,10,131.0
+Ho-WO-00163,Ho-EQ-00163-1,flow_meter,Houston,Banks-Hughes,yes,Jeffrey Pham,2024-09-04,15,244.4
+Ho-WO-00164,Ho-EQ-00164-0,pressure_gauge,Houston,Spencer-Williams,yes,Katelyn Hodges,2024-10-14,15,258.7
+Ho-WO-00164,Ho-EQ-00164-2,scale,Houston,Spencer-Williams,no,Jeffrey Pham,2024-12-09,10,116.0
+Ho-WO-00165,Ho-EQ-00165-1,torque,Houston,"Hawkins, Campos and Booth",yes,Katrina Bartlett,2024-10-06,15,170.3
+Ho-WO-00166,Ho-EQ-00166-0,pressure_gauge,Houston,Rodriguez Inc,yes,Katrina Bartlett,2024-06-13,15,258.7
+Ho-WO-00166,Ho-EQ-00166-1,thermometer,Houston,Rodriguez Inc,no,Katelyn Hodges,2024-11-15,10,113.0
+Ho-WO-00167,Ho-EQ-00167-0,caliper,Houston,"Dillon, Morton and Wood",no,Jeffrey Pham,2024-08-22,10,134.0
+Ho-WO-00168,Ho-EQ-00168-0,scale,Houston,Romero Group,no,Katelyn Hodges,2025-01-11,10,116.0
+Ho-WO-00168,Ho-EQ-00168-1,pressure_gauge,Houston,Romero Group,no,Katrina Bartlett,2024-05-22,10,199.0
+Ho-WO-00168,Ho-EQ-00168-2,scale,Houston,Romero Group,yes,Jeffrey Pham,2024-11-04,15,150.8
+Ho-WO-00170,Ho-EQ-00170-0,scale,Houston,James-Nichols,no,Jeffrey Pham,2024-08-07,10,116.0
+Ho-WO-00170,Ho-EQ-00170-1,flow_meter,Houston,James-Nichols,yes,Katrina Bartlett,2024-05-27,15,244.4
+Ho-WO-00171,Ho-EQ-00171-0,thermometer,Houston,"Ramirez, Marsh and Alvarez",no,Katelyn Hodges,2025-02-25,10,113.0
+Ho-WO-00171,Ho-EQ-00171-2,flow_meter,Houston,"Ramirez, Marsh and Alvarez",yes,Katrina Bartlett,2024-11-10,15,244.4
+Ho-WO-00172,Ho-EQ-00172-0,torque,Houston,Rodriguez-Summers,yes,Katrina Bartlett,2024-05-03,15,170.3
+Ho-WO-00172,Ho-EQ-00172-1,caliper,Houston,Rodriguez-Summers,no,Katrina Bartlett,2024-10-24,10,134.0
+Ho-WO-00173,Ho-EQ-00173-0,caliper,Houston,Brown and Sons,no,Katelyn Hodges,2024-10-08,10,134.0
+Ho-WO-00174,Ho-EQ-00174-1,caliper,Houston,"Alexander, Green and Mcbride",no,Katrina Bartlett,2024-04-12,10,134.0
+Ho-WO-00175,Ho-EQ-00175-0,torque,Houston,Grant and Sons,yes,Katrina Bartlett,2024-09-06,15,170.3
+Ho-WO-00175,Ho-EQ-00175-1,scale,Houston,Grant and Sons,yes,Jeffrey Pham,2025-01-09,15,150.8
+Ho-WO-00175,Ho-EQ-00175-2,torque,Houston,Grant and Sons,no,Jeffrey Pham,2024-06-04,10,131.0
+Ho-WO-00177,Ho-EQ-00177-0,thermometer,Houston,Smith-Fernandez,no,Katrina Bartlett,2024-09-14,10,113.0
+Ho-WO-00177,Ho-EQ-00177-1,caliper,Houston,Smith-Fernandez,yes,Katrina Bartlett,2024-09-15,15,174.2
+Ho-WO-00178,Ho-EQ-00178-0,caliper,Houston,Barrett-Figueroa,no,Jeffrey Pham,2024-09-13,10,134.0
+Ho-WO-00179,Ho-EQ-00179-0,torque,Houston,Ibarra-Gonzales,yes,Katrina Bartlett,2024-12-03,15,170.3
+Ho-WO-00179,Ho-EQ-00179-1,flow_meter,Houston,Ibarra-Gonzales,no,Katelyn Hodges,2024-04-09,10,188.0
+Ho-WO-00180,Ho-EQ-00180-0,thermometer,Houston,"Castro, Austin and Sparks",no,Katrina Bartlett,2024-10-02,10,113.0
+Ho-WO-00181,Ho-EQ-00181-0,flow_meter,Houston,Gonzalez LLC,yes,Katrina Bartlett,2024-11-11,15,244.4
+Ho-WO-00182,Ho-EQ-00182-0,pressure_gauge,Houston,Woods Inc,no,Katrina Bartlett,2024-09-23,10,199.0
+Ho-WO-00182,Ho-EQ-00182-1,caliper,Houston,Woods Inc,no,Katrina Bartlett,2025-01-26,10,134.0
+Ho-WO-00182,Ho-EQ-00182-2,flow_meter,Houston,Woods Inc,yes,Katrina Bartlett,2024-11-07,15,244.4
+Ho-WO-00184,Ho-EQ-00184-0,scale,Houston,"Thompson, Anderson and Hopkins",yes,Katelyn Hodges,2024-11-15,15,150.8
+Ho-WO-00184,Ho-EQ-00184-1,pressure_gauge,Houston,"Thompson, Anderson and Hopkins",yes,Katrina Bartlett,2024-04-30,15,258.7
+Ho-WO-00185,Ho-EQ-00185-0,torque,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham,2024-12-02,15,170.3
+Ho-WO-00185,Ho-EQ-00185-1,caliper,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham,2024-08-17,15,174.2
+Ho-WO-00186,Ho-EQ-00186-0,caliper,Houston,Garner-Rose,no,Katrina Bartlett,2024-05-10,10,134.0
+Ho-WO-00187,Ho-EQ-00187-1,flow_meter,Houston,Ross Inc,no,Katrina Bartlett,2024-12-13,10,188.0
+Ho-WO-00188,Ho-EQ-00188-0,caliper,Houston,Walker-Morales,no,Katrina Bartlett,2024-05-28,10,134.0
+Ho-WO-00189,Ho-EQ-00189-1,torque,Houston,Potts-Huang,yes,Jeffrey Pham,2024-09-19,15,170.3
+Ho-WO-00190,Ho-EQ-00190-1,thermometer,Houston,"Combs, Gibson and Mitchell",no,Katrina Bartlett,2025-02-16,10,113.0
+Ho-WO-00191,Ho-EQ-00191-0,flow_meter,Houston,Cole-Cervantes,no,Katrina Bartlett,2024-05-04,10,188.0
+Ho-WO-00192,Ho-EQ-00192-0,flow_meter,Houston,"Rose, Rivera and Cox",yes,Katelyn Hodges,2025-03-31,15,244.4
+Ho-WO-00193,Ho-EQ-00193-0,flow_meter,Houston,"Cole, Velasquez and Johnson",no,Katelyn Hodges,2024-04-22,10,188.0
+Ho-WO-00194,Ho-EQ-00194-0,flow_meter,Houston,Hicks PLC,yes,Katelyn Hodges,2025-01-29,15,244.4
+Ho-WO-00194,Ho-EQ-00194-1,pressure_gauge,Houston,Hicks PLC,no,Jeffrey Pham,2025-02-19,10,199.0
+Ho-WO-00194,Ho-EQ-00194-2,pressure_gauge,Houston,Hicks PLC,no,Katelyn Hodges,2025-03-09,10,199.0
+Ho-WO-00195,Ho-EQ-00195-0,pressure_gauge,Houston,Hamilton Group,no,Katrina Bartlett,2024-05-17,10,199.0
+Ho-WO-00196,Ho-EQ-00196-0,caliper,Houston,Moreno-Friedman,yes,Jeffrey Pham,2024-06-21,15,174.2
+Ho-WO-00197,Ho-EQ-00197-0,scale,Houston,Riddle-Faulkner,no,Katelyn Hodges,2024-08-20,10,116.0
+Ho-WO-00198,Ho-EQ-00198-0,scale,Houston,Morris-West,no,Katelyn Hodges,2024-04-30,10,116.0
+Ho-WO-00198,Ho-EQ-00198-1,pressure_gauge,Houston,Morris-West,no,Katelyn Hodges,2024-07-28,10,199.0
+Ho-WO-00198,Ho-EQ-00198-2,torque,Houston,Morris-West,no,Katrina Bartlett,2024-06-25,10,131.0
+Ho-WO-00199,Ho-EQ-00199-0,flow_meter,Houston,Orr LLC,no,Jeffrey Pham,2025-03-26,10,188.0
+Lo-WO-00000,Lo-EQ-00000-0,torque,Los_Angeles,Tucker-Nelson,yes,Steven Hicks,2024-08-27,15,300.3
+Lo-WO-00000,Lo-EQ-00000-1,flow_meter,Los_Angeles,Tucker-Nelson,no,Jennifer Mccormick,2025-01-08,10,122.0
+Lo-WO-00001,Lo-EQ-00001-0,torque,Los_Angeles,Brown and Sons,yes,Steven Hicks,2024-07-18,15,300.3
+Lo-WO-00001,Lo-EQ-00001-1,scale,Los_Angeles,Brown and Sons,no,Kimberly Landry,2024-06-15,10,161.0
+Lo-WO-00002,Lo-EQ-00002-0,pressure_gauge,Los_Angeles,"Thompson, Anderson and Hopkins",yes,Steven Hicks,2025-03-21,15,247.0
+Lo-WO-00002,Lo-EQ-00002-2,scale,Los_Angeles,"Thompson, Anderson and Hopkins",no,Jennifer Mccormick,2025-02-14,10,161.0
+Lo-WO-00003,Lo-EQ-00003-0,caliper,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry,2024-09-27,10,229.0
+Lo-WO-00003,Lo-EQ-00003-1,pressure_gauge,Los_Angeles,"Bell, Haney and Roberson",yes,Steven Hicks,2024-12-28,15,247.0
+Lo-WO-00004,Lo-EQ-00004-1,pressure_gauge,Los_Angeles,Reed-Moody,yes,Jennifer Mccormick,2024-12-21,15,247.0
+Lo-WO-00005,Lo-EQ-00005-0,pressure_gauge,Los_Angeles,Parker-Lee,no,Jennifer Mccormick,2024-08-29,10,190.0
+Lo-WO-00007,Lo-EQ-00007-0,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",no,Kimberly Landry,2024-07-07,10,190.0
+Lo-WO-00008,Lo-EQ-00008-0,pressure_gauge,Los_Angeles,"Humphrey, Mullins and Moore",no,Jennifer Mccormick,2024-11-27,10,190.0
+Lo-WO-00008,Lo-EQ-00008-2,torque,Los_Angeles,"Humphrey, Mullins and Moore",yes,Jennifer Mccormick,2024-11-23,15,300.3
+Lo-WO-00009,Lo-EQ-00009-0,scale,Los_Angeles,Ross Inc,yes,Kimberly Landry,2024-08-01,15,209.3
+Lo-WO-00010,Lo-EQ-00010-0,caliper,Los_Angeles,"Castro, Austin and Sparks",no,Kimberly Landry,2025-02-06,10,229.0
+Lo-WO-00011,Lo-EQ-00011-0,torque,Los_Angeles,"Erickson, Hughes and Craig",no,Kimberly Landry,2024-04-22,10,231.0
+Lo-WO-00012,Lo-EQ-00012-0,torque,Los_Angeles,"Copeland, Torres and Morales",no,Steven Hicks,2025-02-15,10,231.0
+Lo-WO-00012,Lo-EQ-00012-1,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry,2024-09-12,15,247.0
+Lo-WO-00013,Lo-EQ-00013-0,thermometer,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick,2024-11-27,10,189.0
+Lo-WO-00014,Lo-EQ-00014-0,torque,Los_Angeles,Rodriguez-Summers,yes,Kimberly Landry,2025-02-28,15,300.3
+Lo-WO-00015,Lo-EQ-00015-0,scale,Los_Angeles,Smith-Anthony,no,Jennifer Mccormick,2024-06-26,10,161.0
+Lo-WO-00016,Lo-EQ-00016-0,scale,Los_Angeles,"Alexander, Green and Mcbride",yes,Steven Hicks,2025-04-06,15,209.3
+Lo-WO-00017,Lo-EQ-00017-1,flow_meter,Los_Angeles,Thomas LLC,no,Kimberly Landry,2025-02-05,10,122.0
+Lo-WO-00018,Lo-EQ-00018-0,thermometer,Los_Angeles,"Mcgrath, Barton and Carter",yes,Steven Hicks,2024-04-09,15,245.7
+Lo-WO-00019,Lo-EQ-00019-0,caliper,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry,2024-12-04,15,297.7
+Lo-WO-00020,Lo-EQ-00020-0,scale,Los_Angeles,"Bell, Haney and Roberson",yes,Kimberly Landry,2025-03-23,15,209.3
+Lo-WO-00020,Lo-EQ-00020-1,flow_meter,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick,2024-07-29,10,122.0
+Lo-WO-00021,Lo-EQ-00021-0,pressure_gauge,Los_Angeles,Fletcher-Boone,no,Kimberly Landry,2025-01-12,10,190.0
+Lo-WO-00021,Lo-EQ-00021-1,scale,Los_Angeles,Fletcher-Boone,yes,Jennifer Mccormick,2025-02-11,15,209.3
+Lo-WO-00022,Lo-EQ-00022-1,pressure_gauge,Los_Angeles,Spencer-Williams,yes,Steven Hicks,2025-03-20,15,247.0
+Lo-WO-00023,Lo-EQ-00023-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick,2025-03-08,10,190.0
+Lo-WO-00024,Lo-EQ-00024-0,scale,Los_Angeles,Hardin-Mcdonald,no,Kimberly Landry,2025-02-01,10,161.0
+Lo-WO-00025,Lo-EQ-00025-0,thermometer,Los_Angeles,"Copeland, Torres and Morales",yes,Jennifer Mccormick,2025-01-28,15,245.7
+Lo-WO-00025,Lo-EQ-00025-1,torque,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry,2025-04-03,15,300.3
+Lo-WO-00026,Lo-EQ-00026-0,thermometer,Los_Angeles,"Cole, Velasquez and Johnson",yes,Steven Hicks,2024-10-06,15,245.7
+Lo-WO-00026,Lo-EQ-00026-1,thermometer,Los_Angeles,"Cole, Velasquez and Johnson",no,Steven Hicks,2024-04-29,10,189.0
+Lo-WO-00026,Lo-EQ-00026-2,pressure_gauge,Los_Angeles,"Cole, Velasquez and Johnson",yes,Steven Hicks,2024-11-05,15,247.0
+Lo-WO-00027,Lo-EQ-00027-0,torque,Los_Angeles,Barnett-Mueller,yes,Steven Hicks,2024-12-03,15,300.3
+Lo-WO-00027,Lo-EQ-00027-1,scale,Los_Angeles,Barnett-Mueller,yes,Steven Hicks,2025-04-07,15,209.3
+Lo-WO-00028,Lo-EQ-00028-0,scale,Los_Angeles,Reed-Moody,yes,Jennifer Mccormick,2025-03-01,15,209.3
+Lo-WO-00028,Lo-EQ-00028-1,thermometer,Los_Angeles,Reed-Moody,no,Steven Hicks,2025-03-12,10,189.0
+Lo-WO-00028,Lo-EQ-00028-2,flow_meter,Los_Angeles,Reed-Moody,yes,Kimberly Landry,2024-05-29,15,158.6
+Lo-WO-00029,Lo-EQ-00029-0,torque,Los_Angeles,Barnett-Mueller,no,Steven Hicks,2024-12-27,10,231.0
+Lo-WO-00029,Lo-EQ-00029-1,flow_meter,Los_Angeles,Barnett-Mueller,no,Kimberly Landry,2024-09-19,10,122.0
+Lo-WO-00029,Lo-EQ-00029-2,torque,Los_Angeles,Barnett-Mueller,yes,Jennifer Mccormick,2024-08-13,15,300.3
+Lo-WO-00030,Lo-EQ-00030-0,scale,Los_Angeles,Romero Group,yes,Steven Hicks,2025-02-14,15,209.3
+Lo-WO-00030,Lo-EQ-00030-1,pressure_gauge,Los_Angeles,Romero Group,no,Kimberly Landry,2025-02-03,10,190.0
+Lo-WO-00031,Lo-EQ-00031-0,caliper,Los_Angeles,Riddle-Faulkner,no,Kimberly Landry,2024-09-13,10,229.0
+Lo-WO-00031,Lo-EQ-00031-1,caliper,Los_Angeles,Riddle-Faulkner,yes,Kimberly Landry,2025-03-08,15,297.7
+Lo-WO-00031,Lo-EQ-00031-2,torque,Los_Angeles,Riddle-Faulkner,yes,Kimberly Landry,2024-11-19,15,300.3
+Lo-WO-00032,Lo-EQ-00032-0,flow_meter,Los_Angeles,Carter Group,no,Kimberly Landry,2025-03-12,10,122.0
+Lo-WO-00033,Lo-EQ-00033-0,pressure_gauge,Los_Angeles,Lopez and Sons,yes,Kimberly Landry,2024-05-18,15,247.0
+Lo-WO-00033,Lo-EQ-00033-1,pressure_gauge,Los_Angeles,Lopez and Sons,no,Steven Hicks,2025-01-11,10,190.0
+Lo-WO-00034,Lo-EQ-00034-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick,2024-04-19,10,190.0
+Lo-WO-00036,Lo-EQ-00036-0,caliper,Los_Angeles,Morris-West,no,Kimberly Landry,2025-01-13,10,229.0
+Lo-WO-00037,Lo-EQ-00037-0,thermometer,Los_Angeles,"Mitchell, Stephens and Ford",yes,Jennifer Mccormick,2025-03-23,15,245.7
+Lo-WO-00037,Lo-EQ-00037-1,thermometer,Los_Angeles,"Mitchell, Stephens and Ford",yes,Steven Hicks,2024-06-20,15,245.7
+Lo-WO-00038,Lo-EQ-00038-0,flow_meter,Los_Angeles,"Ramirez, Marsh and Alvarez",no,Kimberly Landry,2024-12-01,10,122.0
+Lo-WO-00039,Lo-EQ-00039-0,torque,Los_Angeles,Mcdowell-Brooks,yes,Steven Hicks,2025-03-29,15,300.3
+Lo-WO-00042,Lo-EQ-00042-0,flow_meter,Los_Angeles,"Humphrey, Mullins and Moore",yes,Kimberly Landry,2024-12-10,15,158.6
+Lo-WO-00042,Lo-EQ-00042-1,pressure_gauge,Los_Angeles,"Humphrey, Mullins and Moore",no,Jennifer Mccormick,2025-02-14,10,190.0
+Lo-WO-00043,Lo-EQ-00043-0,torque,Los_Angeles,Ruiz-Davis,no,Steven Hicks,2025-01-09,10,231.0
+Lo-WO-00043,Lo-EQ-00043-2,torque,Los_Angeles,Ruiz-Davis,no,Kimberly Landry,2024-09-05,10,231.0
+Lo-WO-00045,Lo-EQ-00045-0,pressure_gauge,Los_Angeles,"Jensen, Evans and Fowler",no,Steven Hicks,2025-03-21,10,190.0
+Lo-WO-00045,Lo-EQ-00045-1,scale,Los_Angeles,"Jensen, Evans and Fowler",no,Kimberly Landry,2024-07-09,10,161.0
+Lo-WO-00045,Lo-EQ-00045-2,thermometer,Los_Angeles,"Jensen, Evans and Fowler",no,Steven Hicks,2025-01-05,10,189.0
+Lo-WO-00046,Lo-EQ-00046-2,flow_meter,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry,2024-04-24,15,158.6
+Lo-WO-00047,Lo-EQ-00047-0,thermometer,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick,2025-01-15,10,189.0
+Lo-WO-00047,Lo-EQ-00047-1,pressure_gauge,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry,2025-02-27,15,247.0
+Lo-WO-00047,Lo-EQ-00047-2,torque,Los_Angeles,Smith-Fernandez,yes,Jennifer Mccormick,2024-12-03,15,300.3
+Lo-WO-00048,Lo-EQ-00048-0,flow_meter,Los_Angeles,Mueller LLC,yes,Kimberly Landry,2025-01-25,15,158.6
+Lo-WO-00049,Lo-EQ-00049-0,scale,Los_Angeles,Willis Inc,yes,Steven Hicks,2024-12-25,15,209.3
+Lo-WO-00049,Lo-EQ-00049-1,scale,Los_Angeles,Willis Inc,yes,Steven Hicks,2024-12-20,15,209.3
+Lo-WO-00050,Lo-EQ-00050-0,thermometer,Los_Angeles,Ball LLC,yes,Steven Hicks,2024-09-27,15,245.7
+Lo-WO-00051,Lo-EQ-00051-0,pressure_gauge,Los_Angeles,Riddle-Faulkner,yes,Jennifer Mccormick,2024-12-01,15,247.0
+Lo-WO-00051,Lo-EQ-00051-1,pressure_gauge,Los_Angeles,Riddle-Faulkner,no,Jennifer Mccormick,2024-12-10,10,190.0
+Lo-WO-00051,Lo-EQ-00051-2,thermometer,Los_Angeles,Riddle-Faulkner,yes,Jennifer Mccormick,2024-11-25,15,245.7
+Lo-WO-00052,Lo-EQ-00052-0,scale,Los_Angeles,Mills Inc,no,Kimberly Landry,2024-08-31,10,161.0
+Lo-WO-00052,Lo-EQ-00052-1,pressure_gauge,Los_Angeles,Mills Inc,yes,Jennifer Mccormick,2025-01-03,15,247.0
+Lo-WO-00052,Lo-EQ-00052-2,caliper,Los_Angeles,Mills Inc,no,Steven Hicks,2024-08-31,10,229.0
+Lo-WO-00053,Lo-EQ-00053-0,pressure_gauge,Los_Angeles,Freeman-Rice,yes,Steven Hicks,2025-01-31,15,247.0
+Lo-WO-00054,Lo-EQ-00054-0,flow_meter,Los_Angeles,Parker-Reeves,no,Kimberly Landry,2024-10-02,10,122.0
+Lo-WO-00055,Lo-EQ-00055-0,scale,Los_Angeles,"Rose, Rivera and Cox",no,Jennifer Mccormick,2025-03-04,10,161.0
+Lo-WO-00055,Lo-EQ-00055-1,torque,Los_Angeles,"Rose, Rivera and Cox",no,Steven Hicks,2024-08-02,10,231.0
+Lo-WO-00056,Lo-EQ-00056-0,caliper,Los_Angeles,Holland-Walsh,yes,Kimberly Landry,2025-02-18,15,297.7
+Lo-WO-00057,Lo-EQ-00057-0,torque,Los_Angeles,Parker and Sons,no,Jennifer Mccormick,2024-12-12,10,231.0
+Lo-WO-00057,Lo-EQ-00057-1,caliper,Los_Angeles,Parker and Sons,no,Kimberly Landry,2025-03-08,10,229.0
+Lo-WO-00058,Lo-EQ-00058-0,torque,Los_Angeles,Santiago and Sons,yes,Kimberly Landry,2024-09-15,15,300.3
+Lo-WO-00059,Lo-EQ-00059-0,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",yes,Kimberly Landry,2025-03-14,15,247.0
+Lo-WO-00061,Lo-EQ-00061-0,scale,Los_Angeles,Hardin-Mcdonald,yes,Jennifer Mccormick,2025-03-03,15,209.3
+Lo-WO-00061,Lo-EQ-00061-1,caliper,Los_Angeles,Hardin-Mcdonald,no,Steven Hicks,2024-12-20,10,229.0
+Lo-WO-00062,Lo-EQ-00062-0,scale,Los_Angeles,Ross Inc,no,Jennifer Mccormick,2024-10-09,10,161.0
+Lo-WO-00062,Lo-EQ-00062-1,thermometer,Los_Angeles,Ross Inc,yes,Jennifer Mccormick,2024-08-18,15,245.7
+Lo-WO-00062,Lo-EQ-00062-2,torque,Los_Angeles,Ross Inc,yes,Steven Hicks,2024-10-31,15,300.3
+Lo-WO-00063,Lo-EQ-00063-0,pressure_gauge,Los_Angeles,Ellis Group,yes,Jennifer Mccormick,2025-01-25,15,247.0
+Lo-WO-00063,Lo-EQ-00063-1,caliper,Los_Angeles,Ellis Group,no,Steven Hicks,2024-08-31,10,229.0
+Lo-WO-00063,Lo-EQ-00063-2,thermometer,Los_Angeles,Ellis Group,yes,Jennifer Mccormick,2024-05-18,15,245.7
+Lo-WO-00064,Lo-EQ-00064-0,thermometer,Los_Angeles,"Armstrong, Fletcher and Wilson",yes,Jennifer Mccormick,2025-03-15,15,245.7
+Lo-WO-00066,Lo-EQ-00066-0,scale,Los_Angeles,Brown and Sons,no,Kimberly Landry,2024-08-28,10,161.0
+Lo-WO-00066,Lo-EQ-00066-1,torque,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick,2024-06-01,15,300.3
+Lo-WO-00069,Lo-EQ-00069-0,torque,Los_Angeles,"Thompson, Anderson and Hopkins",no,Kimberly Landry,2024-07-15,10,231.0
+Lo-WO-00070,Lo-EQ-00070-0,torque,Los_Angeles,Grant and Sons,no,Steven Hicks,2024-08-28,10,231.0
+Lo-WO-00070,Lo-EQ-00070-1,scale,Los_Angeles,Grant and Sons,no,Jennifer Mccormick,2024-05-18,10,161.0
+Lo-WO-00071,Lo-EQ-00071-0,pressure_gauge,Los_Angeles,Parker-Lee,yes,Steven Hicks,2024-11-24,15,247.0
+Lo-WO-00072,Lo-EQ-00072-0,pressure_gauge,Los_Angeles,Allen Ltd,yes,Steven Hicks,2024-10-28,15,247.0
+Lo-WO-00072,Lo-EQ-00072-1,scale,Los_Angeles,Allen Ltd,yes,Steven Hicks,2024-08-02,15,209.3
+Lo-WO-00072,Lo-EQ-00072-2,thermometer,Los_Angeles,Allen Ltd,yes,Jennifer Mccormick,2024-09-24,15,245.7
+Lo-WO-00073,Lo-EQ-00073-0,pressure_gauge,Los_Angeles,Ross Inc,no,Jennifer Mccormick,2025-01-17,10,190.0
+Lo-WO-00073,Lo-EQ-00073-1,pressure_gauge,Los_Angeles,Ross Inc,yes,Steven Hicks,2024-07-19,15,247.0
+Lo-WO-00074,Lo-EQ-00074-0,pressure_gauge,Los_Angeles,Rodriguez-Summers,yes,Steven Hicks,2025-02-25,15,247.0
+Lo-WO-00074,Lo-EQ-00074-1,pressure_gauge,Los_Angeles,Rodriguez-Summers,no,Steven Hicks,2024-04-09,10,190.0
+Lo-WO-00075,Lo-EQ-00075-0,scale,Los_Angeles,Ruiz-Davis,yes,Steven Hicks,2024-08-12,15,209.3
+Lo-WO-00076,Lo-EQ-00076-1,flow_meter,Los_Angeles,Stephenson-Herring,no,Kimberly Landry,2025-03-17,10,122.0
+Lo-WO-00077,Lo-EQ-00077-1,torque,Los_Angeles,Morales-Banks,yes,Jennifer Mccormick,2025-02-06,15,300.3
+Lo-WO-00077,Lo-EQ-00077-2,torque,Los_Angeles,Morales-Banks,no,Steven Hicks,2024-09-03,10,231.0
+Lo-WO-00078,Lo-EQ-00078-0,caliper,Los_Angeles,Mueller LLC,no,Steven Hicks,2025-02-10,10,229.0
+Lo-WO-00078,Lo-EQ-00078-1,thermometer,Los_Angeles,Mueller LLC,yes,Jennifer Mccormick,2024-09-13,15,245.7
+Lo-WO-00079,Lo-EQ-00079-0,caliper,Los_Angeles,Parker-Lee,no,Kimberly Landry,2024-07-27,10,229.0
+Lo-WO-00080,Lo-EQ-00080-0,torque,Los_Angeles,Gonzalez Ltd,yes,Jennifer Mccormick,2024-06-16,15,300.3
+Lo-WO-00080,Lo-EQ-00080-1,thermometer,Los_Angeles,Gonzalez Ltd,yes,Jennifer Mccormick,2024-10-01,15,245.7
+Lo-WO-00082,Lo-EQ-00082-0,torque,Los_Angeles,Gonzalez Ltd,no,Jennifer Mccormick,2024-08-04,10,231.0
+Lo-WO-00083,Lo-EQ-00083-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick,2025-04-06,10,190.0
+Lo-WO-00083,Lo-EQ-00083-1,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",yes,Jennifer Mccormick,2025-01-04,15,247.0
+Lo-WO-00083,Lo-EQ-00083-2,scale,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick,2025-01-12,10,161.0
+Lo-WO-00084,Lo-EQ-00084-0,flow_meter,Los_Angeles,Thomas LLC,no,Kimberly Landry,2024-05-16,10,122.0
+Lo-WO-00085,Lo-EQ-00085-1,thermometer,Los_Angeles,Barnett-Mueller,no,Jennifer Mccormick,2024-11-12,10,189.0
+Lo-WO-00086,Lo-EQ-00086-0,thermometer,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick,2024-07-01,10,189.0
+Lo-WO-00086,Lo-EQ-00086-1,torque,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry,2024-04-23,10,231.0
+Lo-WO-00086,Lo-EQ-00086-2,flow_meter,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick,2025-02-04,10,122.0
+Lo-WO-00087,Lo-EQ-00087-0,thermometer,Los_Angeles,Ross Inc,yes,Jennifer Mccormick,2025-02-07,15,245.7
+Lo-WO-00088,Lo-EQ-00088-0,pressure_gauge,Los_Angeles,Mills Inc,no,Steven Hicks,2025-03-27,10,190.0
+Lo-WO-00090,Lo-EQ-00090-1,scale,Los_Angeles,Hicks PLC,yes,Steven Hicks,2024-12-29,15,209.3
+Lo-WO-00090,Lo-EQ-00090-2,caliper,Los_Angeles,Hicks PLC,yes,Steven Hicks,2025-03-23,15,297.7
+Lo-WO-00091,Lo-EQ-00091-0,torque,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry,2024-07-07,10,231.0
+Lo-WO-00092,Lo-EQ-00092-0,caliper,Los_Angeles,Ross Inc,yes,Steven Hicks,2024-08-28,15,297.7
+Lo-WO-00092,Lo-EQ-00092-1,flow_meter,Los_Angeles,Ross Inc,yes,Kimberly Landry,2024-08-03,15,158.6
+Lo-WO-00092,Lo-EQ-00092-2,torque,Los_Angeles,Ross Inc,no,Jennifer Mccormick,2024-07-26,10,231.0
+Lo-WO-00093,Lo-EQ-00093-0,torque,Los_Angeles,"White, Grant and Flores",no,Jennifer Mccormick,2024-06-10,10,231.0
+Lo-WO-00093,Lo-EQ-00093-1,torque,Los_Angeles,"White, Grant and Flores",yes,Kimberly Landry,2024-06-21,15,300.3
+Lo-WO-00094,Lo-EQ-00094-0,scale,Los_Angeles,Woods Inc,no,Kimberly Landry,2024-06-01,10,161.0
+Lo-WO-00094,Lo-EQ-00094-2,pressure_gauge,Los_Angeles,Woods Inc,yes,Jennifer Mccormick,2024-05-14,15,247.0
+Lo-WO-00095,Lo-EQ-00095-0,pressure_gauge,Los_Angeles,Arnold-Peters,yes,Jennifer Mccormick,2024-09-08,15,247.0
+Lo-WO-00096,Lo-EQ-00096-0,torque,Los_Angeles,Neal-Kelley,yes,Jennifer Mccormick,2025-03-01,15,300.3
+Lo-WO-00098,Lo-EQ-00098-0,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Kimberly Landry,2024-11-27,15,209.3
+Lo-WO-00098,Lo-EQ-00098-1,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Steven Hicks,2025-04-08,15,209.3
+Lo-WO-00099,Lo-EQ-00099-1,scale,Los_Angeles,"Mcgrath, Barton and Carter",yes,Jennifer Mccormick,2025-04-03,15,209.3
+Lo-WO-00099,Lo-EQ-00099-2,caliper,Los_Angeles,"Mcgrath, Barton and Carter",no,Steven Hicks,2024-06-26,10,229.0
+Lo-WO-00100,Lo-EQ-00100-0,pressure_gauge,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry,2024-10-09,15,247.0
+Lo-WO-00100,Lo-EQ-00100-2,thermometer,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick,2024-06-20,10,189.0
+Lo-WO-00101,Lo-EQ-00101-1,caliper,Los_Angeles,"Combs, Gibson and Mitchell",no,Steven Hicks,2025-02-01,10,229.0
+Lo-WO-00102,Lo-EQ-00102-0,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",yes,Jennifer Mccormick,2025-02-10,15,158.6
+Lo-WO-00102,Lo-EQ-00102-1,torque,Los_Angeles,"Mcgrath, Barton and Carter",yes,Kimberly Landry,2024-08-18,15,300.3
+Lo-WO-00102,Lo-EQ-00102-2,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",no,Kimberly Landry,2024-07-29,10,122.0
+Lo-WO-00103,Lo-EQ-00103-0,caliper,Los_Angeles,"Combs, Gibson and Mitchell",no,Kimberly Landry,2024-12-21,10,229.0
+Lo-WO-00104,Lo-EQ-00104-0,caliper,Los_Angeles,Doyle-Barnes,yes,Kimberly Landry,2024-08-04,15,297.7
+Lo-WO-00104,Lo-EQ-00104-1,scale,Los_Angeles,Doyle-Barnes,yes,Steven Hicks,2024-08-30,15,209.3
+Lo-WO-00105,Lo-EQ-00105-0,flow_meter,Los_Angeles,Parker-Lee,no,Kimberly Landry,2025-03-07,10,122.0
+Lo-WO-00105,Lo-EQ-00105-1,pressure_gauge,Los_Angeles,Parker-Lee,no,Kimberly Landry,2025-04-08,10,190.0
+Lo-WO-00106,Lo-EQ-00106-1,thermometer,Los_Angeles,Rodriguez-Summers,no,Jennifer Mccormick,2024-06-23,10,189.0
+Lo-WO-00108,Lo-EQ-00108-0,thermometer,Los_Angeles,Lopez and Sons,no,Steven Hicks,2025-03-19,10,189.0
+Lo-WO-00109,Lo-EQ-00109-1,pressure_gauge,Los_Angeles,Moreno-Friedman,no,Kimberly Landry,2024-08-15,10,190.0
+Lo-WO-00110,Lo-EQ-00110-0,pressure_gauge,Los_Angeles,Mccann-Hoffman,no,Steven Hicks,2024-10-26,10,190.0
+Lo-WO-00110,Lo-EQ-00110-1,pressure_gauge,Los_Angeles,Mccann-Hoffman,no,Kimberly Landry,2024-06-07,10,190.0
+Lo-WO-00111,Lo-EQ-00111-0,pressure_gauge,Los_Angeles,Holland-Walsh,yes,Jennifer Mccormick,2024-04-29,15,247.0
+Lo-WO-00112,Lo-EQ-00112-0,scale,Los_Angeles,Ball LLC,yes,Kimberly Landry,2025-03-15,15,209.3
+Lo-WO-00112,Lo-EQ-00112-1,scale,Los_Angeles,Ball LLC,yes,Jennifer Mccormick,2024-09-25,15,209.3
+Lo-WO-00113,Lo-EQ-00113-0,pressure_gauge,Los_Angeles,"Combs, Gibson and Mitchell",no,Jennifer Mccormick,2024-06-17,10,190.0
+Lo-WO-00114,Lo-EQ-00114-0,scale,Los_Angeles,Mcdowell-Brooks,no,Jennifer Mccormick,2024-09-26,10,161.0
+Lo-WO-00115,Lo-EQ-00115-0,thermometer,Los_Angeles,Walker-Morales,yes,Steven Hicks,2024-07-12,15,245.7
+Lo-WO-00115,Lo-EQ-00115-2,scale,Los_Angeles,Walker-Morales,no,Kimberly Landry,2025-03-03,10,161.0
+Lo-WO-00116,Lo-EQ-00116-0,torque,Los_Angeles,Woods Inc,yes,Kimberly Landry,2024-07-19,15,300.3
+Lo-WO-00116,Lo-EQ-00116-1,flow_meter,Los_Angeles,Woods Inc,yes,Kimberly Landry,2025-03-23,15,158.6
+Lo-WO-00117,Lo-EQ-00117-0,caliper,Los_Angeles,"Combs, Gibson and Mitchell",yes,Kimberly Landry,2025-03-19,15,297.7
+Lo-WO-00118,Lo-EQ-00118-0,pressure_gauge,Los_Angeles,"Rose, Rivera and Cox",no,Steven Hicks,2025-03-09,10,190.0
+Lo-WO-00118,Lo-EQ-00118-1,thermometer,Los_Angeles,"Rose, Rivera and Cox",no,Jennifer Mccormick,2025-03-22,10,189.0
+Lo-WO-00119,Lo-EQ-00119-0,pressure_gauge,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick,2024-07-28,15,247.0
+Lo-WO-00120,Lo-EQ-00120-0,scale,Los_Angeles,"Combs, Gibson and Mitchell",no,Jennifer Mccormick,2024-09-04,10,161.0
+Lo-WO-00120,Lo-EQ-00120-1,flow_meter,Los_Angeles,"Combs, Gibson and Mitchell",no,Kimberly Landry,2024-05-13,10,122.0
+Lo-WO-00122,Lo-EQ-00122-0,scale,Los_Angeles,"Moore, Prince and Blankenship",yes,Steven Hicks,2024-11-03,15,209.3
+Lo-WO-00122,Lo-EQ-00122-1,pressure_gauge,Los_Angeles,"Moore, Prince and Blankenship",yes,Steven Hicks,2024-04-16,15,247.0
+Lo-WO-00123,Lo-EQ-00123-1,scale,Los_Angeles,Woods Inc,no,Jennifer Mccormick,2024-10-15,10,161.0
+Lo-WO-00124,Lo-EQ-00124-1,scale,Los_Angeles,Miller-Mcguire,no,Kimberly Landry,2025-01-03,10,161.0
+Lo-WO-00125,Lo-EQ-00125-0,scale,Los_Angeles,"Castro, Austin and Sparks",yes,Steven Hicks,2024-10-14,15,209.3
+Lo-WO-00126,Lo-EQ-00126-0,pressure_gauge,Los_Angeles,Stephenson-Herring,yes,Jennifer Mccormick,2025-02-19,15,247.0
+Lo-WO-00126,Lo-EQ-00126-1,flow_meter,Los_Angeles,Stephenson-Herring,no,Kimberly Landry,2024-05-09,10,122.0
+Lo-WO-00126,Lo-EQ-00126-2,flow_meter,Los_Angeles,Stephenson-Herring,yes,Jennifer Mccormick,2024-11-25,15,158.6
+Lo-WO-00127,Lo-EQ-00127-0,scale,Los_Angeles,"Cole, Velasquez and Johnson",yes,Jennifer Mccormick,2024-08-07,15,209.3
+Lo-WO-00128,Lo-EQ-00128-0,torque,Los_Angeles,Ellis Group,yes,Jennifer Mccormick,2024-05-11,15,300.3
+Lo-WO-00128,Lo-EQ-00128-1,scale,Los_Angeles,Ellis Group,yes,Kimberly Landry,2024-04-28,15,209.3
+Lo-WO-00128,Lo-EQ-00128-2,caliper,Los_Angeles,Ellis Group,no,Kimberly Landry,2024-11-09,10,229.0
+Lo-WO-00129,Lo-EQ-00129-0,pressure_gauge,Los_Angeles,Gonzalez LLC,yes,Jennifer Mccormick,2025-02-24,15,247.0
+Lo-WO-00129,Lo-EQ-00129-1,torque,Los_Angeles,Gonzalez LLC,no,Jennifer Mccormick,2024-07-05,10,231.0
+Lo-WO-00130,Lo-EQ-00130-0,flow_meter,Los_Angeles,Garcia Ltd,no,Jennifer Mccormick,2024-09-30,10,122.0
+Lo-WO-00131,Lo-EQ-00131-0,torque,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick,2025-03-13,10,231.0
+Lo-WO-00131,Lo-EQ-00131-1,thermometer,Los_Angeles,Smith-Fernandez,no,Steven Hicks,2025-01-16,10,189.0
+Lo-WO-00132,Lo-EQ-00132-0,pressure_gauge,Los_Angeles,Gonzalez Ltd,no,Kimberly Landry,2024-10-02,10,190.0
+Lo-WO-00133,Lo-EQ-00133-0,torque,Los_Angeles,Tucker-Nelson,yes,Steven Hicks,2025-03-11,15,300.3
+Lo-WO-00134,Lo-EQ-00134-1,scale,Los_Angeles,Collins and Sons,no,Steven Hicks,2024-11-07,10,161.0
+Lo-WO-00134,Lo-EQ-00134-2,caliper,Los_Angeles,Collins and Sons,no,Steven Hicks,2024-04-11,10,229.0
+Lo-WO-00135,Lo-EQ-00135-0,caliper,Los_Angeles,James-Nichols,yes,Steven Hicks,2024-08-24,15,297.7
+Lo-WO-00135,Lo-EQ-00135-1,pressure_gauge,Los_Angeles,James-Nichols,yes,Jennifer Mccormick,2024-05-30,15,247.0
+Lo-WO-00136,Lo-EQ-00136-0,pressure_gauge,Los_Angeles,Holland-Walsh,yes,Kimberly Landry,2024-10-14,15,247.0
+Lo-WO-00136,Lo-EQ-00136-1,scale,Los_Angeles,Holland-Walsh,no,Jennifer Mccormick,2025-02-05,10,161.0
+Lo-WO-00136,Lo-EQ-00136-2,flow_meter,Los_Angeles,Holland-Walsh,yes,Jennifer Mccormick,2024-09-17,15,158.6
+Lo-WO-00138,Lo-EQ-00138-0,caliper,Los_Angeles,"Hawkins, Campos and Booth",yes,Kimberly Landry,2024-07-16,15,297.7
+Lo-WO-00138,Lo-EQ-00138-1,torque,Los_Angeles,"Hawkins, Campos and Booth",no,Steven Hicks,2024-06-28,10,231.0
+Lo-WO-00139,Lo-EQ-00139-1,scale,Los_Angeles,"Good, Stephens and Richardson",no,Steven Hicks,2024-12-13,10,161.0
+Lo-WO-00141,Lo-EQ-00141-0,caliper,Los_Angeles,Martin-Hale,no,Steven Hicks,2025-01-29,10,229.0
+Lo-WO-00142,Lo-EQ-00142-0,torque,Los_Angeles,Hammond-Guerrero,yes,Steven Hicks,2024-05-21,15,300.3
+Lo-WO-00142,Lo-EQ-00142-1,caliper,Los_Angeles,Hammond-Guerrero,yes,Kimberly Landry,2025-02-13,15,297.7
+Lo-WO-00142,Lo-EQ-00142-2,torque,Los_Angeles,Hammond-Guerrero,no,Kimberly Landry,2024-09-08,10,231.0
+Lo-WO-00143,Lo-EQ-00143-0,pressure_gauge,Los_Angeles,Smith-Fernandez,no,Kimberly Landry,2024-09-26,10,190.0
+Lo-WO-00143,Lo-EQ-00143-1,caliper,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry,2025-04-03,15,297.7
+Lo-WO-00143,Lo-EQ-00143-2,torque,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry,2024-04-14,15,300.3
+Lo-WO-00144,Lo-EQ-00144-0,scale,Los_Angeles,"Dillon, Morton and Wood",yes,Steven Hicks,2024-11-04,15,209.3
+Lo-WO-00144,Lo-EQ-00144-1,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",yes,Kimberly Landry,2024-07-17,15,247.0
+Lo-WO-00145,Lo-EQ-00145-1,thermometer,Los_Angeles,"Humphrey, Mullins and Moore",yes,Jennifer Mccormick,2024-06-06,15,245.7
+Lo-WO-00147,Lo-EQ-00147-0,caliper,Los_Angeles,Martin-Hale,yes,Kimberly Landry,2024-10-10,15,297.7
+Lo-WO-00147,Lo-EQ-00147-1,torque,Los_Angeles,Martin-Hale,no,Kimberly Landry,2025-01-08,10,231.0
+Lo-WO-00147,Lo-EQ-00147-2,pressure_gauge,Los_Angeles,Martin-Hale,no,Steven Hicks,2024-06-04,10,190.0
+Lo-WO-00148,Lo-EQ-00148-0,thermometer,Los_Angeles,Wells Inc,yes,Steven Hicks,2025-01-23,15,245.7
+Lo-WO-00148,Lo-EQ-00148-1,torque,Los_Angeles,Wells Inc,yes,Steven Hicks,2025-03-17,15,300.3
+Lo-WO-00149,Lo-EQ-00149-0,flow_meter,Los_Angeles,Garcia Ltd,yes,Jennifer Mccormick,2024-07-05,15,158.6
+Lo-WO-00150,Lo-EQ-00150-0,caliper,Los_Angeles,Huynh Group,no,Steven Hicks,2024-11-11,10,229.0
+Lo-WO-00150,Lo-EQ-00150-1,scale,Los_Angeles,Huynh Group,yes,Steven Hicks,2024-05-03,15,209.3
+Lo-WO-00150,Lo-EQ-00150-2,torque,Los_Angeles,Huynh Group,no,Steven Hicks,2024-10-15,10,231.0
+Lo-WO-00151,Lo-EQ-00151-1,pressure_gauge,Los_Angeles,Willis Inc,no,Steven Hicks,2024-05-21,10,190.0
+Lo-WO-00151,Lo-EQ-00151-2,thermometer,Los_Angeles,Willis Inc,yes,Jennifer Mccormick,2024-07-31,15,245.7
+Lo-WO-00152,Lo-EQ-00152-0,thermometer,Los_Angeles,"Delgado, Krause and Lopez",no,Steven Hicks,2025-01-07,10,189.0
+Lo-WO-00153,Lo-EQ-00153-0,torque,Los_Angeles,"Armstrong, Fletcher and Wilson",no,Kimberly Landry,2024-09-22,10,231.0
+Lo-WO-00153,Lo-EQ-00153-1,caliper,Los_Angeles,"Armstrong, Fletcher and Wilson",yes,Kimberly Landry,2024-05-08,15,297.7
+Lo-WO-00154,Lo-EQ-00154-0,pressure_gauge,Los_Angeles,"Parks, Miller and Watson",no,Jennifer Mccormick,2025-03-04,10,190.0
+Lo-WO-00154,Lo-EQ-00154-1,torque,Los_Angeles,"Parks, Miller and Watson",yes,Jennifer Mccormick,2024-10-13,15,300.3
+Lo-WO-00155,Lo-EQ-00155-0,thermometer,Los_Angeles,Davis and Sons,no,Steven Hicks,2024-08-01,10,189.0
+Lo-WO-00155,Lo-EQ-00155-1,scale,Los_Angeles,Davis and Sons,yes,Steven Hicks,2024-10-11,15,209.3
+Lo-WO-00156,Lo-EQ-00156-1,thermometer,Los_Angeles,Smith-Fernandez,yes,Steven Hicks,2024-09-24,15,245.7
+Lo-WO-00157,Lo-EQ-00157-0,caliper,Los_Angeles,"Rose, Rivera and Cox",no,Kimberly Landry,2024-08-13,10,229.0
+Lo-WO-00157,Lo-EQ-00157-1,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Steven Hicks,2024-06-22,15,209.3
+Lo-WO-00158,Lo-EQ-00158-1,flow_meter,Los_Angeles,"Delgado, Krause and Lopez",no,Kimberly Landry,2024-10-17,10,122.0
+Lo-WO-00158,Lo-EQ-00158-2,caliper,Los_Angeles,"Delgado, Krause and Lopez",yes,Steven Hicks,2024-07-05,15,297.7
+Lo-WO-00159,Lo-EQ-00159-0,scale,Los_Angeles,Chang-Love,no,Jennifer Mccormick,2024-05-05,10,161.0
+Lo-WO-00159,Lo-EQ-00159-2,caliper,Los_Angeles,Chang-Love,no,Kimberly Landry,2024-09-09,10,229.0
+Lo-WO-00160,Lo-EQ-00160-0,torque,Los_Angeles,Fletcher-Boone,no,Kimberly Landry,2024-12-27,10,231.0
+Lo-WO-00161,Lo-EQ-00161-0,pressure_gauge,Los_Angeles,Kelley-Young,no,Steven Hicks,2024-12-16,10,190.0
+Lo-WO-00162,Lo-EQ-00162-0,caliper,Los_Angeles,Romero Group,yes,Kimberly Landry,2025-01-09,15,297.7
+Lo-WO-00162,Lo-EQ-00162-1,flow_meter,Los_Angeles,Romero Group,yes,Jennifer Mccormick,2024-11-03,15,158.6
+Lo-WO-00163,Lo-EQ-00163-0,caliper,Los_Angeles,Thomas LLC,yes,Kimberly Landry,2025-03-20,15,297.7
+Lo-WO-00164,Lo-EQ-00164-0,torque,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick,2024-07-29,10,231.0
+Lo-WO-00164,Lo-EQ-00164-1,caliper,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry,2024-07-18,15,297.7
+Lo-WO-00167,Lo-EQ-00167-0,pressure_gauge,Los_Angeles,Lopez and Sons,no,Steven Hicks,2024-06-28,10,190.0
+Lo-WO-00168,Lo-EQ-00168-0,pressure_gauge,Los_Angeles,Banks-Hughes,no,Kimberly Landry,2024-06-25,10,190.0
+Lo-WO-00169,Lo-EQ-00169-0,caliper,Los_Angeles,Lopez and Sons,no,Steven Hicks,2024-05-06,10,229.0
+Lo-WO-00169,Lo-EQ-00169-1,thermometer,Los_Angeles,Lopez and Sons,no,Steven Hicks,2024-10-22,10,189.0
+Lo-WO-00170,Lo-EQ-00170-0,thermometer,Los_Angeles,Rodriguez Group,no,Jennifer Mccormick,2025-03-10,10,189.0
+Lo-WO-00170,Lo-EQ-00170-1,caliper,Los_Angeles,Rodriguez Group,no,Kimberly Landry,2024-05-23,10,229.0
+Lo-WO-00171,Lo-EQ-00171-0,torque,Los_Angeles,Hamilton Group,no,Kimberly Landry,2024-10-21,10,231.0
+Lo-WO-00171,Lo-EQ-00171-1,pressure_gauge,Los_Angeles,Hamilton Group,yes,Steven Hicks,2024-11-13,15,247.0
+Lo-WO-00172,Lo-EQ-00172-0,flow_meter,Los_Angeles,Ellis Group,no,Jennifer Mccormick,2025-01-06,10,122.0
+Lo-WO-00173,Lo-EQ-00173-0,scale,Los_Angeles,James-Nichols,no,Jennifer Mccormick,2024-07-07,10,161.0
+Lo-WO-00174,Lo-EQ-00174-1,scale,Los_Angeles,Rodriguez Inc,no,Steven Hicks,2024-12-05,10,161.0
+Lo-WO-00175,Lo-EQ-00175-0,torque,Los_Angeles,Brown and Sons,no,Steven Hicks,2024-07-20,10,231.0
+Lo-WO-00175,Lo-EQ-00175-1,thermometer,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick,2025-02-03,15,245.7
+Lo-WO-00175,Lo-EQ-00175-2,torque,Los_Angeles,Brown and Sons,yes,Kimberly Landry,2025-02-25,15,300.3
+Lo-WO-00176,Lo-EQ-00176-0,thermometer,Los_Angeles,Serrano Inc,no,Jennifer Mccormick,2024-08-11,10,189.0
+Lo-WO-00177,Lo-EQ-00177-0,scale,Los_Angeles,Parker-Lee,no,Jennifer Mccormick,2024-10-01,10,161.0
+Lo-WO-00178,Lo-EQ-00178-1,pressure_gauge,Los_Angeles,Holland-Walsh,no,Steven Hicks,2024-12-17,10,190.0
+Lo-WO-00178,Lo-EQ-00178-2,thermometer,Los_Angeles,Holland-Walsh,yes,Steven Hicks,2024-08-06,15,245.7
+Lo-WO-00179,Lo-EQ-00179-0,flow_meter,Los_Angeles,Chang-Love,no,Jennifer Mccormick,2024-11-12,10,122.0
+Lo-WO-00180,Lo-EQ-00180-0,pressure_gauge,Los_Angeles,Gonzalez LLC,no,Steven Hicks,2024-04-22,10,190.0
+Lo-WO-00180,Lo-EQ-00180-1,scale,Los_Angeles,Gonzalez LLC,yes,Steven Hicks,2025-01-02,15,209.3
+Lo-WO-00181,Lo-EQ-00181-0,thermometer,Los_Angeles,"Ramirez, Marsh and Alvarez",yes,Jennifer Mccormick,2024-05-13,15,245.7
+Lo-WO-00181,Lo-EQ-00181-1,flow_meter,Los_Angeles,"Ramirez, Marsh and Alvarez",yes,Kimberly Landry,2024-10-27,15,158.6
+Lo-WO-00182,Lo-EQ-00182-1,thermometer,Los_Angeles,Fletcher-Boone,no,Steven Hicks,2024-10-25,10,189.0
+Lo-WO-00182,Lo-EQ-00182-2,pressure_gauge,Los_Angeles,Fletcher-Boone,no,Kimberly Landry,2024-08-13,10,190.0
+Lo-WO-00183,Lo-EQ-00183-0,pressure_gauge,Los_Angeles,Cole-Cervantes,no,Steven Hicks,2024-07-07,10,190.0
+Lo-WO-00183,Lo-EQ-00183-1,pressure_gauge,Los_Angeles,Cole-Cervantes,yes,Jennifer Mccormick,2024-07-04,15,247.0
+Lo-WO-00183,Lo-EQ-00183-2,pressure_gauge,Los_Angeles,Cole-Cervantes,yes,Steven Hicks,2025-03-20,15,247.0
+Lo-WO-00187,Lo-EQ-00187-0,pressure_gauge,Los_Angeles,"Hawkins, Campos and Booth",yes,Jennifer Mccormick,2024-06-27,15,247.0
+Lo-WO-00187,Lo-EQ-00187-1,pressure_gauge,Los_Angeles,"Hawkins, Campos and Booth",no,Kimberly Landry,2024-04-15,10,190.0
+Lo-WO-00187,Lo-EQ-00187-2,torque,Los_Angeles,"Hawkins, Campos and Booth",yes,Steven Hicks,2024-10-03,15,300.3
+Lo-WO-00188,Lo-EQ-00188-0,pressure_gauge,Los_Angeles,Ibarra-Gonzales,yes,Jennifer Mccormick,2024-08-30,15,247.0
+Lo-WO-00188,Lo-EQ-00188-1,torque,Los_Angeles,Ibarra-Gonzales,no,Jennifer Mccormick,2025-01-28,10,231.0
+Lo-WO-00189,Lo-EQ-00189-0,flow_meter,Los_Angeles,Parker and Sons,yes,Jennifer Mccormick,2024-06-13,15,158.6
+Lo-WO-00190,Lo-EQ-00190-0,torque,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick,2024-08-08,10,231.0
+Lo-WO-00190,Lo-EQ-00190-1,pressure_gauge,Los_Angeles,Smith-Fernandez,yes,Steven Hicks,2025-02-12,15,247.0
+Lo-WO-00192,Lo-EQ-00192-0,thermometer,Los_Angeles,"Delgado, Krause and Lopez",no,Jennifer Mccormick,2024-05-23,10,189.0
+Lo-WO-00192,Lo-EQ-00192-1,scale,Los_Angeles,"Delgado, Krause and Lopez",no,Jennifer Mccormick,2024-04-16,10,161.0
+Lo-WO-00192,Lo-EQ-00192-2,thermometer,Los_Angeles,"Delgado, Krause and Lopez",yes,Steven Hicks,2024-04-14,15,245.7
+Lo-WO-00193,Lo-EQ-00193-0,torque,Los_Angeles,Kelley-Young,yes,Kimberly Landry,2025-01-09,15,300.3
+Lo-WO-00194,Lo-EQ-00194-0,caliper,Los_Angeles,"Moore, Prince and Blankenship",yes,Kimberly Landry,2024-10-02,15,297.7
+Lo-WO-00195,Lo-EQ-00195-0,scale,Los_Angeles,"Castro, Austin and Sparks",yes,Kimberly Landry,2024-05-21,15,209.3
+Lo-WO-00196,Lo-EQ-00196-0,scale,Los_Angeles,"Hawkins, Campos and Booth",yes,Steven Hicks,2024-09-17,15,209.3
+Lo-WO-00196,Lo-EQ-00196-1,torque,Los_Angeles,"Hawkins, Campos and Booth",no,Kimberly Landry,2024-07-14,10,231.0
+Lo-WO-00196,Lo-EQ-00196-2,scale,Los_Angeles,"Hawkins, Campos and Booth",yes,Kimberly Landry,2024-07-14,15,209.3
+Lo-WO-00197,Lo-EQ-00197-0,scale,Los_Angeles,Spencer-Williams,yes,Steven Hicks,2025-01-31,15,209.3
+Lo-WO-00198,Lo-EQ-00198-0,scale,Los_Angeles,Jensen-Bell,no,Jennifer Mccormick,2024-11-14,10,161.0
+Lo-WO-00199,Lo-EQ-00199-0,scale,Los_Angeles,Miller-Decker,yes,Steven Hicks,2024-06-13,15,209.3
+Lo-WO-00199,Lo-EQ-00199-1,thermometer,Los_Angeles,Miller-Decker,no,Jennifer Mccormick,2024-04-17,10,189.0
+Ne-WO-00000,Ne-EQ-00000-0,pressure_gauge,New_York,"Mitchell, Stephens and Ford",yes,Clarence Maldonado,2024-08-14,15,201.5
+Ne-WO-00001,Ne-EQ-00001-0,flow_meter,New_York,"Bell, Haney and Roberson",yes,Austin Huynh,2024-10-07,15,261.3
+Ne-WO-00001,Ne-EQ-00001-1,caliper,New_York,"Bell, Haney and Roberson",no,Austin Mejia,2024-05-14,10,100.0
+Ne-WO-00002,Ne-EQ-00002-0,caliper,New_York,Morris-West,no,Clarence Maldonado,2025-02-19,10,100.0
+Ne-WO-00003,Ne-EQ-00003-0,scale,New_York,"Moore, Prince and Blankenship",yes,Clarence Maldonado,2024-06-14,15,146.9
+Ne-WO-00003,Ne-EQ-00003-1,flow_meter,New_York,"Moore, Prince and Blankenship",yes,Austin Mejia,2024-12-08,15,261.3
+Ne-WO-00004,Ne-EQ-00004-0,caliper,New_York,Potts-Huang,no,Clarence Maldonado,2024-09-27,10,100.0
+Ne-WO-00004,Ne-EQ-00004-1,thermometer,New_York,Potts-Huang,yes,Austin Huynh,2025-03-24,15,157.3
+Ne-WO-00004,Ne-EQ-00004-2,flow_meter,New_York,Potts-Huang,no,Austin Huynh,2024-04-26,10,201.0
+Ne-WO-00005,Ne-EQ-00005-0,thermometer,New_York,Gates and Sons,no,Austin Mejia,2024-05-20,10,121.0
+Ne-WO-00006,Ne-EQ-00006-1,flow_meter,New_York,Atkinson Group,no,Austin Mejia,2024-11-20,10,201.0
+Ne-WO-00007,Ne-EQ-00007-0,thermometer,New_York,Parker-Lee,no,Austin Huynh,2024-12-10,10,121.0
+Ne-WO-00008,Ne-EQ-00008-0,thermometer,New_York,Neal-Kelley,no,Austin Mejia,2024-05-24,10,121.0
+Ne-WO-00009,Ne-EQ-00009-0,scale,New_York,Barrett-Figueroa,no,Austin Huynh,2025-01-21,10,113.0
+Ne-WO-00010,Ne-EQ-00010-0,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Austin Mejia,2025-03-05,15,201.5
+Ne-WO-00011,Ne-EQ-00011-0,caliper,New_York,"Wade, Cruz and White",no,Austin Huynh,2024-05-17,10,100.0
+Ne-WO-00011,Ne-EQ-00011-1,pressure_gauge,New_York,"Wade, Cruz and White",no,Austin Huynh,2024-10-26,10,155.0
+Ne-WO-00013,Ne-EQ-00013-0,flow_meter,New_York,"White, Grant and Flores",no,Austin Mejia,2024-08-22,10,201.0
+Ne-WO-00014,Ne-EQ-00014-0,torque,New_York,Wells Inc,no,Clarence Maldonado,2025-01-16,10,195.0
+Ne-WO-00015,Ne-EQ-00015-0,pressure_gauge,New_York,"Good, Stephens and Richardson",yes,Austin Mejia,2024-08-31,15,201.5
+Ne-WO-00015,Ne-EQ-00015-1,caliper,New_York,"Good, Stephens and Richardson",yes,Austin Mejia,2025-01-21,15,130.0
+Ne-WO-00015,Ne-EQ-00015-2,thermometer,New_York,"Good, Stephens and Richardson",no,Austin Huynh,2024-11-12,10,121.0
+Ne-WO-00016,Ne-EQ-00016-0,scale,New_York,"Cole, Velasquez and Johnson",no,Clarence Maldonado,2025-01-15,10,113.0
+Ne-WO-00017,Ne-EQ-00017-0,caliper,New_York,Davis and Sons,no,Clarence Maldonado,2024-04-21,10,100.0
+Ne-WO-00017,Ne-EQ-00017-1,thermometer,New_York,Davis and Sons,no,Austin Mejia,2025-01-27,10,121.0
+Ne-WO-00018,Ne-EQ-00018-0,caliper,New_York,Ibarra-Gonzales,yes,Clarence Maldonado,2025-02-28,15,130.0
+Ne-WO-00018,Ne-EQ-00018-1,caliper,New_York,Ibarra-Gonzales,no,Austin Huynh,2024-05-26,10,100.0
+Ne-WO-00019,Ne-EQ-00019-0,thermometer,New_York,"Mitchell, Stephens and Ford",no,Austin Huynh,2024-11-06,10,121.0
+Ne-WO-00019,Ne-EQ-00019-1,pressure_gauge,New_York,"Mitchell, Stephens and Ford",no,Clarence Maldonado,2024-05-18,10,155.0
+Ne-WO-00020,Ne-EQ-00020-0,flow_meter,New_York,Morris-West,yes,Austin Mejia,2024-05-13,15,261.3
+Ne-WO-00020,Ne-EQ-00020-1,scale,New_York,Morris-West,no,Clarence Maldonado,2024-05-04,10,113.0
+Ne-WO-00021,Ne-EQ-00021-1,flow_meter,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado,2024-05-16,10,201.0
+Ne-WO-00021,Ne-EQ-00021-2,flow_meter,New_York,"Moore, Prince and Blankenship",no,Austin Mejia,2024-10-25,10,201.0
+Ne-WO-00022,Ne-EQ-00022-0,flow_meter,New_York,Neal-Kelley,yes,Austin Huynh,2024-05-11,15,261.3
+Ne-WO-00023,Ne-EQ-00023-0,scale,New_York,Hicks PLC,yes,Austin Huynh,2024-05-18,15,146.9
+Ne-WO-00023,Ne-EQ-00023-1,flow_meter,New_York,Hicks PLC,no,Austin Mejia,2024-05-06,10,201.0
+Ne-WO-00025,Ne-EQ-00025-0,pressure_gauge,New_York,Grant and Sons,no,Austin Mejia,2024-09-05,10,155.0
+Ne-WO-00026,Ne-EQ-00026-0,caliper,New_York,Serrano Inc,yes,Austin Mejia,2025-03-28,15,130.0
+Ne-WO-00027,Ne-EQ-00027-0,scale,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia,2024-06-02,15,146.9
+Ne-WO-00027,Ne-EQ-00027-1,caliper,New_York,"Combs, Gibson and Mitchell",no,Clarence Maldonado,2024-11-16,10,100.0
+Ne-WO-00027,Ne-EQ-00027-2,flow_meter,New_York,"Combs, Gibson and Mitchell",yes,Clarence Maldonado,2024-09-03,15,261.3
+Ne-WO-00028,Ne-EQ-00028-0,pressure_gauge,New_York,Hammond-Guerrero,yes,Clarence Maldonado,2024-06-02,15,201.5
+Ne-WO-00028,Ne-EQ-00028-1,caliper,New_York,Hammond-Guerrero,yes,Austin Huynh,2025-02-14,15,130.0
+Ne-WO-00028,Ne-EQ-00028-2,caliper,New_York,Hammond-Guerrero,no,Austin Huynh,2024-08-12,10,100.0
+Ne-WO-00029,Ne-EQ-00029-0,pressure_gauge,New_York,Hicks PLC,no,Clarence Maldonado,2025-03-25,10,155.0
+Ne-WO-00030,Ne-EQ-00030-0,scale,New_York,Mccann-Hoffman,no,Austin Mejia,2024-07-25,10,113.0
+Ne-WO-00030,Ne-EQ-00030-1,scale,New_York,Mccann-Hoffman,yes,Austin Huynh,2025-03-08,15,146.9
+Ne-WO-00031,Ne-EQ-00031-0,torque,New_York,Baker PLC,yes,Clarence Maldonado,2024-06-06,15,253.5
+Ne-WO-00032,Ne-EQ-00032-0,scale,New_York,Stephenson-Herring,yes,Austin Mejia,2024-06-20,15,146.9
+Ne-WO-00032,Ne-EQ-00032-1,pressure_gauge,New_York,Stephenson-Herring,yes,Austin Mejia,2024-06-16,15,201.5
+Ne-WO-00033,Ne-EQ-00033-0,thermometer,New_York,Smith-Anthony,no,Austin Mejia,2024-06-27,10,121.0
+Ne-WO-00034,Ne-EQ-00034-0,flow_meter,New_York,Ibarra-Gonzales,yes,Austin Huynh,2024-08-29,15,261.3
+Ne-WO-00034,Ne-EQ-00034-1,pressure_gauge,New_York,Ibarra-Gonzales,yes,Austin Huynh,2024-10-21,15,201.5
+Ne-WO-00036,Ne-EQ-00036-1,thermometer,New_York,"Castro, Austin and Sparks",no,Austin Mejia,2025-01-05,10,121.0
+Ne-WO-00037,Ne-EQ-00037-0,torque,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado,2024-07-16,15,253.5
+Ne-WO-00037,Ne-EQ-00037-1,torque,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado,2024-12-10,15,253.5
+Ne-WO-00037,Ne-EQ-00037-2,scale,New_York,"Dillon, Morton and Wood",no,Austin Mejia,2024-09-07,10,113.0
+Ne-WO-00038,Ne-EQ-00038-0,flow_meter,New_York,Orr LLC,yes,Austin Mejia,2024-08-19,15,261.3
+Ne-WO-00039,Ne-EQ-00039-0,scale,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Mejia,2025-03-12,15,146.9
+Ne-WO-00040,Ne-EQ-00040-0,pressure_gauge,New_York,"Mitchell, Stephens and Ford",no,Austin Mejia,2025-03-22,10,155.0
+Ne-WO-00040,Ne-EQ-00040-1,caliper,New_York,"Mitchell, Stephens and Ford",no,Clarence Maldonado,2025-01-10,10,100.0
+Ne-WO-00041,Ne-EQ-00041-0,caliper,New_York,Mann PLC,yes,Clarence Maldonado,2024-07-20,15,130.0
+Ne-WO-00041,Ne-EQ-00041-1,scale,New_York,Mann PLC,no,Austin Huynh,2024-07-21,10,113.0
+Ne-WO-00041,Ne-EQ-00041-2,thermometer,New_York,Mann PLC,yes,Austin Huynh,2024-12-02,15,157.3
+Ne-WO-00042,Ne-EQ-00042-0,torque,New_York,Grant and Sons,yes,Clarence Maldonado,2024-04-12,15,253.5
+Ne-WO-00043,Ne-EQ-00043-0,caliper,New_York,Grant and Sons,yes,Austin Mejia,2024-10-24,15,130.0
+Ne-WO-00044,Ne-EQ-00044-0,scale,New_York,"Castro, Austin and Sparks",yes,Austin Huynh,2025-01-30,15,146.9
+Ne-WO-00045,Ne-EQ-00045-0,pressure_gauge,New_York,Garcia Ltd,no,Austin Huynh,2024-11-13,10,155.0
+Ne-WO-00045,Ne-EQ-00045-2,pressure_gauge,New_York,Garcia Ltd,yes,Austin Huynh,2025-01-29,15,201.5
+Ne-WO-00046,Ne-EQ-00046-0,caliper,New_York,James-Nichols,yes,Austin Mejia,2024-04-28,15,130.0
+Ne-WO-00046,Ne-EQ-00046-1,scale,New_York,James-Nichols,no,Clarence Maldonado,2025-02-28,10,113.0
+Ne-WO-00046,Ne-EQ-00046-2,scale,New_York,James-Nichols,no,Austin Huynh,2024-08-04,10,113.0
+Ne-WO-00047,Ne-EQ-00047-0,flow_meter,New_York,Banks-Hughes,no,Austin Huynh,2024-06-14,10,201.0
+Ne-WO-00047,Ne-EQ-00047-1,thermometer,New_York,Banks-Hughes,no,Austin Huynh,2024-10-27,10,121.0
+Ne-WO-00047,Ne-EQ-00047-2,pressure_gauge,New_York,Banks-Hughes,no,Austin Mejia,2024-12-27,10,155.0
+Ne-WO-00048,Ne-EQ-00048-0,caliper,New_York,Smith-Fernandez,no,Austin Huynh,2025-02-26,10,100.0
+Ne-WO-00048,Ne-EQ-00048-1,thermometer,New_York,Smith-Fernandez,no,Austin Mejia,2024-05-12,10,121.0
+Ne-WO-00049,Ne-EQ-00049-1,caliper,New_York,"Delgado, Krause and Lopez",no,Clarence Maldonado,2024-06-18,10,100.0
+Ne-WO-00049,Ne-EQ-00049-2,flow_meter,New_York,"Delgado, Krause and Lopez",yes,Austin Huynh,2024-05-11,15,261.3
+Ne-WO-00050,Ne-EQ-00050-0,scale,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia,2025-02-14,15,146.9
+Ne-WO-00050,Ne-EQ-00050-2,thermometer,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia,2024-09-05,15,157.3
+Ne-WO-00051,Ne-EQ-00051-0,pressure_gauge,New_York,"Humphrey, Mullins and Moore",yes,Austin Mejia,2024-11-26,15,201.5
+Ne-WO-00052,Ne-EQ-00052-0,flow_meter,New_York,Miller-Mcguire,no,Clarence Maldonado,2024-05-02,10,201.0
+Ne-WO-00053,Ne-EQ-00053-0,flow_meter,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia,2024-09-14,15,261.3
+Ne-WO-00053,Ne-EQ-00053-1,pressure_gauge,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia,2024-09-10,15,201.5
+Ne-WO-00054,Ne-EQ-00054-0,flow_meter,New_York,Spencer-Williams,no,Clarence Maldonado,2024-06-25,10,201.0
+Ne-WO-00055,Ne-EQ-00055-0,pressure_gauge,New_York,Freeman-Rice,yes,Austin Mejia,2024-09-18,15,201.5
+Ne-WO-00056,Ne-EQ-00056-0,caliper,New_York,Wells Inc,yes,Austin Huynh,2024-06-14,15,130.0
+Ne-WO-00056,Ne-EQ-00056-1,flow_meter,New_York,Wells Inc,yes,Austin Huynh,2024-06-10,15,261.3
+Ne-WO-00057,Ne-EQ-00057-0,flow_meter,New_York,Santiago and Sons,yes,Austin Mejia,2024-05-10,15,261.3
+Ne-WO-00059,Ne-EQ-00059-0,scale,New_York,Hardin-Mcdonald,yes,Clarence Maldonado,2024-10-30,15,146.9
+Ne-WO-00059,Ne-EQ-00059-1,thermometer,New_York,Hardin-Mcdonald,no,Austin Huynh,2024-04-13,10,121.0
+Ne-WO-00059,Ne-EQ-00059-2,pressure_gauge,New_York,Hardin-Mcdonald,no,Austin Mejia,2024-05-12,10,155.0
+Ne-WO-00060,Ne-EQ-00060-1,pressure_gauge,New_York,Kelley-Young,yes,Austin Huynh,2024-09-01,15,201.5
+Ne-WO-00061,Ne-EQ-00061-0,thermometer,New_York,Grant and Sons,yes,Austin Mejia,2024-06-22,15,157.3
+Ne-WO-00061,Ne-EQ-00061-1,pressure_gauge,New_York,Grant and Sons,no,Austin Mejia,2024-05-07,10,155.0
+Ne-WO-00062,Ne-EQ-00062-0,flow_meter,New_York,Arnold-Peters,no,Austin Huynh,2024-06-30,10,201.0
+Ne-WO-00062,Ne-EQ-00062-1,thermometer,New_York,Arnold-Peters,yes,Austin Huynh,2024-04-10,15,157.3
+Ne-WO-00063,Ne-EQ-00063-0,thermometer,New_York,"Ramirez, Marsh and Alvarez",no,Austin Huynh,2024-05-15,10,121.0
+Ne-WO-00063,Ne-EQ-00063-1,caliper,New_York,"Ramirez, Marsh and Alvarez",yes,Austin Huynh,2024-05-01,15,130.0
+Ne-WO-00064,Ne-EQ-00064-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Clarence Maldonado,2024-11-25,10,201.0
+Ne-WO-00065,Ne-EQ-00065-0,torque,New_York,"Dillon, Morton and Wood",no,Clarence Maldonado,2024-08-28,10,195.0
+Ne-WO-00066,Ne-EQ-00066-0,thermometer,New_York,Moreno-Friedman,no,Austin Huynh,2024-04-29,10,121.0
+Ne-WO-00067,Ne-EQ-00067-0,pressure_gauge,New_York,Lopez and Sons,no,Austin Huynh,2024-07-23,10,155.0
+Ne-WO-00067,Ne-EQ-00067-1,flow_meter,New_York,Lopez and Sons,no,Austin Mejia,2025-01-16,10,201.0
+Ne-WO-00069,Ne-EQ-00069-0,flow_meter,New_York,Mccann-Hoffman,yes,Clarence Maldonado,2025-02-26,15,261.3
+Ne-WO-00070,Ne-EQ-00070-0,flow_meter,New_York,Brown and Sons,no,Austin Mejia,2024-05-10,10,201.0
+Ne-WO-00070,Ne-EQ-00070-1,flow_meter,New_York,Brown and Sons,no,Austin Huynh,2024-08-22,10,201.0
+Ne-WO-00070,Ne-EQ-00070-2,caliper,New_York,Brown and Sons,no,Austin Huynh,2024-10-14,10,100.0
+Ne-WO-00071,Ne-EQ-00071-0,caliper,New_York,"Wade, Cruz and White",no,Austin Huynh,2024-12-23,10,100.0
+Ne-WO-00072,Ne-EQ-00072-0,pressure_gauge,New_York,Gates and Sons,yes,Clarence Maldonado,2024-11-08,15,201.5
+Ne-WO-00073,Ne-EQ-00073-1,pressure_gauge,New_York,Jensen-Bell,no,Austin Mejia,2024-08-14,10,155.0
+Ne-WO-00073,Ne-EQ-00073-2,torque,New_York,Jensen-Bell,yes,Clarence Maldonado,2024-07-10,15,253.5
+Ne-WO-00074,Ne-EQ-00074-0,scale,New_York,Hamilton Group,no,Austin Huynh,2024-11-23,10,113.0
+Ne-WO-00075,Ne-EQ-00075-0,caliper,New_York,"White, Grant and Flores",yes,Austin Huynh,2024-04-20,15,130.0
+Ne-WO-00076,Ne-EQ-00076-0,caliper,New_York,Ross Inc,no,Austin Mejia,2024-08-28,10,100.0
+Ne-WO-00076,Ne-EQ-00076-1,caliper,New_York,Ross Inc,yes,Clarence Maldonado,2025-02-19,15,130.0
+Ne-WO-00076,Ne-EQ-00076-2,pressure_gauge,New_York,Ross Inc,no,Austin Mejia,2024-05-02,10,155.0
+Ne-WO-00077,Ne-EQ-00077-0,scale,New_York,Hammond-Guerrero,yes,Austin Mejia,2024-08-24,15,146.9
+Ne-WO-00078,Ne-EQ-00078-0,torque,New_York,Mann PLC,yes,Clarence Maldonado,2024-05-13,15,253.5
+Ne-WO-00078,Ne-EQ-00078-2,flow_meter,New_York,Mann PLC,no,Clarence Maldonado,2024-11-15,10,201.0
+Ne-WO-00079,Ne-EQ-00079-1,flow_meter,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado,2024-12-14,15,261.3
+Ne-WO-00079,Ne-EQ-00079-2,pressure_gauge,New_York,"Dillon, Morton and Wood",yes,Austin Huynh,2024-11-29,15,201.5
+Ne-WO-00080,Ne-EQ-00080-0,scale,New_York,Atkinson Group,no,Clarence Maldonado,2024-11-05,10,113.0
+Ne-WO-00080,Ne-EQ-00080-1,thermometer,New_York,Atkinson Group,no,Austin Mejia,2024-08-14,10,121.0
+Ne-WO-00081,Ne-EQ-00081-0,flow_meter,New_York,"Humphrey, Mullins and Moore",yes,Austin Huynh,2024-12-20,15,261.3
+Ne-WO-00081,Ne-EQ-00081-2,flow_meter,New_York,"Humphrey, Mullins and Moore",yes,Austin Huynh,2025-02-24,15,261.3
+Ne-WO-00082,Ne-EQ-00082-0,caliper,New_York,Spencer-Williams,no,Austin Huynh,2024-08-27,10,100.0
+Ne-WO-00082,Ne-EQ-00082-1,scale,New_York,Spencer-Williams,no,Clarence Maldonado,2025-02-16,10,113.0
+Ne-WO-00083,Ne-EQ-00083-0,flow_meter,New_York,Potts-Huang,yes,Austin Mejia,2025-01-09,15,261.3
+Ne-WO-00084,Ne-EQ-00084-0,caliper,New_York,Willis Inc,no,Austin Mejia,2024-10-21,10,100.0
+Ne-WO-00084,Ne-EQ-00084-1,thermometer,New_York,Willis Inc,no,Austin Huynh,2024-08-16,10,121.0
+Ne-WO-00085,Ne-EQ-00085-0,scale,New_York,"Hawkins, Campos and Booth",yes,Austin Huynh,2025-01-10,15,146.9
+Ne-WO-00086,Ne-EQ-00086-0,torque,New_York,Willis Inc,yes,Clarence Maldonado,2025-02-27,15,253.5
+Ne-WO-00087,Ne-EQ-00087-0,flow_meter,New_York,"Delgado, Krause and Lopez",no,Austin Huynh,2025-03-10,10,201.0
+Ne-WO-00088,Ne-EQ-00088-0,thermometer,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Huynh,2024-09-26,15,157.3
+Ne-WO-00089,Ne-EQ-00089-0,torque,New_York,Baker PLC,no,Clarence Maldonado,2025-02-23,10,195.0
+Ne-WO-00090,Ne-EQ-00090-1,thermometer,New_York,Barrett-Figueroa,yes,Austin Huynh,2025-01-05,15,157.3
+Ne-WO-00091,Ne-EQ-00091-0,thermometer,New_York,Ball LLC,yes,Austin Mejia,2024-08-17,15,157.3
+Ne-WO-00091,Ne-EQ-00091-1,caliper,New_York,Ball LLC,no,Austin Huynh,2025-02-15,10,100.0
+Ne-WO-00092,Ne-EQ-00092-0,caliper,New_York,Parker-Lee,yes,Clarence Maldonado,2024-05-04,15,130.0
+Ne-WO-00092,Ne-EQ-00092-1,pressure_gauge,New_York,Parker-Lee,yes,Austin Mejia,2025-01-01,15,201.5
+Ne-WO-00093,Ne-EQ-00093-0,flow_meter,New_York,Walker-Morales,yes,Austin Mejia,2024-11-26,15,261.3
+Ne-WO-00093,Ne-EQ-00093-1,torque,New_York,Walker-Morales,no,Clarence Maldonado,2024-11-06,10,195.0
+Ne-WO-00094,Ne-EQ-00094-1,pressure_gauge,New_York,Ross Inc,no,Austin Mejia,2024-04-16,10,155.0
+Ne-WO-00095,Ne-EQ-00095-0,scale,New_York,Walker-Morales,no,Austin Huynh,2024-11-23,10,113.0
+Ne-WO-00095,Ne-EQ-00095-1,pressure_gauge,New_York,Walker-Morales,yes,Clarence Maldonado,2024-12-21,15,201.5
+Ne-WO-00095,Ne-EQ-00095-2,flow_meter,New_York,Walker-Morales,yes,Clarence Maldonado,2024-12-28,15,261.3
+Ne-WO-00096,Ne-EQ-00096-0,caliper,New_York,Doyle-Barnes,no,Austin Huynh,2024-05-15,10,100.0
+Ne-WO-00096,Ne-EQ-00096-1,caliper,New_York,Doyle-Barnes,no,Austin Huynh,2024-09-24,10,100.0
+Ne-WO-00097,Ne-EQ-00097-0,scale,New_York,"Moore, Prince and Blankenship",yes,Austin Huynh,2024-11-26,15,146.9
+Ne-WO-00098,Ne-EQ-00098-0,caliper,New_York,Garner-Rose,yes,Clarence Maldonado,2024-04-14,15,130.0
+Ne-WO-00099,Ne-EQ-00099-0,torque,New_York,Santiago and Sons,yes,Clarence Maldonado,2024-09-16,15,253.5
+Ne-WO-00099,Ne-EQ-00099-1,thermometer,New_York,Santiago and Sons,no,Austin Mejia,2024-08-31,10,121.0
+Ne-WO-00100,Ne-EQ-00100-0,pressure_gauge,New_York,"Alexander, Green and Mcbride",no,Austin Huynh,2024-12-12,10,155.0
+Ne-WO-00100,Ne-EQ-00100-1,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Clarence Maldonado,2025-03-27,15,201.5
+Ne-WO-00100,Ne-EQ-00100-2,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Austin Huynh,2025-02-26,15,201.5
+Ne-WO-00101,Ne-EQ-00101-1,pressure_gauge,New_York,Brown and Sons,no,Clarence Maldonado,2025-03-20,10,155.0
+Ne-WO-00101,Ne-EQ-00101-2,torque,New_York,Brown and Sons,yes,Clarence Maldonado,2024-10-28,15,253.5
+Ne-WO-00102,Ne-EQ-00102-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Austin Mejia,2024-08-05,10,201.0
+Ne-WO-00103,Ne-EQ-00103-0,caliper,New_York,Thomas LLC,yes,Austin Huynh,2025-03-07,15,130.0
+Ne-WO-00104,Ne-EQ-00104-0,scale,New_York,"Copeland, Torres and Morales",yes,Clarence Maldonado,2024-06-08,15,146.9
+Ne-WO-00105,Ne-EQ-00105-0,scale,New_York,"Moore, Prince and Blankenship",yes,Clarence Maldonado,2024-10-10,15,146.9
+Ne-WO-00106,Ne-EQ-00106-1,pressure_gauge,New_York,"Moore, Prince and Blankenship",no,Austin Mejia,2024-07-20,10,155.0
+Ne-WO-00106,Ne-EQ-00106-2,scale,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado,2024-07-09,10,113.0
+Ne-WO-00107,Ne-EQ-00107-0,caliper,New_York,Hicks PLC,no,Austin Huynh,2024-08-25,10,100.0
+Ne-WO-00107,Ne-EQ-00107-1,flow_meter,New_York,Hicks PLC,no,Clarence Maldonado,2024-04-30,10,201.0
+Ne-WO-00109,Ne-EQ-00109-0,torque,New_York,Holland-Walsh,yes,Clarence Maldonado,2025-03-18,15,253.5
+Ne-WO-00109,Ne-EQ-00109-1,pressure_gauge,New_York,Holland-Walsh,no,Austin Huynh,2024-06-07,10,155.0
+Ne-WO-00111,Ne-EQ-00111-0,scale,New_York,Brown and Sons,yes,Austin Huynh,2024-12-29,15,146.9
+Ne-WO-00111,Ne-EQ-00111-1,pressure_gauge,New_York,Brown and Sons,yes,Austin Huynh,2025-01-23,15,201.5
+Ne-WO-00111,Ne-EQ-00111-2,caliper,New_York,Brown and Sons,yes,Clarence Maldonado,2024-11-26,15,130.0
+Ne-WO-00112,Ne-EQ-00112-0,torque,New_York,Ball LLC,no,Clarence Maldonado,2025-03-06,10,195.0
+Ne-WO-00112,Ne-EQ-00112-1,caliper,New_York,Ball LLC,yes,Austin Huynh,2025-03-25,15,130.0
+Ne-WO-00113,Ne-EQ-00113-0,thermometer,New_York,Huynh Group,no,Austin Huynh,2024-09-21,10,121.0
+Ne-WO-00113,Ne-EQ-00113-2,scale,New_York,Huynh Group,no,Austin Mejia,2024-10-19,10,113.0
+Ne-WO-00114,Ne-EQ-00114-0,thermometer,New_York,"Thompson, Anderson and Hopkins",yes,Austin Huynh,2025-03-08,15,157.3
+Ne-WO-00115,Ne-EQ-00115-0,flow_meter,New_York,Romero Group,no,Clarence Maldonado,2024-08-25,10,201.0
+Ne-WO-00116,Ne-EQ-00116-0,thermometer,New_York,"Moore, Prince and Blankenship",no,Austin Huynh,2024-08-19,10,121.0
+Ne-WO-00117,Ne-EQ-00117-0,flow_meter,New_York,Hicks PLC,yes,Austin Mejia,2025-02-03,15,261.3
+Ne-WO-00118,Ne-EQ-00118-0,pressure_gauge,New_York,"Delgado, Krause and Lopez",yes,Clarence Maldonado,2024-11-15,15,201.5
+Ne-WO-00118,Ne-EQ-00118-1,caliper,New_York,"Delgado, Krause and Lopez",yes,Austin Huynh,2025-03-22,15,130.0
+Ne-WO-00118,Ne-EQ-00118-2,scale,New_York,"Delgado, Krause and Lopez",no,Austin Huynh,2025-02-14,10,113.0
+Ne-WO-00119,Ne-EQ-00119-0,pressure_gauge,New_York,Ball LLC,yes,Austin Huynh,2024-10-26,15,201.5
+Ne-WO-00119,Ne-EQ-00119-1,pressure_gauge,New_York,Ball LLC,no,Austin Mejia,2024-07-04,10,155.0
+Ne-WO-00119,Ne-EQ-00119-2,flow_meter,New_York,Ball LLC,no,Clarence Maldonado,2024-07-07,10,201.0
+Ne-WO-00120,Ne-EQ-00120-0,caliper,New_York,Fletcher-Boone,yes,Austin Huynh,2024-05-09,15,130.0
+Ne-WO-00121,Ne-EQ-00121-2,scale,New_York,"Moore, Prince and Blankenship",no,Austin Huynh,2024-10-09,10,113.0
+Ne-WO-00122,Ne-EQ-00122-0,torque,New_York,Hicks PLC,no,Clarence Maldonado,2024-09-15,10,195.0
+Ne-WO-00123,Ne-EQ-00123-0,scale,New_York,Holland-Walsh,no,Austin Huynh,2025-02-10,10,113.0
+Ne-WO-00123,Ne-EQ-00123-1,thermometer,New_York,Holland-Walsh,yes,Austin Huynh,2024-04-23,15,157.3
+Ne-WO-00123,Ne-EQ-00123-2,pressure_gauge,New_York,Holland-Walsh,no,Clarence Maldonado,2025-03-14,10,155.0
+Ne-WO-00124,Ne-EQ-00124-2,caliper,New_York,Davis and Sons,no,Austin Mejia,2025-02-20,10,100.0
+Ne-WO-00125,Ne-EQ-00125-0,pressure_gauge,New_York,Romero Group,no,Clarence Maldonado,2024-08-02,10,155.0
+Ne-WO-00126,Ne-EQ-00126-0,scale,New_York,"Rose, Rivera and Cox",yes,Austin Huynh,2024-10-01,15,146.9
+Ne-WO-00126,Ne-EQ-00126-1,pressure_gauge,New_York,"Rose, Rivera and Cox",yes,Austin Huynh,2024-12-29,15,201.5
+Ne-WO-00127,Ne-EQ-00127-0,torque,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado,2025-03-18,10,195.0
+Ne-WO-00128,Ne-EQ-00128-0,flow_meter,New_York,"Copeland, Torres and Morales",yes,Austin Mejia,2025-03-20,15,261.3
+Ne-WO-00129,Ne-EQ-00129-0,caliper,New_York,Holland-Walsh,yes,Clarence Maldonado,2024-12-24,15,130.0
+Ne-WO-00129,Ne-EQ-00129-1,pressure_gauge,New_York,Holland-Walsh,no,Austin Mejia,2025-01-10,10,155.0
+Ne-WO-00129,Ne-EQ-00129-2,flow_meter,New_York,Holland-Walsh,yes,Austin Huynh,2024-06-12,15,261.3
+Ne-WO-00130,Ne-EQ-00130-0,flow_meter,New_York,Orr LLC,yes,Austin Huynh,2024-06-16,15,261.3
+Ne-WO-00130,Ne-EQ-00130-1,scale,New_York,Orr LLC,yes,Austin Mejia,2024-09-27,15,146.9
+Ne-WO-00130,Ne-EQ-00130-2,pressure_gauge,New_York,Orr LLC,yes,Clarence Maldonado,2024-10-17,15,201.5
+Ne-WO-00131,Ne-EQ-00131-0,caliper,New_York,Potts-Huang,yes,Clarence Maldonado,2024-07-04,15,130.0
+Ne-WO-00131,Ne-EQ-00131-1,flow_meter,New_York,Potts-Huang,no,Austin Huynh,2024-07-28,10,201.0
+Ne-WO-00131,Ne-EQ-00131-2,scale,New_York,Potts-Huang,no,Austin Mejia,2024-06-07,10,113.0
+Ne-WO-00132,Ne-EQ-00132-0,pressure_gauge,New_York,Baker PLC,no,Austin Mejia,2024-11-25,10,155.0
+Ne-WO-00132,Ne-EQ-00132-1,scale,New_York,Baker PLC,yes,Austin Mejia,2024-09-09,15,146.9
+Ne-WO-00132,Ne-EQ-00132-2,scale,New_York,Baker PLC,no,Clarence Maldonado,2025-04-03,10,113.0
+Ne-WO-00133,Ne-EQ-00133-0,scale,New_York,Romero Group,no,Austin Huynh,2024-11-05,10,113.0
+Ne-WO-00135,Ne-EQ-00135-0,pressure_gauge,New_York,Mills Inc,no,Clarence Maldonado,2024-10-21,10,155.0
+Ne-WO-00136,Ne-EQ-00136-0,flow_meter,New_York,"Mcgrath, Barton and Carter",no,Clarence Maldonado,2024-09-10,10,201.0
+Ne-WO-00136,Ne-EQ-00136-1,thermometer,New_York,"Mcgrath, Barton and Carter",no,Austin Huynh,2024-11-02,10,121.0
+Ne-WO-00136,Ne-EQ-00136-2,caliper,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia,2025-03-05,15,130.0
+Ne-WO-00138,Ne-EQ-00138-0,pressure_gauge,New_York,"Cole, Velasquez and Johnson",no,Clarence Maldonado,2024-05-01,10,155.0
+Ne-WO-00139,Ne-EQ-00139-0,thermometer,New_York,Holland-Walsh,yes,Austin Mejia,2024-05-31,15,157.3
+Ne-WO-00141,Ne-EQ-00141-0,scale,New_York,"Delgado, Krause and Lopez",no,Austin Huynh,2024-07-13,10,113.0
+Ne-WO-00142,Ne-EQ-00142-0,flow_meter,New_York,"Cole, Velasquez and Johnson",yes,Austin Mejia,2024-05-25,15,261.3
+Ne-WO-00142,Ne-EQ-00142-1,flow_meter,New_York,"Cole, Velasquez and Johnson",yes,Austin Huynh,2025-03-01,15,261.3
+Ne-WO-00142,Ne-EQ-00142-2,pressure_gauge,New_York,"Cole, Velasquez and Johnson",no,Austin Mejia,2025-04-06,10,155.0
+Ne-WO-00143,Ne-EQ-00143-0,caliper,New_York,Moreno-Friedman,yes,Austin Huynh,2024-04-23,15,130.0
+Ne-WO-00143,Ne-EQ-00143-1,caliper,New_York,Moreno-Friedman,yes,Austin Huynh,2025-01-25,15,130.0
+Ne-WO-00144,Ne-EQ-00144-0,torque,New_York,Woods Inc,no,Clarence Maldonado,2024-09-15,10,195.0
+Ne-WO-00144,Ne-EQ-00144-1,torque,New_York,Woods Inc,no,Clarence Maldonado,2024-09-12,10,195.0
+Ne-WO-00145,Ne-EQ-00145-0,thermometer,New_York,"White, Grant and Flores",yes,Austin Huynh,2024-05-27,15,157.3
+Ne-WO-00146,Ne-EQ-00146-0,caliper,New_York,Morales-Banks,yes,Clarence Maldonado,2024-06-09,15,130.0
+Ne-WO-00146,Ne-EQ-00146-1,pressure_gauge,New_York,Morales-Banks,yes,Clarence Maldonado,2025-03-06,15,201.5
+Ne-WO-00147,Ne-EQ-00147-0,thermometer,New_York,Moreno-Friedman,yes,Austin Mejia,2024-06-11,15,157.3
+Ne-WO-00147,Ne-EQ-00147-1,pressure_gauge,New_York,Moreno-Friedman,no,Clarence Maldonado,2025-02-24,10,155.0
+Ne-WO-00148,Ne-EQ-00148-0,torque,New_York,Davis and Sons,no,Clarence Maldonado,2024-05-19,10,195.0
+Ne-WO-00148,Ne-EQ-00148-1,thermometer,New_York,Davis and Sons,no,Austin Mejia,2024-11-27,10,121.0
+Ne-WO-00149,Ne-EQ-00149-0,caliper,New_York,"Mitchell, Stephens and Ford",yes,Austin Huynh,2024-10-06,15,130.0
+Ne-WO-00152,Ne-EQ-00152-0,torque,New_York,Lopez and Sons,yes,Clarence Maldonado,2024-07-15,15,253.5
+Ne-WO-00152,Ne-EQ-00152-1,caliper,New_York,Lopez and Sons,yes,Austin Mejia,2024-06-06,15,130.0
+Ne-WO-00154,Ne-EQ-00154-0,scale,New_York,Freeman-Rice,yes,Austin Huynh,2024-05-31,15,146.9
+Ne-WO-00154,Ne-EQ-00154-1,torque,New_York,Freeman-Rice,yes,Clarence Maldonado,2024-09-02,15,253.5
+Ne-WO-00155,Ne-EQ-00155-0,torque,New_York,Holland-Walsh,no,Clarence Maldonado,2024-11-12,10,195.0
+Ne-WO-00155,Ne-EQ-00155-1,torque,New_York,Holland-Walsh,yes,Clarence Maldonado,2025-01-09,15,253.5
+Ne-WO-00156,Ne-EQ-00156-0,flow_meter,New_York,Rodriguez-Summers,no,Austin Huynh,2024-09-28,10,201.0
+Ne-WO-00156,Ne-EQ-00156-1,thermometer,New_York,Rodriguez-Summers,no,Austin Mejia,2025-03-22,10,121.0
+Ne-WO-00157,Ne-EQ-00157-0,flow_meter,New_York,Freeman-Rice,no,Austin Mejia,2024-10-11,10,201.0
+Ne-WO-00158,Ne-EQ-00158-0,pressure_gauge,New_York,Potts-Huang,no,Clarence Maldonado,2025-04-01,10,155.0
+Ne-WO-00158,Ne-EQ-00158-1,caliper,New_York,Potts-Huang,no,Austin Mejia,2025-03-24,10,100.0
+Ne-WO-00158,Ne-EQ-00158-2,scale,New_York,Potts-Huang,no,Clarence Maldonado,2024-05-15,10,113.0
+Ne-WO-00159,Ne-EQ-00159-0,caliper,New_York,Ross Inc,yes,Austin Huynh,2024-08-18,15,130.0
+Ne-WO-00160,Ne-EQ-00160-1,scale,New_York,Rodriguez Inc,yes,Austin Huynh,2025-02-23,15,146.9
+Ne-WO-00161,Ne-EQ-00161-0,thermometer,New_York,Neal-Kelley,yes,Austin Mejia,2024-10-04,15,157.3
+Ne-WO-00162,Ne-EQ-00162-0,pressure_gauge,New_York,Serrano Inc,no,Austin Mejia,2025-03-17,10,155.0
+Ne-WO-00163,Ne-EQ-00163-0,scale,New_York,Barnett-Mueller,no,Austin Huynh,2024-06-14,10,113.0
+Ne-WO-00163,Ne-EQ-00163-1,pressure_gauge,New_York,Barnett-Mueller,yes,Clarence Maldonado,2024-06-17,15,201.5
+Ne-WO-00164,Ne-EQ-00164-0,flow_meter,New_York,"Mcgrath, Barton and Carter",no,Austin Huynh,2024-04-13,10,201.0
+Ne-WO-00164,Ne-EQ-00164-1,thermometer,New_York,"Mcgrath, Barton and Carter",no,Austin Mejia,2024-12-18,10,121.0
+Ne-WO-00165,Ne-EQ-00165-0,thermometer,New_York,Cole-Cervantes,yes,Austin Mejia,2025-01-30,15,157.3
+Ne-WO-00165,Ne-EQ-00165-1,scale,New_York,Cole-Cervantes,yes,Clarence Maldonado,2024-11-22,15,146.9
+Ne-WO-00165,Ne-EQ-00165-2,thermometer,New_York,Cole-Cervantes,yes,Austin Huynh,2024-12-01,15,157.3
+Ne-WO-00166,Ne-EQ-00166-1,scale,New_York,"Bell, Haney and Roberson",yes,Clarence Maldonado,2024-12-31,15,146.9
+Ne-WO-00166,Ne-EQ-00166-2,pressure_gauge,New_York,"Bell, Haney and Roberson",no,Clarence Maldonado,2024-11-23,10,155.0
+Ne-WO-00168,Ne-EQ-00168-0,scale,New_York,Rodriguez-Summers,yes,Austin Mejia,2025-03-16,15,146.9
+Ne-WO-00168,Ne-EQ-00168-1,flow_meter,New_York,Rodriguez-Summers,yes,Austin Mejia,2025-02-14,15,261.3
+Ne-WO-00168,Ne-EQ-00168-2,caliper,New_York,Rodriguez-Summers,no,Clarence Maldonado,2025-02-13,10,100.0
+Ne-WO-00169,Ne-EQ-00169-0,torque,New_York,Orr LLC,no,Clarence Maldonado,2024-08-27,10,195.0
+Ne-WO-00169,Ne-EQ-00169-1,thermometer,New_York,Orr LLC,no,Austin Huynh,2024-09-19,10,121.0
+Ne-WO-00169,Ne-EQ-00169-2,scale,New_York,Orr LLC,no,Clarence Maldonado,2024-05-07,10,113.0
+Ne-WO-00170,Ne-EQ-00170-0,flow_meter,New_York,Smith-Fernandez,no,Clarence Maldonado,2025-02-16,10,201.0
+Ne-WO-00171,Ne-EQ-00171-0,scale,New_York,Rodriguez Inc,no,Austin Huynh,2025-01-20,10,113.0
+Ne-WO-00171,Ne-EQ-00171-1,pressure_gauge,New_York,Rodriguez Inc,yes,Clarence Maldonado,2024-05-24,15,201.5
+Ne-WO-00171,Ne-EQ-00171-2,flow_meter,New_York,Rodriguez Inc,no,Austin Mejia,2024-07-07,10,201.0
+Ne-WO-00172,Ne-EQ-00172-0,flow_meter,New_York,Hardin-Mcdonald,no,Clarence Maldonado,2024-05-25,10,201.0
+Ne-WO-00173,Ne-EQ-00173-0,flow_meter,New_York,Freeman-Rice,no,Austin Huynh,2025-02-17,10,201.0
+Ne-WO-00174,Ne-EQ-00174-0,flow_meter,New_York,"White, Grant and Flores",no,Austin Mejia,2025-01-20,10,201.0
+Ne-WO-00175,Ne-EQ-00175-1,caliper,New_York,Collins and Sons,yes,Clarence Maldonado,2024-05-06,15,130.0
+Ne-WO-00176,Ne-EQ-00176-0,thermometer,New_York,"Combs, Gibson and Mitchell",yes,Austin Huynh,2025-02-18,15,157.3
+Ne-WO-00177,Ne-EQ-00177-0,pressure_gauge,New_York,Thomas LLC,yes,Austin Huynh,2024-05-14,15,201.5
+Ne-WO-00177,Ne-EQ-00177-1,scale,New_York,Thomas LLC,no,Austin Mejia,2024-10-16,10,113.0
+Ne-WO-00178,Ne-EQ-00178-0,caliper,New_York,Grant and Sons,yes,Clarence Maldonado,2025-02-23,15,130.0
+Ne-WO-00178,Ne-EQ-00178-1,caliper,New_York,Grant and Sons,yes,Austin Mejia,2024-10-24,15,130.0
+Ne-WO-00178,Ne-EQ-00178-2,pressure_gauge,New_York,Grant and Sons,no,Austin Huynh,2024-10-08,10,155.0
+Ne-WO-00179,Ne-EQ-00179-0,pressure_gauge,New_York,Spencer-Williams,yes,Austin Huynh,2024-09-21,15,201.5
+Ne-WO-00179,Ne-EQ-00179-1,pressure_gauge,New_York,Spencer-Williams,yes,Austin Mejia,2024-07-15,15,201.5
+Ne-WO-00180,Ne-EQ-00180-0,torque,New_York,Barnett-Mueller,yes,Clarence Maldonado,2024-05-19,15,253.5
+Ne-WO-00180,Ne-EQ-00180-1,scale,New_York,Barnett-Mueller,yes,Austin Mejia,2024-08-13,15,146.9
+Ne-WO-00183,Ne-EQ-00183-0,thermometer,New_York,Cole-Cervantes,no,Austin Mejia,2025-03-14,10,121.0
+Ne-WO-00184,Ne-EQ-00184-0,scale,New_York,Miller-Decker,no,Clarence Maldonado,2025-02-21,10,113.0
+Ne-WO-00184,Ne-EQ-00184-1,pressure_gauge,New_York,Miller-Decker,no,Austin Mejia,2024-06-09,10,155.0
+Ne-WO-00185,Ne-EQ-00185-0,thermometer,New_York,Barrett-Figueroa,yes,Austin Mejia,2025-02-15,15,157.3
+Ne-WO-00186,Ne-EQ-00186-0,caliper,New_York,Rodriguez Inc,no,Clarence Maldonado,2025-03-04,10,100.0
+Ne-WO-00186,Ne-EQ-00186-1,scale,New_York,Rodriguez Inc,no,Austin Mejia,2024-06-11,10,113.0
+Ne-WO-00186,Ne-EQ-00186-2,flow_meter,New_York,Rodriguez Inc,yes,Clarence Maldonado,2024-07-17,15,261.3
+Ne-WO-00187,Ne-EQ-00187-0,flow_meter,New_York,Smith-Anthony,yes,Austin Mejia,2024-10-27,15,261.3
+Ne-WO-00188,Ne-EQ-00188-0,caliper,New_York,Ross Inc,no,Austin Mejia,2024-09-11,10,100.0
+Ne-WO-00188,Ne-EQ-00188-1,thermometer,New_York,Ross Inc,yes,Austin Huynh,2025-03-08,15,157.3
+Ne-WO-00189,Ne-EQ-00189-0,caliper,New_York,Davis and Sons,no,Austin Huynh,2024-04-18,10,100.0
+Ne-WO-00189,Ne-EQ-00189-1,flow_meter,New_York,Davis and Sons,yes,Austin Mejia,2025-01-12,15,261.3
+Ne-WO-00191,Ne-EQ-00191-0,pressure_gauge,New_York,"Martin, Thomas and Huerta",yes,Clarence Maldonado,2024-04-28,15,201.5
+Ne-WO-00192,Ne-EQ-00192-1,scale,New_York,Rodriguez Inc,no,Clarence Maldonado,2024-07-07,10,113.0
+Ne-WO-00193,Ne-EQ-00193-0,pressure_gauge,New_York,Lopez and Sons,yes,Austin Mejia,2024-09-18,15,201.5
+Ne-WO-00194,Ne-EQ-00194-0,flow_meter,New_York,Hicks PLC,no,Clarence Maldonado,2024-12-03,10,201.0
+Ne-WO-00195,Ne-EQ-00195-0,caliper,New_York,"Parks, Miller and Watson",yes,Clarence Maldonado,2024-10-30,15,130.0
+Ne-WO-00195,Ne-EQ-00195-1,scale,New_York,"Parks, Miller and Watson",yes,Clarence Maldonado,2024-10-17,15,146.9
+Ne-WO-00195,Ne-EQ-00195-2,caliper,New_York,"Parks, Miller and Watson",yes,Austin Huynh,2024-07-18,15,130.0
+Ne-WO-00196,Ne-EQ-00196-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Austin Mejia,2024-09-17,10,201.0
+Ne-WO-00197,Ne-EQ-00197-1,torque,New_York,Cole-Cervantes,yes,Clarence Maldonado,2024-07-26,15,253.5
+Ne-WO-00198,Ne-EQ-00198-0,thermometer,New_York,Rodriguez Group,yes,Austin Huynh,2025-02-26,15,157.3
+Ne-WO-00199,Ne-EQ-00199-0,flow_meter,New_York,Romero Group,yes,Austin Mejia,2024-10-04,15,261.3
+Ph-WO-00000,Ph-EQ-00000-0,torque,Phoenix,Mann PLC,yes,Lori Mcgee,2024-11-11,15,265.2
+Ph-WO-00001,Ph-EQ-00001-0,thermometer,Phoenix,Holland-Walsh,yes,Stephanie Cooper,2024-11-10,15,189.8
+Ph-WO-00001,Ph-EQ-00001-1,torque,Phoenix,Holland-Walsh,no,Lori Mcgee,2024-07-06,10,204.0
+Ph-WO-00002,Ph-EQ-00002-0,caliper,Phoenix,"Dillon, Morton and Wood",yes,Lori Mcgee,2025-03-02,15,279.5
+Ph-WO-00003,Ph-EQ-00003-0,torque,Phoenix,Allen Ltd,no,Stephanie Cooper,2024-12-08,10,204.0
+Ph-WO-00004,Ph-EQ-00004-0,torque,Phoenix,Ellis Group,no,Lori Mcgee,2024-08-05,10,204.0
+Ph-WO-00004,Ph-EQ-00004-1,flow_meter,Phoenix,Ellis Group,yes,Carol Rasmussen,2024-09-30,15,245.7
+Ph-WO-00004,Ph-EQ-00004-2,caliper,Phoenix,Ellis Group,yes,Lori Mcgee,2025-01-13,15,279.5
+Ph-WO-00005,Ph-EQ-00005-0,torque,Phoenix,Hammond-Guerrero,no,Carol Rasmussen,2024-12-15,10,204.0
+Ph-WO-00005,Ph-EQ-00005-1,pressure_gauge,Phoenix,Hammond-Guerrero,yes,Carol Rasmussen,2024-09-24,15,256.1
+Ph-WO-00006,Ph-EQ-00006-0,scale,Phoenix,Ball LLC,no,Carol Rasmussen,2025-02-25,10,145.0
+Ph-WO-00007,Ph-EQ-00007-0,pressure_gauge,Phoenix,Santiago and Sons,yes,Lori Mcgee,2025-02-18,15,256.1
+Ph-WO-00007,Ph-EQ-00007-1,pressure_gauge,Phoenix,Santiago and Sons,yes,Lori Mcgee,2024-04-28,15,256.1
+Ph-WO-00008,Ph-EQ-00008-1,caliper,Phoenix,"Mcgrath, Barton and Carter",no,Lori Mcgee,2024-11-13,10,215.0
+Ph-WO-00009,Ph-EQ-00009-0,torque,Phoenix,Chang-Love,no,Stephanie Cooper,2024-12-06,10,204.0
+Ph-WO-00010,Ph-EQ-00010-0,caliper,Phoenix,James-Nichols,yes,Carol Rasmussen,2024-08-03,15,279.5
+Ph-WO-00011,Ph-EQ-00011-0,caliper,Phoenix,Ibarra-Gonzales,yes,Lori Mcgee,2024-12-01,15,279.5
+Ph-WO-00012,Ph-EQ-00012-0,pressure_gauge,Phoenix,Rodriguez Group,yes,Stephanie Cooper,2024-12-24,15,256.1
+Ph-WO-00013,Ph-EQ-00013-1,flow_meter,Phoenix,Allen Ltd,yes,Lori Mcgee,2025-03-03,15,245.7
+Ph-WO-00013,Ph-EQ-00013-2,pressure_gauge,Phoenix,Allen Ltd,no,Carol Rasmussen,2025-01-30,10,197.0
+Ph-WO-00014,Ph-EQ-00014-0,pressure_gauge,Phoenix,"Combs, Gibson and Mitchell",no,Stephanie Cooper,2024-12-04,10,197.0
+Ph-WO-00015,Ph-EQ-00015-0,flow_meter,Phoenix,"Humphrey, Mullins and Moore",yes,Lori Mcgee,2024-05-29,15,245.7
+Ph-WO-00015,Ph-EQ-00015-1,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",yes,Carol Rasmussen,2025-03-30,15,256.1
+Ph-WO-00016,Ph-EQ-00016-1,thermometer,Phoenix,Martin-Hale,no,Stephanie Cooper,2024-09-21,10,146.0
+Ph-WO-00016,Ph-EQ-00016-2,scale,Phoenix,Martin-Hale,yes,Carol Rasmussen,2025-03-06,15,188.5
+Ph-WO-00017,Ph-EQ-00017-0,flow_meter,Phoenix,Reed-Moody,no,Carol Rasmussen,2024-05-06,10,189.0
+Ph-WO-00018,Ph-EQ-00018-0,torque,Phoenix,Collins and Sons,no,Stephanie Cooper,2025-02-11,10,204.0
+Ph-WO-00018,Ph-EQ-00018-1,flow_meter,Phoenix,Collins and Sons,no,Carol Rasmussen,2024-07-20,10,189.0
+Ph-WO-00018,Ph-EQ-00018-2,flow_meter,Phoenix,Collins and Sons,no,Carol Rasmussen,2024-12-18,10,189.0
+Ph-WO-00020,Ph-EQ-00020-0,scale,Phoenix,Parker-Lee,yes,Stephanie Cooper,2025-04-06,15,188.5
+Ph-WO-00021,Ph-EQ-00021-0,thermometer,Phoenix,"Castro, Austin and Sparks",yes,Stephanie Cooper,2024-05-29,15,189.8
+Ph-WO-00021,Ph-EQ-00021-1,scale,Phoenix,"Castro, Austin and Sparks",no,Stephanie Cooper,2025-01-15,10,145.0
+Ph-WO-00022,Ph-EQ-00022-0,caliper,Phoenix,Moreno-Friedman,no,Carol Rasmussen,2025-02-19,10,215.0
+Ph-WO-00023,Ph-EQ-00023-0,scale,Phoenix,"Thompson, Anderson and Hopkins",yes,Carol Rasmussen,2024-11-09,15,188.5
+Ph-WO-00024,Ph-EQ-00024-0,caliper,Phoenix,"Moore, Prince and Blankenship",yes,Carol Rasmussen,2024-06-08,15,279.5
+Ph-WO-00024,Ph-EQ-00024-1,torque,Phoenix,"Moore, Prince and Blankenship",yes,Stephanie Cooper,2024-09-11,15,265.2
+Ph-WO-00025,Ph-EQ-00025-0,pressure_gauge,Phoenix,Mills Inc,yes,Carol Rasmussen,2024-09-02,15,256.1
+Ph-WO-00025,Ph-EQ-00025-2,thermometer,Phoenix,Mills Inc,no,Stephanie Cooper,2025-03-11,10,146.0
+Ph-WO-00026,Ph-EQ-00026-0,flow_meter,Phoenix,Ross Inc,yes,Lori Mcgee,2025-02-18,15,245.7
+Ph-WO-00026,Ph-EQ-00026-1,flow_meter,Phoenix,Ross Inc,yes,Carol Rasmussen,2024-11-24,15,245.7
+Ph-WO-00026,Ph-EQ-00026-2,pressure_gauge,Phoenix,Ross Inc,no,Stephanie Cooper,2024-11-26,10,197.0
+Ph-WO-00027,Ph-EQ-00027-0,scale,Phoenix,"Martin, Thomas and Huerta",yes,Stephanie Cooper,2024-08-03,15,188.5
+Ph-WO-00028,Ph-EQ-00028-0,torque,Phoenix,Garcia Ltd,yes,Stephanie Cooper,2024-12-26,15,265.2
+Ph-WO-00028,Ph-EQ-00028-1,torque,Phoenix,Garcia Ltd,no,Stephanie Cooper,2025-03-14,10,204.0
+Ph-WO-00029,Ph-EQ-00029-1,scale,Phoenix,Doyle-Barnes,no,Carol Rasmussen,2024-10-15,10,145.0
+Ph-WO-00030,Ph-EQ-00030-0,caliper,Phoenix,Kelley-Young,yes,Stephanie Cooper,2024-05-07,15,279.5
+Ph-WO-00030,Ph-EQ-00030-2,torque,Phoenix,Kelley-Young,no,Carol Rasmussen,2025-01-31,10,204.0
+Ph-WO-00031,Ph-EQ-00031-0,flow_meter,Phoenix,Gonzalez Ltd,yes,Lori Mcgee,2024-07-16,15,245.7
+Ph-WO-00031,Ph-EQ-00031-1,torque,Phoenix,Gonzalez Ltd,yes,Carol Rasmussen,2025-01-11,15,265.2
+Ph-WO-00032,Ph-EQ-00032-0,scale,Phoenix,"Jensen, Evans and Fowler",no,Stephanie Cooper,2024-08-27,10,145.0
+Ph-WO-00033,Ph-EQ-00033-0,pressure_gauge,Phoenix,Ross Inc,yes,Carol Rasmussen,2024-06-05,15,256.1
+Ph-WO-00034,Ph-EQ-00034-0,torque,Phoenix,"Armstrong, Fletcher and Wilson",yes,Stephanie Cooper,2024-12-19,15,265.2
+Ph-WO-00034,Ph-EQ-00034-1,flow_meter,Phoenix,"Armstrong, Fletcher and Wilson",no,Carol Rasmussen,2024-07-20,10,189.0
+Ph-WO-00034,Ph-EQ-00034-2,pressure_gauge,Phoenix,"Armstrong, Fletcher and Wilson",no,Lori Mcgee,2025-01-08,10,197.0
+Ph-WO-00035,Ph-EQ-00035-0,torque,Phoenix,Holland-Walsh,yes,Lori Mcgee,2024-07-23,15,265.2
+Ph-WO-00036,Ph-EQ-00036-0,flow_meter,Phoenix,Barrett-Figueroa,no,Carol Rasmussen,2025-01-08,10,189.0
+Ph-WO-00036,Ph-EQ-00036-1,caliper,Phoenix,Barrett-Figueroa,yes,Lori Mcgee,2024-06-24,15,279.5
+Ph-WO-00036,Ph-EQ-00036-2,pressure_gauge,Phoenix,Barrett-Figueroa,yes,Stephanie Cooper,2024-11-14,15,256.1
+Ph-WO-00038,Ph-EQ-00038-0,scale,Phoenix,Kelley-Young,no,Stephanie Cooper,2025-02-03,10,145.0
+Ph-WO-00039,Ph-EQ-00039-1,torque,Phoenix,Grant and Sons,yes,Lori Mcgee,2024-11-18,15,265.2
+Ph-WO-00041,Ph-EQ-00041-0,scale,Phoenix,"Hawkins, Campos and Booth",no,Stephanie Cooper,2025-02-11,10,145.0
+Ph-WO-00041,Ph-EQ-00041-1,caliper,Phoenix,"Hawkins, Campos and Booth",yes,Lori Mcgee,2025-03-25,15,279.5
+Ph-WO-00042,Ph-EQ-00042-0,thermometer,Phoenix,Parker-Lee,no,Stephanie Cooper,2024-05-20,10,146.0
+Ph-WO-00042,Ph-EQ-00042-1,caliper,Phoenix,Parker-Lee,yes,Stephanie Cooper,2024-11-21,15,279.5
+Ph-WO-00042,Ph-EQ-00042-2,torque,Phoenix,Parker-Lee,yes,Carol Rasmussen,2025-01-07,15,265.2
+Ph-WO-00043,Ph-EQ-00043-0,thermometer,Phoenix,Mills Inc,no,Stephanie Cooper,2025-01-03,10,146.0
+Ph-WO-00044,Ph-EQ-00044-0,torque,Phoenix,Mccann-Hoffman,no,Carol Rasmussen,2025-02-25,10,204.0
+Ph-WO-00045,Ph-EQ-00045-1,scale,Phoenix,Rodriguez Group,yes,Lori Mcgee,2024-10-26,15,188.5
+Ph-WO-00046,Ph-EQ-00046-0,pressure_gauge,Phoenix,"Rose, Rivera and Cox",no,Carol Rasmussen,2024-07-19,10,197.0
+Ph-WO-00047,Ph-EQ-00047-0,caliper,Phoenix,Romero Group,yes,Lori Mcgee,2024-08-17,15,279.5
+Ph-WO-00048,Ph-EQ-00048-0,caliper,Phoenix,Mueller LLC,no,Carol Rasmussen,2024-07-13,10,215.0
+Ph-WO-00049,Ph-EQ-00049-0,pressure_gauge,Phoenix,"Rose, Rivera and Cox",yes,Stephanie Cooper,2024-10-25,15,256.1
+Ph-WO-00049,Ph-EQ-00049-1,pressure_gauge,Phoenix,"Rose, Rivera and Cox",no,Carol Rasmussen,2024-09-15,10,197.0
+Ph-WO-00049,Ph-EQ-00049-2,scale,Phoenix,"Rose, Rivera and Cox",yes,Stephanie Cooper,2024-04-11,15,188.5
+Ph-WO-00050,Ph-EQ-00050-0,thermometer,Phoenix,Martin-Hale,no,Stephanie Cooper,2024-12-23,10,146.0
+Ph-WO-00050,Ph-EQ-00050-1,scale,Phoenix,Martin-Hale,no,Carol Rasmussen,2024-11-11,10,145.0
+Ph-WO-00051,Ph-EQ-00051-0,torque,Phoenix,"Erickson, Hughes and Craig",no,Stephanie Cooper,2024-08-04,10,204.0
+Ph-WO-00052,Ph-EQ-00052-1,caliper,Phoenix,"White, Grant and Flores",yes,Lori Mcgee,2024-06-22,15,279.5
+Ph-WO-00053,Ph-EQ-00053-0,caliper,Phoenix,Atkinson Group,no,Lori Mcgee,2024-07-16,10,215.0
+Ph-WO-00053,Ph-EQ-00053-1,pressure_gauge,Phoenix,Atkinson Group,yes,Stephanie Cooper,2025-02-15,15,256.1
+Ph-WO-00054,Ph-EQ-00054-0,scale,Phoenix,Ruiz-Davis,yes,Lori Mcgee,2024-08-11,15,188.5
+Ph-WO-00054,Ph-EQ-00054-1,thermometer,Phoenix,Ruiz-Davis,yes,Stephanie Cooper,2024-10-06,15,189.8
+Ph-WO-00055,Ph-EQ-00055-0,caliper,Phoenix,Ellis Group,no,Carol Rasmussen,2024-10-28,10,215.0
+Ph-WO-00055,Ph-EQ-00055-1,pressure_gauge,Phoenix,Ellis Group,no,Lori Mcgee,2025-02-14,10,197.0
+Ph-WO-00055,Ph-EQ-00055-2,torque,Phoenix,Ellis Group,no,Carol Rasmussen,2024-04-10,10,204.0
+Ph-WO-00056,Ph-EQ-00056-0,scale,Phoenix,Walker-Morales,yes,Lori Mcgee,2024-12-25,15,188.5
+Ph-WO-00057,Ph-EQ-00057-0,torque,Phoenix,Baker PLC,yes,Stephanie Cooper,2024-08-14,15,265.2
+Ph-WO-00057,Ph-EQ-00057-1,pressure_gauge,Phoenix,Baker PLC,yes,Stephanie Cooper,2024-12-20,15,256.1
+Ph-WO-00057,Ph-EQ-00057-2,caliper,Phoenix,Baker PLC,yes,Stephanie Cooper,2025-02-10,15,279.5
+Ph-WO-00058,Ph-EQ-00058-0,pressure_gauge,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee,2024-12-05,10,197.0
+Ph-WO-00059,Ph-EQ-00059-0,flow_meter,Phoenix,Barrett-Figueroa,yes,Carol Rasmussen,2024-08-23,15,245.7
+Ph-WO-00060,Ph-EQ-00060-1,torque,Phoenix,Kelley-Young,yes,Stephanie Cooper,2024-08-18,15,265.2
+Ph-WO-00060,Ph-EQ-00060-2,pressure_gauge,Phoenix,Kelley-Young,yes,Carol Rasmussen,2025-04-09,15,256.1
+Ph-WO-00061,Ph-EQ-00061-0,flow_meter,Phoenix,Gonzalez Ltd,yes,Lori Mcgee,2024-12-20,15,245.7
+Ph-WO-00062,Ph-EQ-00062-0,caliper,Phoenix,Stephenson-Herring,no,Lori Mcgee,2024-10-20,10,215.0
+Ph-WO-00063,Ph-EQ-00063-0,flow_meter,Phoenix,Morris-West,no,Lori Mcgee,2024-08-17,10,189.0
+Ph-WO-00064,Ph-EQ-00064-0,caliper,Phoenix,Freeman-Rice,no,Lori Mcgee,2024-12-18,10,215.0
+Ph-WO-00064,Ph-EQ-00064-1,scale,Phoenix,Freeman-Rice,no,Lori Mcgee,2024-10-14,10,145.0
+Ph-WO-00065,Ph-EQ-00065-0,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",no,Stephanie Cooper,2024-04-21,10,197.0
+Ph-WO-00065,Ph-EQ-00065-1,scale,Phoenix,"Humphrey, Mullins and Moore",yes,Stephanie Cooper,2025-01-09,15,188.5
+Ph-WO-00065,Ph-EQ-00065-2,flow_meter,Phoenix,"Humphrey, Mullins and Moore",no,Lori Mcgee,2024-12-30,10,189.0
+Ph-WO-00066,Ph-EQ-00066-0,scale,Phoenix,Miller-Decker,yes,Stephanie Cooper,2025-02-07,15,188.5
+Ph-WO-00066,Ph-EQ-00066-1,pressure_gauge,Phoenix,Miller-Decker,no,Carol Rasmussen,2024-06-12,10,197.0
+Ph-WO-00068,Ph-EQ-00068-0,pressure_gauge,Phoenix,Moreno-Friedman,no,Stephanie Cooper,2025-01-22,10,197.0
+Ph-WO-00069,Ph-EQ-00069-0,caliper,Phoenix,Garcia Ltd,no,Stephanie Cooper,2024-12-12,10,215.0
+Ph-WO-00069,Ph-EQ-00069-1,torque,Phoenix,Garcia Ltd,no,Lori Mcgee,2024-04-22,10,204.0
+Ph-WO-00070,Ph-EQ-00070-0,caliper,Phoenix,Carter Group,no,Stephanie Cooper,2024-06-08,10,215.0
+Ph-WO-00070,Ph-EQ-00070-1,pressure_gauge,Phoenix,Carter Group,yes,Stephanie Cooper,2024-11-20,15,256.1
+Ph-WO-00071,Ph-EQ-00071-0,scale,Phoenix,Spencer-Williams,no,Carol Rasmussen,2024-10-05,10,145.0
+Ph-WO-00071,Ph-EQ-00071-1,pressure_gauge,Phoenix,Spencer-Williams,no,Carol Rasmussen,2024-11-28,10,197.0
+Ph-WO-00071,Ph-EQ-00071-2,scale,Phoenix,Spencer-Williams,yes,Stephanie Cooper,2024-07-12,15,188.5
+Ph-WO-00072,Ph-EQ-00072-0,scale,Phoenix,Arnold-Peters,no,Lori Mcgee,2024-06-13,10,145.0
+Ph-WO-00072,Ph-EQ-00072-2,thermometer,Phoenix,Arnold-Peters,no,Stephanie Cooper,2024-12-11,10,146.0
+Ph-WO-00073,Ph-EQ-00073-0,flow_meter,Phoenix,Tucker-Nelson,yes,Lori Mcgee,2024-07-05,15,245.7
+Ph-WO-00073,Ph-EQ-00073-1,torque,Phoenix,Tucker-Nelson,yes,Lori Mcgee,2025-03-26,15,265.2
+Ph-WO-00073,Ph-EQ-00073-2,caliper,Phoenix,Tucker-Nelson,no,Carol Rasmussen,2024-05-19,10,215.0
+Ph-WO-00074,Ph-EQ-00074-0,caliper,Phoenix,Smith-Copeland,no,Lori Mcgee,2025-02-02,10,215.0
+Ph-WO-00074,Ph-EQ-00074-1,scale,Phoenix,Smith-Copeland,yes,Carol Rasmussen,2025-03-02,15,188.5
+Ph-WO-00074,Ph-EQ-00074-2,scale,Phoenix,Smith-Copeland,yes,Carol Rasmussen,2025-03-24,15,188.5
+Ph-WO-00076,Ph-EQ-00076-0,scale,Phoenix,Smith-Anthony,yes,Lori Mcgee,2025-02-25,15,188.5
+Ph-WO-00077,Ph-EQ-00077-0,caliper,Phoenix,"Jensen, Evans and Fowler",yes,Lori Mcgee,2025-02-12,15,279.5
+Ph-WO-00077,Ph-EQ-00077-2,torque,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee,2024-05-24,10,204.0
+Ph-WO-00078,Ph-EQ-00078-0,flow_meter,Phoenix,"Wade, Cruz and White",no,Lori Mcgee,2024-12-07,10,189.0
+Ph-WO-00079,Ph-EQ-00079-0,torque,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee,2024-05-27,15,265.2
+Ph-WO-00079,Ph-EQ-00079-1,torque,Phoenix,Hardin-Mcdonald,no,Lori Mcgee,2024-12-04,10,204.0
+Ph-WO-00079,Ph-EQ-00079-2,pressure_gauge,Phoenix,Hardin-Mcdonald,no,Lori Mcgee,2024-09-18,10,197.0
+Ph-WO-00080,Ph-EQ-00080-0,pressure_gauge,Phoenix,"Parks, Miller and Watson",no,Carol Rasmussen,2024-07-07,10,197.0
+Ph-WO-00080,Ph-EQ-00080-1,scale,Phoenix,"Parks, Miller and Watson",no,Lori Mcgee,2025-04-02,10,145.0
+Ph-WO-00082,Ph-EQ-00082-0,scale,Phoenix,"Wade, Cruz and White",yes,Carol Rasmussen,2024-05-30,15,188.5
+Ph-WO-00082,Ph-EQ-00082-1,caliper,Phoenix,"Wade, Cruz and White",yes,Stephanie Cooper,2024-07-26,15,279.5
+Ph-WO-00083,Ph-EQ-00083-0,caliper,Phoenix,"Alexander, Green and Mcbride",no,Lori Mcgee,2024-12-06,10,215.0
+Ph-WO-00083,Ph-EQ-00083-1,flow_meter,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen,2024-12-02,10,189.0
+Ph-WO-00084,Ph-EQ-00084-0,scale,Phoenix,Serrano Inc,no,Lori Mcgee,2024-08-17,10,145.0
+Ph-WO-00085,Ph-EQ-00085-1,caliper,Phoenix,Spencer-Williams,yes,Stephanie Cooper,2025-02-05,15,279.5
+Ph-WO-00085,Ph-EQ-00085-2,thermometer,Phoenix,Spencer-Williams,no,Stephanie Cooper,2025-03-14,10,146.0
+Ph-WO-00086,Ph-EQ-00086-0,flow_meter,Phoenix,"Castro, Austin and Sparks",no,Carol Rasmussen,2024-06-03,10,189.0
+Ph-WO-00087,Ph-EQ-00087-0,scale,Phoenix,Parker-Reeves,no,Stephanie Cooper,2024-12-13,10,145.0
+Ph-WO-00087,Ph-EQ-00087-2,thermometer,Phoenix,Parker-Reeves,yes,Stephanie Cooper,2024-05-28,15,189.8
+Ph-WO-00088,Ph-EQ-00088-0,torque,Phoenix,"Ramirez, Marsh and Alvarez",yes,Carol Rasmussen,2024-07-10,15,265.2
+Ph-WO-00088,Ph-EQ-00088-1,thermometer,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper,2024-05-09,10,146.0
+Ph-WO-00088,Ph-EQ-00088-2,thermometer,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper,2024-08-06,10,146.0
+Ph-WO-00089,Ph-EQ-00089-0,torque,Phoenix,"Parks, Miller and Watson",yes,Stephanie Cooper,2024-06-15,15,265.2
+Ph-WO-00090,Ph-EQ-00090-0,flow_meter,Phoenix,"Copeland, Torres and Morales",yes,Carol Rasmussen,2024-11-02,15,245.7
+Ph-WO-00090,Ph-EQ-00090-1,torque,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper,2025-01-31,15,265.2
+Ph-WO-00090,Ph-EQ-00090-2,caliper,Phoenix,"Copeland, Torres and Morales",no,Lori Mcgee,2025-02-05,10,215.0
+Ph-WO-00091,Ph-EQ-00091-0,caliper,Phoenix,Riddle-Faulkner,no,Lori Mcgee,2024-10-02,10,215.0
+Ph-WO-00092,Ph-EQ-00092-0,scale,Phoenix,Rodriguez Group,yes,Carol Rasmussen,2024-12-12,15,188.5
+Ph-WO-00093,Ph-EQ-00093-1,caliper,Phoenix,Morales-Banks,no,Carol Rasmussen,2024-04-29,10,215.0
+Ph-WO-00093,Ph-EQ-00093-2,scale,Phoenix,Morales-Banks,yes,Lori Mcgee,2024-04-14,15,188.5
+Ph-WO-00094,Ph-EQ-00094-0,caliper,Phoenix,Hamilton Group,no,Lori Mcgee,2024-07-01,10,215.0
+Ph-WO-00094,Ph-EQ-00094-1,scale,Phoenix,Hamilton Group,yes,Stephanie Cooper,2024-12-31,15,188.5
+Ph-WO-00095,Ph-EQ-00095-0,caliper,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper,2024-08-26,15,279.5
+Ph-WO-00096,Ph-EQ-00096-1,flow_meter,Phoenix,Woods Inc,yes,Lori Mcgee,2024-10-31,15,245.7
+Ph-WO-00097,Ph-EQ-00097-0,pressure_gauge,Phoenix,Barnett-Mueller,no,Carol Rasmussen,2024-04-24,10,197.0
+Ph-WO-00098,Ph-EQ-00098-0,pressure_gauge,Phoenix,"Castro, Austin and Sparks",no,Lori Mcgee,2024-05-22,10,197.0
+Ph-WO-00098,Ph-EQ-00098-1,scale,Phoenix,"Castro, Austin and Sparks",no,Carol Rasmussen,2024-07-16,10,145.0
+Ph-WO-00099,Ph-EQ-00099-1,scale,Phoenix,"Armstrong, Fletcher and Wilson",yes,Stephanie Cooper,2024-08-08,15,188.5
+Ph-WO-00100,Ph-EQ-00100-1,torque,Phoenix,Hardin-Mcdonald,yes,Stephanie Cooper,2024-08-25,15,265.2
+Ph-WO-00100,Ph-EQ-00100-2,scale,Phoenix,Hardin-Mcdonald,no,Lori Mcgee,2024-12-31,10,145.0
+Ph-WO-00101,Ph-EQ-00101-0,torque,Phoenix,Baker PLC,no,Stephanie Cooper,2024-05-13,10,204.0
+Ph-WO-00102,Ph-EQ-00102-0,scale,Phoenix,Banks-Hughes,no,Lori Mcgee,2024-11-26,10,145.0
+Ph-WO-00102,Ph-EQ-00102-1,thermometer,Phoenix,Banks-Hughes,no,Stephanie Cooper,2025-01-22,10,146.0
+Ph-WO-00102,Ph-EQ-00102-2,scale,Phoenix,Banks-Hughes,no,Carol Rasmussen,2025-01-14,10,145.0
+Ph-WO-00103,Ph-EQ-00103-0,flow_meter,Phoenix,Parker and Sons,no,Carol Rasmussen,2024-10-27,10,189.0
+Ph-WO-00103,Ph-EQ-00103-1,scale,Phoenix,Parker and Sons,no,Carol Rasmussen,2024-07-27,10,145.0
+Ph-WO-00103,Ph-EQ-00103-2,torque,Phoenix,Parker and Sons,yes,Carol Rasmussen,2024-06-06,15,265.2
+Ph-WO-00104,Ph-EQ-00104-1,pressure_gauge,Phoenix,"Martin, Thomas and Huerta",yes,Lori Mcgee,2024-12-27,15,256.1
+Ph-WO-00104,Ph-EQ-00104-2,torque,Phoenix,"Martin, Thomas and Huerta",yes,Carol Rasmussen,2024-08-06,15,265.2
+Ph-WO-00105,Ph-EQ-00105-0,pressure_gauge,Phoenix,Rodriguez-Summers,yes,Carol Rasmussen,2024-11-10,15,256.1
+Ph-WO-00105,Ph-EQ-00105-1,flow_meter,Phoenix,Rodriguez-Summers,yes,Carol Rasmussen,2024-11-27,15,245.7
+Ph-WO-00106,Ph-EQ-00106-0,pressure_gauge,Phoenix,"Jensen, Evans and Fowler",yes,Lori Mcgee,2024-07-05,15,256.1
+Ph-WO-00107,Ph-EQ-00107-0,torque,Phoenix,Willis Inc,yes,Carol Rasmussen,2025-04-03,15,265.2
+Ph-WO-00107,Ph-EQ-00107-1,pressure_gauge,Phoenix,Willis Inc,yes,Stephanie Cooper,2024-05-29,15,256.1
+Ph-WO-00107,Ph-EQ-00107-2,scale,Phoenix,Willis Inc,no,Stephanie Cooper,2024-08-23,10,145.0
+Ph-WO-00108,Ph-EQ-00108-0,torque,Phoenix,Chang-Love,no,Stephanie Cooper,2024-07-06,10,204.0
+Ph-WO-00109,Ph-EQ-00109-0,caliper,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen,2024-06-16,10,215.0
+Ph-WO-00110,Ph-EQ-00110-0,torque,Phoenix,Morales-Banks,yes,Stephanie Cooper,2024-09-18,15,265.2
+Ph-WO-00110,Ph-EQ-00110-1,scale,Phoenix,Morales-Banks,no,Lori Mcgee,2024-11-08,10,145.0
+Ph-WO-00110,Ph-EQ-00110-2,pressure_gauge,Phoenix,Morales-Banks,no,Stephanie Cooper,2024-06-06,10,197.0
+Ph-WO-00111,Ph-EQ-00111-0,scale,Phoenix,Miller-Mcguire,no,Stephanie Cooper,2024-10-06,10,145.0
+Ph-WO-00112,Ph-EQ-00112-0,caliper,Phoenix,Allen Ltd,yes,Lori Mcgee,2024-04-20,15,279.5
+Ph-WO-00112,Ph-EQ-00112-1,pressure_gauge,Phoenix,Allen Ltd,yes,Lori Mcgee,2024-11-09,15,256.1
+Ph-WO-00112,Ph-EQ-00112-2,flow_meter,Phoenix,Allen Ltd,yes,Carol Rasmussen,2024-08-11,15,245.7
+Ph-WO-00115,Ph-EQ-00115-0,caliper,Phoenix,Garner-Rose,no,Carol Rasmussen,2025-04-04,10,215.0
+Ph-WO-00116,Ph-EQ-00116-0,pressure_gauge,Phoenix,Hammond-Guerrero,yes,Lori Mcgee,2024-05-15,15,256.1
+Ph-WO-00116,Ph-EQ-00116-1,scale,Phoenix,Hammond-Guerrero,yes,Carol Rasmussen,2025-01-06,15,188.5
+Ph-WO-00116,Ph-EQ-00116-2,caliper,Phoenix,Hammond-Guerrero,no,Stephanie Cooper,2024-11-02,10,215.0
+Ph-WO-00117,Ph-EQ-00117-0,pressure_gauge,Phoenix,Rodriguez Inc,no,Lori Mcgee,2025-03-11,10,197.0
+Ph-WO-00117,Ph-EQ-00117-2,scale,Phoenix,Rodriguez Inc,no,Carol Rasmussen,2024-05-25,10,145.0
+Ph-WO-00118,Ph-EQ-00118-0,caliper,Phoenix,Parker-Lee,no,Carol Rasmussen,2024-08-02,10,215.0
+Ph-WO-00118,Ph-EQ-00118-1,scale,Phoenix,Parker-Lee,yes,Stephanie Cooper,2025-02-21,15,188.5
+Ph-WO-00120,Ph-EQ-00120-0,scale,Phoenix,"Dillon, Morton and Wood",yes,Stephanie Cooper,2024-06-23,15,188.5
+Ph-WO-00120,Ph-EQ-00120-1,pressure_gauge,Phoenix,"Dillon, Morton and Wood",yes,Carol Rasmussen,2024-07-24,15,256.1
+Ph-WO-00121,Ph-EQ-00121-0,scale,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen,2025-03-09,10,145.0
+Ph-WO-00123,Ph-EQ-00123-1,scale,Phoenix,Garner-Rose,no,Lori Mcgee,2025-02-16,10,145.0
+Ph-WO-00123,Ph-EQ-00123-2,pressure_gauge,Phoenix,Garner-Rose,yes,Lori Mcgee,2024-11-15,15,256.1
+Ph-WO-00124,Ph-EQ-00124-0,caliper,Phoenix,Ross Inc,no,Lori Mcgee,2024-07-09,10,215.0
+Ph-WO-00125,Ph-EQ-00125-0,torque,Phoenix,Miller-Mcguire,no,Carol Rasmussen,2025-02-09,10,204.0
+Ph-WO-00125,Ph-EQ-00125-1,torque,Phoenix,Miller-Mcguire,no,Stephanie Cooper,2024-09-10,10,204.0
+Ph-WO-00125,Ph-EQ-00125-2,flow_meter,Phoenix,Miller-Mcguire,yes,Lori Mcgee,2025-01-19,15,245.7
+Ph-WO-00126,Ph-EQ-00126-0,pressure_gauge,Phoenix,Potts-Huang,no,Carol Rasmussen,2024-05-26,10,197.0
+Ph-WO-00126,Ph-EQ-00126-2,torque,Phoenix,Potts-Huang,yes,Carol Rasmussen,2024-11-21,15,265.2
+Ph-WO-00127,Ph-EQ-00127-0,caliper,Phoenix,Riddle-Faulkner,yes,Carol Rasmussen,2025-02-24,15,279.5
+Ph-WO-00128,Ph-EQ-00128-0,pressure_gauge,Phoenix,Riddle-Faulkner,yes,Stephanie Cooper,2024-08-26,15,256.1
+Ph-WO-00128,Ph-EQ-00128-1,scale,Phoenix,Riddle-Faulkner,yes,Lori Mcgee,2025-03-07,15,188.5
+Ph-WO-00128,Ph-EQ-00128-2,torque,Phoenix,Riddle-Faulkner,no,Stephanie Cooper,2024-09-14,10,204.0
+Ph-WO-00129,Ph-EQ-00129-1,flow_meter,Phoenix,Smith-Anthony,yes,Lori Mcgee,2024-09-11,15,245.7
+Ph-WO-00130,Ph-EQ-00130-0,pressure_gauge,Phoenix,Allen Ltd,no,Lori Mcgee,2024-09-22,10,197.0
+Ph-WO-00130,Ph-EQ-00130-1,torque,Phoenix,Allen Ltd,no,Carol Rasmussen,2024-12-25,10,204.0
+Ph-WO-00131,Ph-EQ-00131-0,pressure_gauge,Phoenix,"Copeland, Torres and Morales",yes,Lori Mcgee,2024-09-13,15,256.1
+Ph-WO-00131,Ph-EQ-00131-1,caliper,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper,2024-10-27,15,279.5
+Ph-WO-00131,Ph-EQ-00131-2,torque,Phoenix,"Copeland, Torres and Morales",yes,Carol Rasmussen,2025-03-05,15,265.2
+Ph-WO-00132,Ph-EQ-00132-0,caliper,Phoenix,Ellis Group,no,Lori Mcgee,2024-11-26,10,215.0
+Ph-WO-00132,Ph-EQ-00132-1,torque,Phoenix,Ellis Group,no,Carol Rasmussen,2024-04-16,10,204.0
+Ph-WO-00133,Ph-EQ-00133-0,torque,Phoenix,Arnold-Peters,no,Carol Rasmussen,2024-08-12,10,204.0
+Ph-WO-00133,Ph-EQ-00133-1,torque,Phoenix,Arnold-Peters,no,Stephanie Cooper,2024-11-20,10,204.0
+Ph-WO-00134,Ph-EQ-00134-1,torque,Phoenix,Neal-Kelley,yes,Carol Rasmussen,2024-07-25,15,265.2
+Ph-WO-00134,Ph-EQ-00134-2,caliper,Phoenix,Neal-Kelley,no,Lori Mcgee,2024-04-30,10,215.0
+Ph-WO-00135,Ph-EQ-00135-0,scale,Phoenix,Thomas LLC,no,Stephanie Cooper,2025-03-24,10,145.0
+Ph-WO-00135,Ph-EQ-00135-1,torque,Phoenix,Thomas LLC,no,Lori Mcgee,2025-01-30,10,204.0
+Ph-WO-00136,Ph-EQ-00136-0,pressure_gauge,Phoenix,Ross Inc,no,Lori Mcgee,2025-03-28,10,197.0
+Ph-WO-00137,Ph-EQ-00137-0,caliper,Phoenix,"Erickson, Hughes and Craig",yes,Carol Rasmussen,2024-07-17,15,279.5
+Ph-WO-00137,Ph-EQ-00137-1,torque,Phoenix,"Erickson, Hughes and Craig",no,Lori Mcgee,2024-12-18,10,204.0
+Ph-WO-00137,Ph-EQ-00137-2,caliper,Phoenix,"Erickson, Hughes and Craig",yes,Lori Mcgee,2024-05-05,15,279.5
+Ph-WO-00138,Ph-EQ-00138-1,pressure_gauge,Phoenix,Mueller LLC,yes,Stephanie Cooper,2024-12-18,15,256.1
+Ph-WO-00139,Ph-EQ-00139-0,torque,Phoenix,Gates and Sons,no,Carol Rasmussen,2025-02-06,10,204.0
+Ph-WO-00139,Ph-EQ-00139-1,thermometer,Phoenix,Gates and Sons,no,Stephanie Cooper,2024-09-20,10,146.0
+Ph-WO-00139,Ph-EQ-00139-2,pressure_gauge,Phoenix,Gates and Sons,no,Lori Mcgee,2024-07-09,10,197.0
+Ph-WO-00140,Ph-EQ-00140-0,caliper,Phoenix,Gonzalez Ltd,yes,Stephanie Cooper,2024-11-19,15,279.5
+Ph-WO-00141,Ph-EQ-00141-0,caliper,Phoenix,"Mcgrath, Barton and Carter",no,Carol Rasmussen,2025-03-10,10,215.0
+Ph-WO-00141,Ph-EQ-00141-1,torque,Phoenix,"Mcgrath, Barton and Carter",yes,Carol Rasmussen,2024-04-21,15,265.2
+Ph-WO-00142,Ph-EQ-00142-0,scale,Phoenix,Ellis Group,yes,Carol Rasmussen,2024-10-24,15,188.5
+Ph-WO-00143,Ph-EQ-00143-1,torque,Phoenix,Mann PLC,no,Carol Rasmussen,2025-01-16,10,204.0
+Ph-WO-00144,Ph-EQ-00144-0,scale,Phoenix,Baker PLC,yes,Carol Rasmussen,2025-03-31,15,188.5
+Ph-WO-00144,Ph-EQ-00144-1,scale,Phoenix,Baker PLC,no,Stephanie Cooper,2024-11-11,10,145.0
+Ph-WO-00144,Ph-EQ-00144-2,caliper,Phoenix,Baker PLC,no,Lori Mcgee,2024-11-30,10,215.0
+Ph-WO-00145,Ph-EQ-00145-0,pressure_gauge,Phoenix,Parker and Sons,yes,Stephanie Cooper,2024-07-22,15,256.1
+Ph-WO-00145,Ph-EQ-00145-1,pressure_gauge,Phoenix,Parker and Sons,no,Lori Mcgee,2024-04-15,10,197.0
+Ph-WO-00146,Ph-EQ-00146-0,scale,Phoenix,Freeman-Rice,no,Lori Mcgee,2025-01-14,10,145.0
+Ph-WO-00146,Ph-EQ-00146-1,pressure_gauge,Phoenix,Freeman-Rice,no,Lori Mcgee,2024-11-04,10,197.0
+Ph-WO-00146,Ph-EQ-00146-2,pressure_gauge,Phoenix,Freeman-Rice,no,Lori Mcgee,2024-06-05,10,197.0
+Ph-WO-00147,Ph-EQ-00147-0,thermometer,Phoenix,Willis Inc,no,Stephanie Cooper,2024-04-16,10,146.0
+Ph-WO-00148,Ph-EQ-00148-0,flow_meter,Phoenix,Allen Ltd,yes,Lori Mcgee,2024-04-17,15,245.7
+Ph-WO-00149,Ph-EQ-00149-0,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",yes,Carol Rasmussen,2024-06-17,15,256.1
+Ph-WO-00150,Ph-EQ-00150-0,scale,Phoenix,Parker-Lee,yes,Lori Mcgee,2024-08-03,15,188.5
+Ph-WO-00151,Ph-EQ-00151-0,torque,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee,2024-06-11,15,265.2
+Ph-WO-00151,Ph-EQ-00151-1,caliper,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee,2024-09-12,15,279.5
+Ph-WO-00152,Ph-EQ-00152-0,caliper,Phoenix,Freeman-Rice,yes,Lori Mcgee,2024-12-03,15,279.5
+Ph-WO-00153,Ph-EQ-00153-0,pressure_gauge,Phoenix,Cole-Cervantes,yes,Stephanie Cooper,2024-06-19,15,256.1
+Ph-WO-00154,Ph-EQ-00154-0,pressure_gauge,Phoenix,Potts-Huang,yes,Lori Mcgee,2024-06-06,15,256.1
+Ph-WO-00155,Ph-EQ-00155-0,caliper,Phoenix,Morales-Banks,yes,Lori Mcgee,2024-08-08,15,279.5
+Ph-WO-00156,Ph-EQ-00156-2,flow_meter,Phoenix,"Martin, Thomas and Huerta",yes,Lori Mcgee,2024-12-11,15,245.7
+Ph-WO-00157,Ph-EQ-00157-0,scale,Phoenix,Hammond-Guerrero,no,Carol Rasmussen,2024-11-25,10,145.0
+Ph-WO-00158,Ph-EQ-00158-1,flow_meter,Phoenix,Lopez and Sons,yes,Carol Rasmussen,2024-12-28,15,245.7
+Ph-WO-00159,Ph-EQ-00159-0,pressure_gauge,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper,2024-11-24,10,197.0
+Ph-WO-00160,Ph-EQ-00160-0,scale,Phoenix,Holland-Walsh,yes,Stephanie Cooper,2024-11-13,15,188.5
+Ph-WO-00161,Ph-EQ-00161-0,torque,Phoenix,Doyle-Barnes,yes,Carol Rasmussen,2024-09-07,15,265.2
+Ph-WO-00161,Ph-EQ-00161-1,scale,Phoenix,Doyle-Barnes,yes,Lori Mcgee,2024-07-23,15,188.5
+Ph-WO-00161,Ph-EQ-00161-2,torque,Phoenix,Doyle-Barnes,no,Lori Mcgee,2024-10-04,10,204.0
+Ph-WO-00162,Ph-EQ-00162-0,thermometer,Phoenix,Ball LLC,yes,Stephanie Cooper,2025-03-06,15,189.8
+Ph-WO-00163,Ph-EQ-00163-0,flow_meter,Phoenix,Gonzalez LLC,yes,Carol Rasmussen,2024-04-18,15,245.7
+Ph-WO-00163,Ph-EQ-00163-2,caliper,Phoenix,Gonzalez LLC,no,Carol Rasmussen,2024-06-05,10,215.0
+Ph-WO-00164,Ph-EQ-00164-0,caliper,Phoenix,Neal-Kelley,yes,Carol Rasmussen,2025-03-06,15,279.5
+Ph-WO-00165,Ph-EQ-00165-1,scale,Phoenix,Atkinson Group,yes,Lori Mcgee,2024-12-05,15,188.5
+Ph-WO-00166,Ph-EQ-00166-2,pressure_gauge,Phoenix,Rodriguez-Summers,no,Lori Mcgee,2024-06-13,10,197.0
+Ph-WO-00167,Ph-EQ-00167-1,caliper,Phoenix,Morris-West,no,Stephanie Cooper,2024-10-13,10,215.0
+Ph-WO-00167,Ph-EQ-00167-2,torque,Phoenix,Morris-West,no,Lori Mcgee,2024-09-07,10,204.0
+Ph-WO-00168,Ph-EQ-00168-1,flow_meter,Phoenix,Collins and Sons,yes,Lori Mcgee,2025-03-24,15,245.7
+Ph-WO-00168,Ph-EQ-00168-2,torque,Phoenix,Collins and Sons,yes,Carol Rasmussen,2025-03-19,15,265.2
+Ph-WO-00169,Ph-EQ-00169-0,pressure_gauge,Phoenix,Ruiz-Davis,no,Stephanie Cooper,2024-11-27,10,197.0
+Ph-WO-00169,Ph-EQ-00169-1,caliper,Phoenix,Ruiz-Davis,yes,Lori Mcgee,2024-06-10,15,279.5
+Ph-WO-00169,Ph-EQ-00169-2,torque,Phoenix,Ruiz-Davis,yes,Lori Mcgee,2024-09-04,15,265.2
+Ph-WO-00170,Ph-EQ-00170-0,torque,Phoenix,Moreno-Friedman,no,Lori Mcgee,2025-03-05,10,204.0
+Ph-WO-00170,Ph-EQ-00170-1,scale,Phoenix,Moreno-Friedman,yes,Stephanie Cooper,2024-05-29,15,188.5
+Ph-WO-00171,Ph-EQ-00171-0,torque,Phoenix,Barrett-Figueroa,no,Carol Rasmussen,2025-02-05,10,204.0
+Ph-WO-00171,Ph-EQ-00171-1,flow_meter,Phoenix,Barrett-Figueroa,no,Lori Mcgee,2024-06-14,10,189.0
+Ph-WO-00172,Ph-EQ-00172-1,pressure_gauge,Phoenix,Smith-Anthony,no,Stephanie Cooper,2024-08-27,10,197.0
+Ph-WO-00172,Ph-EQ-00172-2,scale,Phoenix,Smith-Anthony,no,Lori Mcgee,2024-07-11,10,145.0
+Ph-WO-00173,Ph-EQ-00173-0,caliper,Phoenix,Martin-Hale,yes,Stephanie Cooper,2025-02-12,15,279.5
+Ph-WO-00174,Ph-EQ-00174-0,scale,Phoenix,Hardin-Mcdonald,no,Stephanie Cooper,2024-12-10,10,145.0
+Ph-WO-00175,Ph-EQ-00175-0,pressure_gauge,Phoenix,Ross Inc,no,Stephanie Cooper,2025-04-09,10,197.0
+Ph-WO-00176,Ph-EQ-00176-0,torque,Phoenix,Huynh Group,no,Carol Rasmussen,2024-04-27,10,204.0
+Ph-WO-00176,Ph-EQ-00176-1,thermometer,Phoenix,Huynh Group,yes,Stephanie Cooper,2024-10-14,15,189.8
+Ph-WO-00176,Ph-EQ-00176-2,caliper,Phoenix,Huynh Group,yes,Stephanie Cooper,2025-01-31,15,279.5
+Ph-WO-00177,Ph-EQ-00177-0,pressure_gauge,Phoenix,Tucker-Nelson,yes,Carol Rasmussen,2024-08-14,15,256.1
+Ph-WO-00177,Ph-EQ-00177-1,scale,Phoenix,Tucker-Nelson,no,Lori Mcgee,2025-03-14,10,145.0
+Ph-WO-00178,Ph-EQ-00178-0,torque,Phoenix,"Dillon, Morton and Wood",no,Lori Mcgee,2024-04-10,10,204.0
+Ph-WO-00178,Ph-EQ-00178-1,scale,Phoenix,"Dillon, Morton and Wood",no,Carol Rasmussen,2024-08-16,10,145.0
+Ph-WO-00179,Ph-EQ-00179-0,pressure_gauge,Phoenix,Kelley-Ramirez,yes,Carol Rasmussen,2024-06-05,15,256.1
+Ph-WO-00180,Ph-EQ-00180-0,torque,Phoenix,Hammond-Guerrero,no,Stephanie Cooper,2024-04-25,10,204.0
+Ph-WO-00180,Ph-EQ-00180-1,scale,Phoenix,Hammond-Guerrero,yes,Stephanie Cooper,2024-08-21,15,188.5
+Ph-WO-00180,Ph-EQ-00180-2,pressure_gauge,Phoenix,Hammond-Guerrero,no,Carol Rasmussen,2024-08-01,10,197.0
+Ph-WO-00182,Ph-EQ-00182-0,pressure_gauge,Phoenix,Garner-Rose,no,Lori Mcgee,2025-03-18,10,197.0
+Ph-WO-00182,Ph-EQ-00182-1,caliper,Phoenix,Garner-Rose,yes,Carol Rasmussen,2025-03-23,15,279.5
+Ph-WO-00182,Ph-EQ-00182-2,pressure_gauge,Phoenix,Garner-Rose,no,Carol Rasmussen,2024-04-12,10,197.0
+Ph-WO-00183,Ph-EQ-00183-0,pressure_gauge,Phoenix,Kelley-Young,no,Carol Rasmussen,2024-12-05,10,197.0
+Ph-WO-00183,Ph-EQ-00183-2,scale,Phoenix,Kelley-Young,yes,Stephanie Cooper,2024-08-22,15,188.5
+Ph-WO-00184,Ph-EQ-00184-0,torque,Phoenix,Chang-Love,yes,Lori Mcgee,2024-12-15,15,265.2
+Ph-WO-00185,Ph-EQ-00185-0,scale,Phoenix,Woods Inc,no,Stephanie Cooper,2024-08-06,10,145.0
+Ph-WO-00185,Ph-EQ-00185-1,pressure_gauge,Phoenix,Woods Inc,no,Stephanie Cooper,2024-10-21,10,197.0
+Ph-WO-00186,Ph-EQ-00186-0,caliper,Phoenix,Mccann-Hoffman,no,Lori Mcgee,2025-01-02,10,215.0
+Ph-WO-00187,Ph-EQ-00187-0,torque,Phoenix,Clark-Greer,yes,Stephanie Cooper,2025-03-28,15,265.2
+Ph-WO-00187,Ph-EQ-00187-1,caliper,Phoenix,Clark-Greer,yes,Stephanie Cooper,2024-10-28,15,279.5
+Ph-WO-00188,Ph-EQ-00188-0,caliper,Phoenix,Stephenson-Herring,yes,Stephanie Cooper,2025-01-24,15,279.5
+Ph-WO-00189,Ph-EQ-00189-0,thermometer,Phoenix,Carter Group,no,Stephanie Cooper,2024-07-18,10,146.0
+Ph-WO-00189,Ph-EQ-00189-1,caliper,Phoenix,Carter Group,yes,Carol Rasmussen,2024-07-02,15,279.5
+Ph-WO-00190,Ph-EQ-00190-0,flow_meter,Phoenix,"Martin, Thomas and Huerta",yes,Carol Rasmussen,2025-03-04,15,245.7
+Ph-WO-00191,Ph-EQ-00191-0,scale,Phoenix,"Thompson, Anderson and Hopkins",no,Stephanie Cooper,2024-11-13,10,145.0
+Ph-WO-00191,Ph-EQ-00191-1,torque,Phoenix,"Thompson, Anderson and Hopkins",yes,Carol Rasmussen,2024-06-03,15,265.2
+Ph-WO-00191,Ph-EQ-00191-2,scale,Phoenix,"Thompson, Anderson and Hopkins",yes,Lori Mcgee,2025-01-02,15,188.5
+Ph-WO-00192,Ph-EQ-00192-0,torque,Phoenix,Garcia Ltd,yes,Lori Mcgee,2025-01-19,15,265.2
+Ph-WO-00194,Ph-EQ-00194-0,thermometer,Phoenix,Walker-Morales,no,Stephanie Cooper,2025-02-20,10,146.0
+Ph-WO-00194,Ph-EQ-00194-1,torque,Phoenix,Walker-Morales,yes,Lori Mcgee,2025-01-12,15,265.2
+Ph-WO-00195,Ph-EQ-00195-0,flow_meter,Phoenix,Rodriguez Group,yes,Carol Rasmussen,2024-07-24,15,245.7
+Ph-WO-00195,Ph-EQ-00195-1,torque,Phoenix,Rodriguez Group,yes,Stephanie Cooper,2024-12-20,15,265.2
+Ph-WO-00196,Ph-EQ-00196-1,scale,Phoenix,Hammond-Guerrero,yes,Stephanie Cooper,2024-04-28,15,188.5
+Ph-WO-00197,Ph-EQ-00197-0,pressure_gauge,Phoenix,Riddle-Faulkner,yes,Stephanie Cooper,2024-10-06,15,256.1
+Ph-WO-00198,Ph-EQ-00198-0,pressure_gauge,Phoenix,"Copeland, Torres and Morales",no,Carol Rasmussen,2024-07-22,10,197.0
+Ph-WO-00199,Ph-EQ-00199-0,scale,Phoenix,Neal-Kelley,no,Stephanie Cooper,2024-06-22,10,145.0
+Ph-WO-00199,Ph-EQ-00199-1,torque,Phoenix,Neal-Kelley,no,Stephanie Cooper,2024-11-16,10,204.0
