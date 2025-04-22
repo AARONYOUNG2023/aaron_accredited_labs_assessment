@@ -1,0 +1,398 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician
+Lo-WO-00000,Lo-EQ-00000-0,torque,Los_Angeles,Tucker-Nelson,yes,Steven Hicks
+Lo-WO-00000,Lo-EQ-00000-1,flow_meter,Los_Angeles,Tucker-Nelson,no,Jennifer Mccormick
+Lo-WO-00001,Lo-EQ-00001-0,torque,Los_Angeles,Brown and Sons,yes,Steven Hicks
+Lo-WO-00001,Lo-EQ-00001-1,scale,Los_Angeles,Brown and Sons,no,Kimberly Landry
+Lo-WO-00001,Lo-EQ-00001-2,flow_meter,Los_Angeles,Brown and Sons,no,Steven Hicks
+Lo-WO-00002,Lo-EQ-00002-0,pressure_gauge,Los_Angeles,"Thompson, Anderson and Hopkins",yes,Steven Hicks
+Lo-WO-00002,Lo-EQ-00002-1,thermometer,Los_Angeles,"Thompson, Anderson and Hopkins",no,Kimberly Landry
+Lo-WO-00002,Lo-EQ-00002-2,scale,Los_Angeles,"Thompson, Anderson and Hopkins",no,Jennifer Mccormick
+Lo-WO-00003,Lo-EQ-00003-0,caliper,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry
+Lo-WO-00003,Lo-EQ-00003-1,pressure_gauge,Los_Angeles,"Bell, Haney and Roberson",yes,Steven Hicks
+Lo-WO-00003,Lo-EQ-00003-2,thermometer,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry
+Lo-WO-00004,Lo-EQ-00004-0,thermometer,Los_Angeles,Reed-Moody,yes,Kimberly Landry
+Lo-WO-00004,Lo-EQ-00004-1,pressure_gauge,Los_Angeles,Reed-Moody,yes,Jennifer Mccormick
+Lo-WO-00005,Lo-EQ-00005-0,pressure_gauge,Los_Angeles,Parker-Lee,no,Jennifer Mccormick
+Lo-WO-00006,Lo-EQ-00006-0,caliper,Los_Angeles,"Cole, Velasquez and Johnson",yes,Jennifer Mccormick
+Lo-WO-00007,Lo-EQ-00007-0,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",no,Kimberly Landry
+Lo-WO-00008,Lo-EQ-00008-0,pressure_gauge,Los_Angeles,"Humphrey, Mullins and Moore",no,Jennifer Mccormick
+Lo-WO-00008,Lo-EQ-00008-1,thermometer,Los_Angeles,"Humphrey, Mullins and Moore",yes,Kimberly Landry
+Lo-WO-00008,Lo-EQ-00008-2,torque,Los_Angeles,"Humphrey, Mullins and Moore",yes,Jennifer Mccormick
+Lo-WO-00009,Lo-EQ-00009-0,scale,Los_Angeles,Ross Inc,yes,Kimberly Landry
+Lo-WO-00010,Lo-EQ-00010-0,caliper,Los_Angeles,"Castro, Austin and Sparks",no,Kimberly Landry
+Lo-WO-00011,Lo-EQ-00011-0,torque,Los_Angeles,"Erickson, Hughes and Craig",no,Kimberly Landry
+Lo-WO-00012,Lo-EQ-00012-0,torque,Los_Angeles,"Copeland, Torres and Morales",no,Steven Hicks
+Lo-WO-00012,Lo-EQ-00012-1,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry
+Lo-WO-00012,Lo-EQ-00012-2,caliper,Los_Angeles,"Copeland, Torres and Morales",yes,Jennifer Mccormick
+Lo-WO-00013,Lo-EQ-00013-0,thermometer,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick
+Lo-WO-00014,Lo-EQ-00014-0,torque,Los_Angeles,Rodriguez-Summers,yes,Kimberly Landry
+Lo-WO-00015,Lo-EQ-00015-0,scale,Los_Angeles,Smith-Anthony,no,Jennifer Mccormick
+Lo-WO-00016,Lo-EQ-00016-0,scale,Los_Angeles,"Alexander, Green and Mcbride",yes,Steven Hicks
+Lo-WO-00017,Lo-EQ-00017-0,flow_meter,Los_Angeles,Thomas LLC,no,Steven Hicks
+Lo-WO-00017,Lo-EQ-00017-1,flow_meter,Los_Angeles,Thomas LLC,no,Kimberly Landry
+Lo-WO-00017,Lo-EQ-00017-2,flow_meter,Los_Angeles,Thomas LLC,no,Kimberly Landry
+Lo-WO-00018,Lo-EQ-00018-0,thermometer,Los_Angeles,"Mcgrath, Barton and Carter",yes,Steven Hicks
+Lo-WO-00018,Lo-EQ-00018-1,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",yes,Steven Hicks
+Lo-WO-00019,Lo-EQ-00019-0,caliper,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry
+Lo-WO-00020,Lo-EQ-00020-0,scale,Los_Angeles,"Bell, Haney and Roberson",yes,Kimberly Landry
+Lo-WO-00020,Lo-EQ-00020-1,flow_meter,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick
+Lo-WO-00020,Lo-EQ-00020-2,flow_meter,Los_Angeles,"Bell, Haney and Roberson",yes,Steven Hicks
+Lo-WO-00021,Lo-EQ-00021-0,pressure_gauge,Los_Angeles,Fletcher-Boone,no,Kimberly Landry
+Lo-WO-00021,Lo-EQ-00021-1,scale,Los_Angeles,Fletcher-Boone,yes,Jennifer Mccormick
+Lo-WO-00022,Lo-EQ-00022-0,caliper,Los_Angeles,Spencer-Williams,yes,Jennifer Mccormick
+Lo-WO-00022,Lo-EQ-00022-1,pressure_gauge,Los_Angeles,Spencer-Williams,yes,Steven Hicks
+Lo-WO-00023,Lo-EQ-00023-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick
+Lo-WO-00023,Lo-EQ-00023-1,thermometer,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry
+Lo-WO-00024,Lo-EQ-00024-0,scale,Los_Angeles,Hardin-Mcdonald,no,Kimberly Landry
+Lo-WO-00025,Lo-EQ-00025-0,thermometer,Los_Angeles,"Copeland, Torres and Morales",yes,Jennifer Mccormick
+Lo-WO-00025,Lo-EQ-00025-1,torque,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry
+Lo-WO-00025,Lo-EQ-00025-2,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",yes,Kimberly Landry
+Lo-WO-00026,Lo-EQ-00026-0,thermometer,Los_Angeles,"Cole, Velasquez and Johnson",yes,Steven Hicks
+Lo-WO-00026,Lo-EQ-00026-1,thermometer,Los_Angeles,"Cole, Velasquez and Johnson",no,Steven Hicks
+Lo-WO-00026,Lo-EQ-00026-2,pressure_gauge,Los_Angeles,"Cole, Velasquez and Johnson",yes,Steven Hicks
+Lo-WO-00027,Lo-EQ-00027-0,torque,Los_Angeles,Barnett-Mueller,yes,Steven Hicks
+Lo-WO-00027,Lo-EQ-00027-1,scale,Los_Angeles,Barnett-Mueller,yes,Steven Hicks
+Lo-WO-00027,Lo-EQ-00027-2,thermometer,Los_Angeles,Barnett-Mueller,yes,Kimberly Landry
+Lo-WO-00028,Lo-EQ-00028-0,scale,Los_Angeles,Reed-Moody,yes,Jennifer Mccormick
+Lo-WO-00028,Lo-EQ-00028-1,thermometer,Los_Angeles,Reed-Moody,no,Steven Hicks
+Lo-WO-00028,Lo-EQ-00028-2,flow_meter,Los_Angeles,Reed-Moody,yes,Kimberly Landry
+Lo-WO-00029,Lo-EQ-00029-0,torque,Los_Angeles,Barnett-Mueller,no,Steven Hicks
+Lo-WO-00029,Lo-EQ-00029-1,flow_meter,Los_Angeles,Barnett-Mueller,no,Kimberly Landry
+Lo-WO-00029,Lo-EQ-00029-2,torque,Los_Angeles,Barnett-Mueller,yes,Jennifer Mccormick
+Lo-WO-00030,Lo-EQ-00030-0,scale,Los_Angeles,Romero Group,yes,Steven Hicks
+Lo-WO-00030,Lo-EQ-00030-1,pressure_gauge,Los_Angeles,Romero Group,no,Kimberly Landry
+Lo-WO-00031,Lo-EQ-00031-0,caliper,Los_Angeles,Riddle-Faulkner,no,Kimberly Landry
+Lo-WO-00031,Lo-EQ-00031-1,caliper,Los_Angeles,Riddle-Faulkner,yes,Kimberly Landry
+Lo-WO-00031,Lo-EQ-00031-2,torque,Los_Angeles,Riddle-Faulkner,yes,Kimberly Landry
+Lo-WO-00032,Lo-EQ-00032-0,flow_meter,Los_Angeles,Carter Group,no,Kimberly Landry
+Lo-WO-00033,Lo-EQ-00033-0,pressure_gauge,Los_Angeles,Lopez and Sons,yes,Kimberly Landry
+Lo-WO-00033,Lo-EQ-00033-1,pressure_gauge,Los_Angeles,Lopez and Sons,no,Steven Hicks
+Lo-WO-00034,Lo-EQ-00034-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick
+Lo-WO-00035,Lo-EQ-00035-0,thermometer,Los_Angeles,Ellis Group,yes,Kimberly Landry
+Lo-WO-00036,Lo-EQ-00036-0,caliper,Los_Angeles,Morris-West,no,Kimberly Landry
+Lo-WO-00037,Lo-EQ-00037-0,thermometer,Los_Angeles,"Mitchell, Stephens and Ford",yes,Jennifer Mccormick
+Lo-WO-00037,Lo-EQ-00037-1,thermometer,Los_Angeles,"Mitchell, Stephens and Ford",yes,Steven Hicks
+Lo-WO-00038,Lo-EQ-00038-0,flow_meter,Los_Angeles,"Ramirez, Marsh and Alvarez",no,Kimberly Landry
+Lo-WO-00039,Lo-EQ-00039-0,torque,Los_Angeles,Mcdowell-Brooks,yes,Steven Hicks
+Lo-WO-00039,Lo-EQ-00039-1,caliper,Los_Angeles,Mcdowell-Brooks,no,Jennifer Mccormick
+Lo-WO-00040,Lo-EQ-00040-0,flow_meter,Los_Angeles,Hicks PLC,no,Steven Hicks
+Lo-WO-00041,Lo-EQ-00041-0,thermometer,Los_Angeles,Mills Inc,no,Kimberly Landry
+Lo-WO-00042,Lo-EQ-00042-0,flow_meter,Los_Angeles,"Humphrey, Mullins and Moore",yes,Kimberly Landry
+Lo-WO-00042,Lo-EQ-00042-1,pressure_gauge,Los_Angeles,"Humphrey, Mullins and Moore",no,Jennifer Mccormick
+Lo-WO-00043,Lo-EQ-00043-0,torque,Los_Angeles,Ruiz-Davis,no,Steven Hicks
+Lo-WO-00043,Lo-EQ-00043-1,caliper,Los_Angeles,Ruiz-Davis,no,Jennifer Mccormick
+Lo-WO-00043,Lo-EQ-00043-2,torque,Los_Angeles,Ruiz-Davis,no,Kimberly Landry
+Lo-WO-00044,Lo-EQ-00044-0,thermometer,Los_Angeles,"Thompson, Anderson and Hopkins",no,Kimberly Landry
+Lo-WO-00045,Lo-EQ-00045-0,pressure_gauge,Los_Angeles,"Jensen, Evans and Fowler",no,Steven Hicks
+Lo-WO-00045,Lo-EQ-00045-1,scale,Los_Angeles,"Jensen, Evans and Fowler",no,Kimberly Landry
+Lo-WO-00045,Lo-EQ-00045-2,thermometer,Los_Angeles,"Jensen, Evans and Fowler",no,Steven Hicks
+Lo-WO-00046,Lo-EQ-00046-0,caliper,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick
+Lo-WO-00046,Lo-EQ-00046-1,flow_meter,Los_Angeles,Stephenson-Herring,no,Steven Hicks
+Lo-WO-00046,Lo-EQ-00046-2,flow_meter,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry
+Lo-WO-00047,Lo-EQ-00047-0,thermometer,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick
+Lo-WO-00047,Lo-EQ-00047-1,pressure_gauge,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry
+Lo-WO-00047,Lo-EQ-00047-2,torque,Los_Angeles,Smith-Fernandez,yes,Jennifer Mccormick
+Lo-WO-00048,Lo-EQ-00048-0,flow_meter,Los_Angeles,Mueller LLC,yes,Kimberly Landry
+Lo-WO-00048,Lo-EQ-00048-1,flow_meter,Los_Angeles,Mueller LLC,yes,Steven Hicks
+Lo-WO-00049,Lo-EQ-00049-0,scale,Los_Angeles,Willis Inc,yes,Steven Hicks
+Lo-WO-00049,Lo-EQ-00049-1,scale,Los_Angeles,Willis Inc,yes,Steven Hicks
+Lo-WO-00050,Lo-EQ-00050-0,thermometer,Los_Angeles,Ball LLC,yes,Steven Hicks
+Lo-WO-00051,Lo-EQ-00051-0,pressure_gauge,Los_Angeles,Riddle-Faulkner,yes,Jennifer Mccormick
+Lo-WO-00051,Lo-EQ-00051-1,pressure_gauge,Los_Angeles,Riddle-Faulkner,no,Jennifer Mccormick
+Lo-WO-00051,Lo-EQ-00051-2,thermometer,Los_Angeles,Riddle-Faulkner,yes,Jennifer Mccormick
+Lo-WO-00052,Lo-EQ-00052-0,scale,Los_Angeles,Mills Inc,no,Kimberly Landry
+Lo-WO-00052,Lo-EQ-00052-1,pressure_gauge,Los_Angeles,Mills Inc,yes,Jennifer Mccormick
+Lo-WO-00052,Lo-EQ-00052-2,caliper,Los_Angeles,Mills Inc,no,Steven Hicks
+Lo-WO-00053,Lo-EQ-00053-0,pressure_gauge,Los_Angeles,Freeman-Rice,yes,Steven Hicks
+Lo-WO-00053,Lo-EQ-00053-1,flow_meter,Los_Angeles,Freeman-Rice,no,Kimberly Landry
+Lo-WO-00053,Lo-EQ-00053-2,caliper,Los_Angeles,Freeman-Rice,no,Steven Hicks
+Lo-WO-00054,Lo-EQ-00054-0,flow_meter,Los_Angeles,Parker-Reeves,no,Kimberly Landry
+Lo-WO-00055,Lo-EQ-00055-0,scale,Los_Angeles,"Rose, Rivera and Cox",no,Jennifer Mccormick
+Lo-WO-00055,Lo-EQ-00055-1,torque,Los_Angeles,"Rose, Rivera and Cox",no,Steven Hicks
+Lo-WO-00056,Lo-EQ-00056-0,caliper,Los_Angeles,Holland-Walsh,yes,Kimberly Landry
+Lo-WO-00056,Lo-EQ-00056-1,thermometer,Los_Angeles,Holland-Walsh,no,Kimberly Landry
+Lo-WO-00057,Lo-EQ-00057-0,torque,Los_Angeles,Parker and Sons,no,Jennifer Mccormick
+Lo-WO-00057,Lo-EQ-00057-1,caliper,Los_Angeles,Parker and Sons,no,Kimberly Landry
+Lo-WO-00058,Lo-EQ-00058-0,torque,Los_Angeles,Santiago and Sons,yes,Kimberly Landry
+Lo-WO-00059,Lo-EQ-00059-0,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",yes,Kimberly Landry
+Lo-WO-00059,Lo-EQ-00059-1,thermometer,Los_Angeles,"Dillon, Morton and Wood",no,Kimberly Landry
+Lo-WO-00060,Lo-EQ-00060-0,thermometer,Los_Angeles,Arnold-Peters,yes,Jennifer Mccormick
+Lo-WO-00061,Lo-EQ-00061-0,scale,Los_Angeles,Hardin-Mcdonald,yes,Jennifer Mccormick
+Lo-WO-00061,Lo-EQ-00061-1,caliper,Los_Angeles,Hardin-Mcdonald,no,Steven Hicks
+Lo-WO-00061,Lo-EQ-00061-2,thermometer,Los_Angeles,Hardin-Mcdonald,no,Kimberly Landry
+Lo-WO-00062,Lo-EQ-00062-0,scale,Los_Angeles,Ross Inc,no,Jennifer Mccormick
+Lo-WO-00062,Lo-EQ-00062-1,thermometer,Los_Angeles,Ross Inc,yes,Jennifer Mccormick
+Lo-WO-00062,Lo-EQ-00062-2,torque,Los_Angeles,Ross Inc,yes,Steven Hicks
+Lo-WO-00063,Lo-EQ-00063-0,pressure_gauge,Los_Angeles,Ellis Group,yes,Jennifer Mccormick
+Lo-WO-00063,Lo-EQ-00063-1,caliper,Los_Angeles,Ellis Group,no,Steven Hicks
+Lo-WO-00063,Lo-EQ-00063-2,thermometer,Los_Angeles,Ellis Group,yes,Jennifer Mccormick
+Lo-WO-00064,Lo-EQ-00064-0,thermometer,Los_Angeles,"Armstrong, Fletcher and Wilson",yes,Jennifer Mccormick
+Lo-WO-00065,Lo-EQ-00065-0,caliper,Los_Angeles,"Parks, Miller and Watson",yes,Kimberly Landry
+Lo-WO-00065,Lo-EQ-00065-1,flow_meter,Los_Angeles,"Parks, Miller and Watson",yes,Steven Hicks
+Lo-WO-00066,Lo-EQ-00066-0,scale,Los_Angeles,Brown and Sons,no,Kimberly Landry
+Lo-WO-00066,Lo-EQ-00066-1,torque,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick
+Lo-WO-00067,Lo-EQ-00067-0,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",no,Steven Hicks
+Lo-WO-00068,Lo-EQ-00068-0,thermometer,Los_Angeles,Gonzalez Ltd,yes,Jennifer Mccormick
+Lo-WO-00068,Lo-EQ-00068-1,thermometer,Los_Angeles,Gonzalez Ltd,yes,Kimberly Landry
+Lo-WO-00069,Lo-EQ-00069-0,torque,Los_Angeles,"Thompson, Anderson and Hopkins",no,Kimberly Landry
+Lo-WO-00070,Lo-EQ-00070-0,torque,Los_Angeles,Grant and Sons,no,Steven Hicks
+Lo-WO-00070,Lo-EQ-00070-1,scale,Los_Angeles,Grant and Sons,no,Jennifer Mccormick
+Lo-WO-00071,Lo-EQ-00071-0,pressure_gauge,Los_Angeles,Parker-Lee,yes,Steven Hicks
+Lo-WO-00072,Lo-EQ-00072-0,pressure_gauge,Los_Angeles,Allen Ltd,yes,Steven Hicks
+Lo-WO-00072,Lo-EQ-00072-1,scale,Los_Angeles,Allen Ltd,yes,Steven Hicks
+Lo-WO-00072,Lo-EQ-00072-2,thermometer,Los_Angeles,Allen Ltd,yes,Jennifer Mccormick
+Lo-WO-00073,Lo-EQ-00073-0,pressure_gauge,Los_Angeles,Ross Inc,no,Jennifer Mccormick
+Lo-WO-00073,Lo-EQ-00073-1,pressure_gauge,Los_Angeles,Ross Inc,yes,Steven Hicks
+Lo-WO-00074,Lo-EQ-00074-0,pressure_gauge,Los_Angeles,Rodriguez-Summers,yes,Steven Hicks
+Lo-WO-00074,Lo-EQ-00074-1,pressure_gauge,Los_Angeles,Rodriguez-Summers,no,Steven Hicks
+Lo-WO-00074,Lo-EQ-00074-2,flow_meter,Los_Angeles,Rodriguez-Summers,no,Steven Hicks
+Lo-WO-00075,Lo-EQ-00075-0,scale,Los_Angeles,Ruiz-Davis,yes,Steven Hicks
+Lo-WO-00076,Lo-EQ-00076-0,flow_meter,Los_Angeles,Stephenson-Herring,yes,Steven Hicks
+Lo-WO-00076,Lo-EQ-00076-1,flow_meter,Los_Angeles,Stephenson-Herring,no,Kimberly Landry
+Lo-WO-00077,Lo-EQ-00077-0,flow_meter,Los_Angeles,Morales-Banks,no,Steven Hicks
+Lo-WO-00077,Lo-EQ-00077-1,torque,Los_Angeles,Morales-Banks,yes,Jennifer Mccormick
+Lo-WO-00077,Lo-EQ-00077-2,torque,Los_Angeles,Morales-Banks,no,Steven Hicks
+Lo-WO-00078,Lo-EQ-00078-0,caliper,Los_Angeles,Mueller LLC,no,Steven Hicks
+Lo-WO-00078,Lo-EQ-00078-1,thermometer,Los_Angeles,Mueller LLC,yes,Jennifer Mccormick
+Lo-WO-00079,Lo-EQ-00079-0,caliper,Los_Angeles,Parker-Lee,no,Kimberly Landry
+Lo-WO-00080,Lo-EQ-00080-0,torque,Los_Angeles,Gonzalez Ltd,yes,Jennifer Mccormick
+Lo-WO-00080,Lo-EQ-00080-1,thermometer,Los_Angeles,Gonzalez Ltd,yes,Jennifer Mccormick
+Lo-WO-00081,Lo-EQ-00081-0,caliper,Los_Angeles,Gonzalez LLC,yes,Jennifer Mccormick
+Lo-WO-00082,Lo-EQ-00082-0,torque,Los_Angeles,Gonzalez Ltd,no,Jennifer Mccormick
+Lo-WO-00083,Lo-EQ-00083-0,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick
+Lo-WO-00083,Lo-EQ-00083-1,pressure_gauge,Los_Angeles,"Copeland, Torres and Morales",yes,Jennifer Mccormick
+Lo-WO-00083,Lo-EQ-00083-2,scale,Los_Angeles,"Copeland, Torres and Morales",no,Jennifer Mccormick
+Lo-WO-00084,Lo-EQ-00084-0,flow_meter,Los_Angeles,Thomas LLC,no,Kimberly Landry
+Lo-WO-00085,Lo-EQ-00085-0,pressure_gauge,Los_Angeles,Barnett-Mueller,yes,Jennifer Mccormick
+Lo-WO-00085,Lo-EQ-00085-1,thermometer,Los_Angeles,Barnett-Mueller,no,Jennifer Mccormick
+Lo-WO-00086,Lo-EQ-00086-0,thermometer,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick
+Lo-WO-00086,Lo-EQ-00086-1,torque,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry
+Lo-WO-00086,Lo-EQ-00086-2,flow_meter,Los_Angeles,"Bell, Haney and Roberson",no,Jennifer Mccormick
+Lo-WO-00087,Lo-EQ-00087-0,thermometer,Los_Angeles,Ross Inc,yes,Jennifer Mccormick
+Lo-WO-00088,Lo-EQ-00088-0,pressure_gauge,Los_Angeles,Mills Inc,no,Steven Hicks
+Lo-WO-00089,Lo-EQ-00089-0,pressure_gauge,Los_Angeles,Parker-Lee,yes,Jennifer Mccormick
+Lo-WO-00090,Lo-EQ-00090-0,thermometer,Los_Angeles,Hicks PLC,yes,Jennifer Mccormick
+Lo-WO-00090,Lo-EQ-00090-1,scale,Los_Angeles,Hicks PLC,yes,Steven Hicks
+Lo-WO-00090,Lo-EQ-00090-2,caliper,Los_Angeles,Hicks PLC,yes,Steven Hicks
+Lo-WO-00091,Lo-EQ-00091-0,torque,Los_Angeles,"Bell, Haney and Roberson",no,Kimberly Landry
+Lo-WO-00092,Lo-EQ-00092-0,caliper,Los_Angeles,Ross Inc,yes,Steven Hicks
+Lo-WO-00092,Lo-EQ-00092-1,flow_meter,Los_Angeles,Ross Inc,yes,Kimberly Landry
+Lo-WO-00092,Lo-EQ-00092-2,torque,Los_Angeles,Ross Inc,no,Jennifer Mccormick
+Lo-WO-00093,Lo-EQ-00093-0,torque,Los_Angeles,"White, Grant and Flores",no,Jennifer Mccormick
+Lo-WO-00093,Lo-EQ-00093-1,torque,Los_Angeles,"White, Grant and Flores",yes,Kimberly Landry
+Lo-WO-00094,Lo-EQ-00094-0,scale,Los_Angeles,Woods Inc,no,Kimberly Landry
+Lo-WO-00094,Lo-EQ-00094-1,pressure_gauge,Los_Angeles,Woods Inc,yes,Jennifer Mccormick
+Lo-WO-00094,Lo-EQ-00094-2,pressure_gauge,Los_Angeles,Woods Inc,yes,Jennifer Mccormick
+Lo-WO-00095,Lo-EQ-00095-0,pressure_gauge,Los_Angeles,Arnold-Peters,yes,Jennifer Mccormick
+Lo-WO-00096,Lo-EQ-00096-0,torque,Los_Angeles,Neal-Kelley,yes,Jennifer Mccormick
+Lo-WO-00096,Lo-EQ-00096-1,thermometer,Los_Angeles,Neal-Kelley,yes,Kimberly Landry
+Lo-WO-00097,Lo-EQ-00097-0,caliper,Los_Angeles,Walker-Morales,yes,Jennifer Mccormick
+Lo-WO-00097,Lo-EQ-00097-1,caliper,Los_Angeles,Walker-Morales,yes,Jennifer Mccormick
+Lo-WO-00098,Lo-EQ-00098-0,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Kimberly Landry
+Lo-WO-00098,Lo-EQ-00098-1,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Steven Hicks
+Lo-WO-00099,Lo-EQ-00099-0,thermometer,Los_Angeles,"Mcgrath, Barton and Carter",no,Kimberly Landry
+Lo-WO-00099,Lo-EQ-00099-1,scale,Los_Angeles,"Mcgrath, Barton and Carter",yes,Jennifer Mccormick
+Lo-WO-00099,Lo-EQ-00099-2,caliper,Los_Angeles,"Mcgrath, Barton and Carter",no,Steven Hicks
+Lo-WO-00100,Lo-EQ-00100-0,pressure_gauge,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry
+Lo-WO-00100,Lo-EQ-00100-1,caliper,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick
+Lo-WO-00100,Lo-EQ-00100-2,thermometer,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick
+Lo-WO-00101,Lo-EQ-00101-0,thermometer,Los_Angeles,"Combs, Gibson and Mitchell",yes,Kimberly Landry
+Lo-WO-00101,Lo-EQ-00101-1,caliper,Los_Angeles,"Combs, Gibson and Mitchell",no,Steven Hicks
+Lo-WO-00101,Lo-EQ-00101-2,flow_meter,Los_Angeles,"Combs, Gibson and Mitchell",no,Steven Hicks
+Lo-WO-00102,Lo-EQ-00102-0,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",yes,Jennifer Mccormick
+Lo-WO-00102,Lo-EQ-00102-1,torque,Los_Angeles,"Mcgrath, Barton and Carter",yes,Kimberly Landry
+Lo-WO-00102,Lo-EQ-00102-2,flow_meter,Los_Angeles,"Mcgrath, Barton and Carter",no,Kimberly Landry
+Lo-WO-00103,Lo-EQ-00103-0,caliper,Los_Angeles,"Combs, Gibson and Mitchell",no,Kimberly Landry
+Lo-WO-00104,Lo-EQ-00104-0,caliper,Los_Angeles,Doyle-Barnes,yes,Kimberly Landry
+Lo-WO-00104,Lo-EQ-00104-1,scale,Los_Angeles,Doyle-Barnes,yes,Steven Hicks
+Lo-WO-00105,Lo-EQ-00105-0,flow_meter,Los_Angeles,Parker-Lee,no,Kimberly Landry
+Lo-WO-00105,Lo-EQ-00105-1,pressure_gauge,Los_Angeles,Parker-Lee,no,Kimberly Landry
+Lo-WO-00106,Lo-EQ-00106-0,thermometer,Los_Angeles,Rodriguez-Summers,yes,Kimberly Landry
+Lo-WO-00106,Lo-EQ-00106-1,thermometer,Los_Angeles,Rodriguez-Summers,no,Jennifer Mccormick
+Lo-WO-00106,Lo-EQ-00106-2,thermometer,Los_Angeles,Rodriguez-Summers,no,Kimberly Landry
+Lo-WO-00107,Lo-EQ-00107-0,caliper,Los_Angeles,"Combs, Gibson and Mitchell",yes,Jennifer Mccormick
+Lo-WO-00108,Lo-EQ-00108-0,thermometer,Los_Angeles,Lopez and Sons,no,Steven Hicks
+Lo-WO-00109,Lo-EQ-00109-0,thermometer,Los_Angeles,Moreno-Friedman,no,Kimberly Landry
+Lo-WO-00109,Lo-EQ-00109-1,pressure_gauge,Los_Angeles,Moreno-Friedman,no,Kimberly Landry
+Lo-WO-00110,Lo-EQ-00110-0,pressure_gauge,Los_Angeles,Mccann-Hoffman,no,Steven Hicks
+Lo-WO-00110,Lo-EQ-00110-1,pressure_gauge,Los_Angeles,Mccann-Hoffman,no,Kimberly Landry
+Lo-WO-00111,Lo-EQ-00111-0,pressure_gauge,Los_Angeles,Holland-Walsh,yes,Jennifer Mccormick
+Lo-WO-00112,Lo-EQ-00112-0,scale,Los_Angeles,Ball LLC,yes,Kimberly Landry
+Lo-WO-00112,Lo-EQ-00112-1,scale,Los_Angeles,Ball LLC,yes,Jennifer Mccormick
+Lo-WO-00113,Lo-EQ-00113-0,pressure_gauge,Los_Angeles,"Combs, Gibson and Mitchell",no,Jennifer Mccormick
+Lo-WO-00114,Lo-EQ-00114-0,scale,Los_Angeles,Mcdowell-Brooks,no,Jennifer Mccormick
+Lo-WO-00114,Lo-EQ-00114-1,caliper,Los_Angeles,Mcdowell-Brooks,yes,Jennifer Mccormick
+Lo-WO-00114,Lo-EQ-00114-2,caliper,Los_Angeles,Mcdowell-Brooks,yes,Jennifer Mccormick
+Lo-WO-00115,Lo-EQ-00115-0,thermometer,Los_Angeles,Walker-Morales,yes,Steven Hicks
+Lo-WO-00115,Lo-EQ-00115-1,flow_meter,Los_Angeles,Walker-Morales,yes,Steven Hicks
+Lo-WO-00115,Lo-EQ-00115-2,scale,Los_Angeles,Walker-Morales,no,Kimberly Landry
+Lo-WO-00116,Lo-EQ-00116-0,torque,Los_Angeles,Woods Inc,yes,Kimberly Landry
+Lo-WO-00116,Lo-EQ-00116-1,flow_meter,Los_Angeles,Woods Inc,yes,Kimberly Landry
+Lo-WO-00117,Lo-EQ-00117-0,caliper,Los_Angeles,"Combs, Gibson and Mitchell",yes,Kimberly Landry
+Lo-WO-00118,Lo-EQ-00118-0,pressure_gauge,Los_Angeles,"Rose, Rivera and Cox",no,Steven Hicks
+Lo-WO-00118,Lo-EQ-00118-1,thermometer,Los_Angeles,"Rose, Rivera and Cox",no,Jennifer Mccormick
+Lo-WO-00119,Lo-EQ-00119-0,pressure_gauge,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick
+Lo-WO-00120,Lo-EQ-00120-0,scale,Los_Angeles,"Combs, Gibson and Mitchell",no,Jennifer Mccormick
+Lo-WO-00120,Lo-EQ-00120-1,flow_meter,Los_Angeles,"Combs, Gibson and Mitchell",no,Kimberly Landry
+Lo-WO-00121,Lo-EQ-00121-0,torque,Los_Angeles,Collins and Sons,no,Kimberly Landry
+Lo-WO-00121,Lo-EQ-00121-1,thermometer,Los_Angeles,Collins and Sons,yes,Kimberly Landry
+Lo-WO-00122,Lo-EQ-00122-0,scale,Los_Angeles,"Moore, Prince and Blankenship",yes,Steven Hicks
+Lo-WO-00122,Lo-EQ-00122-1,pressure_gauge,Los_Angeles,"Moore, Prince and Blankenship",yes,Steven Hicks
+Lo-WO-00123,Lo-EQ-00123-0,caliper,Los_Angeles,Woods Inc,yes,Jennifer Mccormick
+Lo-WO-00123,Lo-EQ-00123-1,scale,Los_Angeles,Woods Inc,no,Jennifer Mccormick
+Lo-WO-00124,Lo-EQ-00124-0,flow_meter,Los_Angeles,Miller-Mcguire,no,Steven Hicks
+Lo-WO-00124,Lo-EQ-00124-1,scale,Los_Angeles,Miller-Mcguire,no,Kimberly Landry
+Lo-WO-00125,Lo-EQ-00125-0,scale,Los_Angeles,"Castro, Austin and Sparks",yes,Steven Hicks
+Lo-WO-00126,Lo-EQ-00126-0,pressure_gauge,Los_Angeles,Stephenson-Herring,yes,Jennifer Mccormick
+Lo-WO-00126,Lo-EQ-00126-1,flow_meter,Los_Angeles,Stephenson-Herring,no,Kimberly Landry
+Lo-WO-00126,Lo-EQ-00126-2,flow_meter,Los_Angeles,Stephenson-Herring,yes,Jennifer Mccormick
+Lo-WO-00127,Lo-EQ-00127-0,scale,Los_Angeles,"Cole, Velasquez and Johnson",yes,Jennifer Mccormick
+Lo-WO-00128,Lo-EQ-00128-0,torque,Los_Angeles,Ellis Group,yes,Jennifer Mccormick
+Lo-WO-00128,Lo-EQ-00128-1,scale,Los_Angeles,Ellis Group,yes,Kimberly Landry
+Lo-WO-00128,Lo-EQ-00128-2,caliper,Los_Angeles,Ellis Group,no,Kimberly Landry
+Lo-WO-00129,Lo-EQ-00129-0,pressure_gauge,Los_Angeles,Gonzalez LLC,yes,Jennifer Mccormick
+Lo-WO-00129,Lo-EQ-00129-1,torque,Los_Angeles,Gonzalez LLC,no,Jennifer Mccormick
+Lo-WO-00129,Lo-EQ-00129-2,torque,Los_Angeles,Gonzalez LLC,yes,Jennifer Mccormick
+Lo-WO-00130,Lo-EQ-00130-0,flow_meter,Los_Angeles,Garcia Ltd,no,Jennifer Mccormick
+Lo-WO-00130,Lo-EQ-00130-1,flow_meter,Los_Angeles,Garcia Ltd,yes,Steven Hicks
+Lo-WO-00131,Lo-EQ-00131-0,torque,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick
+Lo-WO-00131,Lo-EQ-00131-1,thermometer,Los_Angeles,Smith-Fernandez,no,Steven Hicks
+Lo-WO-00132,Lo-EQ-00132-0,pressure_gauge,Los_Angeles,Gonzalez Ltd,no,Kimberly Landry
+Lo-WO-00133,Lo-EQ-00133-0,torque,Los_Angeles,Tucker-Nelson,yes,Steven Hicks
+Lo-WO-00134,Lo-EQ-00134-0,caliper,Los_Angeles,Collins and Sons,yes,Jennifer Mccormick
+Lo-WO-00134,Lo-EQ-00134-1,scale,Los_Angeles,Collins and Sons,no,Steven Hicks
+Lo-WO-00134,Lo-EQ-00134-2,caliper,Los_Angeles,Collins and Sons,no,Steven Hicks
+Lo-WO-00135,Lo-EQ-00135-0,caliper,Los_Angeles,James-Nichols,yes,Steven Hicks
+Lo-WO-00135,Lo-EQ-00135-1,pressure_gauge,Los_Angeles,James-Nichols,yes,Jennifer Mccormick
+Lo-WO-00135,Lo-EQ-00135-2,thermometer,Los_Angeles,James-Nichols,no,Kimberly Landry
+Lo-WO-00136,Lo-EQ-00136-0,pressure_gauge,Los_Angeles,Holland-Walsh,yes,Kimberly Landry
+Lo-WO-00136,Lo-EQ-00136-1,scale,Los_Angeles,Holland-Walsh,no,Jennifer Mccormick
+Lo-WO-00136,Lo-EQ-00136-2,flow_meter,Los_Angeles,Holland-Walsh,yes,Jennifer Mccormick
+Lo-WO-00137,Lo-EQ-00137-0,thermometer,Los_Angeles,Allen Ltd,no,Kimberly Landry
+Lo-WO-00138,Lo-EQ-00138-0,caliper,Los_Angeles,"Hawkins, Campos and Booth",yes,Kimberly Landry
+Lo-WO-00138,Lo-EQ-00138-1,torque,Los_Angeles,"Hawkins, Campos and Booth",no,Steven Hicks
+Lo-WO-00139,Lo-EQ-00139-0,flow_meter,Los_Angeles,"Good, Stephens and Richardson",no,Steven Hicks
+Lo-WO-00139,Lo-EQ-00139-1,scale,Los_Angeles,"Good, Stephens and Richardson",no,Steven Hicks
+Lo-WO-00140,Lo-EQ-00140-0,caliper,Los_Angeles,Moreno-Friedman,no,Jennifer Mccormick
+Lo-WO-00141,Lo-EQ-00141-0,caliper,Los_Angeles,Martin-Hale,no,Steven Hicks
+Lo-WO-00142,Lo-EQ-00142-0,torque,Los_Angeles,Hammond-Guerrero,yes,Steven Hicks
+Lo-WO-00142,Lo-EQ-00142-1,caliper,Los_Angeles,Hammond-Guerrero,yes,Kimberly Landry
+Lo-WO-00142,Lo-EQ-00142-2,torque,Los_Angeles,Hammond-Guerrero,no,Kimberly Landry
+Lo-WO-00143,Lo-EQ-00143-0,pressure_gauge,Los_Angeles,Smith-Fernandez,no,Kimberly Landry
+Lo-WO-00143,Lo-EQ-00143-1,caliper,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry
+Lo-WO-00143,Lo-EQ-00143-2,torque,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry
+Lo-WO-00144,Lo-EQ-00144-0,scale,Los_Angeles,"Dillon, Morton and Wood",yes,Steven Hicks
+Lo-WO-00144,Lo-EQ-00144-1,pressure_gauge,Los_Angeles,"Dillon, Morton and Wood",yes,Kimberly Landry
+Lo-WO-00145,Lo-EQ-00145-0,torque,Los_Angeles,"Humphrey, Mullins and Moore",no,Kimberly Landry
+Lo-WO-00145,Lo-EQ-00145-1,thermometer,Los_Angeles,"Humphrey, Mullins and Moore",yes,Jennifer Mccormick
+Lo-WO-00146,Lo-EQ-00146-0,caliper,Los_Angeles,Hardin-Mcdonald,no,Jennifer Mccormick
+Lo-WO-00147,Lo-EQ-00147-0,caliper,Los_Angeles,Martin-Hale,yes,Kimberly Landry
+Lo-WO-00147,Lo-EQ-00147-1,torque,Los_Angeles,Martin-Hale,no,Kimberly Landry
+Lo-WO-00147,Lo-EQ-00147-2,pressure_gauge,Los_Angeles,Martin-Hale,no,Steven Hicks
+Lo-WO-00148,Lo-EQ-00148-0,thermometer,Los_Angeles,Wells Inc,yes,Steven Hicks
+Lo-WO-00148,Lo-EQ-00148-1,torque,Los_Angeles,Wells Inc,yes,Steven Hicks
+Lo-WO-00149,Lo-EQ-00149-0,flow_meter,Los_Angeles,Garcia Ltd,yes,Jennifer Mccormick
+Lo-WO-00149,Lo-EQ-00149-1,thermometer,Los_Angeles,Garcia Ltd,no,Kimberly Landry
+Lo-WO-00150,Lo-EQ-00150-0,caliper,Los_Angeles,Huynh Group,no,Steven Hicks
+Lo-WO-00150,Lo-EQ-00150-1,scale,Los_Angeles,Huynh Group,yes,Steven Hicks
+Lo-WO-00150,Lo-EQ-00150-2,torque,Los_Angeles,Huynh Group,no,Steven Hicks
+Lo-WO-00151,Lo-EQ-00151-0,flow_meter,Los_Angeles,Willis Inc,no,Steven Hicks
+Lo-WO-00151,Lo-EQ-00151-1,pressure_gauge,Los_Angeles,Willis Inc,no,Steven Hicks
+Lo-WO-00151,Lo-EQ-00151-2,thermometer,Los_Angeles,Willis Inc,yes,Jennifer Mccormick
+Lo-WO-00152,Lo-EQ-00152-0,thermometer,Los_Angeles,"Delgado, Krause and Lopez",no,Steven Hicks
+Lo-WO-00153,Lo-EQ-00153-0,torque,Los_Angeles,"Armstrong, Fletcher and Wilson",no,Kimberly Landry
+Lo-WO-00153,Lo-EQ-00153-1,caliper,Los_Angeles,"Armstrong, Fletcher and Wilson",yes,Kimberly Landry
+Lo-WO-00154,Lo-EQ-00154-0,pressure_gauge,Los_Angeles,"Parks, Miller and Watson",no,Jennifer Mccormick
+Lo-WO-00154,Lo-EQ-00154-1,torque,Los_Angeles,"Parks, Miller and Watson",yes,Jennifer Mccormick
+Lo-WO-00155,Lo-EQ-00155-0,thermometer,Los_Angeles,Davis and Sons,no,Steven Hicks
+Lo-WO-00155,Lo-EQ-00155-1,scale,Los_Angeles,Davis and Sons,yes,Steven Hicks
+Lo-WO-00155,Lo-EQ-00155-2,flow_meter,Los_Angeles,Davis and Sons,yes,Kimberly Landry
+Lo-WO-00156,Lo-EQ-00156-0,flow_meter,Los_Angeles,Smith-Fernandez,no,Steven Hicks
+Lo-WO-00156,Lo-EQ-00156-1,thermometer,Los_Angeles,Smith-Fernandez,yes,Steven Hicks
+Lo-WO-00157,Lo-EQ-00157-0,caliper,Los_Angeles,"Rose, Rivera and Cox",no,Kimberly Landry
+Lo-WO-00157,Lo-EQ-00157-1,scale,Los_Angeles,"Rose, Rivera and Cox",yes,Steven Hicks
+Lo-WO-00157,Lo-EQ-00157-2,caliper,Los_Angeles,"Rose, Rivera and Cox",yes,Jennifer Mccormick
+Lo-WO-00158,Lo-EQ-00158-0,thermometer,Los_Angeles,"Delgado, Krause and Lopez",no,Kimberly Landry
+Lo-WO-00158,Lo-EQ-00158-1,flow_meter,Los_Angeles,"Delgado, Krause and Lopez",no,Kimberly Landry
+Lo-WO-00158,Lo-EQ-00158-2,caliper,Los_Angeles,"Delgado, Krause and Lopez",yes,Steven Hicks
+Lo-WO-00159,Lo-EQ-00159-0,scale,Los_Angeles,Chang-Love,no,Jennifer Mccormick
+Lo-WO-00159,Lo-EQ-00159-1,thermometer,Los_Angeles,Chang-Love,no,Kimberly Landry
+Lo-WO-00159,Lo-EQ-00159-2,caliper,Los_Angeles,Chang-Love,no,Kimberly Landry
+Lo-WO-00160,Lo-EQ-00160-0,torque,Los_Angeles,Fletcher-Boone,no,Kimberly Landry
+Lo-WO-00161,Lo-EQ-00161-0,pressure_gauge,Los_Angeles,Kelley-Young,no,Steven Hicks
+Lo-WO-00162,Lo-EQ-00162-0,caliper,Los_Angeles,Romero Group,yes,Kimberly Landry
+Lo-WO-00162,Lo-EQ-00162-1,flow_meter,Los_Angeles,Romero Group,yes,Jennifer Mccormick
+Lo-WO-00162,Lo-EQ-00162-2,caliper,Los_Angeles,Romero Group,no,Jennifer Mccormick
+Lo-WO-00163,Lo-EQ-00163-0,caliper,Los_Angeles,Thomas LLC,yes,Kimberly Landry
+Lo-WO-00164,Lo-EQ-00164-0,torque,Los_Angeles,Stephenson-Herring,no,Jennifer Mccormick
+Lo-WO-00164,Lo-EQ-00164-1,caliper,Los_Angeles,Stephenson-Herring,yes,Kimberly Landry
+Lo-WO-00165,Lo-EQ-00165-0,flow_meter,Los_Angeles,Miller-Mcguire,yes,Steven Hicks
+Lo-WO-00165,Lo-EQ-00165-1,flow_meter,Los_Angeles,Miller-Mcguire,no,Steven Hicks
+Lo-WO-00166,Lo-EQ-00166-0,pressure_gauge,Los_Angeles,Allen Ltd,no,Kimberly Landry
+Lo-WO-00167,Lo-EQ-00167-0,pressure_gauge,Los_Angeles,Lopez and Sons,no,Steven Hicks
+Lo-WO-00168,Lo-EQ-00168-0,pressure_gauge,Los_Angeles,Banks-Hughes,no,Kimberly Landry
+Lo-WO-00169,Lo-EQ-00169-0,caliper,Los_Angeles,Lopez and Sons,no,Steven Hicks
+Lo-WO-00169,Lo-EQ-00169-1,thermometer,Los_Angeles,Lopez and Sons,no,Steven Hicks
+Lo-WO-00169,Lo-EQ-00169-2,flow_meter,Los_Angeles,Lopez and Sons,no,Jennifer Mccormick
+Lo-WO-00170,Lo-EQ-00170-0,thermometer,Los_Angeles,Rodriguez Group,no,Jennifer Mccormick
+Lo-WO-00170,Lo-EQ-00170-1,caliper,Los_Angeles,Rodriguez Group,no,Kimberly Landry
+Lo-WO-00170,Lo-EQ-00170-2,torque,Los_Angeles,Rodriguez Group,yes,Kimberly Landry
+Lo-WO-00171,Lo-EQ-00171-0,torque,Los_Angeles,Hamilton Group,no,Kimberly Landry
+Lo-WO-00171,Lo-EQ-00171-1,pressure_gauge,Los_Angeles,Hamilton Group,yes,Steven Hicks
+Lo-WO-00172,Lo-EQ-00172-0,flow_meter,Los_Angeles,Ellis Group,no,Jennifer Mccormick
+Lo-WO-00172,Lo-EQ-00172-1,torque,Los_Angeles,Ellis Group,yes,Steven Hicks
+Lo-WO-00173,Lo-EQ-00173-0,scale,Los_Angeles,James-Nichols,no,Jennifer Mccormick
+Lo-WO-00174,Lo-EQ-00174-0,thermometer,Los_Angeles,Rodriguez Inc,yes,Kimberly Landry
+Lo-WO-00174,Lo-EQ-00174-1,scale,Los_Angeles,Rodriguez Inc,no,Steven Hicks
+Lo-WO-00175,Lo-EQ-00175-0,torque,Los_Angeles,Brown and Sons,no,Steven Hicks
+Lo-WO-00175,Lo-EQ-00175-1,thermometer,Los_Angeles,Brown and Sons,yes,Jennifer Mccormick
+Lo-WO-00175,Lo-EQ-00175-2,torque,Los_Angeles,Brown and Sons,yes,Kimberly Landry
+Lo-WO-00176,Lo-EQ-00176-0,thermometer,Los_Angeles,Serrano Inc,no,Jennifer Mccormick
+Lo-WO-00176,Lo-EQ-00176-1,thermometer,Los_Angeles,Serrano Inc,no,Kimberly Landry
+Lo-WO-00177,Lo-EQ-00177-0,scale,Los_Angeles,Parker-Lee,no,Jennifer Mccormick
+Lo-WO-00177,Lo-EQ-00177-1,caliper,Los_Angeles,Parker-Lee,yes,Jennifer Mccormick
+Lo-WO-00177,Lo-EQ-00177-2,flow_meter,Los_Angeles,Parker-Lee,no,Steven Hicks
+Lo-WO-00178,Lo-EQ-00178-0,flow_meter,Los_Angeles,Holland-Walsh,no,Steven Hicks
+Lo-WO-00178,Lo-EQ-00178-1,pressure_gauge,Los_Angeles,Holland-Walsh,no,Steven Hicks
+Lo-WO-00178,Lo-EQ-00178-2,thermometer,Los_Angeles,Holland-Walsh,yes,Steven Hicks
+Lo-WO-00179,Lo-EQ-00179-0,flow_meter,Los_Angeles,Chang-Love,no,Jennifer Mccormick
+Lo-WO-00180,Lo-EQ-00180-0,pressure_gauge,Los_Angeles,Gonzalez LLC,no,Steven Hicks
+Lo-WO-00180,Lo-EQ-00180-1,scale,Los_Angeles,Gonzalez LLC,yes,Steven Hicks
+Lo-WO-00181,Lo-EQ-00181-0,thermometer,Los_Angeles,"Ramirez, Marsh and Alvarez",yes,Jennifer Mccormick
+Lo-WO-00181,Lo-EQ-00181-1,flow_meter,Los_Angeles,"Ramirez, Marsh and Alvarez",yes,Kimberly Landry
+Lo-WO-00182,Lo-EQ-00182-0,caliper,Los_Angeles,Fletcher-Boone,no,Jennifer Mccormick
+Lo-WO-00182,Lo-EQ-00182-1,thermometer,Los_Angeles,Fletcher-Boone,no,Steven Hicks
+Lo-WO-00182,Lo-EQ-00182-2,pressure_gauge,Los_Angeles,Fletcher-Boone,no,Kimberly Landry
+Lo-WO-00183,Lo-EQ-00183-0,pressure_gauge,Los_Angeles,Cole-Cervantes,no,Steven Hicks
+Lo-WO-00183,Lo-EQ-00183-1,pressure_gauge,Los_Angeles,Cole-Cervantes,yes,Jennifer Mccormick
+Lo-WO-00183,Lo-EQ-00183-2,pressure_gauge,Los_Angeles,Cole-Cervantes,yes,Steven Hicks
+Lo-WO-00184,Lo-EQ-00184-0,flow_meter,Los_Angeles,"Thompson, Anderson and Hopkins",no,Steven Hicks
+Lo-WO-00184,Lo-EQ-00184-1,scale,Los_Angeles,"Thompson, Anderson and Hopkins",yes,Jennifer Mccormick
+Lo-WO-00185,Lo-EQ-00185-0,pressure_gauge,Los_Angeles,James-Nichols,yes,Kimberly Landry
+Lo-WO-00185,Lo-EQ-00185-1,thermometer,Los_Angeles,James-Nichols,yes,Jennifer Mccormick
+Lo-WO-00186,Lo-EQ-00186-0,caliper,Los_Angeles,Jensen-Bell,yes,Jennifer Mccormick
+Lo-WO-00187,Lo-EQ-00187-0,pressure_gauge,Los_Angeles,"Hawkins, Campos and Booth",yes,Jennifer Mccormick
+Lo-WO-00187,Lo-EQ-00187-1,pressure_gauge,Los_Angeles,"Hawkins, Campos and Booth",no,Kimberly Landry
+Lo-WO-00187,Lo-EQ-00187-2,torque,Los_Angeles,"Hawkins, Campos and Booth",yes,Steven Hicks
+Lo-WO-00188,Lo-EQ-00188-0,pressure_gauge,Los_Angeles,Ibarra-Gonzales,yes,Jennifer Mccormick
+Lo-WO-00188,Lo-EQ-00188-1,torque,Los_Angeles,Ibarra-Gonzales,no,Jennifer Mccormick
+Lo-WO-00189,Lo-EQ-00189-0,flow_meter,Los_Angeles,Parker and Sons,yes,Jennifer Mccormick
+Lo-WO-00190,Lo-EQ-00190-0,torque,Los_Angeles,Smith-Fernandez,no,Jennifer Mccormick
+Lo-WO-00190,Lo-EQ-00190-1,pressure_gauge,Los_Angeles,Smith-Fernandez,yes,Steven Hicks
+Lo-WO-00190,Lo-EQ-00190-2,caliper,Los_Angeles,Smith-Fernandez,yes,Kimberly Landry
+Lo-WO-00191,Lo-EQ-00191-0,flow_meter,Los_Angeles,Morris-West,no,Steven Hicks
+Lo-WO-00192,Lo-EQ-00192-0,thermometer,Los_Angeles,"Delgado, Krause and Lopez",no,Jennifer Mccormick
+Lo-WO-00192,Lo-EQ-00192-1,scale,Los_Angeles,"Delgado, Krause and Lopez",no,Jennifer Mccormick
+Lo-WO-00192,Lo-EQ-00192-2,thermometer,Los_Angeles,"Delgado, Krause and Lopez",yes,Steven Hicks
+Lo-WO-00193,Lo-EQ-00193-0,torque,Los_Angeles,Kelley-Young,yes,Kimberly Landry
+Lo-WO-00194,Lo-EQ-00194-0,caliper,Los_Angeles,"Moore, Prince and Blankenship",yes,Kimberly Landry
+Lo-WO-00194,Lo-EQ-00194-1,caliper,Los_Angeles,"Moore, Prince and Blankenship",yes,Jennifer Mccormick
+Lo-WO-00195,Lo-EQ-00195-0,scale,Los_Angeles,"Castro, Austin and Sparks",yes,Kimberly Landry
+Lo-WO-00196,Lo-EQ-00196-0,scale,Los_Angeles,"Hawkins, Campos and Booth",yes,Steven Hicks
+Lo-WO-00196,Lo-EQ-00196-1,torque,Los_Angeles,"Hawkins, Campos and Booth",no,Kimberly Landry
+Lo-WO-00196,Lo-EQ-00196-2,scale,Los_Angeles,"Hawkins, Campos and Booth",yes,Kimberly Landry
+Lo-WO-00197,Lo-EQ-00197-0,scale,Los_Angeles,Spencer-Williams,yes,Steven Hicks
+Lo-WO-00198,Lo-EQ-00198-0,scale,Los_Angeles,Jensen-Bell,no,Jennifer Mccormick
+Lo-WO-00198,Lo-EQ-00198-1,flow_meter,Los_Angeles,Jensen-Bell,no,Steven Hicks
+Lo-WO-00199,Lo-EQ-00199-0,scale,Los_Angeles,Miller-Decker,yes,Steven Hicks
+Lo-WO-00199,Lo-EQ-00199-1,thermometer,Los_Angeles,Miller-Decker,no,Jennifer Mccormick

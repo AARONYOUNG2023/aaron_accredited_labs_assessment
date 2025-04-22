@@ -1,0 +1,399 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician
+Ph-WO-00000,Ph-EQ-00000-0,torque,Phoenix,Mann PLC,yes,Lori Mcgee
+Ph-WO-00001,Ph-EQ-00001-0,thermometer,Phoenix,Holland-Walsh,yes,Stephanie Cooper
+Ph-WO-00001,Ph-EQ-00001-1,torque,Phoenix,Holland-Walsh,no,Lori Mcgee
+Ph-WO-00002,Ph-EQ-00002-0,caliper,Phoenix,"Dillon, Morton and Wood",yes,Lori Mcgee
+Ph-WO-00003,Ph-EQ-00003-0,torque,Phoenix,Allen Ltd,no,Stephanie Cooper
+Ph-WO-00004,Ph-EQ-00004-0,torque,Phoenix,Ellis Group,no,Lori Mcgee
+Ph-WO-00004,Ph-EQ-00004-1,flow_meter,Phoenix,Ellis Group,yes,Carol Rasmussen
+Ph-WO-00004,Ph-EQ-00004-2,caliper,Phoenix,Ellis Group,yes,Lori Mcgee
+Ph-WO-00005,Ph-EQ-00005-0,torque,Phoenix,Hammond-Guerrero,no,Carol Rasmussen
+Ph-WO-00005,Ph-EQ-00005-1,pressure_gauge,Phoenix,Hammond-Guerrero,yes,Carol Rasmussen
+Ph-WO-00005,Ph-EQ-00005-2,flow_meter,Phoenix,Hammond-Guerrero,no,Stephanie Cooper
+Ph-WO-00006,Ph-EQ-00006-0,scale,Phoenix,Ball LLC,no,Carol Rasmussen
+Ph-WO-00006,Ph-EQ-00006-1,thermometer,Phoenix,Ball LLC,yes,Carol Rasmussen
+Ph-WO-00007,Ph-EQ-00007-0,pressure_gauge,Phoenix,Santiago and Sons,yes,Lori Mcgee
+Ph-WO-00007,Ph-EQ-00007-1,pressure_gauge,Phoenix,Santiago and Sons,yes,Lori Mcgee
+Ph-WO-00008,Ph-EQ-00008-0,thermometer,Phoenix,"Mcgrath, Barton and Carter",no,Lori Mcgee
+Ph-WO-00008,Ph-EQ-00008-1,caliper,Phoenix,"Mcgrath, Barton and Carter",no,Lori Mcgee
+Ph-WO-00009,Ph-EQ-00009-0,torque,Phoenix,Chang-Love,no,Stephanie Cooper
+Ph-WO-00010,Ph-EQ-00010-0,caliper,Phoenix,James-Nichols,yes,Carol Rasmussen
+Ph-WO-00011,Ph-EQ-00011-0,caliper,Phoenix,Ibarra-Gonzales,yes,Lori Mcgee
+Ph-WO-00011,Ph-EQ-00011-1,thermometer,Phoenix,Ibarra-Gonzales,no,Carol Rasmussen
+Ph-WO-00012,Ph-EQ-00012-0,pressure_gauge,Phoenix,Rodriguez Group,yes,Stephanie Cooper
+Ph-WO-00012,Ph-EQ-00012-1,scale,Phoenix,Rodriguez Group,yes,Carol Rasmussen
+Ph-WO-00013,Ph-EQ-00013-0,thermometer,Phoenix,Allen Ltd,no,Lori Mcgee
+Ph-WO-00013,Ph-EQ-00013-1,flow_meter,Phoenix,Allen Ltd,yes,Lori Mcgee
+Ph-WO-00013,Ph-EQ-00013-2,pressure_gauge,Phoenix,Allen Ltd,no,Carol Rasmussen
+Ph-WO-00014,Ph-EQ-00014-0,pressure_gauge,Phoenix,"Combs, Gibson and Mitchell",no,Stephanie Cooper
+Ph-WO-00015,Ph-EQ-00015-0,flow_meter,Phoenix,"Humphrey, Mullins and Moore",yes,Lori Mcgee
+Ph-WO-00015,Ph-EQ-00015-1,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",yes,Carol Rasmussen
+Ph-WO-00016,Ph-EQ-00016-0,pressure_gauge,Phoenix,Martin-Hale,no,Stephanie Cooper
+Ph-WO-00016,Ph-EQ-00016-1,thermometer,Phoenix,Martin-Hale,no,Stephanie Cooper
+Ph-WO-00016,Ph-EQ-00016-2,scale,Phoenix,Martin-Hale,yes,Carol Rasmussen
+Ph-WO-00017,Ph-EQ-00017-0,flow_meter,Phoenix,Reed-Moody,no,Carol Rasmussen
+Ph-WO-00018,Ph-EQ-00018-0,torque,Phoenix,Collins and Sons,no,Stephanie Cooper
+Ph-WO-00018,Ph-EQ-00018-1,flow_meter,Phoenix,Collins and Sons,no,Carol Rasmussen
+Ph-WO-00018,Ph-EQ-00018-2,flow_meter,Phoenix,Collins and Sons,no,Carol Rasmussen
+Ph-WO-00019,Ph-EQ-00019-0,caliper,Phoenix,Hamilton Group,yes,Lori Mcgee
+Ph-WO-00020,Ph-EQ-00020-0,scale,Phoenix,Parker-Lee,yes,Stephanie Cooper
+Ph-WO-00021,Ph-EQ-00021-0,thermometer,Phoenix,"Castro, Austin and Sparks",yes,Stephanie Cooper
+Ph-WO-00021,Ph-EQ-00021-1,scale,Phoenix,"Castro, Austin and Sparks",no,Stephanie Cooper
+Ph-WO-00022,Ph-EQ-00022-0,caliper,Phoenix,Moreno-Friedman,no,Carol Rasmussen
+Ph-WO-00023,Ph-EQ-00023-0,scale,Phoenix,"Thompson, Anderson and Hopkins",yes,Carol Rasmussen
+Ph-WO-00024,Ph-EQ-00024-0,caliper,Phoenix,"Moore, Prince and Blankenship",yes,Carol Rasmussen
+Ph-WO-00024,Ph-EQ-00024-1,torque,Phoenix,"Moore, Prince and Blankenship",yes,Stephanie Cooper
+Ph-WO-00025,Ph-EQ-00025-0,pressure_gauge,Phoenix,Mills Inc,yes,Carol Rasmussen
+Ph-WO-00025,Ph-EQ-00025-1,flow_meter,Phoenix,Mills Inc,no,Stephanie Cooper
+Ph-WO-00025,Ph-EQ-00025-2,thermometer,Phoenix,Mills Inc,no,Stephanie Cooper
+Ph-WO-00026,Ph-EQ-00026-0,flow_meter,Phoenix,Ross Inc,yes,Lori Mcgee
+Ph-WO-00026,Ph-EQ-00026-1,flow_meter,Phoenix,Ross Inc,yes,Carol Rasmussen
+Ph-WO-00026,Ph-EQ-00026-2,pressure_gauge,Phoenix,Ross Inc,no,Stephanie Cooper
+Ph-WO-00027,Ph-EQ-00027-0,scale,Phoenix,"Martin, Thomas and Huerta",yes,Stephanie Cooper
+Ph-WO-00028,Ph-EQ-00028-0,torque,Phoenix,Garcia Ltd,yes,Stephanie Cooper
+Ph-WO-00028,Ph-EQ-00028-1,torque,Phoenix,Garcia Ltd,no,Stephanie Cooper
+Ph-WO-00029,Ph-EQ-00029-0,caliper,Phoenix,Doyle-Barnes,yes,Stephanie Cooper
+Ph-WO-00029,Ph-EQ-00029-1,scale,Phoenix,Doyle-Barnes,no,Carol Rasmussen
+Ph-WO-00030,Ph-EQ-00030-0,caliper,Phoenix,Kelley-Young,yes,Stephanie Cooper
+Ph-WO-00030,Ph-EQ-00030-1,thermometer,Phoenix,Kelley-Young,yes,Carol Rasmussen
+Ph-WO-00030,Ph-EQ-00030-2,torque,Phoenix,Kelley-Young,no,Carol Rasmussen
+Ph-WO-00031,Ph-EQ-00031-0,flow_meter,Phoenix,Gonzalez Ltd,yes,Lori Mcgee
+Ph-WO-00031,Ph-EQ-00031-1,torque,Phoenix,Gonzalez Ltd,yes,Carol Rasmussen
+Ph-WO-00032,Ph-EQ-00032-0,scale,Phoenix,"Jensen, Evans and Fowler",no,Stephanie Cooper
+Ph-WO-00032,Ph-EQ-00032-1,flow_meter,Phoenix,"Jensen, Evans and Fowler",no,Stephanie Cooper
+Ph-WO-00033,Ph-EQ-00033-0,pressure_gauge,Phoenix,Ross Inc,yes,Carol Rasmussen
+Ph-WO-00034,Ph-EQ-00034-0,torque,Phoenix,"Armstrong, Fletcher and Wilson",yes,Stephanie Cooper
+Ph-WO-00034,Ph-EQ-00034-1,flow_meter,Phoenix,"Armstrong, Fletcher and Wilson",no,Carol Rasmussen
+Ph-WO-00034,Ph-EQ-00034-2,pressure_gauge,Phoenix,"Armstrong, Fletcher and Wilson",no,Lori Mcgee
+Ph-WO-00035,Ph-EQ-00035-0,torque,Phoenix,Holland-Walsh,yes,Lori Mcgee
+Ph-WO-00035,Ph-EQ-00035-1,thermometer,Phoenix,Holland-Walsh,no,Carol Rasmussen
+Ph-WO-00036,Ph-EQ-00036-0,flow_meter,Phoenix,Barrett-Figueroa,no,Carol Rasmussen
+Ph-WO-00036,Ph-EQ-00036-1,caliper,Phoenix,Barrett-Figueroa,yes,Lori Mcgee
+Ph-WO-00036,Ph-EQ-00036-2,pressure_gauge,Phoenix,Barrett-Figueroa,yes,Stephanie Cooper
+Ph-WO-00037,Ph-EQ-00037-0,torque,Phoenix,Hardin-Mcdonald,no,Carol Rasmussen
+Ph-WO-00038,Ph-EQ-00038-0,scale,Phoenix,Kelley-Young,no,Stephanie Cooper
+Ph-WO-00039,Ph-EQ-00039-0,torque,Phoenix,Grant and Sons,yes,Stephanie Cooper
+Ph-WO-00039,Ph-EQ-00039-1,torque,Phoenix,Grant and Sons,yes,Lori Mcgee
+Ph-WO-00040,Ph-EQ-00040-0,thermometer,Phoenix,"Alexander, Green and Mcbride",yes,Lori Mcgee
+Ph-WO-00041,Ph-EQ-00041-0,scale,Phoenix,"Hawkins, Campos and Booth",no,Stephanie Cooper
+Ph-WO-00041,Ph-EQ-00041-1,caliper,Phoenix,"Hawkins, Campos and Booth",yes,Lori Mcgee
+Ph-WO-00041,Ph-EQ-00041-2,flow_meter,Phoenix,"Hawkins, Campos and Booth",no,Stephanie Cooper
+Ph-WO-00042,Ph-EQ-00042-0,thermometer,Phoenix,Parker-Lee,no,Stephanie Cooper
+Ph-WO-00042,Ph-EQ-00042-1,caliper,Phoenix,Parker-Lee,yes,Stephanie Cooper
+Ph-WO-00042,Ph-EQ-00042-2,torque,Phoenix,Parker-Lee,yes,Carol Rasmussen
+Ph-WO-00043,Ph-EQ-00043-0,thermometer,Phoenix,Mills Inc,no,Stephanie Cooper
+Ph-WO-00044,Ph-EQ-00044-0,torque,Phoenix,Mccann-Hoffman,no,Carol Rasmussen
+Ph-WO-00045,Ph-EQ-00045-0,flow_meter,Phoenix,Rodriguez Group,no,Stephanie Cooper
+Ph-WO-00045,Ph-EQ-00045-1,scale,Phoenix,Rodriguez Group,yes,Lori Mcgee
+Ph-WO-00046,Ph-EQ-00046-0,pressure_gauge,Phoenix,"Rose, Rivera and Cox",no,Carol Rasmussen
+Ph-WO-00046,Ph-EQ-00046-1,thermometer,Phoenix,"Rose, Rivera and Cox",yes,Carol Rasmussen
+Ph-WO-00047,Ph-EQ-00047-0,caliper,Phoenix,Romero Group,yes,Lori Mcgee
+Ph-WO-00047,Ph-EQ-00047-1,caliper,Phoenix,Romero Group,no,Lori Mcgee
+Ph-WO-00048,Ph-EQ-00048-0,caliper,Phoenix,Mueller LLC,no,Carol Rasmussen
+Ph-WO-00049,Ph-EQ-00049-0,pressure_gauge,Phoenix,"Rose, Rivera and Cox",yes,Stephanie Cooper
+Ph-WO-00049,Ph-EQ-00049-1,pressure_gauge,Phoenix,"Rose, Rivera and Cox",no,Carol Rasmussen
+Ph-WO-00049,Ph-EQ-00049-2,scale,Phoenix,"Rose, Rivera and Cox",yes,Stephanie Cooper
+Ph-WO-00050,Ph-EQ-00050-0,thermometer,Phoenix,Martin-Hale,no,Stephanie Cooper
+Ph-WO-00050,Ph-EQ-00050-1,scale,Phoenix,Martin-Hale,no,Carol Rasmussen
+Ph-WO-00051,Ph-EQ-00051-0,torque,Phoenix,"Erickson, Hughes and Craig",no,Stephanie Cooper
+Ph-WO-00052,Ph-EQ-00052-0,flow_meter,Phoenix,"White, Grant and Flores",yes,Stephanie Cooper
+Ph-WO-00052,Ph-EQ-00052-1,caliper,Phoenix,"White, Grant and Flores",yes,Lori Mcgee
+Ph-WO-00053,Ph-EQ-00053-0,caliper,Phoenix,Atkinson Group,no,Lori Mcgee
+Ph-WO-00053,Ph-EQ-00053-1,pressure_gauge,Phoenix,Atkinson Group,yes,Stephanie Cooper
+Ph-WO-00054,Ph-EQ-00054-0,scale,Phoenix,Ruiz-Davis,yes,Lori Mcgee
+Ph-WO-00054,Ph-EQ-00054-1,thermometer,Phoenix,Ruiz-Davis,yes,Stephanie Cooper
+Ph-WO-00055,Ph-EQ-00055-0,caliper,Phoenix,Ellis Group,no,Carol Rasmussen
+Ph-WO-00055,Ph-EQ-00055-1,pressure_gauge,Phoenix,Ellis Group,no,Lori Mcgee
+Ph-WO-00055,Ph-EQ-00055-2,torque,Phoenix,Ellis Group,no,Carol Rasmussen
+Ph-WO-00056,Ph-EQ-00056-0,scale,Phoenix,Walker-Morales,yes,Lori Mcgee
+Ph-WO-00057,Ph-EQ-00057-0,torque,Phoenix,Baker PLC,yes,Stephanie Cooper
+Ph-WO-00057,Ph-EQ-00057-1,pressure_gauge,Phoenix,Baker PLC,yes,Stephanie Cooper
+Ph-WO-00057,Ph-EQ-00057-2,caliper,Phoenix,Baker PLC,yes,Stephanie Cooper
+Ph-WO-00058,Ph-EQ-00058-0,pressure_gauge,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee
+Ph-WO-00058,Ph-EQ-00058-1,pressure_gauge,Phoenix,"Jensen, Evans and Fowler",no,Carol Rasmussen
+Ph-WO-00058,Ph-EQ-00058-2,thermometer,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee
+Ph-WO-00059,Ph-EQ-00059-0,flow_meter,Phoenix,Barrett-Figueroa,yes,Carol Rasmussen
+Ph-WO-00060,Ph-EQ-00060-0,flow_meter,Phoenix,Kelley-Young,no,Stephanie Cooper
+Ph-WO-00060,Ph-EQ-00060-1,torque,Phoenix,Kelley-Young,yes,Stephanie Cooper
+Ph-WO-00060,Ph-EQ-00060-2,pressure_gauge,Phoenix,Kelley-Young,yes,Carol Rasmussen
+Ph-WO-00061,Ph-EQ-00061-0,flow_meter,Phoenix,Gonzalez Ltd,yes,Lori Mcgee
+Ph-WO-00062,Ph-EQ-00062-0,caliper,Phoenix,Stephenson-Herring,no,Lori Mcgee
+Ph-WO-00063,Ph-EQ-00063-0,flow_meter,Phoenix,Morris-West,no,Lori Mcgee
+Ph-WO-00064,Ph-EQ-00064-0,caliper,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00064,Ph-EQ-00064-1,scale,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00064,Ph-EQ-00064-2,thermometer,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00065,Ph-EQ-00065-0,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",no,Stephanie Cooper
+Ph-WO-00065,Ph-EQ-00065-1,scale,Phoenix,"Humphrey, Mullins and Moore",yes,Stephanie Cooper
+Ph-WO-00065,Ph-EQ-00065-2,flow_meter,Phoenix,"Humphrey, Mullins and Moore",no,Lori Mcgee
+Ph-WO-00066,Ph-EQ-00066-0,scale,Phoenix,Miller-Decker,yes,Stephanie Cooper
+Ph-WO-00066,Ph-EQ-00066-1,pressure_gauge,Phoenix,Miller-Decker,no,Carol Rasmussen
+Ph-WO-00067,Ph-EQ-00067-0,flow_meter,Phoenix,Smith-Anthony,yes,Stephanie Cooper
+Ph-WO-00068,Ph-EQ-00068-0,pressure_gauge,Phoenix,Moreno-Friedman,no,Stephanie Cooper
+Ph-WO-00069,Ph-EQ-00069-0,caliper,Phoenix,Garcia Ltd,no,Stephanie Cooper
+Ph-WO-00069,Ph-EQ-00069-1,torque,Phoenix,Garcia Ltd,no,Lori Mcgee
+Ph-WO-00070,Ph-EQ-00070-0,caliper,Phoenix,Carter Group,no,Stephanie Cooper
+Ph-WO-00070,Ph-EQ-00070-1,pressure_gauge,Phoenix,Carter Group,yes,Stephanie Cooper
+Ph-WO-00071,Ph-EQ-00071-0,scale,Phoenix,Spencer-Williams,no,Carol Rasmussen
+Ph-WO-00071,Ph-EQ-00071-1,pressure_gauge,Phoenix,Spencer-Williams,no,Carol Rasmussen
+Ph-WO-00071,Ph-EQ-00071-2,scale,Phoenix,Spencer-Williams,yes,Stephanie Cooper
+Ph-WO-00072,Ph-EQ-00072-0,scale,Phoenix,Arnold-Peters,no,Lori Mcgee
+Ph-WO-00072,Ph-EQ-00072-1,thermometer,Phoenix,Arnold-Peters,yes,Lori Mcgee
+Ph-WO-00072,Ph-EQ-00072-2,thermometer,Phoenix,Arnold-Peters,no,Stephanie Cooper
+Ph-WO-00073,Ph-EQ-00073-0,flow_meter,Phoenix,Tucker-Nelson,yes,Lori Mcgee
+Ph-WO-00073,Ph-EQ-00073-1,torque,Phoenix,Tucker-Nelson,yes,Lori Mcgee
+Ph-WO-00073,Ph-EQ-00073-2,caliper,Phoenix,Tucker-Nelson,no,Carol Rasmussen
+Ph-WO-00074,Ph-EQ-00074-0,caliper,Phoenix,Smith-Copeland,no,Lori Mcgee
+Ph-WO-00074,Ph-EQ-00074-1,scale,Phoenix,Smith-Copeland,yes,Carol Rasmussen
+Ph-WO-00074,Ph-EQ-00074-2,scale,Phoenix,Smith-Copeland,yes,Carol Rasmussen
+Ph-WO-00075,Ph-EQ-00075-0,thermometer,Phoenix,Riddle-Faulkner,yes,Carol Rasmussen
+Ph-WO-00076,Ph-EQ-00076-0,scale,Phoenix,Smith-Anthony,yes,Lori Mcgee
+Ph-WO-00077,Ph-EQ-00077-0,caliper,Phoenix,"Jensen, Evans and Fowler",yes,Lori Mcgee
+Ph-WO-00077,Ph-EQ-00077-1,thermometer,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee
+Ph-WO-00077,Ph-EQ-00077-2,torque,Phoenix,"Jensen, Evans and Fowler",no,Lori Mcgee
+Ph-WO-00078,Ph-EQ-00078-0,flow_meter,Phoenix,"Wade, Cruz and White",no,Lori Mcgee
+Ph-WO-00079,Ph-EQ-00079-0,torque,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee
+Ph-WO-00079,Ph-EQ-00079-1,torque,Phoenix,Hardin-Mcdonald,no,Lori Mcgee
+Ph-WO-00079,Ph-EQ-00079-2,pressure_gauge,Phoenix,Hardin-Mcdonald,no,Lori Mcgee
+Ph-WO-00080,Ph-EQ-00080-0,pressure_gauge,Phoenix,"Parks, Miller and Watson",no,Carol Rasmussen
+Ph-WO-00080,Ph-EQ-00080-1,scale,Phoenix,"Parks, Miller and Watson",no,Lori Mcgee
+Ph-WO-00081,Ph-EQ-00081-0,thermometer,Phoenix,Mueller LLC,yes,Carol Rasmussen
+Ph-WO-00081,Ph-EQ-00081-1,scale,Phoenix,Mueller LLC,yes,Stephanie Cooper
+Ph-WO-00082,Ph-EQ-00082-0,scale,Phoenix,"Wade, Cruz and White",yes,Carol Rasmussen
+Ph-WO-00082,Ph-EQ-00082-1,caliper,Phoenix,"Wade, Cruz and White",yes,Stephanie Cooper
+Ph-WO-00083,Ph-EQ-00083-0,caliper,Phoenix,"Alexander, Green and Mcbride",no,Lori Mcgee
+Ph-WO-00083,Ph-EQ-00083-1,flow_meter,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen
+Ph-WO-00084,Ph-EQ-00084-0,scale,Phoenix,Serrano Inc,no,Lori Mcgee
+Ph-WO-00085,Ph-EQ-00085-0,flow_meter,Phoenix,Spencer-Williams,no,Carol Rasmussen
+Ph-WO-00085,Ph-EQ-00085-1,caliper,Phoenix,Spencer-Williams,yes,Stephanie Cooper
+Ph-WO-00085,Ph-EQ-00085-2,thermometer,Phoenix,Spencer-Williams,no,Stephanie Cooper
+Ph-WO-00086,Ph-EQ-00086-0,flow_meter,Phoenix,"Castro, Austin and Sparks",no,Carol Rasmussen
+Ph-WO-00087,Ph-EQ-00087-0,scale,Phoenix,Parker-Reeves,no,Stephanie Cooper
+Ph-WO-00087,Ph-EQ-00087-1,flow_meter,Phoenix,Parker-Reeves,no,Stephanie Cooper
+Ph-WO-00087,Ph-EQ-00087-2,thermometer,Phoenix,Parker-Reeves,yes,Stephanie Cooper
+Ph-WO-00088,Ph-EQ-00088-0,torque,Phoenix,"Ramirez, Marsh and Alvarez",yes,Carol Rasmussen
+Ph-WO-00088,Ph-EQ-00088-1,thermometer,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper
+Ph-WO-00088,Ph-EQ-00088-2,thermometer,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper
+Ph-WO-00089,Ph-EQ-00089-0,torque,Phoenix,"Parks, Miller and Watson",yes,Stephanie Cooper
+Ph-WO-00090,Ph-EQ-00090-0,flow_meter,Phoenix,"Copeland, Torres and Morales",yes,Carol Rasmussen
+Ph-WO-00090,Ph-EQ-00090-1,torque,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper
+Ph-WO-00090,Ph-EQ-00090-2,caliper,Phoenix,"Copeland, Torres and Morales",no,Lori Mcgee
+Ph-WO-00091,Ph-EQ-00091-0,caliper,Phoenix,Riddle-Faulkner,no,Lori Mcgee
+Ph-WO-00092,Ph-EQ-00092-0,scale,Phoenix,Rodriguez Group,yes,Carol Rasmussen
+Ph-WO-00093,Ph-EQ-00093-0,thermometer,Phoenix,Morales-Banks,no,Lori Mcgee
+Ph-WO-00093,Ph-EQ-00093-1,caliper,Phoenix,Morales-Banks,no,Carol Rasmussen
+Ph-WO-00093,Ph-EQ-00093-2,scale,Phoenix,Morales-Banks,yes,Lori Mcgee
+Ph-WO-00094,Ph-EQ-00094-0,caliper,Phoenix,Hamilton Group,no,Lori Mcgee
+Ph-WO-00094,Ph-EQ-00094-1,scale,Phoenix,Hamilton Group,yes,Stephanie Cooper
+Ph-WO-00094,Ph-EQ-00094-2,scale,Phoenix,Hamilton Group,no,Lori Mcgee
+Ph-WO-00095,Ph-EQ-00095-0,caliper,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper
+Ph-WO-00095,Ph-EQ-00095-1,thermometer,Phoenix,"Copeland, Torres and Morales",no,Lori Mcgee
+Ph-WO-00096,Ph-EQ-00096-0,thermometer,Phoenix,Woods Inc,yes,Carol Rasmussen
+Ph-WO-00096,Ph-EQ-00096-1,flow_meter,Phoenix,Woods Inc,yes,Lori Mcgee
+Ph-WO-00097,Ph-EQ-00097-0,pressure_gauge,Phoenix,Barnett-Mueller,no,Carol Rasmussen
+Ph-WO-00098,Ph-EQ-00098-0,pressure_gauge,Phoenix,"Castro, Austin and Sparks",no,Lori Mcgee
+Ph-WO-00098,Ph-EQ-00098-1,scale,Phoenix,"Castro, Austin and Sparks",no,Carol Rasmussen
+Ph-WO-00098,Ph-EQ-00098-2,thermometer,Phoenix,"Castro, Austin and Sparks",yes,Carol Rasmussen
+Ph-WO-00099,Ph-EQ-00099-0,flow_meter,Phoenix,"Armstrong, Fletcher and Wilson",yes,Stephanie Cooper
+Ph-WO-00099,Ph-EQ-00099-1,scale,Phoenix,"Armstrong, Fletcher and Wilson",yes,Stephanie Cooper
+Ph-WO-00100,Ph-EQ-00100-0,thermometer,Phoenix,Hardin-Mcdonald,no,Lori Mcgee
+Ph-WO-00100,Ph-EQ-00100-1,torque,Phoenix,Hardin-Mcdonald,yes,Stephanie Cooper
+Ph-WO-00100,Ph-EQ-00100-2,scale,Phoenix,Hardin-Mcdonald,no,Lori Mcgee
+Ph-WO-00101,Ph-EQ-00101-0,torque,Phoenix,Baker PLC,no,Stephanie Cooper
+Ph-WO-00102,Ph-EQ-00102-0,scale,Phoenix,Banks-Hughes,no,Lori Mcgee
+Ph-WO-00102,Ph-EQ-00102-1,thermometer,Phoenix,Banks-Hughes,no,Stephanie Cooper
+Ph-WO-00102,Ph-EQ-00102-2,scale,Phoenix,Banks-Hughes,no,Carol Rasmussen
+Ph-WO-00103,Ph-EQ-00103-0,flow_meter,Phoenix,Parker and Sons,no,Carol Rasmussen
+Ph-WO-00103,Ph-EQ-00103-1,scale,Phoenix,Parker and Sons,no,Carol Rasmussen
+Ph-WO-00103,Ph-EQ-00103-2,torque,Phoenix,Parker and Sons,yes,Carol Rasmussen
+Ph-WO-00104,Ph-EQ-00104-0,thermometer,Phoenix,"Martin, Thomas and Huerta",no,Carol Rasmussen
+Ph-WO-00104,Ph-EQ-00104-1,pressure_gauge,Phoenix,"Martin, Thomas and Huerta",yes,Lori Mcgee
+Ph-WO-00104,Ph-EQ-00104-2,torque,Phoenix,"Martin, Thomas and Huerta",yes,Carol Rasmussen
+Ph-WO-00105,Ph-EQ-00105-0,pressure_gauge,Phoenix,Rodriguez-Summers,yes,Carol Rasmussen
+Ph-WO-00105,Ph-EQ-00105-1,flow_meter,Phoenix,Rodriguez-Summers,yes,Carol Rasmussen
+Ph-WO-00106,Ph-EQ-00106-0,pressure_gauge,Phoenix,"Jensen, Evans and Fowler",yes,Lori Mcgee
+Ph-WO-00107,Ph-EQ-00107-0,torque,Phoenix,Willis Inc,yes,Carol Rasmussen
+Ph-WO-00107,Ph-EQ-00107-1,pressure_gauge,Phoenix,Willis Inc,yes,Stephanie Cooper
+Ph-WO-00107,Ph-EQ-00107-2,scale,Phoenix,Willis Inc,no,Stephanie Cooper
+Ph-WO-00108,Ph-EQ-00108-0,torque,Phoenix,Chang-Love,no,Stephanie Cooper
+Ph-WO-00109,Ph-EQ-00109-0,caliper,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen
+Ph-WO-00110,Ph-EQ-00110-0,torque,Phoenix,Morales-Banks,yes,Stephanie Cooper
+Ph-WO-00110,Ph-EQ-00110-1,scale,Phoenix,Morales-Banks,no,Lori Mcgee
+Ph-WO-00110,Ph-EQ-00110-2,pressure_gauge,Phoenix,Morales-Banks,no,Stephanie Cooper
+Ph-WO-00111,Ph-EQ-00111-0,scale,Phoenix,Miller-Mcguire,no,Stephanie Cooper
+Ph-WO-00112,Ph-EQ-00112-0,caliper,Phoenix,Allen Ltd,yes,Lori Mcgee
+Ph-WO-00112,Ph-EQ-00112-1,pressure_gauge,Phoenix,Allen Ltd,yes,Lori Mcgee
+Ph-WO-00112,Ph-EQ-00112-2,flow_meter,Phoenix,Allen Ltd,yes,Carol Rasmussen
+Ph-WO-00113,Ph-EQ-00113-0,flow_meter,Phoenix,"Good, Stephens and Richardson",no,Carol Rasmussen
+Ph-WO-00114,Ph-EQ-00114-0,thermometer,Phoenix,"Delgado, Krause and Lopez",no,Carol Rasmussen
+Ph-WO-00114,Ph-EQ-00114-1,thermometer,Phoenix,"Delgado, Krause and Lopez",yes,Carol Rasmussen
+Ph-WO-00115,Ph-EQ-00115-0,caliper,Phoenix,Garner-Rose,no,Carol Rasmussen
+Ph-WO-00116,Ph-EQ-00116-0,pressure_gauge,Phoenix,Hammond-Guerrero,yes,Lori Mcgee
+Ph-WO-00116,Ph-EQ-00116-1,scale,Phoenix,Hammond-Guerrero,yes,Carol Rasmussen
+Ph-WO-00116,Ph-EQ-00116-2,caliper,Phoenix,Hammond-Guerrero,no,Stephanie Cooper
+Ph-WO-00117,Ph-EQ-00117-0,pressure_gauge,Phoenix,Rodriguez Inc,no,Lori Mcgee
+Ph-WO-00117,Ph-EQ-00117-1,thermometer,Phoenix,Rodriguez Inc,no,Carol Rasmussen
+Ph-WO-00117,Ph-EQ-00117-2,scale,Phoenix,Rodriguez Inc,no,Carol Rasmussen
+Ph-WO-00118,Ph-EQ-00118-0,caliper,Phoenix,Parker-Lee,no,Carol Rasmussen
+Ph-WO-00118,Ph-EQ-00118-1,scale,Phoenix,Parker-Lee,yes,Stephanie Cooper
+Ph-WO-00119,Ph-EQ-00119-0,thermometer,Phoenix,"Erickson, Hughes and Craig",no,Stephanie Cooper
+Ph-WO-00120,Ph-EQ-00120-0,scale,Phoenix,"Dillon, Morton and Wood",yes,Stephanie Cooper
+Ph-WO-00120,Ph-EQ-00120-1,pressure_gauge,Phoenix,"Dillon, Morton and Wood",yes,Carol Rasmussen
+Ph-WO-00121,Ph-EQ-00121-0,scale,Phoenix,"Alexander, Green and Mcbride",no,Carol Rasmussen
+Ph-WO-00122,Ph-EQ-00122-0,scale,Phoenix,Willis Inc,yes,Stephanie Cooper
+Ph-WO-00122,Ph-EQ-00122-1,torque,Phoenix,Willis Inc,yes,Lori Mcgee
+Ph-WO-00123,Ph-EQ-00123-0,caliper,Phoenix,Garner-Rose,yes,Stephanie Cooper
+Ph-WO-00123,Ph-EQ-00123-1,scale,Phoenix,Garner-Rose,no,Lori Mcgee
+Ph-WO-00123,Ph-EQ-00123-2,pressure_gauge,Phoenix,Garner-Rose,yes,Lori Mcgee
+Ph-WO-00124,Ph-EQ-00124-0,caliper,Phoenix,Ross Inc,no,Lori Mcgee
+Ph-WO-00125,Ph-EQ-00125-0,torque,Phoenix,Miller-Mcguire,no,Carol Rasmussen
+Ph-WO-00125,Ph-EQ-00125-1,torque,Phoenix,Miller-Mcguire,no,Stephanie Cooper
+Ph-WO-00125,Ph-EQ-00125-2,flow_meter,Phoenix,Miller-Mcguire,yes,Lori Mcgee
+Ph-WO-00126,Ph-EQ-00126-0,pressure_gauge,Phoenix,Potts-Huang,no,Carol Rasmussen
+Ph-WO-00126,Ph-EQ-00126-1,flow_meter,Phoenix,Potts-Huang,no,Stephanie Cooper
+Ph-WO-00126,Ph-EQ-00126-2,torque,Phoenix,Potts-Huang,yes,Carol Rasmussen
+Ph-WO-00127,Ph-EQ-00127-0,caliper,Phoenix,Riddle-Faulkner,yes,Carol Rasmussen
+Ph-WO-00128,Ph-EQ-00128-0,pressure_gauge,Phoenix,Riddle-Faulkner,yes,Stephanie Cooper
+Ph-WO-00128,Ph-EQ-00128-1,scale,Phoenix,Riddle-Faulkner,yes,Lori Mcgee
+Ph-WO-00128,Ph-EQ-00128-2,torque,Phoenix,Riddle-Faulkner,no,Stephanie Cooper
+Ph-WO-00129,Ph-EQ-00129-0,pressure_gauge,Phoenix,Smith-Anthony,no,Lori Mcgee
+Ph-WO-00129,Ph-EQ-00129-1,flow_meter,Phoenix,Smith-Anthony,yes,Lori Mcgee
+Ph-WO-00130,Ph-EQ-00130-0,pressure_gauge,Phoenix,Allen Ltd,no,Lori Mcgee
+Ph-WO-00130,Ph-EQ-00130-1,torque,Phoenix,Allen Ltd,no,Carol Rasmussen
+Ph-WO-00131,Ph-EQ-00131-0,pressure_gauge,Phoenix,"Copeland, Torres and Morales",yes,Lori Mcgee
+Ph-WO-00131,Ph-EQ-00131-1,caliper,Phoenix,"Copeland, Torres and Morales",yes,Stephanie Cooper
+Ph-WO-00131,Ph-EQ-00131-2,torque,Phoenix,"Copeland, Torres and Morales",yes,Carol Rasmussen
+Ph-WO-00132,Ph-EQ-00132-0,caliper,Phoenix,Ellis Group,no,Lori Mcgee
+Ph-WO-00132,Ph-EQ-00132-1,torque,Phoenix,Ellis Group,no,Carol Rasmussen
+Ph-WO-00133,Ph-EQ-00133-0,torque,Phoenix,Arnold-Peters,no,Carol Rasmussen
+Ph-WO-00133,Ph-EQ-00133-1,torque,Phoenix,Arnold-Peters,no,Stephanie Cooper
+Ph-WO-00134,Ph-EQ-00134-0,flow_meter,Phoenix,Neal-Kelley,yes,Stephanie Cooper
+Ph-WO-00134,Ph-EQ-00134-1,torque,Phoenix,Neal-Kelley,yes,Carol Rasmussen
+Ph-WO-00134,Ph-EQ-00134-2,caliper,Phoenix,Neal-Kelley,no,Lori Mcgee
+Ph-WO-00135,Ph-EQ-00135-0,scale,Phoenix,Thomas LLC,no,Stephanie Cooper
+Ph-WO-00135,Ph-EQ-00135-1,torque,Phoenix,Thomas LLC,no,Lori Mcgee
+Ph-WO-00136,Ph-EQ-00136-0,pressure_gauge,Phoenix,Ross Inc,no,Lori Mcgee
+Ph-WO-00137,Ph-EQ-00137-0,caliper,Phoenix,"Erickson, Hughes and Craig",yes,Carol Rasmussen
+Ph-WO-00137,Ph-EQ-00137-1,torque,Phoenix,"Erickson, Hughes and Craig",no,Lori Mcgee
+Ph-WO-00137,Ph-EQ-00137-2,caliper,Phoenix,"Erickson, Hughes and Craig",yes,Lori Mcgee
+Ph-WO-00138,Ph-EQ-00138-0,thermometer,Phoenix,Mueller LLC,yes,Carol Rasmussen
+Ph-WO-00138,Ph-EQ-00138-1,pressure_gauge,Phoenix,Mueller LLC,yes,Stephanie Cooper
+Ph-WO-00139,Ph-EQ-00139-0,torque,Phoenix,Gates and Sons,no,Carol Rasmussen
+Ph-WO-00139,Ph-EQ-00139-1,thermometer,Phoenix,Gates and Sons,no,Stephanie Cooper
+Ph-WO-00139,Ph-EQ-00139-2,pressure_gauge,Phoenix,Gates and Sons,no,Lori Mcgee
+Ph-WO-00140,Ph-EQ-00140-0,caliper,Phoenix,Gonzalez Ltd,yes,Stephanie Cooper
+Ph-WO-00140,Ph-EQ-00140-1,flow_meter,Phoenix,Gonzalez Ltd,no,Stephanie Cooper
+Ph-WO-00141,Ph-EQ-00141-0,caliper,Phoenix,"Mcgrath, Barton and Carter",no,Carol Rasmussen
+Ph-WO-00141,Ph-EQ-00141-1,torque,Phoenix,"Mcgrath, Barton and Carter",yes,Carol Rasmussen
+Ph-WO-00142,Ph-EQ-00142-0,scale,Phoenix,Ellis Group,yes,Carol Rasmussen
+Ph-WO-00143,Ph-EQ-00143-0,thermometer,Phoenix,Mann PLC,yes,Carol Rasmussen
+Ph-WO-00143,Ph-EQ-00143-1,torque,Phoenix,Mann PLC,no,Carol Rasmussen
+Ph-WO-00144,Ph-EQ-00144-0,scale,Phoenix,Baker PLC,yes,Carol Rasmussen
+Ph-WO-00144,Ph-EQ-00144-1,scale,Phoenix,Baker PLC,no,Stephanie Cooper
+Ph-WO-00144,Ph-EQ-00144-2,caliper,Phoenix,Baker PLC,no,Lori Mcgee
+Ph-WO-00145,Ph-EQ-00145-0,pressure_gauge,Phoenix,Parker and Sons,yes,Stephanie Cooper
+Ph-WO-00145,Ph-EQ-00145-1,pressure_gauge,Phoenix,Parker and Sons,no,Lori Mcgee
+Ph-WO-00145,Ph-EQ-00145-2,torque,Phoenix,Parker and Sons,yes,Stephanie Cooper
+Ph-WO-00146,Ph-EQ-00146-0,scale,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00146,Ph-EQ-00146-1,pressure_gauge,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00146,Ph-EQ-00146-2,pressure_gauge,Phoenix,Freeman-Rice,no,Lori Mcgee
+Ph-WO-00147,Ph-EQ-00147-0,thermometer,Phoenix,Willis Inc,no,Stephanie Cooper
+Ph-WO-00148,Ph-EQ-00148-0,flow_meter,Phoenix,Allen Ltd,yes,Lori Mcgee
+Ph-WO-00148,Ph-EQ-00148-1,flow_meter,Phoenix,Allen Ltd,yes,Stephanie Cooper
+Ph-WO-00148,Ph-EQ-00148-2,thermometer,Phoenix,Allen Ltd,yes,Lori Mcgee
+Ph-WO-00149,Ph-EQ-00149-0,pressure_gauge,Phoenix,"Humphrey, Mullins and Moore",yes,Carol Rasmussen
+Ph-WO-00150,Ph-EQ-00150-0,scale,Phoenix,Parker-Lee,yes,Lori Mcgee
+Ph-WO-00151,Ph-EQ-00151-0,torque,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee
+Ph-WO-00151,Ph-EQ-00151-1,caliper,Phoenix,Hardin-Mcdonald,yes,Lori Mcgee
+Ph-WO-00152,Ph-EQ-00152-0,caliper,Phoenix,Freeman-Rice,yes,Lori Mcgee
+Ph-WO-00153,Ph-EQ-00153-0,pressure_gauge,Phoenix,Cole-Cervantes,yes,Stephanie Cooper
+Ph-WO-00154,Ph-EQ-00154-0,pressure_gauge,Phoenix,Potts-Huang,yes,Lori Mcgee
+Ph-WO-00154,Ph-EQ-00154-1,thermometer,Phoenix,Potts-Huang,yes,Stephanie Cooper
+Ph-WO-00155,Ph-EQ-00155-0,caliper,Phoenix,Morales-Banks,yes,Lori Mcgee
+Ph-WO-00156,Ph-EQ-00156-0,thermometer,Phoenix,"Martin, Thomas and Huerta",yes,Lori Mcgee
+Ph-WO-00156,Ph-EQ-00156-1,thermometer,Phoenix,"Martin, Thomas and Huerta",yes,Carol Rasmussen
+Ph-WO-00156,Ph-EQ-00156-2,flow_meter,Phoenix,"Martin, Thomas and Huerta",yes,Lori Mcgee
+Ph-WO-00157,Ph-EQ-00157-0,scale,Phoenix,Hammond-Guerrero,no,Carol Rasmussen
+Ph-WO-00158,Ph-EQ-00158-0,thermometer,Phoenix,Lopez and Sons,no,Carol Rasmussen
+Ph-WO-00158,Ph-EQ-00158-1,flow_meter,Phoenix,Lopez and Sons,yes,Carol Rasmussen
+Ph-WO-00158,Ph-EQ-00158-2,thermometer,Phoenix,Lopez and Sons,no,Carol Rasmussen
+Ph-WO-00159,Ph-EQ-00159-0,pressure_gauge,Phoenix,"Ramirez, Marsh and Alvarez",no,Stephanie Cooper
+Ph-WO-00159,Ph-EQ-00159-1,thermometer,Phoenix,"Ramirez, Marsh and Alvarez",yes,Carol Rasmussen
+Ph-WO-00160,Ph-EQ-00160-0,scale,Phoenix,Holland-Walsh,yes,Stephanie Cooper
+Ph-WO-00161,Ph-EQ-00161-0,torque,Phoenix,Doyle-Barnes,yes,Carol Rasmussen
+Ph-WO-00161,Ph-EQ-00161-1,scale,Phoenix,Doyle-Barnes,yes,Lori Mcgee
+Ph-WO-00161,Ph-EQ-00161-2,torque,Phoenix,Doyle-Barnes,no,Lori Mcgee
+Ph-WO-00162,Ph-EQ-00162-0,thermometer,Phoenix,Ball LLC,yes,Stephanie Cooper
+Ph-WO-00163,Ph-EQ-00163-0,flow_meter,Phoenix,Gonzalez LLC,yes,Carol Rasmussen
+Ph-WO-00163,Ph-EQ-00163-1,thermometer,Phoenix,Gonzalez LLC,yes,Lori Mcgee
+Ph-WO-00163,Ph-EQ-00163-2,caliper,Phoenix,Gonzalez LLC,no,Carol Rasmussen
+Ph-WO-00164,Ph-EQ-00164-0,caliper,Phoenix,Neal-Kelley,yes,Carol Rasmussen
+Ph-WO-00165,Ph-EQ-00165-0,thermometer,Phoenix,Atkinson Group,yes,Carol Rasmussen
+Ph-WO-00165,Ph-EQ-00165-1,scale,Phoenix,Atkinson Group,yes,Lori Mcgee
+Ph-WO-00166,Ph-EQ-00166-0,thermometer,Phoenix,Rodriguez-Summers,no,Carol Rasmussen
+Ph-WO-00166,Ph-EQ-00166-1,thermometer,Phoenix,Rodriguez-Summers,yes,Carol Rasmussen
+Ph-WO-00166,Ph-EQ-00166-2,pressure_gauge,Phoenix,Rodriguez-Summers,no,Lori Mcgee
+Ph-WO-00167,Ph-EQ-00167-0,thermometer,Phoenix,Morris-West,no,Stephanie Cooper
+Ph-WO-00167,Ph-EQ-00167-1,caliper,Phoenix,Morris-West,no,Stephanie Cooper
+Ph-WO-00167,Ph-EQ-00167-2,torque,Phoenix,Morris-West,no,Lori Mcgee
+Ph-WO-00168,Ph-EQ-00168-0,flow_meter,Phoenix,Collins and Sons,yes,Stephanie Cooper
+Ph-WO-00168,Ph-EQ-00168-1,flow_meter,Phoenix,Collins and Sons,yes,Lori Mcgee
+Ph-WO-00168,Ph-EQ-00168-2,torque,Phoenix,Collins and Sons,yes,Carol Rasmussen
+Ph-WO-00169,Ph-EQ-00169-0,pressure_gauge,Phoenix,Ruiz-Davis,no,Stephanie Cooper
+Ph-WO-00169,Ph-EQ-00169-1,caliper,Phoenix,Ruiz-Davis,yes,Lori Mcgee
+Ph-WO-00169,Ph-EQ-00169-2,torque,Phoenix,Ruiz-Davis,yes,Lori Mcgee
+Ph-WO-00170,Ph-EQ-00170-0,torque,Phoenix,Moreno-Friedman,no,Lori Mcgee
+Ph-WO-00170,Ph-EQ-00170-1,scale,Phoenix,Moreno-Friedman,yes,Stephanie Cooper
+Ph-WO-00170,Ph-EQ-00170-2,thermometer,Phoenix,Moreno-Friedman,no,Lori Mcgee
+Ph-WO-00171,Ph-EQ-00171-0,torque,Phoenix,Barrett-Figueroa,no,Carol Rasmussen
+Ph-WO-00171,Ph-EQ-00171-1,flow_meter,Phoenix,Barrett-Figueroa,no,Lori Mcgee
+Ph-WO-00172,Ph-EQ-00172-0,thermometer,Phoenix,Smith-Anthony,no,Lori Mcgee
+Ph-WO-00172,Ph-EQ-00172-1,pressure_gauge,Phoenix,Smith-Anthony,no,Stephanie Cooper
+Ph-WO-00172,Ph-EQ-00172-2,scale,Phoenix,Smith-Anthony,no,Lori Mcgee
+Ph-WO-00173,Ph-EQ-00173-0,caliper,Phoenix,Martin-Hale,yes,Stephanie Cooper
+Ph-WO-00174,Ph-EQ-00174-0,scale,Phoenix,Hardin-Mcdonald,no,Stephanie Cooper
+Ph-WO-00175,Ph-EQ-00175-0,pressure_gauge,Phoenix,Ross Inc,no,Stephanie Cooper
+Ph-WO-00176,Ph-EQ-00176-0,torque,Phoenix,Huynh Group,no,Carol Rasmussen
+Ph-WO-00176,Ph-EQ-00176-1,thermometer,Phoenix,Huynh Group,yes,Stephanie Cooper
+Ph-WO-00176,Ph-EQ-00176-2,caliper,Phoenix,Huynh Group,yes,Stephanie Cooper
+Ph-WO-00177,Ph-EQ-00177-0,pressure_gauge,Phoenix,Tucker-Nelson,yes,Carol Rasmussen
+Ph-WO-00177,Ph-EQ-00177-1,scale,Phoenix,Tucker-Nelson,no,Lori Mcgee
+Ph-WO-00178,Ph-EQ-00178-0,torque,Phoenix,"Dillon, Morton and Wood",no,Lori Mcgee
+Ph-WO-00178,Ph-EQ-00178-1,scale,Phoenix,"Dillon, Morton and Wood",no,Carol Rasmussen
+Ph-WO-00179,Ph-EQ-00179-0,pressure_gauge,Phoenix,Kelley-Ramirez,yes,Carol Rasmussen
+Ph-WO-00180,Ph-EQ-00180-0,torque,Phoenix,Hammond-Guerrero,no,Stephanie Cooper
+Ph-WO-00180,Ph-EQ-00180-1,scale,Phoenix,Hammond-Guerrero,yes,Stephanie Cooper
+Ph-WO-00180,Ph-EQ-00180-2,pressure_gauge,Phoenix,Hammond-Guerrero,no,Carol Rasmussen
+Ph-WO-00181,Ph-EQ-00181-0,thermometer,Phoenix,Harris-Matthews,yes,Carol Rasmussen
+Ph-WO-00182,Ph-EQ-00182-0,pressure_gauge,Phoenix,Garner-Rose,no,Lori Mcgee
+Ph-WO-00182,Ph-EQ-00182-1,caliper,Phoenix,Garner-Rose,yes,Carol Rasmussen
+Ph-WO-00182,Ph-EQ-00182-2,pressure_gauge,Phoenix,Garner-Rose,no,Carol Rasmussen
+Ph-WO-00183,Ph-EQ-00183-0,pressure_gauge,Phoenix,Kelley-Young,no,Carol Rasmussen
+Ph-WO-00183,Ph-EQ-00183-1,scale,Phoenix,Kelley-Young,no,Carol Rasmussen
+Ph-WO-00183,Ph-EQ-00183-2,scale,Phoenix,Kelley-Young,yes,Stephanie Cooper
+Ph-WO-00184,Ph-EQ-00184-0,torque,Phoenix,Chang-Love,yes,Lori Mcgee
+Ph-WO-00185,Ph-EQ-00185-0,scale,Phoenix,Woods Inc,no,Stephanie Cooper
+Ph-WO-00185,Ph-EQ-00185-1,pressure_gauge,Phoenix,Woods Inc,no,Stephanie Cooper
+Ph-WO-00186,Ph-EQ-00186-0,caliper,Phoenix,Mccann-Hoffman,no,Lori Mcgee
+Ph-WO-00186,Ph-EQ-00186-1,thermometer,Phoenix,Mccann-Hoffman,no,Lori Mcgee
+Ph-WO-00186,Ph-EQ-00186-2,flow_meter,Phoenix,Mccann-Hoffman,yes,Stephanie Cooper
+Ph-WO-00187,Ph-EQ-00187-0,torque,Phoenix,Clark-Greer,yes,Stephanie Cooper
+Ph-WO-00187,Ph-EQ-00187-1,caliper,Phoenix,Clark-Greer,yes,Stephanie Cooper
+Ph-WO-00188,Ph-EQ-00188-0,caliper,Phoenix,Stephenson-Herring,yes,Stephanie Cooper
+Ph-WO-00189,Ph-EQ-00189-0,thermometer,Phoenix,Carter Group,no,Stephanie Cooper
+Ph-WO-00189,Ph-EQ-00189-1,caliper,Phoenix,Carter Group,yes,Carol Rasmussen
+Ph-WO-00190,Ph-EQ-00190-0,flow_meter,Phoenix,"Martin, Thomas and Huerta",yes,Carol Rasmussen
+Ph-WO-00191,Ph-EQ-00191-0,scale,Phoenix,"Thompson, Anderson and Hopkins",no,Stephanie Cooper
+Ph-WO-00191,Ph-EQ-00191-1,torque,Phoenix,"Thompson, Anderson and Hopkins",yes,Carol Rasmussen
+Ph-WO-00191,Ph-EQ-00191-2,scale,Phoenix,"Thompson, Anderson and Hopkins",yes,Lori Mcgee
+Ph-WO-00192,Ph-EQ-00192-0,torque,Phoenix,Garcia Ltd,yes,Lori Mcgee
+Ph-WO-00193,Ph-EQ-00193-0,thermometer,Phoenix,Wells Inc,yes,Lori Mcgee
+Ph-WO-00194,Ph-EQ-00194-0,thermometer,Phoenix,Walker-Morales,no,Stephanie Cooper
+Ph-WO-00194,Ph-EQ-00194-1,torque,Phoenix,Walker-Morales,yes,Lori Mcgee
+Ph-WO-00195,Ph-EQ-00195-0,flow_meter,Phoenix,Rodriguez Group,yes,Carol Rasmussen
+Ph-WO-00195,Ph-EQ-00195-1,torque,Phoenix,Rodriguez Group,yes,Stephanie Cooper
+Ph-WO-00196,Ph-EQ-00196-0,flow_meter,Phoenix,Hammond-Guerrero,no,Stephanie Cooper
+Ph-WO-00196,Ph-EQ-00196-1,scale,Phoenix,Hammond-Guerrero,yes,Stephanie Cooper
+Ph-WO-00197,Ph-EQ-00197-0,pressure_gauge,Phoenix,Riddle-Faulkner,yes,Stephanie Cooper
+Ph-WO-00198,Ph-EQ-00198-0,pressure_gauge,Phoenix,"Copeland, Torres and Morales",no,Carol Rasmussen
+Ph-WO-00199,Ph-EQ-00199-0,scale,Phoenix,Neal-Kelley,no,Stephanie Cooper
+Ph-WO-00199,Ph-EQ-00199-1,torque,Phoenix,Neal-Kelley,no,Stephanie Cooper
