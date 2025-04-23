@@ -1,0 +1,410 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician
+Ch-WO-00000,Ch-EQ-00000-0,caliper,Chicago,Walker-Morales,no,Amanda Henry
+Ch-WO-00001,Ch-EQ-00001-0,caliper,Chicago,Rodriguez-Summers,no,Amanda Henry
+Ch-WO-00001,Ch-EQ-00001-1,torque,Chicago,Rodriguez-Summers,no,Amanda Henry
+Ch-WO-00001,Ch-EQ-00001-2,torque,Chicago,Rodriguez-Summers,no,Laura Owens
+Ch-WO-00002,Ch-EQ-00002-0,pressure_gauge,Chicago,Kelley-Ramirez,yes,Traci Larson
+Ch-WO-00002,Ch-EQ-00002-1,torque,Chicago,Kelley-Ramirez,yes,Laura Owens
+Ch-WO-00002,Ch-EQ-00002-2,flow_meter,Chicago,Kelley-Ramirez,yes,Traci Larson
+Ch-WO-00003,Ch-EQ-00003-0,torque,Chicago,"Wade, Cruz and White",no,Traci Larson
+Ch-WO-00003,Ch-EQ-00003-1,pressure_gauge,Chicago,"Wade, Cruz and White",yes,Laura Owens
+Ch-WO-00003,Ch-EQ-00003-2,pressure_gauge,Chicago,"Wade, Cruz and White",yes,Laura Owens
+Ch-WO-00004,Ch-EQ-00004-0,torque,Chicago,Carter Group,no,Traci Larson
+Ch-WO-00004,Ch-EQ-00004-1,thermometer,Chicago,Carter Group,yes,Amanda Henry
+Ch-WO-00004,Ch-EQ-00004-2,pressure_gauge,Chicago,Carter Group,yes,Traci Larson
+Ch-WO-00005,Ch-EQ-00005-0,scale,Chicago,Lopez and Sons,no,Laura Owens
+Ch-WO-00005,Ch-EQ-00005-1,pressure_gauge,Chicago,Lopez and Sons,yes,Laura Owens
+Ch-WO-00006,Ch-EQ-00006-0,pressure_gauge,Chicago,Freeman-Rice,yes,Amanda Henry
+Ch-WO-00006,Ch-EQ-00006-1,pressure_gauge,Chicago,Freeman-Rice,yes,Laura Owens
+Ch-WO-00007,Ch-EQ-00007-0,caliper,Chicago,Grant and Sons,no,Amanda Henry
+Ch-WO-00007,Ch-EQ-00007-1,flow_meter,Chicago,Grant and Sons,yes,Amanda Henry
+Ch-WO-00007,Ch-EQ-00007-2,scale,Chicago,Grant and Sons,yes,Amanda Henry
+Ch-WO-00008,Ch-EQ-00008-0,thermometer,Chicago,Stephenson-Herring,yes,Amanda Henry
+Ch-WO-00008,Ch-EQ-00008-1,pressure_gauge,Chicago,Stephenson-Herring,yes,Amanda Henry
+Ch-WO-00009,Ch-EQ-00009-0,caliper,Chicago,Lopez and Sons,yes,Laura Owens
+Ch-WO-00009,Ch-EQ-00009-1,flow_meter,Chicago,Lopez and Sons,yes,Laura Owens
+Ch-WO-00010,Ch-EQ-00010-0,pressure_gauge,Chicago,Grant and Sons,no,Traci Larson
+Ch-WO-00010,Ch-EQ-00010-1,flow_meter,Chicago,Grant and Sons,no,Traci Larson
+Ch-WO-00011,Ch-EQ-00011-0,scale,Chicago,Riddle-Faulkner,yes,Amanda Henry
+Ch-WO-00011,Ch-EQ-00011-1,torque,Chicago,Riddle-Faulkner,yes,Amanda Henry
+Ch-WO-00012,Ch-EQ-00012-0,thermometer,Chicago,Moreno-Friedman,no,Traci Larson
+Ch-WO-00013,Ch-EQ-00013-0,caliper,Chicago,Reed-Moody,yes,Amanda Henry
+Ch-WO-00013,Ch-EQ-00013-1,flow_meter,Chicago,Reed-Moody,no,Amanda Henry
+Ch-WO-00014,Ch-EQ-00014-0,torque,Chicago,Smith-Copeland,yes,Laura Owens
+Ch-WO-00014,Ch-EQ-00014-1,thermometer,Chicago,Smith-Copeland,no,Laura Owens
+Ch-WO-00014,Ch-EQ-00014-2,scale,Chicago,Smith-Copeland,no,Amanda Henry
+Ch-WO-00015,Ch-EQ-00015-0,caliper,Chicago,Davis and Sons,no,Amanda Henry
+Ch-WO-00015,Ch-EQ-00015-1,caliper,Chicago,Davis and Sons,yes,Laura Owens
+Ch-WO-00016,Ch-EQ-00016-0,torque,Chicago,"Armstrong, Fletcher and Wilson",yes,Amanda Henry
+Ch-WO-00016,Ch-EQ-00016-1,caliper,Chicago,"Armstrong, Fletcher and Wilson",no,Traci Larson
+Ch-WO-00016,Ch-EQ-00016-2,pressure_gauge,Chicago,"Armstrong, Fletcher and Wilson",no,Traci Larson
+Ch-WO-00017,Ch-EQ-00017-0,caliper,Chicago,"Jensen, Evans and Fowler",yes,Amanda Henry
+Ch-WO-00018,Ch-EQ-00018-0,thermometer,Chicago,"Combs, Gibson and Mitchell",no,Traci Larson
+Ch-WO-00018,Ch-EQ-00018-1,torque,Chicago,"Combs, Gibson and Mitchell",yes,Traci Larson
+Ch-WO-00018,Ch-EQ-00018-2,caliper,Chicago,"Combs, Gibson and Mitchell",no,Laura Owens
+Ch-WO-00019,Ch-EQ-00019-0,thermometer,Chicago,"Martin, Thomas and Huerta",no,Amanda Henry
+Ch-WO-00019,Ch-EQ-00019-1,scale,Chicago,"Martin, Thomas and Huerta",yes,Amanda Henry
+Ch-WO-00020,Ch-EQ-00020-0,pressure_gauge,Chicago,Wells Inc,yes,Amanda Henry
+Ch-WO-00021,Ch-EQ-00021-0,pressure_gauge,Chicago,Hicks PLC,yes,Laura Owens
+Ch-WO-00022,Ch-EQ-00022-0,torque,Chicago,Doyle-Barnes,yes,Laura Owens
+Ch-WO-00022,Ch-EQ-00022-1,torque,Chicago,Doyle-Barnes,yes,Amanda Henry
+Ch-WO-00022,Ch-EQ-00022-2,scale,Chicago,Doyle-Barnes,no,Traci Larson
+Ch-WO-00023,Ch-EQ-00023-0,scale,Chicago,Ball LLC,yes,Traci Larson
+Ch-WO-00023,Ch-EQ-00023-1,torque,Chicago,Ball LLC,no,Amanda Henry
+Ch-WO-00024,Ch-EQ-00024-0,torque,Chicago,Rodriguez-Summers,no,Amanda Henry
+Ch-WO-00025,Ch-EQ-00025-0,pressure_gauge,Chicago,Atkinson Group,yes,Laura Owens
+Ch-WO-00025,Ch-EQ-00025-1,torque,Chicago,Atkinson Group,yes,Laura Owens
+Ch-WO-00025,Ch-EQ-00025-2,torque,Chicago,Atkinson Group,no,Laura Owens
+Ch-WO-00026,Ch-EQ-00026-0,scale,Chicago,"Mitchell, Stephens and Ford",no,Traci Larson
+Ch-WO-00027,Ch-EQ-00027-0,pressure_gauge,Chicago,James-Nichols,no,Laura Owens
+Ch-WO-00027,Ch-EQ-00027-1,scale,Chicago,James-Nichols,no,Laura Owens
+Ch-WO-00027,Ch-EQ-00027-2,caliper,Chicago,James-Nichols,no,Amanda Henry
+Ch-WO-00028,Ch-EQ-00028-0,thermometer,Chicago,"Martin, Thomas and Huerta",yes,Laura Owens
+Ch-WO-00028,Ch-EQ-00028-1,pressure_gauge,Chicago,"Martin, Thomas and Huerta",no,Laura Owens
+Ch-WO-00028,Ch-EQ-00028-2,flow_meter,Chicago,"Martin, Thomas and Huerta",no,Traci Larson
+Ch-WO-00029,Ch-EQ-00029-0,caliper,Chicago,"Rose, Rivera and Cox",no,Amanda Henry
+Ch-WO-00029,Ch-EQ-00029-1,scale,Chicago,"Rose, Rivera and Cox",no,Amanda Henry
+Ch-WO-00030,Ch-EQ-00030-0,pressure_gauge,Chicago,"Thompson, Anderson and Hopkins",yes,Traci Larson
+Ch-WO-00030,Ch-EQ-00030-1,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry
+Ch-WO-00030,Ch-EQ-00030-2,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry
+Ch-WO-00031,Ch-EQ-00031-0,torque,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens
+Ch-WO-00031,Ch-EQ-00031-1,scale,Chicago,"Moore, Prince and Blankenship",yes,Traci Larson
+Ch-WO-00031,Ch-EQ-00031-2,torque,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens
+Ch-WO-00032,Ch-EQ-00032-0,thermometer,Chicago,Tucker-Nelson,no,Laura Owens
+Ch-WO-00032,Ch-EQ-00032-1,flow_meter,Chicago,Tucker-Nelson,yes,Laura Owens
+Ch-WO-00032,Ch-EQ-00032-2,flow_meter,Chicago,Tucker-Nelson,yes,Laura Owens
+Ch-WO-00033,Ch-EQ-00033-0,torque,Chicago,Stephenson-Herring,yes,Laura Owens
+Ch-WO-00033,Ch-EQ-00033-1,torque,Chicago,Stephenson-Herring,yes,Laura Owens
+Ch-WO-00034,Ch-EQ-00034-0,caliper,Chicago,"Wade, Cruz and White",no,Amanda Henry
+Ch-WO-00035,Ch-EQ-00035-0,thermometer,Chicago,Ibarra-Gonzales,no,Traci Larson
+Ch-WO-00036,Ch-EQ-00036-0,scale,Chicago,Mccann-Hoffman,yes,Amanda Henry
+Ch-WO-00036,Ch-EQ-00036-1,thermometer,Chicago,Mccann-Hoffman,no,Laura Owens
+Ch-WO-00037,Ch-EQ-00037-0,scale,Chicago,Garcia Ltd,yes,Laura Owens
+Ch-WO-00037,Ch-EQ-00037-1,pressure_gauge,Chicago,Garcia Ltd,yes,Traci Larson
+Ch-WO-00038,Ch-EQ-00038-0,thermometer,Chicago,"Thompson, Anderson and Hopkins",yes,Traci Larson
+Ch-WO-00039,Ch-EQ-00039-0,thermometer,Chicago,Rodriguez-Summers,no,Laura Owens
+Ch-WO-00039,Ch-EQ-00039-1,pressure_gauge,Chicago,Rodriguez-Summers,no,Traci Larson
+Ch-WO-00040,Ch-EQ-00040-0,torque,Chicago,Rodriguez Inc,yes,Amanda Henry
+Ch-WO-00040,Ch-EQ-00040-1,flow_meter,Chicago,Rodriguez Inc,yes,Laura Owens
+Ch-WO-00040,Ch-EQ-00040-2,torque,Chicago,Rodriguez Inc,no,Amanda Henry
+Ch-WO-00041,Ch-EQ-00041-0,torque,Chicago,Miller-Mcguire,no,Traci Larson
+Ch-WO-00041,Ch-EQ-00041-1,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry
+Ch-WO-00042,Ch-EQ-00042-0,pressure_gauge,Chicago,Romero Group,no,Laura Owens
+Ch-WO-00042,Ch-EQ-00042-1,thermometer,Chicago,Romero Group,no,Laura Owens
+Ch-WO-00043,Ch-EQ-00043-0,thermometer,Chicago,Chang-Love,yes,Amanda Henry
+Ch-WO-00044,Ch-EQ-00044-0,pressure_gauge,Chicago,Miller-Decker,no,Laura Owens
+Ch-WO-00045,Ch-EQ-00045-0,flow_meter,Chicago,Hammond-Guerrero,yes,Amanda Henry
+Ch-WO-00046,Ch-EQ-00046-0,pressure_gauge,Chicago,Ellis Group,yes,Amanda Henry
+Ch-WO-00046,Ch-EQ-00046-1,caliper,Chicago,Ellis Group,yes,Laura Owens
+Ch-WO-00047,Ch-EQ-00047-0,flow_meter,Chicago,Holland-Walsh,no,Laura Owens
+Ch-WO-00047,Ch-EQ-00047-1,torque,Chicago,Holland-Walsh,no,Laura Owens
+Ch-WO-00048,Ch-EQ-00048-0,thermometer,Chicago,Thomas LLC,yes,Amanda Henry
+Ch-WO-00049,Ch-EQ-00049-0,caliper,Chicago,Morris-West,yes,Laura Owens
+Ch-WO-00049,Ch-EQ-00049-1,thermometer,Chicago,Morris-West,no,Traci Larson
+Ch-WO-00050,Ch-EQ-00050-0,thermometer,Chicago,Allen Ltd,yes,Traci Larson
+Ch-WO-00051,Ch-EQ-00051-0,flow_meter,Chicago,Santiago and Sons,yes,Traci Larson
+Ch-WO-00051,Ch-EQ-00051-1,scale,Chicago,Santiago and Sons,no,Laura Owens
+Ch-WO-00052,Ch-EQ-00052-0,thermometer,Chicago,"Combs, Gibson and Mitchell",no,Laura Owens
+Ch-WO-00053,Ch-EQ-00053-0,torque,Chicago,Orr LLC,no,Traci Larson
+Ch-WO-00054,Ch-EQ-00054-0,caliper,Chicago,"Hawkins, Campos and Booth",yes,Laura Owens
+Ch-WO-00055,Ch-EQ-00055-0,caliper,Chicago,"Copeland, Torres and Morales",yes,Amanda Henry
+Ch-WO-00055,Ch-EQ-00055-1,scale,Chicago,"Copeland, Torres and Morales",no,Traci Larson
+Ch-WO-00056,Ch-EQ-00056-0,torque,Chicago,Mueller LLC,no,Laura Owens
+Ch-WO-00056,Ch-EQ-00056-1,torque,Chicago,Mueller LLC,yes,Amanda Henry
+Ch-WO-00057,Ch-EQ-00057-0,caliper,Chicago,"Martin, Thomas and Huerta",yes,Amanda Henry
+Ch-WO-00058,Ch-EQ-00058-0,thermometer,Chicago,Arnold-Peters,yes,Amanda Henry
+Ch-WO-00058,Ch-EQ-00058-1,thermometer,Chicago,Arnold-Peters,no,Amanda Henry
+Ch-WO-00059,Ch-EQ-00059-0,pressure_gauge,Chicago,"Parks, Miller and Watson",yes,Laura Owens
+Ch-WO-00059,Ch-EQ-00059-1,torque,Chicago,"Parks, Miller and Watson",no,Amanda Henry
+Ch-WO-00060,Ch-EQ-00060-0,thermometer,Chicago,Gonzalez Ltd,yes,Amanda Henry
+Ch-WO-00060,Ch-EQ-00060-1,caliper,Chicago,Gonzalez Ltd,yes,Laura Owens
+Ch-WO-00060,Ch-EQ-00060-2,caliper,Chicago,Gonzalez Ltd,yes,Traci Larson
+Ch-WO-00061,Ch-EQ-00061-0,caliper,Chicago,Thomas LLC,yes,Traci Larson
+Ch-WO-00061,Ch-EQ-00061-1,pressure_gauge,Chicago,Thomas LLC,no,Amanda Henry
+Ch-WO-00062,Ch-EQ-00062-0,caliper,Chicago,"Martin, Thomas and Huerta",no,Laura Owens
+Ch-WO-00063,Ch-EQ-00063-0,scale,Chicago,Kelley-Ramirez,no,Amanda Henry
+Ch-WO-00064,Ch-EQ-00064-0,pressure_gauge,Chicago,Miller-Decker,no,Amanda Henry
+Ch-WO-00064,Ch-EQ-00064-1,torque,Chicago,Miller-Decker,yes,Laura Owens
+Ch-WO-00065,Ch-EQ-00065-0,flow_meter,Chicago,Parker-Lee,yes,Amanda Henry
+Ch-WO-00066,Ch-EQ-00066-0,scale,Chicago,"Martin, Thomas and Huerta",no,Laura Owens
+Ch-WO-00067,Ch-EQ-00067-0,thermometer,Chicago,Martin-Hale,no,Amanda Henry
+Ch-WO-00067,Ch-EQ-00067-1,caliper,Chicago,Martin-Hale,yes,Amanda Henry
+Ch-WO-00067,Ch-EQ-00067-2,torque,Chicago,Martin-Hale,yes,Traci Larson
+Ch-WO-00068,Ch-EQ-00068-0,scale,Chicago,Hicks PLC,no,Laura Owens
+Ch-WO-00068,Ch-EQ-00068-1,scale,Chicago,Hicks PLC,no,Amanda Henry
+Ch-WO-00069,Ch-EQ-00069-0,torque,Chicago,Morales-Banks,yes,Traci Larson
+Ch-WO-00069,Ch-EQ-00069-1,thermometer,Chicago,Morales-Banks,no,Amanda Henry
+Ch-WO-00070,Ch-EQ-00070-0,caliper,Chicago,Riddle-Faulkner,no,Traci Larson
+Ch-WO-00070,Ch-EQ-00070-1,caliper,Chicago,Riddle-Faulkner,yes,Traci Larson
+Ch-WO-00071,Ch-EQ-00071-0,scale,Chicago,Morales-Banks,no,Amanda Henry
+Ch-WO-00072,Ch-EQ-00072-0,thermometer,Chicago,Hammond-Guerrero,no,Amanda Henry
+Ch-WO-00073,Ch-EQ-00073-0,torque,Chicago,Smith-Anthony,no,Laura Owens
+Ch-WO-00073,Ch-EQ-00073-1,thermometer,Chicago,Smith-Anthony,yes,Amanda Henry
+Ch-WO-00073,Ch-EQ-00073-2,pressure_gauge,Chicago,Smith-Anthony,yes,Amanda Henry
+Ch-WO-00074,Ch-EQ-00074-0,flow_meter,Chicago,Barnett-Mueller,yes,Amanda Henry
+Ch-WO-00074,Ch-EQ-00074-1,scale,Chicago,Barnett-Mueller,no,Laura Owens
+Ch-WO-00075,Ch-EQ-00075-0,caliper,Chicago,Serrano Inc,no,Traci Larson
+Ch-WO-00075,Ch-EQ-00075-1,caliper,Chicago,Serrano Inc,no,Laura Owens
+Ch-WO-00075,Ch-EQ-00075-2,thermometer,Chicago,Serrano Inc,yes,Traci Larson
+Ch-WO-00076,Ch-EQ-00076-0,torque,Chicago,Davis and Sons,yes,Laura Owens
+Ch-WO-00076,Ch-EQ-00076-1,caliper,Chicago,Davis and Sons,no,Traci Larson
+Ch-WO-00076,Ch-EQ-00076-2,flow_meter,Chicago,Davis and Sons,no,Amanda Henry
+Ch-WO-00077,Ch-EQ-00077-0,scale,Chicago,"Rose, Rivera and Cox",no,Traci Larson
+Ch-WO-00077,Ch-EQ-00077-1,caliper,Chicago,"Rose, Rivera and Cox",yes,Amanda Henry
+Ch-WO-00078,Ch-EQ-00078-0,torque,Chicago,"Mitchell, Stephens and Ford",no,Amanda Henry
+Ch-WO-00079,Ch-EQ-00079-0,caliper,Chicago,Wells Inc,yes,Amanda Henry
+Ch-WO-00079,Ch-EQ-00079-1,torque,Chicago,Wells Inc,yes,Laura Owens
+Ch-WO-00080,Ch-EQ-00080-0,scale,Chicago,Mcdowell-Brooks,no,Amanda Henry
+Ch-WO-00080,Ch-EQ-00080-1,scale,Chicago,Mcdowell-Brooks,no,Traci Larson
+Ch-WO-00080,Ch-EQ-00080-2,caliper,Chicago,Mcdowell-Brooks,no,Amanda Henry
+Ch-WO-00081,Ch-EQ-00081-0,scale,Chicago,"Armstrong, Fletcher and Wilson",yes,Amanda Henry
+Ch-WO-00082,Ch-EQ-00082-0,flow_meter,Chicago,Hamilton Group,no,Laura Owens
+Ch-WO-00083,Ch-EQ-00083-0,pressure_gauge,Chicago,Thomas LLC,yes,Laura Owens
+Ch-WO-00083,Ch-EQ-00083-1,flow_meter,Chicago,Thomas LLC,yes,Amanda Henry
+Ch-WO-00083,Ch-EQ-00083-2,caliper,Chicago,Thomas LLC,no,Laura Owens
+Ch-WO-00084,Ch-EQ-00084-0,flow_meter,Chicago,"Alexander, Green and Mcbride",yes,Amanda Henry
+Ch-WO-00084,Ch-EQ-00084-1,pressure_gauge,Chicago,"Alexander, Green and Mcbride",yes,Laura Owens
+Ch-WO-00084,Ch-EQ-00084-2,scale,Chicago,"Alexander, Green and Mcbride",no,Laura Owens
+Ch-WO-00085,Ch-EQ-00085-0,thermometer,Chicago,Spencer-Williams,no,Traci Larson
+Ch-WO-00086,Ch-EQ-00086-0,pressure_gauge,Chicago,"Combs, Gibson and Mitchell",yes,Laura Owens
+Ch-WO-00086,Ch-EQ-00086-1,torque,Chicago,"Combs, Gibson and Mitchell",no,Traci Larson
+Ch-WO-00087,Ch-EQ-00087-0,thermometer,Chicago,"Martin, Thomas and Huerta",yes,Traci Larson
+Ch-WO-00087,Ch-EQ-00087-1,pressure_gauge,Chicago,"Martin, Thomas and Huerta",yes,Laura Owens
+Ch-WO-00087,Ch-EQ-00087-2,torque,Chicago,"Martin, Thomas and Huerta",yes,Laura Owens
+Ch-WO-00088,Ch-EQ-00088-0,flow_meter,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry
+Ch-WO-00088,Ch-EQ-00088-1,flow_meter,Chicago,"Dillon, Morton and Wood",no,Amanda Henry
+Ch-WO-00089,Ch-EQ-00089-0,scale,Chicago,Moreno-Friedman,no,Traci Larson
+Ch-WO-00089,Ch-EQ-00089-1,pressure_gauge,Chicago,Moreno-Friedman,yes,Traci Larson
+Ch-WO-00090,Ch-EQ-00090-0,caliper,Chicago,"White, Grant and Flores",no,Traci Larson
+Ch-WO-00090,Ch-EQ-00090-1,thermometer,Chicago,"White, Grant and Flores",no,Amanda Henry
+Ch-WO-00091,Ch-EQ-00091-0,flow_meter,Chicago,"Ramirez, Marsh and Alvarez",yes,Laura Owens
+Ch-WO-00092,Ch-EQ-00092-0,thermometer,Chicago,Ross Inc,no,Traci Larson
+Ch-WO-00092,Ch-EQ-00092-1,flow_meter,Chicago,Ross Inc,no,Traci Larson
+Ch-WO-00093,Ch-EQ-00093-0,caliper,Chicago,"Combs, Gibson and Mitchell",yes,Amanda Henry
+Ch-WO-00094,Ch-EQ-00094-0,pressure_gauge,Chicago,Moreno-Friedman,no,Laura Owens
+Ch-WO-00094,Ch-EQ-00094-1,caliper,Chicago,Moreno-Friedman,yes,Amanda Henry
+Ch-WO-00094,Ch-EQ-00094-2,flow_meter,Chicago,Moreno-Friedman,no,Laura Owens
+Ch-WO-00095,Ch-EQ-00095-0,pressure_gauge,Chicago,Barrett-Figueroa,yes,Traci Larson
+Ch-WO-00095,Ch-EQ-00095-1,thermometer,Chicago,Barrett-Figueroa,yes,Laura Owens
+Ch-WO-00095,Ch-EQ-00095-2,thermometer,Chicago,Barrett-Figueroa,no,Amanda Henry
+Ch-WO-00096,Ch-EQ-00096-0,flow_meter,Chicago,"White, Grant and Flores",yes,Traci Larson
+Ch-WO-00096,Ch-EQ-00096-1,scale,Chicago,"White, Grant and Flores",no,Traci Larson
+Ch-WO-00097,Ch-EQ-00097-0,scale,Chicago,Santiago and Sons,no,Amanda Henry
+Ch-WO-00097,Ch-EQ-00097-1,flow_meter,Chicago,Santiago and Sons,no,Amanda Henry
+Ch-WO-00098,Ch-EQ-00098-0,torque,Chicago,Mueller LLC,yes,Traci Larson
+Ch-WO-00098,Ch-EQ-00098-1,thermometer,Chicago,Mueller LLC,yes,Laura Owens
+Ch-WO-00098,Ch-EQ-00098-2,caliper,Chicago,Mueller LLC,yes,Laura Owens
+Ch-WO-00099,Ch-EQ-00099-0,scale,Chicago,"Copeland, Torres and Morales",yes,Traci Larson
+Ch-WO-00100,Ch-EQ-00100-0,flow_meter,Chicago,Harris-Matthews,no,Laura Owens
+Ch-WO-00101,Ch-EQ-00101-0,scale,Chicago,Ellis Group,yes,Laura Owens
+Ch-WO-00101,Ch-EQ-00101-1,caliper,Chicago,Ellis Group,no,Laura Owens
+Ch-WO-00101,Ch-EQ-00101-2,thermometer,Chicago,Ellis Group,no,Traci Larson
+Ch-WO-00102,Ch-EQ-00102-0,pressure_gauge,Chicago,Parker and Sons,no,Traci Larson
+Ch-WO-00102,Ch-EQ-00102-1,flow_meter,Chicago,Parker and Sons,yes,Laura Owens
+Ch-WO-00102,Ch-EQ-00102-2,pressure_gauge,Chicago,Parker and Sons,no,Traci Larson
+Ch-WO-00103,Ch-EQ-00103-0,torque,Chicago,Mcdowell-Brooks,no,Laura Owens
+Ch-WO-00103,Ch-EQ-00103-1,caliper,Chicago,Mcdowell-Brooks,yes,Laura Owens
+Ch-WO-00103,Ch-EQ-00103-2,torque,Chicago,Mcdowell-Brooks,yes,Amanda Henry
+Ch-WO-00104,Ch-EQ-00104-0,caliper,Chicago,Miller-Mcguire,no,Laura Owens
+Ch-WO-00105,Ch-EQ-00105-0,flow_meter,Chicago,"Rose, Rivera and Cox",no,Traci Larson
+Ch-WO-00105,Ch-EQ-00105-1,caliper,Chicago,"Rose, Rivera and Cox",no,Amanda Henry
+Ch-WO-00105,Ch-EQ-00105-2,torque,Chicago,"Rose, Rivera and Cox",no,Amanda Henry
+Ch-WO-00106,Ch-EQ-00106-0,caliper,Chicago,"Moore, Prince and Blankenship",no,Amanda Henry
+Ch-WO-00106,Ch-EQ-00106-1,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry
+Ch-WO-00107,Ch-EQ-00107-0,scale,Chicago,Willis Inc,no,Amanda Henry
+Ch-WO-00108,Ch-EQ-00108-0,scale,Chicago,Garner-Rose,no,Laura Owens
+Ch-WO-00109,Ch-EQ-00109-0,pressure_gauge,Chicago,Mccann-Hoffman,yes,Amanda Henry
+Ch-WO-00109,Ch-EQ-00109-1,caliper,Chicago,Mccann-Hoffman,no,Traci Larson
+Ch-WO-00110,Ch-EQ-00110-0,thermometer,Chicago,Clark-Greer,yes,Traci Larson
+Ch-WO-00110,Ch-EQ-00110-1,thermometer,Chicago,Clark-Greer,no,Amanda Henry
+Ch-WO-00110,Ch-EQ-00110-2,pressure_gauge,Chicago,Clark-Greer,yes,Traci Larson
+Ch-WO-00111,Ch-EQ-00111-0,thermometer,Chicago,Rodriguez-Summers,no,Traci Larson
+Ch-WO-00111,Ch-EQ-00111-1,caliper,Chicago,Rodriguez-Summers,yes,Traci Larson
+Ch-WO-00112,Ch-EQ-00112-0,flow_meter,Chicago,Rodriguez Inc,yes,Laura Owens
+Ch-WO-00112,Ch-EQ-00112-1,caliper,Chicago,Rodriguez Inc,no,Traci Larson
+Ch-WO-00113,Ch-EQ-00113-0,flow_meter,Chicago,Hamilton Group,yes,Laura Owens
+Ch-WO-00113,Ch-EQ-00113-1,torque,Chicago,Hamilton Group,no,Laura Owens
+Ch-WO-00113,Ch-EQ-00113-2,torque,Chicago,Hamilton Group,yes,Traci Larson
+Ch-WO-00114,Ch-EQ-00114-0,torque,Chicago,Baker PLC,no,Amanda Henry
+Ch-WO-00114,Ch-EQ-00114-1,torque,Chicago,Baker PLC,no,Traci Larson
+Ch-WO-00115,Ch-EQ-00115-0,thermometer,Chicago,Hammond-Guerrero,no,Traci Larson
+Ch-WO-00115,Ch-EQ-00115-1,scale,Chicago,Hammond-Guerrero,no,Amanda Henry
+Ch-WO-00115,Ch-EQ-00115-2,torque,Chicago,Hammond-Guerrero,no,Amanda Henry
+Ch-WO-00116,Ch-EQ-00116-0,flow_meter,Chicago,Rodriguez Group,yes,Laura Owens
+Ch-WO-00116,Ch-EQ-00116-1,caliper,Chicago,Rodriguez Group,yes,Amanda Henry
+Ch-WO-00117,Ch-EQ-00117-0,thermometer,Chicago,"Thompson, Anderson and Hopkins",no,Laura Owens
+Ch-WO-00117,Ch-EQ-00117-1,torque,Chicago,"Thompson, Anderson and Hopkins",yes,Amanda Henry
+Ch-WO-00118,Ch-EQ-00118-0,flow_meter,Chicago,Barnett-Mueller,yes,Amanda Henry
+Ch-WO-00118,Ch-EQ-00118-1,flow_meter,Chicago,Barnett-Mueller,yes,Laura Owens
+Ch-WO-00119,Ch-EQ-00119-0,caliper,Chicago,Ibarra-Gonzales,yes,Traci Larson
+Ch-WO-00119,Ch-EQ-00119-1,scale,Chicago,Ibarra-Gonzales,yes,Amanda Henry
+Ch-WO-00120,Ch-EQ-00120-0,thermometer,Chicago,Morris-West,no,Traci Larson
+Ch-WO-00120,Ch-EQ-00120-1,scale,Chicago,Morris-West,yes,Traci Larson
+Ch-WO-00121,Ch-EQ-00121-0,caliper,Chicago,Gonzalez Ltd,yes,Traci Larson
+Ch-WO-00122,Ch-EQ-00122-0,caliper,Chicago,Grant and Sons,yes,Traci Larson
+Ch-WO-00122,Ch-EQ-00122-1,flow_meter,Chicago,Grant and Sons,yes,Traci Larson
+Ch-WO-00123,Ch-EQ-00123-0,caliper,Chicago,"Rose, Rivera and Cox",no,Traci Larson
+Ch-WO-00123,Ch-EQ-00123-1,caliper,Chicago,"Rose, Rivera and Cox",yes,Laura Owens
+Ch-WO-00124,Ch-EQ-00124-0,thermometer,Chicago,Barnett-Mueller,yes,Traci Larson
+Ch-WO-00125,Ch-EQ-00125-0,scale,Chicago,Huynh Group,no,Traci Larson
+Ch-WO-00125,Ch-EQ-00125-1,pressure_gauge,Chicago,Huynh Group,yes,Laura Owens
+Ch-WO-00126,Ch-EQ-00126-0,torque,Chicago,"Castro, Austin and Sparks",yes,Amanda Henry
+Ch-WO-00126,Ch-EQ-00126-1,pressure_gauge,Chicago,"Castro, Austin and Sparks",no,Traci Larson
+Ch-WO-00126,Ch-EQ-00126-2,torque,Chicago,"Castro, Austin and Sparks",no,Amanda Henry
+Ch-WO-00127,Ch-EQ-00127-0,scale,Chicago,Walker-Morales,no,Traci Larson
+Ch-WO-00127,Ch-EQ-00127-1,flow_meter,Chicago,Walker-Morales,no,Amanda Henry
+Ch-WO-00128,Ch-EQ-00128-0,flow_meter,Chicago,Wells Inc,yes,Laura Owens
+Ch-WO-00128,Ch-EQ-00128-1,caliper,Chicago,Wells Inc,yes,Traci Larson
+Ch-WO-00128,Ch-EQ-00128-2,flow_meter,Chicago,Wells Inc,yes,Laura Owens
+Ch-WO-00129,Ch-EQ-00129-0,flow_meter,Chicago,Willis Inc,no,Laura Owens
+Ch-WO-00129,Ch-EQ-00129-1,flow_meter,Chicago,Willis Inc,yes,Amanda Henry
+Ch-WO-00130,Ch-EQ-00130-0,scale,Chicago,Walker-Morales,yes,Laura Owens
+Ch-WO-00130,Ch-EQ-00130-1,caliper,Chicago,Walker-Morales,yes,Traci Larson
+Ch-WO-00131,Ch-EQ-00131-0,thermometer,Chicago,Reed-Moody,yes,Amanda Henry
+Ch-WO-00131,Ch-EQ-00131-1,pressure_gauge,Chicago,Reed-Moody,yes,Laura Owens
+Ch-WO-00131,Ch-EQ-00131-2,thermometer,Chicago,Reed-Moody,yes,Laura Owens
+Ch-WO-00132,Ch-EQ-00132-0,flow_meter,Chicago,"Moore, Prince and Blankenship",no,Amanda Henry
+Ch-WO-00132,Ch-EQ-00132-1,thermometer,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry
+Ch-WO-00133,Ch-EQ-00133-0,torque,Chicago,Hardin-Mcdonald,no,Laura Owens
+Ch-WO-00133,Ch-EQ-00133-1,thermometer,Chicago,Hardin-Mcdonald,yes,Amanda Henry
+Ch-WO-00133,Ch-EQ-00133-2,caliper,Chicago,Hardin-Mcdonald,no,Traci Larson
+Ch-WO-00134,Ch-EQ-00134-0,caliper,Chicago,"Hawkins, Campos and Booth",no,Laura Owens
+Ch-WO-00134,Ch-EQ-00134-1,scale,Chicago,"Hawkins, Campos and Booth",no,Amanda Henry
+Ch-WO-00135,Ch-EQ-00135-0,pressure_gauge,Chicago,Arnold-Peters,yes,Laura Owens
+Ch-WO-00135,Ch-EQ-00135-1,scale,Chicago,Arnold-Peters,no,Amanda Henry
+Ch-WO-00136,Ch-EQ-00136-0,scale,Chicago,Smith-Copeland,no,Amanda Henry
+Ch-WO-00136,Ch-EQ-00136-1,caliper,Chicago,Smith-Copeland,no,Traci Larson
+Ch-WO-00136,Ch-EQ-00136-2,flow_meter,Chicago,Smith-Copeland,no,Traci Larson
+Ch-WO-00137,Ch-EQ-00137-0,torque,Chicago,Parker and Sons,no,Laura Owens
+Ch-WO-00137,Ch-EQ-00137-1,torque,Chicago,Parker and Sons,yes,Laura Owens
+Ch-WO-00138,Ch-EQ-00138-0,caliper,Chicago,Cole-Cervantes,yes,Amanda Henry
+Ch-WO-00138,Ch-EQ-00138-1,scale,Chicago,Cole-Cervantes,no,Laura Owens
+Ch-WO-00139,Ch-EQ-00139-0,torque,Chicago,"Dillon, Morton and Wood",yes,Laura Owens
+Ch-WO-00139,Ch-EQ-00139-1,thermometer,Chicago,"Dillon, Morton and Wood",no,Amanda Henry
+Ch-WO-00139,Ch-EQ-00139-2,flow_meter,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry
+Ch-WO-00140,Ch-EQ-00140-0,thermometer,Chicago,Collins and Sons,yes,Traci Larson
+Ch-WO-00140,Ch-EQ-00140-1,pressure_gauge,Chicago,Collins and Sons,no,Amanda Henry
+Ch-WO-00141,Ch-EQ-00141-0,thermometer,Chicago,Miller-Mcguire,yes,Laura Owens
+Ch-WO-00142,Ch-EQ-00142-0,torque,Chicago,Baker PLC,no,Laura Owens
+Ch-WO-00142,Ch-EQ-00142-1,torque,Chicago,Baker PLC,no,Traci Larson
+Ch-WO-00142,Ch-EQ-00142-2,flow_meter,Chicago,Baker PLC,yes,Traci Larson
+Ch-WO-00143,Ch-EQ-00143-0,pressure_gauge,Chicago,Rodriguez Inc,yes,Laura Owens
+Ch-WO-00143,Ch-EQ-00143-1,thermometer,Chicago,Rodriguez Inc,no,Amanda Henry
+Ch-WO-00143,Ch-EQ-00143-2,scale,Chicago,Rodriguez Inc,no,Amanda Henry
+Ch-WO-00144,Ch-EQ-00144-0,caliper,Chicago,Parker and Sons,yes,Traci Larson
+Ch-WO-00144,Ch-EQ-00144-1,flow_meter,Chicago,Parker and Sons,yes,Traci Larson
+Ch-WO-00145,Ch-EQ-00145-0,caliper,Chicago,Parker-Reeves,yes,Laura Owens
+Ch-WO-00146,Ch-EQ-00146-0,thermometer,Chicago,Hamilton Group,yes,Traci Larson
+Ch-WO-00147,Ch-EQ-00147-0,pressure_gauge,Chicago,Moreno-Friedman,no,Amanda Henry
+Ch-WO-00147,Ch-EQ-00147-1,scale,Chicago,Moreno-Friedman,yes,Amanda Henry
+Ch-WO-00148,Ch-EQ-00148-0,scale,Chicago,Walker-Morales,no,Traci Larson
+Ch-WO-00148,Ch-EQ-00148-1,thermometer,Chicago,Walker-Morales,no,Traci Larson
+Ch-WO-00149,Ch-EQ-00149-0,torque,Chicago,"Copeland, Torres and Morales",no,Traci Larson
+Ch-WO-00149,Ch-EQ-00149-1,flow_meter,Chicago,"Copeland, Torres and Morales",yes,Traci Larson
+Ch-WO-00149,Ch-EQ-00149-2,caliper,Chicago,"Copeland, Torres and Morales",no,Traci Larson
+Ch-WO-00150,Ch-EQ-00150-0,pressure_gauge,Chicago,Huynh Group,no,Traci Larson
+Ch-WO-00151,Ch-EQ-00151-0,thermometer,Chicago,Walker-Morales,no,Amanda Henry
+Ch-WO-00152,Ch-EQ-00152-0,torque,Chicago,Morales-Banks,yes,Traci Larson
+Ch-WO-00153,Ch-EQ-00153-0,torque,Chicago,Woods Inc,no,Traci Larson
+Ch-WO-00154,Ch-EQ-00154-0,flow_meter,Chicago,Fletcher-Boone,no,Traci Larson
+Ch-WO-00155,Ch-EQ-00155-0,scale,Chicago,"Thompson, Anderson and Hopkins",no,Traci Larson
+Ch-WO-00155,Ch-EQ-00155-1,caliper,Chicago,"Thompson, Anderson and Hopkins",no,Amanda Henry
+Ch-WO-00155,Ch-EQ-00155-2,thermometer,Chicago,"Thompson, Anderson and Hopkins",no,Traci Larson
+Ch-WO-00156,Ch-EQ-00156-0,caliper,Chicago,Barrett-Figueroa,no,Laura Owens
+Ch-WO-00156,Ch-EQ-00156-1,caliper,Chicago,Barrett-Figueroa,no,Amanda Henry
+Ch-WO-00157,Ch-EQ-00157-0,flow_meter,Chicago,"Parks, Miller and Watson",yes,Traci Larson
+Ch-WO-00158,Ch-EQ-00158-0,pressure_gauge,Chicago,"Bell, Haney and Roberson",no,Traci Larson
+Ch-WO-00158,Ch-EQ-00158-1,flow_meter,Chicago,"Bell, Haney and Roberson",yes,Laura Owens
+Ch-WO-00158,Ch-EQ-00158-2,thermometer,Chicago,"Bell, Haney and Roberson",no,Amanda Henry
+Ch-WO-00159,Ch-EQ-00159-0,caliper,Chicago,"Hawkins, Campos and Booth",no,Laura Owens
+Ch-WO-00160,Ch-EQ-00160-0,caliper,Chicago,Smith-Anthony,yes,Traci Larson
+Ch-WO-00161,Ch-EQ-00161-0,torque,Chicago,Jensen-Bell,yes,Laura Owens
+Ch-WO-00161,Ch-EQ-00161-1,torque,Chicago,Jensen-Bell,no,Laura Owens
+Ch-WO-00162,Ch-EQ-00162-0,torque,Chicago,Hammond-Guerrero,no,Amanda Henry
+Ch-WO-00162,Ch-EQ-00162-1,flow_meter,Chicago,Hammond-Guerrero,no,Laura Owens
+Ch-WO-00163,Ch-EQ-00163-0,torque,Chicago,Jensen-Bell,no,Amanda Henry
+Ch-WO-00163,Ch-EQ-00163-1,flow_meter,Chicago,Jensen-Bell,no,Traci Larson
+Ch-WO-00164,Ch-EQ-00164-0,caliper,Chicago,"Cole, Velasquez and Johnson",no,Laura Owens
+Ch-WO-00164,Ch-EQ-00164-1,caliper,Chicago,"Cole, Velasquez and Johnson",no,Traci Larson
+Ch-WO-00165,Ch-EQ-00165-0,scale,Chicago,Carter Group,no,Traci Larson
+Ch-WO-00165,Ch-EQ-00165-1,pressure_gauge,Chicago,Carter Group,yes,Traci Larson
+Ch-WO-00165,Ch-EQ-00165-2,caliper,Chicago,Carter Group,yes,Traci Larson
+Ch-WO-00166,Ch-EQ-00166-0,torque,Chicago,Ball LLC,yes,Traci Larson
+Ch-WO-00166,Ch-EQ-00166-1,scale,Chicago,Ball LLC,no,Traci Larson
+Ch-WO-00167,Ch-EQ-00167-0,scale,Chicago,"Parks, Miller and Watson",yes,Traci Larson
+Ch-WO-00167,Ch-EQ-00167-1,caliper,Chicago,"Parks, Miller and Watson",yes,Traci Larson
+Ch-WO-00168,Ch-EQ-00168-0,torque,Chicago,"Martin, Thomas and Huerta",no,Traci Larson
+Ch-WO-00169,Ch-EQ-00169-0,torque,Chicago,Parker-Lee,no,Traci Larson
+Ch-WO-00169,Ch-EQ-00169-1,caliper,Chicago,Parker-Lee,no,Amanda Henry
+Ch-WO-00169,Ch-EQ-00169-2,torque,Chicago,Parker-Lee,yes,Laura Owens
+Ch-WO-00170,Ch-EQ-00170-0,flow_meter,Chicago,Cole-Cervantes,yes,Laura Owens
+Ch-WO-00170,Ch-EQ-00170-1,caliper,Chicago,Cole-Cervantes,yes,Laura Owens
+Ch-WO-00171,Ch-EQ-00171-0,thermometer,Chicago,"Alexander, Green and Mcbride",yes,Laura Owens
+Ch-WO-00171,Ch-EQ-00171-1,thermometer,Chicago,"Alexander, Green and Mcbride",yes,Amanda Henry
+Ch-WO-00172,Ch-EQ-00172-0,torque,Chicago,Barnett-Mueller,no,Laura Owens
+Ch-WO-00173,Ch-EQ-00173-0,pressure_gauge,Chicago,Gonzalez LLC,yes,Traci Larson
+Ch-WO-00174,Ch-EQ-00174-0,scale,Chicago,"Jensen, Evans and Fowler",no,Laura Owens
+Ch-WO-00174,Ch-EQ-00174-1,thermometer,Chicago,"Jensen, Evans and Fowler",no,Amanda Henry
+Ch-WO-00174,Ch-EQ-00174-2,scale,Chicago,"Jensen, Evans and Fowler",no,Amanda Henry
+Ch-WO-00175,Ch-EQ-00175-0,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Laura Owens
+Ch-WO-00175,Ch-EQ-00175-1,thermometer,Chicago,"Moore, Prince and Blankenship",yes,Traci Larson
+Ch-WO-00175,Ch-EQ-00175-2,flow_meter,Chicago,"Moore, Prince and Blankenship",yes,Amanda Henry
+Ch-WO-00176,Ch-EQ-00176-0,pressure_gauge,Chicago,Mccann-Hoffman,no,Amanda Henry
+Ch-WO-00176,Ch-EQ-00176-1,torque,Chicago,Mccann-Hoffman,no,Amanda Henry
+Ch-WO-00176,Ch-EQ-00176-2,pressure_gauge,Chicago,Mccann-Hoffman,yes,Traci Larson
+Ch-WO-00177,Ch-EQ-00177-0,thermometer,Chicago,Holland-Walsh,yes,Laura Owens
+Ch-WO-00177,Ch-EQ-00177-1,pressure_gauge,Chicago,Holland-Walsh,yes,Amanda Henry
+Ch-WO-00177,Ch-EQ-00177-2,scale,Chicago,Holland-Walsh,no,Laura Owens
+Ch-WO-00178,Ch-EQ-00178-0,thermometer,Chicago,"Dillon, Morton and Wood",yes,Amanda Henry
+Ch-WO-00178,Ch-EQ-00178-1,thermometer,Chicago,"Dillon, Morton and Wood",no,Amanda Henry
+Ch-WO-00178,Ch-EQ-00178-2,caliper,Chicago,"Dillon, Morton and Wood",no,Laura Owens
+Ch-WO-00179,Ch-EQ-00179-0,scale,Chicago,Garcia Ltd,yes,Traci Larson
+Ch-WO-00179,Ch-EQ-00179-1,caliper,Chicago,Garcia Ltd,yes,Traci Larson
+Ch-WO-00180,Ch-EQ-00180-0,scale,Chicago,Mccann-Hoffman,no,Amanda Henry
+Ch-WO-00180,Ch-EQ-00180-1,scale,Chicago,Mccann-Hoffman,yes,Amanda Henry
+Ch-WO-00181,Ch-EQ-00181-0,torque,Chicago,Garcia Ltd,no,Traci Larson
+Ch-WO-00182,Ch-EQ-00182-0,torque,Chicago,Ross Inc,no,Traci Larson
+Ch-WO-00182,Ch-EQ-00182-1,scale,Chicago,Ross Inc,no,Amanda Henry
+Ch-WO-00183,Ch-EQ-00183-0,scale,Chicago,Fletcher-Boone,no,Traci Larson
+Ch-WO-00183,Ch-EQ-00183-1,scale,Chicago,Fletcher-Boone,no,Amanda Henry
+Ch-WO-00183,Ch-EQ-00183-2,caliper,Chicago,Fletcher-Boone,no,Laura Owens
+Ch-WO-00184,Ch-EQ-00184-0,scale,Chicago,Hamilton Group,yes,Traci Larson
+Ch-WO-00184,Ch-EQ-00184-1,caliper,Chicago,Hamilton Group,yes,Laura Owens
+Ch-WO-00185,Ch-EQ-00185-0,scale,Chicago,Holland-Walsh,no,Laura Owens
+Ch-WO-00186,Ch-EQ-00186-0,caliper,Chicago,"Castro, Austin and Sparks",no,Laura Owens
+Ch-WO-00186,Ch-EQ-00186-1,torque,Chicago,"Castro, Austin and Sparks",no,Laura Owens
+Ch-WO-00186,Ch-EQ-00186-2,scale,Chicago,"Castro, Austin and Sparks",yes,Laura Owens
+Ch-WO-00187,Ch-EQ-00187-0,torque,Chicago,Martin-Hale,yes,Traci Larson
+Ch-WO-00187,Ch-EQ-00187-1,scale,Chicago,Martin-Hale,no,Laura Owens
+Ch-WO-00188,Ch-EQ-00188-0,caliper,Chicago,James-Nichols,yes,Traci Larson
+Ch-WO-00188,Ch-EQ-00188-1,flow_meter,Chicago,James-Nichols,no,Amanda Henry
+Ch-WO-00188,Ch-EQ-00188-2,thermometer,Chicago,James-Nichols,yes,Laura Owens
+Ch-WO-00189,Ch-EQ-00189-0,torque,Chicago,"Ramirez, Marsh and Alvarez",yes,Amanda Henry
+Ch-WO-00189,Ch-EQ-00189-1,pressure_gauge,Chicago,"Ramirez, Marsh and Alvarez",yes,Laura Owens
+Ch-WO-00189,Ch-EQ-00189-2,thermometer,Chicago,"Ramirez, Marsh and Alvarez",yes,Traci Larson
+Ch-WO-00190,Ch-EQ-00190-0,caliper,Chicago,"Ramirez, Marsh and Alvarez",no,Traci Larson
+Ch-WO-00190,Ch-EQ-00190-1,torque,Chicago,"Ramirez, Marsh and Alvarez",no,Traci Larson
+Ch-WO-00191,Ch-EQ-00191-0,caliper,Chicago,Ellis Group,yes,Laura Owens
+Ch-WO-00191,Ch-EQ-00191-1,thermometer,Chicago,Ellis Group,yes,Laura Owens
+Ch-WO-00191,Ch-EQ-00191-2,pressure_gauge,Chicago,Ellis Group,yes,Amanda Henry
+Ch-WO-00192,Ch-EQ-00192-0,flow_meter,Chicago,Ross Inc,yes,Laura Owens
+Ch-WO-00192,Ch-EQ-00192-1,caliper,Chicago,Ross Inc,yes,Amanda Henry
+Ch-WO-00192,Ch-EQ-00192-2,scale,Chicago,Ross Inc,no,Traci Larson
+Ch-WO-00193,Ch-EQ-00193-0,pressure_gauge,Chicago,Smith-Fernandez,yes,Amanda Henry
+Ch-WO-00193,Ch-EQ-00193-1,scale,Chicago,Smith-Fernandez,no,Traci Larson
+Ch-WO-00193,Ch-EQ-00193-2,flow_meter,Chicago,Smith-Fernandez,no,Traci Larson
+Ch-WO-00194,Ch-EQ-00194-0,thermometer,Chicago,Clark-Greer,yes,Amanda Henry
+Ch-WO-00194,Ch-EQ-00194-1,pressure_gauge,Chicago,Clark-Greer,yes,Laura Owens
+Ch-WO-00195,Ch-EQ-00195-0,flow_meter,Chicago,Rodriguez Group,yes,Traci Larson
+Ch-WO-00195,Ch-EQ-00195-1,thermometer,Chicago,Rodriguez Group,yes,Amanda Henry
+Ch-WO-00196,Ch-EQ-00196-0,torque,Chicago,Fletcher-Boone,yes,Amanda Henry
+Ch-WO-00196,Ch-EQ-00196-1,scale,Chicago,Fletcher-Boone,yes,Laura Owens
+Ch-WO-00197,Ch-EQ-00197-0,scale,Chicago,Mcdowell-Brooks,no,Laura Owens
+Ch-WO-00197,Ch-EQ-00197-1,thermometer,Chicago,Mcdowell-Brooks,yes,Traci Larson
+Ch-WO-00197,Ch-EQ-00197-2,flow_meter,Chicago,Mcdowell-Brooks,no,Traci Larson
+Ch-WO-00198,Ch-EQ-00198-0,flow_meter,Chicago,Reed-Moody,no,Laura Owens
+Ch-WO-00198,Ch-EQ-00198-1,torque,Chicago,Reed-Moody,no,Amanda Henry
+Ch-WO-00198,Ch-EQ-00198-2,pressure_gauge,Chicago,Reed-Moody,yes,Amanda Henry
+Ch-WO-00199,Ch-EQ-00199-0,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry
+Ch-WO-00199,Ch-EQ-00199-1,thermometer,Chicago,Miller-Mcguire,no,Amanda Henry
+Ch-WO-00199,Ch-EQ-00199-2,pressure_gauge,Chicago,Miller-Mcguire,yes,Amanda Henry

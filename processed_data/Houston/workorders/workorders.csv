@@ -1,0 +1,388 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician
+Ho-WO-00000,Ho-EQ-00000-0,flow_meter,Houston,Rodriguez-Summers,yes,Jeffrey Pham
+Ho-WO-00001,Ho-EQ-00001-0,flow_meter,Houston,Ross Inc,yes,Katelyn Hodges
+Ho-WO-00001,Ho-EQ-00001-1,scale,Houston,Ross Inc,no,Katelyn Hodges
+Ho-WO-00002,Ho-EQ-00002-0,torque,Houston,"Humphrey, Mullins and Moore",no,Katrina Bartlett
+Ho-WO-00002,Ho-EQ-00002-1,thermometer,Houston,"Humphrey, Mullins and Moore",no,Katelyn Hodges
+Ho-WO-00003,Ho-EQ-00003-0,thermometer,Houston,Davis and Sons,yes,Jeffrey Pham
+Ho-WO-00003,Ho-EQ-00003-1,torque,Houston,Davis and Sons,no,Katelyn Hodges
+Ho-WO-00004,Ho-EQ-00004-0,scale,Houston,Miller-Mcguire,yes,Katrina Bartlett
+Ho-WO-00004,Ho-EQ-00004-1,thermometer,Houston,Miller-Mcguire,yes,Jeffrey Pham
+Ho-WO-00005,Ho-EQ-00005-0,scale,Houston,Reed-Moody,yes,Katrina Bartlett
+Ho-WO-00005,Ho-EQ-00005-1,caliper,Houston,Reed-Moody,no,Katrina Bartlett
+Ho-WO-00006,Ho-EQ-00006-0,torque,Houston,Miller-Decker,yes,Katelyn Hodges
+Ho-WO-00006,Ho-EQ-00006-1,scale,Houston,Miller-Decker,no,Katelyn Hodges
+Ho-WO-00007,Ho-EQ-00007-0,caliper,Houston,Mann PLC,no,Jeffrey Pham
+Ho-WO-00008,Ho-EQ-00008-0,torque,Houston,Arnold-Peters,yes,Jeffrey Pham
+Ho-WO-00008,Ho-EQ-00008-1,thermometer,Houston,Arnold-Peters,yes,Katelyn Hodges
+Ho-WO-00008,Ho-EQ-00008-2,caliper,Houston,Arnold-Peters,no,Katelyn Hodges
+Ho-WO-00009,Ho-EQ-00009-0,thermometer,Houston,Potts-Huang,no,Katrina Bartlett
+Ho-WO-00010,Ho-EQ-00010-0,flow_meter,Houston,Rodriguez-Summers,yes,Katrina Bartlett
+Ho-WO-00010,Ho-EQ-00010-1,flow_meter,Houston,Rodriguez-Summers,yes,Katrina Bartlett
+Ho-WO-00011,Ho-EQ-00011-0,thermometer,Houston,Cole-Cervantes,no,Katrina Bartlett
+Ho-WO-00012,Ho-EQ-00012-0,flow_meter,Houston,Ross Inc,no,Katelyn Hodges
+Ho-WO-00012,Ho-EQ-00012-1,caliper,Houston,Ross Inc,yes,Katrina Bartlett
+Ho-WO-00012,Ho-EQ-00012-2,flow_meter,Houston,Ross Inc,no,Katrina Bartlett
+Ho-WO-00013,Ho-EQ-00013-0,pressure_gauge,Houston,Thomas LLC,no,Jeffrey Pham
+Ho-WO-00013,Ho-EQ-00013-1,pressure_gauge,Houston,Thomas LLC,yes,Katelyn Hodges
+Ho-WO-00014,Ho-EQ-00014-0,flow_meter,Houston,Orr LLC,yes,Katelyn Hodges
+Ho-WO-00014,Ho-EQ-00014-1,torque,Houston,Orr LLC,no,Katrina Bartlett
+Ho-WO-00015,Ho-EQ-00015-0,flow_meter,Houston,Reed-Moody,no,Katelyn Hodges
+Ho-WO-00016,Ho-EQ-00016-0,pressure_gauge,Houston,Rodriguez Inc,no,Jeffrey Pham
+Ho-WO-00017,Ho-EQ-00017-0,caliper,Houston,Grant and Sons,no,Jeffrey Pham
+Ho-WO-00018,Ho-EQ-00018-0,scale,Houston,Parker-Lee,yes,Katrina Bartlett
+Ho-WO-00019,Ho-EQ-00019-0,torque,Houston,Kelley-Ramirez,yes,Katrina Bartlett
+Ho-WO-00020,Ho-EQ-00020-0,pressure_gauge,Houston,Smith-Copeland,yes,Katrina Bartlett
+Ho-WO-00020,Ho-EQ-00020-1,caliper,Houston,Smith-Copeland,yes,Katelyn Hodges
+Ho-WO-00021,Ho-EQ-00021-0,scale,Houston,Thomas LLC,yes,Katelyn Hodges
+Ho-WO-00021,Ho-EQ-00021-1,pressure_gauge,Houston,Thomas LLC,no,Katelyn Hodges
+Ho-WO-00022,Ho-EQ-00022-0,thermometer,Houston,"Delgado, Krause and Lopez",no,Katrina Bartlett
+Ho-WO-00022,Ho-EQ-00022-1,flow_meter,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham
+Ho-WO-00023,Ho-EQ-00023-0,scale,Houston,Hamilton Group,yes,Katelyn Hodges
+Ho-WO-00023,Ho-EQ-00023-1,pressure_gauge,Houston,Hamilton Group,no,Jeffrey Pham
+Ho-WO-00024,Ho-EQ-00024-0,flow_meter,Houston,Fletcher-Boone,yes,Katelyn Hodges
+Ho-WO-00025,Ho-EQ-00025-0,flow_meter,Houston,Collins and Sons,yes,Katelyn Hodges
+Ho-WO-00026,Ho-EQ-00026-0,flow_meter,Houston,Gonzalez Ltd,yes,Jeffrey Pham
+Ho-WO-00027,Ho-EQ-00027-0,caliper,Houston,Cole-Cervantes,yes,Jeffrey Pham
+Ho-WO-00027,Ho-EQ-00027-1,caliper,Houston,Cole-Cervantes,no,Katelyn Hodges
+Ho-WO-00027,Ho-EQ-00027-2,caliper,Houston,Cole-Cervantes,yes,Katelyn Hodges
+Ho-WO-00028,Ho-EQ-00028-0,scale,Houston,Mann PLC,no,Katrina Bartlett
+Ho-WO-00028,Ho-EQ-00028-1,pressure_gauge,Houston,Mann PLC,yes,Katelyn Hodges
+Ho-WO-00028,Ho-EQ-00028-2,scale,Houston,Mann PLC,no,Katelyn Hodges
+Ho-WO-00029,Ho-EQ-00029-0,thermometer,Houston,Ruiz-Davis,yes,Jeffrey Pham
+Ho-WO-00030,Ho-EQ-00030-0,caliper,Houston,Ellis Group,yes,Jeffrey Pham
+Ho-WO-00031,Ho-EQ-00031-0,thermometer,Houston,Miller-Decker,yes,Jeffrey Pham
+Ho-WO-00031,Ho-EQ-00031-1,scale,Houston,Miller-Decker,yes,Katrina Bartlett
+Ho-WO-00032,Ho-EQ-00032-0,thermometer,Houston,Ruiz-Davis,yes,Katrina Bartlett
+Ho-WO-00032,Ho-EQ-00032-1,thermometer,Houston,Ruiz-Davis,no,Jeffrey Pham
+Ho-WO-00033,Ho-EQ-00033-0,scale,Houston,James-Nichols,no,Jeffrey Pham
+Ho-WO-00033,Ho-EQ-00033-1,pressure_gauge,Houston,James-Nichols,no,Katrina Bartlett
+Ho-WO-00034,Ho-EQ-00034-0,flow_meter,Houston,Mcdowell-Brooks,yes,Katelyn Hodges
+Ho-WO-00034,Ho-EQ-00034-1,pressure_gauge,Houston,Mcdowell-Brooks,no,Katrina Bartlett
+Ho-WO-00034,Ho-EQ-00034-2,torque,Houston,Mcdowell-Brooks,no,Katelyn Hodges
+Ho-WO-00035,Ho-EQ-00035-0,caliper,Houston,Hardin-Mcdonald,no,Jeffrey Pham
+Ho-WO-00035,Ho-EQ-00035-1,flow_meter,Houston,Hardin-Mcdonald,yes,Katelyn Hodges
+Ho-WO-00035,Ho-EQ-00035-2,torque,Houston,Hardin-Mcdonald,no,Katrina Bartlett
+Ho-WO-00036,Ho-EQ-00036-0,scale,Houston,Serrano Inc,no,Jeffrey Pham
+Ho-WO-00036,Ho-EQ-00036-1,thermometer,Houston,Serrano Inc,no,Katelyn Hodges
+Ho-WO-00037,Ho-EQ-00037-0,torque,Houston,"Cole, Velasquez and Johnson",yes,Katelyn Hodges
+Ho-WO-00037,Ho-EQ-00037-1,thermometer,Houston,"Cole, Velasquez and Johnson",yes,Katrina Bartlett
+Ho-WO-00038,Ho-EQ-00038-0,torque,Houston,Wells Inc,yes,Jeffrey Pham
+Ho-WO-00038,Ho-EQ-00038-1,flow_meter,Houston,Wells Inc,yes,Jeffrey Pham
+Ho-WO-00039,Ho-EQ-00039-0,caliper,Houston,"Humphrey, Mullins and Moore",yes,Katrina Bartlett
+Ho-WO-00039,Ho-EQ-00039-1,scale,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham
+Ho-WO-00039,Ho-EQ-00039-2,flow_meter,Houston,"Humphrey, Mullins and Moore",no,Katelyn Hodges
+Ho-WO-00040,Ho-EQ-00040-0,caliper,Houston,Ellis Group,no,Katelyn Hodges
+Ho-WO-00041,Ho-EQ-00041-0,torque,Houston,Parker-Reeves,no,Katelyn Hodges
+Ho-WO-00042,Ho-EQ-00042-0,caliper,Houston,Walker-Morales,no,Katrina Bartlett
+Ho-WO-00043,Ho-EQ-00043-0,flow_meter,Houston,Grant and Sons,no,Katrina Bartlett
+Ho-WO-00043,Ho-EQ-00043-1,torque,Houston,Grant and Sons,no,Jeffrey Pham
+Ho-WO-00044,Ho-EQ-00044-0,flow_meter,Houston,"Hawkins, Campos and Booth",no,Jeffrey Pham
+Ho-WO-00045,Ho-EQ-00045-0,caliper,Houston,Davis and Sons,yes,Jeffrey Pham
+Ho-WO-00045,Ho-EQ-00045-1,thermometer,Houston,Davis and Sons,yes,Jeffrey Pham
+Ho-WO-00045,Ho-EQ-00045-2,torque,Houston,Davis and Sons,no,Katelyn Hodges
+Ho-WO-00046,Ho-EQ-00046-0,torque,Houston,Gonzalez Ltd,yes,Katelyn Hodges
+Ho-WO-00046,Ho-EQ-00046-1,flow_meter,Houston,Gonzalez Ltd,yes,Jeffrey Pham
+Ho-WO-00046,Ho-EQ-00046-2,thermometer,Houston,Gonzalez Ltd,no,Katelyn Hodges
+Ho-WO-00047,Ho-EQ-00047-0,flow_meter,Houston,Banks-Hughes,no,Katelyn Hodges
+Ho-WO-00047,Ho-EQ-00047-1,thermometer,Houston,Banks-Hughes,yes,Katelyn Hodges
+Ho-WO-00047,Ho-EQ-00047-2,scale,Houston,Banks-Hughes,no,Jeffrey Pham
+Ho-WO-00048,Ho-EQ-00048-0,flow_meter,Houston,"Castro, Austin and Sparks",yes,Katrina Bartlett
+Ho-WO-00049,Ho-EQ-00049-0,pressure_gauge,Houston,Riddle-Faulkner,no,Jeffrey Pham
+Ho-WO-00049,Ho-EQ-00049-1,torque,Houston,Riddle-Faulkner,no,Jeffrey Pham
+Ho-WO-00049,Ho-EQ-00049-2,torque,Houston,Riddle-Faulkner,yes,Katelyn Hodges
+Ho-WO-00050,Ho-EQ-00050-0,thermometer,Houston,Fletcher-Boone,no,Katelyn Hodges
+Ho-WO-00050,Ho-EQ-00050-1,torque,Houston,Fletcher-Boone,yes,Katelyn Hodges
+Ho-WO-00051,Ho-EQ-00051-0,torque,Houston,Carter Group,no,Katelyn Hodges
+Ho-WO-00051,Ho-EQ-00051-1,scale,Houston,Carter Group,no,Katrina Bartlett
+Ho-WO-00052,Ho-EQ-00052-0,caliper,Houston,Banks-Hughes,no,Katelyn Hodges
+Ho-WO-00052,Ho-EQ-00052-1,caliper,Houston,Banks-Hughes,yes,Katelyn Hodges
+Ho-WO-00052,Ho-EQ-00052-2,caliper,Houston,Banks-Hughes,no,Katrina Bartlett
+Ho-WO-00053,Ho-EQ-00053-0,torque,Houston,"Cole, Velasquez and Johnson",yes,Jeffrey Pham
+Ho-WO-00054,Ho-EQ-00054-0,torque,Houston,Ball LLC,no,Katrina Bartlett
+Ho-WO-00054,Ho-EQ-00054-1,thermometer,Houston,Ball LLC,no,Katrina Bartlett
+Ho-WO-00054,Ho-EQ-00054-2,caliper,Houston,Ball LLC,yes,Jeffrey Pham
+Ho-WO-00055,Ho-EQ-00055-0,scale,Houston,Mcdowell-Brooks,no,Katelyn Hodges
+Ho-WO-00055,Ho-EQ-00055-1,caliper,Houston,Mcdowell-Brooks,yes,Katelyn Hodges
+Ho-WO-00055,Ho-EQ-00055-2,thermometer,Houston,Mcdowell-Brooks,no,Katrina Bartlett
+Ho-WO-00056,Ho-EQ-00056-0,flow_meter,Houston,"Rose, Rivera and Cox",yes,Katelyn Hodges
+Ho-WO-00056,Ho-EQ-00056-1,caliper,Houston,"Rose, Rivera and Cox",no,Katrina Bartlett
+Ho-WO-00057,Ho-EQ-00057-0,scale,Houston,Kelley-Ramirez,yes,Katelyn Hodges
+Ho-WO-00058,Ho-EQ-00058-0,torque,Houston,Rodriguez Group,yes,Katelyn Hodges
+Ho-WO-00059,Ho-EQ-00059-0,pressure_gauge,Houston,Santiago and Sons,yes,Katrina Bartlett
+Ho-WO-00059,Ho-EQ-00059-1,pressure_gauge,Houston,Santiago and Sons,yes,Katrina Bartlett
+Ho-WO-00059,Ho-EQ-00059-2,torque,Houston,Santiago and Sons,yes,Katrina Bartlett
+Ho-WO-00060,Ho-EQ-00060-0,scale,Houston,Mccann-Hoffman,yes,Jeffrey Pham
+Ho-WO-00061,Ho-EQ-00061-0,flow_meter,Houston,Carter Group,yes,Jeffrey Pham
+Ho-WO-00061,Ho-EQ-00061-1,pressure_gauge,Houston,Carter Group,no,Katrina Bartlett
+Ho-WO-00062,Ho-EQ-00062-0,pressure_gauge,Houston,"Armstrong, Fletcher and Wilson",no,Jeffrey Pham
+Ho-WO-00062,Ho-EQ-00062-1,scale,Houston,"Armstrong, Fletcher and Wilson",yes,Katrina Bartlett
+Ho-WO-00063,Ho-EQ-00063-0,flow_meter,Houston,Parker and Sons,yes,Jeffrey Pham
+Ho-WO-00063,Ho-EQ-00063-1,thermometer,Houston,Parker and Sons,no,Jeffrey Pham
+Ho-WO-00064,Ho-EQ-00064-0,thermometer,Houston,"Mitchell, Stephens and Ford",no,Katrina Bartlett
+Ho-WO-00065,Ho-EQ-00065-0,pressure_gauge,Houston,Freeman-Rice,yes,Katelyn Hodges
+Ho-WO-00065,Ho-EQ-00065-1,thermometer,Houston,Freeman-Rice,yes,Jeffrey Pham
+Ho-WO-00066,Ho-EQ-00066-0,torque,Houston,Wells Inc,yes,Katelyn Hodges
+Ho-WO-00066,Ho-EQ-00066-1,torque,Houston,Wells Inc,no,Jeffrey Pham
+Ho-WO-00067,Ho-EQ-00067-0,scale,Houston,Banks-Hughes,no,Katelyn Hodges
+Ho-WO-00067,Ho-EQ-00067-1,pressure_gauge,Houston,Banks-Hughes,yes,Katelyn Hodges
+Ho-WO-00067,Ho-EQ-00067-2,thermometer,Houston,Banks-Hughes,no,Katrina Bartlett
+Ho-WO-00068,Ho-EQ-00068-0,pressure_gauge,Houston,Romero Group,no,Katrina Bartlett
+Ho-WO-00068,Ho-EQ-00068-1,caliper,Houston,Romero Group,no,Katelyn Hodges
+Ho-WO-00069,Ho-EQ-00069-0,pressure_gauge,Houston,Parker and Sons,no,Jeffrey Pham
+Ho-WO-00069,Ho-EQ-00069-1,flow_meter,Houston,Parker and Sons,yes,Jeffrey Pham
+Ho-WO-00069,Ho-EQ-00069-2,caliper,Houston,Parker and Sons,no,Katelyn Hodges
+Ho-WO-00070,Ho-EQ-00070-0,torque,Houston,Parker-Reeves,yes,Katelyn Hodges
+Ho-WO-00070,Ho-EQ-00070-1,scale,Houston,Parker-Reeves,yes,Jeffrey Pham
+Ho-WO-00070,Ho-EQ-00070-2,torque,Houston,Parker-Reeves,no,Katrina Bartlett
+Ho-WO-00071,Ho-EQ-00071-0,flow_meter,Houston,Carter Group,yes,Katelyn Hodges
+Ho-WO-00071,Ho-EQ-00071-1,caliper,Houston,Carter Group,yes,Katelyn Hodges
+Ho-WO-00072,Ho-EQ-00072-0,flow_meter,Houston,"Mitchell, Stephens and Ford",yes,Jeffrey Pham
+Ho-WO-00072,Ho-EQ-00072-1,torque,Houston,"Mitchell, Stephens and Ford",yes,Katelyn Hodges
+Ho-WO-00073,Ho-EQ-00073-0,torque,Houston,"Moore, Prince and Blankenship",no,Katrina Bartlett
+Ho-WO-00074,Ho-EQ-00074-0,caliper,Houston,Lopez and Sons,no,Katelyn Hodges
+Ho-WO-00074,Ho-EQ-00074-1,flow_meter,Houston,Lopez and Sons,no,Jeffrey Pham
+Ho-WO-00075,Ho-EQ-00075-0,flow_meter,Houston,Holland-Walsh,no,Katelyn Hodges
+Ho-WO-00076,Ho-EQ-00076-0,thermometer,Houston,Mccann-Hoffman,no,Jeffrey Pham
+Ho-WO-00076,Ho-EQ-00076-1,scale,Houston,Mccann-Hoffman,no,Jeffrey Pham
+Ho-WO-00076,Ho-EQ-00076-2,flow_meter,Houston,Mccann-Hoffman,no,Jeffrey Pham
+Ho-WO-00077,Ho-EQ-00077-0,torque,Houston,Garner-Rose,yes,Jeffrey Pham
+Ho-WO-00077,Ho-EQ-00077-1,pressure_gauge,Houston,Garner-Rose,yes,Katelyn Hodges
+Ho-WO-00077,Ho-EQ-00077-2,pressure_gauge,Houston,Garner-Rose,no,Katelyn Hodges
+Ho-WO-00078,Ho-EQ-00078-0,pressure_gauge,Houston,Miller-Mcguire,no,Jeffrey Pham
+Ho-WO-00079,Ho-EQ-00079-0,scale,Houston,"White, Grant and Flores",yes,Katrina Bartlett
+Ho-WO-00079,Ho-EQ-00079-1,torque,Houston,"White, Grant and Flores",yes,Katelyn Hodges
+Ho-WO-00079,Ho-EQ-00079-2,torque,Houston,"White, Grant and Flores",yes,Katrina Bartlett
+Ho-WO-00080,Ho-EQ-00080-0,thermometer,Houston,Gonzalez Ltd,yes,Jeffrey Pham
+Ho-WO-00081,Ho-EQ-00081-0,flow_meter,Houston,Barnett-Mueller,no,Katrina Bartlett
+Ho-WO-00081,Ho-EQ-00081-1,thermometer,Houston,Barnett-Mueller,no,Katelyn Hodges
+Ho-WO-00082,Ho-EQ-00082-0,pressure_gauge,Houston,"Bell, Haney and Roberson",no,Jeffrey Pham
+Ho-WO-00082,Ho-EQ-00082-1,torque,Houston,"Bell, Haney and Roberson",yes,Katelyn Hodges
+Ho-WO-00082,Ho-EQ-00082-2,flow_meter,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham
+Ho-WO-00083,Ho-EQ-00083-0,caliper,Houston,Kelley-Ramirez,no,Katelyn Hodges
+Ho-WO-00084,Ho-EQ-00084-0,scale,Houston,Mann PLC,yes,Katelyn Hodges
+Ho-WO-00084,Ho-EQ-00084-1,torque,Houston,Mann PLC,no,Jeffrey Pham
+Ho-WO-00085,Ho-EQ-00085-0,pressure_gauge,Houston,Cole-Cervantes,yes,Jeffrey Pham
+Ho-WO-00085,Ho-EQ-00085-1,caliper,Houston,Cole-Cervantes,no,Katrina Bartlett
+Ho-WO-00086,Ho-EQ-00086-0,scale,Houston,"Hawkins, Campos and Booth",yes,Katelyn Hodges
+Ho-WO-00086,Ho-EQ-00086-1,pressure_gauge,Houston,"Hawkins, Campos and Booth",yes,Katrina Bartlett
+Ho-WO-00087,Ho-EQ-00087-0,scale,Houston,Freeman-Rice,yes,Jeffrey Pham
+Ho-WO-00087,Ho-EQ-00087-1,caliper,Houston,Freeman-Rice,yes,Jeffrey Pham
+Ho-WO-00088,Ho-EQ-00088-0,pressure_gauge,Houston,Reed-Moody,no,Katrina Bartlett
+Ho-WO-00088,Ho-EQ-00088-1,caliper,Houston,Reed-Moody,no,Katelyn Hodges
+Ho-WO-00089,Ho-EQ-00089-0,flow_meter,Houston,"Armstrong, Fletcher and Wilson",no,Katelyn Hodges
+Ho-WO-00089,Ho-EQ-00089-1,torque,Houston,"Armstrong, Fletcher and Wilson",yes,Katelyn Hodges
+Ho-WO-00089,Ho-EQ-00089-2,thermometer,Houston,"Armstrong, Fletcher and Wilson",yes,Katelyn Hodges
+Ho-WO-00090,Ho-EQ-00090-0,thermometer,Houston,Kelley-Young,no,Jeffrey Pham
+Ho-WO-00090,Ho-EQ-00090-1,flow_meter,Houston,Kelley-Young,no,Katelyn Hodges
+Ho-WO-00091,Ho-EQ-00091-0,thermometer,Houston,Chang-Love,no,Katelyn Hodges
+Ho-WO-00091,Ho-EQ-00091-1,pressure_gauge,Houston,Chang-Love,no,Katrina Bartlett
+Ho-WO-00092,Ho-EQ-00092-0,thermometer,Houston,Serrano Inc,yes,Jeffrey Pham
+Ho-WO-00093,Ho-EQ-00093-0,pressure_gauge,Houston,Walker-Morales,no,Katelyn Hodges
+Ho-WO-00094,Ho-EQ-00094-0,flow_meter,Houston,"Jensen, Evans and Fowler",no,Katrina Bartlett
+Ho-WO-00094,Ho-EQ-00094-1,caliper,Houston,"Jensen, Evans and Fowler",yes,Jeffrey Pham
+Ho-WO-00094,Ho-EQ-00094-2,pressure_gauge,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges
+Ho-WO-00095,Ho-EQ-00095-0,caliper,Houston,"Combs, Gibson and Mitchell",no,Katelyn Hodges
+Ho-WO-00095,Ho-EQ-00095-1,thermometer,Houston,"Combs, Gibson and Mitchell",no,Jeffrey Pham
+Ho-WO-00095,Ho-EQ-00095-2,scale,Houston,"Combs, Gibson and Mitchell",yes,Katelyn Hodges
+Ho-WO-00096,Ho-EQ-00096-0,flow_meter,Houston,Hicks PLC,yes,Katrina Bartlett
+Ho-WO-00097,Ho-EQ-00097-0,scale,Houston,Mueller LLC,yes,Katelyn Hodges
+Ho-WO-00097,Ho-EQ-00097-1,flow_meter,Houston,Mueller LLC,yes,Katelyn Hodges
+Ho-WO-00098,Ho-EQ-00098-0,torque,Houston,Spencer-Williams,no,Katelyn Hodges
+Ho-WO-00099,Ho-EQ-00099-0,scale,Houston,Barnett-Mueller,yes,Katrina Bartlett
+Ho-WO-00099,Ho-EQ-00099-1,thermometer,Houston,Barnett-Mueller,no,Jeffrey Pham
+Ho-WO-00099,Ho-EQ-00099-2,flow_meter,Houston,Barnett-Mueller,no,Katrina Bartlett
+Ho-WO-00100,Ho-EQ-00100-0,caliper,Houston,"Cole, Velasquez and Johnson",no,Katelyn Hodges
+Ho-WO-00100,Ho-EQ-00100-1,flow_meter,Houston,"Cole, Velasquez and Johnson",no,Katrina Bartlett
+Ho-WO-00101,Ho-EQ-00101-0,caliper,Houston,Ross Inc,yes,Katelyn Hodges
+Ho-WO-00101,Ho-EQ-00101-1,pressure_gauge,Houston,Ross Inc,yes,Jeffrey Pham
+Ho-WO-00102,Ho-EQ-00102-0,scale,Houston,Freeman-Rice,no,Jeffrey Pham
+Ho-WO-00102,Ho-EQ-00102-1,pressure_gauge,Houston,Freeman-Rice,no,Katrina Bartlett
+Ho-WO-00102,Ho-EQ-00102-2,flow_meter,Houston,Freeman-Rice,yes,Katrina Bartlett
+Ho-WO-00103,Ho-EQ-00103-0,flow_meter,Houston,Ibarra-Gonzales,yes,Katrina Bartlett
+Ho-WO-00104,Ho-EQ-00104-0,scale,Houston,Freeman-Rice,yes,Katrina Bartlett
+Ho-WO-00104,Ho-EQ-00104-1,scale,Houston,Freeman-Rice,yes,Jeffrey Pham
+Ho-WO-00104,Ho-EQ-00104-2,caliper,Houston,Freeman-Rice,no,Katrina Bartlett
+Ho-WO-00105,Ho-EQ-00105-0,thermometer,Houston,Martin-Hale,yes,Jeffrey Pham
+Ho-WO-00105,Ho-EQ-00105-1,torque,Houston,Martin-Hale,no,Katelyn Hodges
+Ho-WO-00105,Ho-EQ-00105-2,flow_meter,Houston,Martin-Hale,no,Jeffrey Pham
+Ho-WO-00106,Ho-EQ-00106-0,caliper,Houston,Ross Inc,yes,Katrina Bartlett
+Ho-WO-00106,Ho-EQ-00106-1,torque,Houston,Ross Inc,yes,Katrina Bartlett
+Ho-WO-00106,Ho-EQ-00106-2,flow_meter,Houston,Ross Inc,no,Katrina Bartlett
+Ho-WO-00107,Ho-EQ-00107-0,pressure_gauge,Houston,Serrano Inc,no,Jeffrey Pham
+Ho-WO-00108,Ho-EQ-00108-0,thermometer,Houston,Chang-Love,no,Katrina Bartlett
+Ho-WO-00108,Ho-EQ-00108-1,pressure_gauge,Houston,Chang-Love,no,Jeffrey Pham
+Ho-WO-00109,Ho-EQ-00109-0,thermometer,Houston,Morales-Banks,yes,Jeffrey Pham
+Ho-WO-00109,Ho-EQ-00109-1,scale,Houston,Morales-Banks,no,Jeffrey Pham
+Ho-WO-00110,Ho-EQ-00110-0,scale,Houston,"Humphrey, Mullins and Moore",yes,Katrina Bartlett
+Ho-WO-00110,Ho-EQ-00110-1,caliper,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham
+Ho-WO-00110,Ho-EQ-00110-2,flow_meter,Houston,"Humphrey, Mullins and Moore",no,Katrina Bartlett
+Ho-WO-00111,Ho-EQ-00111-0,caliper,Houston,Parker and Sons,yes,Katelyn Hodges
+Ho-WO-00111,Ho-EQ-00111-1,torque,Houston,Parker and Sons,yes,Katrina Bartlett
+Ho-WO-00111,Ho-EQ-00111-2,torque,Houston,Parker and Sons,yes,Jeffrey Pham
+Ho-WO-00112,Ho-EQ-00112-0,caliper,Houston,Barrett-Figueroa,yes,Jeffrey Pham
+Ho-WO-00113,Ho-EQ-00113-0,torque,Houston,Mcdowell-Brooks,yes,Jeffrey Pham
+Ho-WO-00113,Ho-EQ-00113-1,torque,Houston,Mcdowell-Brooks,yes,Jeffrey Pham
+Ho-WO-00114,Ho-EQ-00114-0,flow_meter,Houston,Gonzalez LLC,no,Jeffrey Pham
+Ho-WO-00114,Ho-EQ-00114-1,thermometer,Houston,Gonzalez LLC,no,Katelyn Hodges
+Ho-WO-00115,Ho-EQ-00115-0,scale,Houston,Rodriguez-Summers,no,Jeffrey Pham
+Ho-WO-00115,Ho-EQ-00115-1,thermometer,Houston,Rodriguez-Summers,no,Katelyn Hodges
+Ho-WO-00116,Ho-EQ-00116-0,pressure_gauge,Houston,Rodriguez Inc,yes,Katrina Bartlett
+Ho-WO-00117,Ho-EQ-00117-0,pressure_gauge,Houston,Cole-Cervantes,yes,Jeffrey Pham
+Ho-WO-00117,Ho-EQ-00117-1,torque,Houston,Cole-Cervantes,no,Katelyn Hodges
+Ho-WO-00117,Ho-EQ-00117-2,flow_meter,Houston,Cole-Cervantes,no,Jeffrey Pham
+Ho-WO-00118,Ho-EQ-00118-0,caliper,Houston,Jensen-Bell,yes,Katelyn Hodges
+Ho-WO-00119,Ho-EQ-00119-0,torque,Houston,Hamilton Group,yes,Katrina Bartlett
+Ho-WO-00119,Ho-EQ-00119-1,scale,Houston,Hamilton Group,no,Katrina Bartlett
+Ho-WO-00120,Ho-EQ-00120-0,torque,Houston,"Thompson, Anderson and Hopkins",no,Katelyn Hodges
+Ho-WO-00121,Ho-EQ-00121-0,thermometer,Houston,"Dillon, Morton and Wood",no,Jeffrey Pham
+Ho-WO-00122,Ho-EQ-00122-0,caliper,Houston,Kelley-Ramirez,no,Jeffrey Pham
+Ho-WO-00122,Ho-EQ-00122-1,thermometer,Houston,Kelley-Ramirez,no,Katrina Bartlett
+Ho-WO-00123,Ho-EQ-00123-0,scale,Houston,"Humphrey, Mullins and Moore",yes,Jeffrey Pham
+Ho-WO-00123,Ho-EQ-00123-1,pressure_gauge,Houston,"Humphrey, Mullins and Moore",yes,Katelyn Hodges
+Ho-WO-00124,Ho-EQ-00124-0,torque,Houston,Neal-Kelley,no,Jeffrey Pham
+Ho-WO-00125,Ho-EQ-00125-0,flow_meter,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham
+Ho-WO-00125,Ho-EQ-00125-1,thermometer,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham
+Ho-WO-00125,Ho-EQ-00125-2,thermometer,Houston,"Bell, Haney and Roberson",yes,Jeffrey Pham
+Ho-WO-00126,Ho-EQ-00126-0,torque,Houston,"Dillon, Morton and Wood",no,Katrina Bartlett
+Ho-WO-00126,Ho-EQ-00126-1,scale,Houston,"Dillon, Morton and Wood",no,Jeffrey Pham
+Ho-WO-00127,Ho-EQ-00127-0,torque,Houston,Hammond-Guerrero,no,Jeffrey Pham
+Ho-WO-00127,Ho-EQ-00127-1,scale,Houston,Hammond-Guerrero,no,Katelyn Hodges
+Ho-WO-00128,Ho-EQ-00128-0,flow_meter,Houston,Morris-West,yes,Katelyn Hodges
+Ho-WO-00128,Ho-EQ-00128-1,scale,Houston,Morris-West,no,Jeffrey Pham
+Ho-WO-00128,Ho-EQ-00128-2,thermometer,Houston,Morris-West,no,Katelyn Hodges
+Ho-WO-00129,Ho-EQ-00129-0,thermometer,Houston,"Erickson, Hughes and Craig",yes,Jeffrey Pham
+Ho-WO-00130,Ho-EQ-00130-0,caliper,Houston,Orr LLC,yes,Katelyn Hodges
+Ho-WO-00130,Ho-EQ-00130-1,scale,Houston,Orr LLC,no,Katelyn Hodges
+Ho-WO-00131,Ho-EQ-00131-0,flow_meter,Houston,Hardin-Mcdonald,yes,Katrina Bartlett
+Ho-WO-00131,Ho-EQ-00131-1,torque,Houston,Hardin-Mcdonald,no,Katelyn Hodges
+Ho-WO-00132,Ho-EQ-00132-0,scale,Houston,Walker-Morales,yes,Jeffrey Pham
+Ho-WO-00133,Ho-EQ-00133-0,flow_meter,Houston,Jensen-Bell,no,Katrina Bartlett
+Ho-WO-00134,Ho-EQ-00134-0,torque,Houston,"Delgado, Krause and Lopez",no,Jeffrey Pham
+Ho-WO-00134,Ho-EQ-00134-1,caliper,Houston,"Delgado, Krause and Lopez",yes,Katrina Bartlett
+Ho-WO-00134,Ho-EQ-00134-2,scale,Houston,"Delgado, Krause and Lopez",yes,Katrina Bartlett
+Ho-WO-00135,Ho-EQ-00135-0,flow_meter,Houston,Doyle-Barnes,no,Jeffrey Pham
+Ho-WO-00135,Ho-EQ-00135-1,caliper,Houston,Doyle-Barnes,no,Jeffrey Pham
+Ho-WO-00136,Ho-EQ-00136-0,torque,Houston,Ruiz-Davis,no,Jeffrey Pham
+Ho-WO-00137,Ho-EQ-00137-0,pressure_gauge,Houston,"Delgado, Krause and Lopez",yes,Katrina Bartlett
+Ho-WO-00138,Ho-EQ-00138-0,caliper,Houston,Neal-Kelley,yes,Jeffrey Pham
+Ho-WO-00138,Ho-EQ-00138-1,pressure_gauge,Houston,Neal-Kelley,yes,Katelyn Hodges
+Ho-WO-00139,Ho-EQ-00139-0,flow_meter,Houston,Davis and Sons,no,Jeffrey Pham
+Ho-WO-00140,Ho-EQ-00140-0,caliper,Houston,Grant and Sons,no,Jeffrey Pham
+Ho-WO-00141,Ho-EQ-00141-0,pressure_gauge,Houston,Ruiz-Davis,yes,Katelyn Hodges
+Ho-WO-00142,Ho-EQ-00142-0,flow_meter,Houston,Morales-Banks,no,Katelyn Hodges
+Ho-WO-00143,Ho-EQ-00143-0,torque,Houston,Parker-Reeves,no,Jeffrey Pham
+Ho-WO-00144,Ho-EQ-00144-0,caliper,Houston,Morales-Banks,no,Katelyn Hodges
+Ho-WO-00144,Ho-EQ-00144-1,scale,Houston,Morales-Banks,yes,Jeffrey Pham
+Ho-WO-00144,Ho-EQ-00144-2,pressure_gauge,Houston,Morales-Banks,no,Katelyn Hodges
+Ho-WO-00145,Ho-EQ-00145-0,caliper,Houston,Mills Inc,no,Katelyn Hodges
+Ho-WO-00145,Ho-EQ-00145-1,caliper,Houston,Mills Inc,no,Katrina Bartlett
+Ho-WO-00146,Ho-EQ-00146-0,thermometer,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges
+Ho-WO-00146,Ho-EQ-00146-1,scale,Houston,"Jensen, Evans and Fowler",no,Katelyn Hodges
+Ho-WO-00146,Ho-EQ-00146-2,caliper,Houston,"Jensen, Evans and Fowler",no,Jeffrey Pham
+Ho-WO-00147,Ho-EQ-00147-0,pressure_gauge,Houston,"Jensen, Evans and Fowler",no,Jeffrey Pham
+Ho-WO-00147,Ho-EQ-00147-1,pressure_gauge,Houston,"Jensen, Evans and Fowler",no,Katrina Bartlett
+Ho-WO-00148,Ho-EQ-00148-0,thermometer,Houston,Barrett-Figueroa,yes,Jeffrey Pham
+Ho-WO-00148,Ho-EQ-00148-1,caliper,Houston,Barrett-Figueroa,no,Jeffrey Pham
+Ho-WO-00148,Ho-EQ-00148-2,flow_meter,Houston,Barrett-Figueroa,no,Katelyn Hodges
+Ho-WO-00149,Ho-EQ-00149-0,thermometer,Houston,Woods Inc,yes,Jeffrey Pham
+Ho-WO-00149,Ho-EQ-00149-1,caliper,Houston,Woods Inc,no,Jeffrey Pham
+Ho-WO-00149,Ho-EQ-00149-2,caliper,Houston,Woods Inc,no,Jeffrey Pham
+Ho-WO-00150,Ho-EQ-00150-0,scale,Houston,Moreno-Friedman,yes,Jeffrey Pham
+Ho-WO-00150,Ho-EQ-00150-1,torque,Houston,Moreno-Friedman,no,Jeffrey Pham
+Ho-WO-00150,Ho-EQ-00150-2,thermometer,Houston,Moreno-Friedman,no,Jeffrey Pham
+Ho-WO-00151,Ho-EQ-00151-0,caliper,Houston,"Copeland, Torres and Morales",yes,Jeffrey Pham
+Ho-WO-00152,Ho-EQ-00152-0,caliper,Houston,Mccann-Hoffman,yes,Katrina Bartlett
+Ho-WO-00152,Ho-EQ-00152-1,pressure_gauge,Houston,Mccann-Hoffman,yes,Katrina Bartlett
+Ho-WO-00153,Ho-EQ-00153-0,thermometer,Houston,Reed-Moody,yes,Katrina Bartlett
+Ho-WO-00153,Ho-EQ-00153-1,pressure_gauge,Houston,Reed-Moody,no,Katrina Bartlett
+Ho-WO-00154,Ho-EQ-00154-0,scale,Houston,Morales-Banks,yes,Jeffrey Pham
+Ho-WO-00154,Ho-EQ-00154-1,scale,Houston,Morales-Banks,no,Katrina Bartlett
+Ho-WO-00155,Ho-EQ-00155-0,flow_meter,Houston,"White, Grant and Flores",no,Katelyn Hodges
+Ho-WO-00155,Ho-EQ-00155-1,scale,Houston,"White, Grant and Flores",yes,Jeffrey Pham
+Ho-WO-00155,Ho-EQ-00155-2,scale,Houston,"White, Grant and Flores",no,Katrina Bartlett
+Ho-WO-00156,Ho-EQ-00156-0,pressure_gauge,Houston,Smith-Copeland,yes,Jeffrey Pham
+Ho-WO-00157,Ho-EQ-00157-0,pressure_gauge,Houston,Reed-Moody,no,Katrina Bartlett
+Ho-WO-00157,Ho-EQ-00157-1,flow_meter,Houston,Reed-Moody,yes,Jeffrey Pham
+Ho-WO-00157,Ho-EQ-00157-2,torque,Houston,Reed-Moody,yes,Jeffrey Pham
+Ho-WO-00158,Ho-EQ-00158-0,scale,Houston,"Moore, Prince and Blankenship",no,Jeffrey Pham
+Ho-WO-00159,Ho-EQ-00159-0,torque,Houston,Hardin-Mcdonald,no,Jeffrey Pham
+Ho-WO-00159,Ho-EQ-00159-1,flow_meter,Houston,Hardin-Mcdonald,yes,Jeffrey Pham
+Ho-WO-00160,Ho-EQ-00160-0,pressure_gauge,Houston,Kelley-Ramirez,no,Katelyn Hodges
+Ho-WO-00160,Ho-EQ-00160-1,torque,Houston,Kelley-Ramirez,yes,Jeffrey Pham
+Ho-WO-00161,Ho-EQ-00161-0,scale,Houston,Rodriguez Group,yes,Katrina Bartlett
+Ho-WO-00162,Ho-EQ-00162-0,thermometer,Houston,Carter Group,no,Katrina Bartlett
+Ho-WO-00162,Ho-EQ-00162-1,torque,Houston,Carter Group,no,Jeffrey Pham
+Ho-WO-00163,Ho-EQ-00163-0,caliper,Houston,Banks-Hughes,no,Katrina Bartlett
+Ho-WO-00163,Ho-EQ-00163-1,flow_meter,Houston,Banks-Hughes,yes,Jeffrey Pham
+Ho-WO-00164,Ho-EQ-00164-0,pressure_gauge,Houston,Spencer-Williams,yes,Katelyn Hodges
+Ho-WO-00164,Ho-EQ-00164-1,thermometer,Houston,Spencer-Williams,yes,Jeffrey Pham
+Ho-WO-00164,Ho-EQ-00164-2,scale,Houston,Spencer-Williams,no,Jeffrey Pham
+Ho-WO-00165,Ho-EQ-00165-0,thermometer,Houston,"Hawkins, Campos and Booth",yes,Jeffrey Pham
+Ho-WO-00165,Ho-EQ-00165-1,torque,Houston,"Hawkins, Campos and Booth",yes,Katrina Bartlett
+Ho-WO-00166,Ho-EQ-00166-0,pressure_gauge,Houston,Rodriguez Inc,yes,Katrina Bartlett
+Ho-WO-00166,Ho-EQ-00166-1,thermometer,Houston,Rodriguez Inc,no,Katelyn Hodges
+Ho-WO-00167,Ho-EQ-00167-0,caliper,Houston,"Dillon, Morton and Wood",no,Jeffrey Pham
+Ho-WO-00168,Ho-EQ-00168-0,scale,Houston,Romero Group,no,Katelyn Hodges
+Ho-WO-00168,Ho-EQ-00168-1,pressure_gauge,Houston,Romero Group,no,Katrina Bartlett
+Ho-WO-00168,Ho-EQ-00168-2,scale,Houston,Romero Group,yes,Jeffrey Pham
+Ho-WO-00169,Ho-EQ-00169-0,scale,Houston,"Mcgrath, Barton and Carter",yes,Katrina Bartlett
+Ho-WO-00169,Ho-EQ-00169-1,scale,Houston,"Mcgrath, Barton and Carter",yes,Katrina Bartlett
+Ho-WO-00169,Ho-EQ-00169-2,flow_meter,Houston,"Mcgrath, Barton and Carter",yes,Jeffrey Pham
+Ho-WO-00170,Ho-EQ-00170-0,scale,Houston,James-Nichols,no,Jeffrey Pham
+Ho-WO-00170,Ho-EQ-00170-1,flow_meter,Houston,James-Nichols,yes,Katrina Bartlett
+Ho-WO-00171,Ho-EQ-00171-0,thermometer,Houston,"Ramirez, Marsh and Alvarez",no,Katelyn Hodges
+Ho-WO-00171,Ho-EQ-00171-1,caliper,Houston,"Ramirez, Marsh and Alvarez",no,Katelyn Hodges
+Ho-WO-00171,Ho-EQ-00171-2,flow_meter,Houston,"Ramirez, Marsh and Alvarez",yes,Katrina Bartlett
+Ho-WO-00172,Ho-EQ-00172-0,torque,Houston,Rodriguez-Summers,yes,Katrina Bartlett
+Ho-WO-00172,Ho-EQ-00172-1,caliper,Houston,Rodriguez-Summers,no,Katrina Bartlett
+Ho-WO-00172,Ho-EQ-00172-2,scale,Houston,Rodriguez-Summers,no,Katrina Bartlett
+Ho-WO-00173,Ho-EQ-00173-0,caliper,Houston,Brown and Sons,no,Katelyn Hodges
+Ho-WO-00173,Ho-EQ-00173-1,thermometer,Houston,Brown and Sons,no,Jeffrey Pham
+Ho-WO-00173,Ho-EQ-00173-2,thermometer,Houston,Brown and Sons,no,Jeffrey Pham
+Ho-WO-00174,Ho-EQ-00174-0,thermometer,Houston,"Alexander, Green and Mcbride",yes,Jeffrey Pham
+Ho-WO-00174,Ho-EQ-00174-1,caliper,Houston,"Alexander, Green and Mcbride",no,Katrina Bartlett
+Ho-WO-00175,Ho-EQ-00175-0,torque,Houston,Grant and Sons,yes,Katrina Bartlett
+Ho-WO-00175,Ho-EQ-00175-1,scale,Houston,Grant and Sons,yes,Jeffrey Pham
+Ho-WO-00175,Ho-EQ-00175-2,torque,Houston,Grant and Sons,no,Jeffrey Pham
+Ho-WO-00176,Ho-EQ-00176-0,torque,Houston,"Wade, Cruz and White",yes,Katelyn Hodges
+Ho-WO-00177,Ho-EQ-00177-0,thermometer,Houston,Smith-Fernandez,no,Katrina Bartlett
+Ho-WO-00177,Ho-EQ-00177-1,caliper,Houston,Smith-Fernandez,yes,Katrina Bartlett
+Ho-WO-00178,Ho-EQ-00178-0,caliper,Houston,Barrett-Figueroa,no,Jeffrey Pham
+Ho-WO-00179,Ho-EQ-00179-0,torque,Houston,Ibarra-Gonzales,yes,Katrina Bartlett
+Ho-WO-00179,Ho-EQ-00179-1,flow_meter,Houston,Ibarra-Gonzales,no,Katelyn Hodges
+Ho-WO-00180,Ho-EQ-00180-0,thermometer,Houston,"Castro, Austin and Sparks",no,Katrina Bartlett
+Ho-WO-00180,Ho-EQ-00180-1,torque,Houston,"Castro, Austin and Sparks",yes,Katelyn Hodges
+Ho-WO-00181,Ho-EQ-00181-0,flow_meter,Houston,Gonzalez LLC,yes,Katrina Bartlett
+Ho-WO-00182,Ho-EQ-00182-0,pressure_gauge,Houston,Woods Inc,no,Katrina Bartlett
+Ho-WO-00182,Ho-EQ-00182-1,caliper,Houston,Woods Inc,no,Katrina Bartlett
+Ho-WO-00182,Ho-EQ-00182-2,flow_meter,Houston,Woods Inc,yes,Katrina Bartlett
+Ho-WO-00183,Ho-EQ-00183-0,scale,Houston,Hamilton Group,yes,Katrina Bartlett
+Ho-WO-00184,Ho-EQ-00184-0,scale,Houston,"Thompson, Anderson and Hopkins",yes,Katelyn Hodges
+Ho-WO-00184,Ho-EQ-00184-1,pressure_gauge,Houston,"Thompson, Anderson and Hopkins",yes,Katrina Bartlett
+Ho-WO-00185,Ho-EQ-00185-0,torque,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham
+Ho-WO-00185,Ho-EQ-00185-1,caliper,Houston,"Delgado, Krause and Lopez",yes,Jeffrey Pham
+Ho-WO-00186,Ho-EQ-00186-0,caliper,Houston,Garner-Rose,no,Katrina Bartlett
+Ho-WO-00187,Ho-EQ-00187-0,torque,Houston,Ross Inc,yes,Katelyn Hodges
+Ho-WO-00187,Ho-EQ-00187-1,flow_meter,Houston,Ross Inc,no,Katrina Bartlett
+Ho-WO-00187,Ho-EQ-00187-2,torque,Houston,Ross Inc,no,Katelyn Hodges
+Ho-WO-00188,Ho-EQ-00188-0,caliper,Houston,Walker-Morales,no,Katrina Bartlett
+Ho-WO-00188,Ho-EQ-00188-1,scale,Houston,Walker-Morales,yes,Katrina Bartlett
+Ho-WO-00189,Ho-EQ-00189-0,caliper,Houston,Potts-Huang,yes,Jeffrey Pham
+Ho-WO-00189,Ho-EQ-00189-1,torque,Houston,Potts-Huang,yes,Jeffrey Pham
+Ho-WO-00190,Ho-EQ-00190-0,scale,Houston,"Combs, Gibson and Mitchell",yes,Katelyn Hodges
+Ho-WO-00190,Ho-EQ-00190-1,thermometer,Houston,"Combs, Gibson and Mitchell",no,Katrina Bartlett
+Ho-WO-00191,Ho-EQ-00191-0,flow_meter,Houston,Cole-Cervantes,no,Katrina Bartlett
+Ho-WO-00192,Ho-EQ-00192-0,flow_meter,Houston,"Rose, Rivera and Cox",yes,Katelyn Hodges
+Ho-WO-00192,Ho-EQ-00192-1,thermometer,Houston,"Rose, Rivera and Cox",no,Jeffrey Pham
+Ho-WO-00193,Ho-EQ-00193-0,flow_meter,Houston,"Cole, Velasquez and Johnson",no,Katelyn Hodges
+Ho-WO-00194,Ho-EQ-00194-0,flow_meter,Houston,Hicks PLC,yes,Katelyn Hodges
+Ho-WO-00194,Ho-EQ-00194-1,pressure_gauge,Houston,Hicks PLC,no,Jeffrey Pham
+Ho-WO-00194,Ho-EQ-00194-2,pressure_gauge,Houston,Hicks PLC,no,Katelyn Hodges
+Ho-WO-00195,Ho-EQ-00195-0,pressure_gauge,Houston,Hamilton Group,no,Katrina Bartlett
+Ho-WO-00196,Ho-EQ-00196-0,caliper,Houston,Moreno-Friedman,yes,Jeffrey Pham
+Ho-WO-00197,Ho-EQ-00197-0,scale,Houston,Riddle-Faulkner,no,Katelyn Hodges
+Ho-WO-00198,Ho-EQ-00198-0,scale,Houston,Morris-West,no,Katelyn Hodges
+Ho-WO-00198,Ho-EQ-00198-1,pressure_gauge,Houston,Morris-West,no,Katelyn Hodges
+Ho-WO-00198,Ho-EQ-00198-2,torque,Houston,Morris-West,no,Katrina Bartlett
+Ho-WO-00199,Ho-EQ-00199-0,flow_meter,Houston,Orr LLC,no,Jeffrey Pham

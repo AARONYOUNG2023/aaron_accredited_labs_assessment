@@ -1,0 +1,394 @@
+workorder_id,equipment_id,equipment_type,branch,customer_name,accredited,technician
+Ne-WO-00000,Ne-EQ-00000-0,pressure_gauge,New_York,"Mitchell, Stephens and Ford",yes,Clarence Maldonado
+Ne-WO-00001,Ne-EQ-00001-0,flow_meter,New_York,"Bell, Haney and Roberson",yes,Austin Huynh
+Ne-WO-00001,Ne-EQ-00001-1,caliper,New_York,"Bell, Haney and Roberson",no,Austin Mejia
+Ne-WO-00002,Ne-EQ-00002-0,caliper,New_York,Morris-West,no,Clarence Maldonado
+Ne-WO-00003,Ne-EQ-00003-0,scale,New_York,"Moore, Prince and Blankenship",yes,Clarence Maldonado
+Ne-WO-00003,Ne-EQ-00003-1,flow_meter,New_York,"Moore, Prince and Blankenship",yes,Austin Mejia
+Ne-WO-00003,Ne-EQ-00003-2,torque,New_York,"Moore, Prince and Blankenship",no,Austin Huynh
+Ne-WO-00004,Ne-EQ-00004-0,caliper,New_York,Potts-Huang,no,Clarence Maldonado
+Ne-WO-00004,Ne-EQ-00004-1,thermometer,New_York,Potts-Huang,yes,Austin Huynh
+Ne-WO-00004,Ne-EQ-00004-2,flow_meter,New_York,Potts-Huang,no,Austin Huynh
+Ne-WO-00005,Ne-EQ-00005-0,thermometer,New_York,Gates and Sons,no,Austin Mejia
+Ne-WO-00005,Ne-EQ-00005-1,thermometer,New_York,Gates and Sons,yes,Clarence Maldonado
+Ne-WO-00005,Ne-EQ-00005-2,thermometer,New_York,Gates and Sons,yes,Clarence Maldonado
+Ne-WO-00006,Ne-EQ-00006-0,thermometer,New_York,Atkinson Group,no,Austin Huynh
+Ne-WO-00006,Ne-EQ-00006-1,flow_meter,New_York,Atkinson Group,no,Austin Mejia
+Ne-WO-00007,Ne-EQ-00007-0,thermometer,New_York,Parker-Lee,no,Austin Huynh
+Ne-WO-00008,Ne-EQ-00008-0,thermometer,New_York,Neal-Kelley,no,Austin Mejia
+Ne-WO-00008,Ne-EQ-00008-1,thermometer,New_York,Neal-Kelley,no,Clarence Maldonado
+Ne-WO-00008,Ne-EQ-00008-2,flow_meter,New_York,Neal-Kelley,no,Austin Huynh
+Ne-WO-00009,Ne-EQ-00009-0,scale,New_York,Barrett-Figueroa,no,Austin Huynh
+Ne-WO-00010,Ne-EQ-00010-0,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Austin Mejia
+Ne-WO-00011,Ne-EQ-00011-0,caliper,New_York,"Wade, Cruz and White",no,Austin Huynh
+Ne-WO-00011,Ne-EQ-00011-1,pressure_gauge,New_York,"Wade, Cruz and White",no,Austin Huynh
+Ne-WO-00012,Ne-EQ-00012-0,torque,New_York,Allen Ltd,no,Austin Huynh
+Ne-WO-00013,Ne-EQ-00013-0,flow_meter,New_York,"White, Grant and Flores",no,Austin Mejia
+Ne-WO-00014,Ne-EQ-00014-0,torque,New_York,Wells Inc,no,Clarence Maldonado
+Ne-WO-00015,Ne-EQ-00015-0,pressure_gauge,New_York,"Good, Stephens and Richardson",yes,Austin Mejia
+Ne-WO-00015,Ne-EQ-00015-1,caliper,New_York,"Good, Stephens and Richardson",yes,Austin Mejia
+Ne-WO-00015,Ne-EQ-00015-2,thermometer,New_York,"Good, Stephens and Richardson",no,Austin Huynh
+Ne-WO-00016,Ne-EQ-00016-0,scale,New_York,"Cole, Velasquez and Johnson",no,Clarence Maldonado
+Ne-WO-00016,Ne-EQ-00016-1,torque,New_York,"Cole, Velasquez and Johnson",no,Austin Huynh
+Ne-WO-00016,Ne-EQ-00016-2,torque,New_York,"Cole, Velasquez and Johnson",yes,Austin Huynh
+Ne-WO-00017,Ne-EQ-00017-0,caliper,New_York,Davis and Sons,no,Clarence Maldonado
+Ne-WO-00017,Ne-EQ-00017-1,thermometer,New_York,Davis and Sons,no,Austin Mejia
+Ne-WO-00018,Ne-EQ-00018-0,caliper,New_York,Ibarra-Gonzales,yes,Clarence Maldonado
+Ne-WO-00018,Ne-EQ-00018-1,caliper,New_York,Ibarra-Gonzales,no,Austin Huynh
+Ne-WO-00019,Ne-EQ-00019-0,thermometer,New_York,"Mitchell, Stephens and Ford",no,Austin Huynh
+Ne-WO-00019,Ne-EQ-00019-1,pressure_gauge,New_York,"Mitchell, Stephens and Ford",no,Clarence Maldonado
+Ne-WO-00020,Ne-EQ-00020-0,flow_meter,New_York,Morris-West,yes,Austin Mejia
+Ne-WO-00020,Ne-EQ-00020-1,scale,New_York,Morris-West,no,Clarence Maldonado
+Ne-WO-00021,Ne-EQ-00021-0,torque,New_York,"Moore, Prince and Blankenship",yes,Austin Mejia
+Ne-WO-00021,Ne-EQ-00021-1,flow_meter,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado
+Ne-WO-00021,Ne-EQ-00021-2,flow_meter,New_York,"Moore, Prince and Blankenship",no,Austin Mejia
+Ne-WO-00022,Ne-EQ-00022-0,flow_meter,New_York,Neal-Kelley,yes,Austin Huynh
+Ne-WO-00023,Ne-EQ-00023-0,scale,New_York,Hicks PLC,yes,Austin Huynh
+Ne-WO-00023,Ne-EQ-00023-1,flow_meter,New_York,Hicks PLC,no,Austin Mejia
+Ne-WO-00024,Ne-EQ-00024-0,torque,New_York,Banks-Hughes,yes,Austin Huynh
+Ne-WO-00025,Ne-EQ-00025-0,pressure_gauge,New_York,Grant and Sons,no,Austin Mejia
+Ne-WO-00026,Ne-EQ-00026-0,caliper,New_York,Serrano Inc,yes,Austin Mejia
+Ne-WO-00027,Ne-EQ-00027-0,scale,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia
+Ne-WO-00027,Ne-EQ-00027-1,caliper,New_York,"Combs, Gibson and Mitchell",no,Clarence Maldonado
+Ne-WO-00027,Ne-EQ-00027-2,flow_meter,New_York,"Combs, Gibson and Mitchell",yes,Clarence Maldonado
+Ne-WO-00028,Ne-EQ-00028-0,pressure_gauge,New_York,Hammond-Guerrero,yes,Clarence Maldonado
+Ne-WO-00028,Ne-EQ-00028-1,caliper,New_York,Hammond-Guerrero,yes,Austin Huynh
+Ne-WO-00028,Ne-EQ-00028-2,caliper,New_York,Hammond-Guerrero,no,Austin Huynh
+Ne-WO-00029,Ne-EQ-00029-0,pressure_gauge,New_York,Hicks PLC,no,Clarence Maldonado
+Ne-WO-00030,Ne-EQ-00030-0,scale,New_York,Mccann-Hoffman,no,Austin Mejia
+Ne-WO-00030,Ne-EQ-00030-1,scale,New_York,Mccann-Hoffman,yes,Austin Huynh
+Ne-WO-00031,Ne-EQ-00031-0,torque,New_York,Baker PLC,yes,Clarence Maldonado
+Ne-WO-00031,Ne-EQ-00031-1,caliper,New_York,Baker PLC,yes,Clarence Maldonado
+Ne-WO-00032,Ne-EQ-00032-0,scale,New_York,Stephenson-Herring,yes,Austin Mejia
+Ne-WO-00032,Ne-EQ-00032-1,pressure_gauge,New_York,Stephenson-Herring,yes,Austin Mejia
+Ne-WO-00033,Ne-EQ-00033-0,thermometer,New_York,Smith-Anthony,no,Austin Mejia
+Ne-WO-00034,Ne-EQ-00034-0,flow_meter,New_York,Ibarra-Gonzales,yes,Austin Huynh
+Ne-WO-00034,Ne-EQ-00034-1,pressure_gauge,New_York,Ibarra-Gonzales,yes,Austin Huynh
+Ne-WO-00035,Ne-EQ-00035-0,torque,New_York,Grant and Sons,yes,Austin Huynh
+Ne-WO-00036,Ne-EQ-00036-0,torque,New_York,"Castro, Austin and Sparks",no,Austin Mejia
+Ne-WO-00036,Ne-EQ-00036-1,thermometer,New_York,"Castro, Austin and Sparks",no,Austin Mejia
+Ne-WO-00036,Ne-EQ-00036-2,torque,New_York,"Castro, Austin and Sparks",yes,Austin Huynh
+Ne-WO-00037,Ne-EQ-00037-0,torque,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado
+Ne-WO-00037,Ne-EQ-00037-1,torque,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado
+Ne-WO-00037,Ne-EQ-00037-2,scale,New_York,"Dillon, Morton and Wood",no,Austin Mejia
+Ne-WO-00038,Ne-EQ-00038-0,flow_meter,New_York,Orr LLC,yes,Austin Mejia
+Ne-WO-00039,Ne-EQ-00039-0,scale,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Mejia
+Ne-WO-00039,Ne-EQ-00039-1,pressure_gauge,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Huynh
+Ne-WO-00040,Ne-EQ-00040-0,pressure_gauge,New_York,"Mitchell, Stephens and Ford",no,Austin Mejia
+Ne-WO-00040,Ne-EQ-00040-1,caliper,New_York,"Mitchell, Stephens and Ford",no,Clarence Maldonado
+Ne-WO-00040,Ne-EQ-00040-2,torque,New_York,"Mitchell, Stephens and Ford",no,Austin Mejia
+Ne-WO-00041,Ne-EQ-00041-0,caliper,New_York,Mann PLC,yes,Clarence Maldonado
+Ne-WO-00041,Ne-EQ-00041-1,scale,New_York,Mann PLC,no,Austin Huynh
+Ne-WO-00041,Ne-EQ-00041-2,thermometer,New_York,Mann PLC,yes,Austin Huynh
+Ne-WO-00042,Ne-EQ-00042-0,torque,New_York,Grant and Sons,yes,Clarence Maldonado
+Ne-WO-00043,Ne-EQ-00043-0,caliper,New_York,Grant and Sons,yes,Austin Mejia
+Ne-WO-00044,Ne-EQ-00044-0,scale,New_York,"Castro, Austin and Sparks",yes,Austin Huynh
+Ne-WO-00044,Ne-EQ-00044-1,thermometer,New_York,"Castro, Austin and Sparks",yes,Clarence Maldonado
+Ne-WO-00045,Ne-EQ-00045-0,pressure_gauge,New_York,Garcia Ltd,no,Austin Huynh
+Ne-WO-00045,Ne-EQ-00045-1,caliper,New_York,Garcia Ltd,yes,Austin Mejia
+Ne-WO-00045,Ne-EQ-00045-2,pressure_gauge,New_York,Garcia Ltd,yes,Austin Huynh
+Ne-WO-00046,Ne-EQ-00046-0,caliper,New_York,James-Nichols,yes,Austin Mejia
+Ne-WO-00046,Ne-EQ-00046-1,scale,New_York,James-Nichols,no,Clarence Maldonado
+Ne-WO-00046,Ne-EQ-00046-2,scale,New_York,James-Nichols,no,Austin Huynh
+Ne-WO-00047,Ne-EQ-00047-0,flow_meter,New_York,Banks-Hughes,no,Austin Huynh
+Ne-WO-00047,Ne-EQ-00047-1,thermometer,New_York,Banks-Hughes,no,Austin Huynh
+Ne-WO-00047,Ne-EQ-00047-2,pressure_gauge,New_York,Banks-Hughes,no,Austin Mejia
+Ne-WO-00048,Ne-EQ-00048-0,caliper,New_York,Smith-Fernandez,no,Austin Huynh
+Ne-WO-00048,Ne-EQ-00048-1,thermometer,New_York,Smith-Fernandez,no,Austin Mejia
+Ne-WO-00049,Ne-EQ-00049-0,torque,New_York,"Delgado, Krause and Lopez",yes,Clarence Maldonado
+Ne-WO-00049,Ne-EQ-00049-1,caliper,New_York,"Delgado, Krause and Lopez",no,Clarence Maldonado
+Ne-WO-00049,Ne-EQ-00049-2,flow_meter,New_York,"Delgado, Krause and Lopez",yes,Austin Huynh
+Ne-WO-00050,Ne-EQ-00050-0,scale,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia
+Ne-WO-00050,Ne-EQ-00050-1,caliper,New_York,"Mcgrath, Barton and Carter",no,Clarence Maldonado
+Ne-WO-00050,Ne-EQ-00050-2,thermometer,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia
+Ne-WO-00051,Ne-EQ-00051-0,pressure_gauge,New_York,"Humphrey, Mullins and Moore",yes,Austin Mejia
+Ne-WO-00052,Ne-EQ-00052-0,flow_meter,New_York,Miller-Mcguire,no,Clarence Maldonado
+Ne-WO-00053,Ne-EQ-00053-0,flow_meter,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia
+Ne-WO-00053,Ne-EQ-00053-1,pressure_gauge,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia
+Ne-WO-00053,Ne-EQ-00053-2,torque,New_York,"Combs, Gibson and Mitchell",yes,Austin Mejia
+Ne-WO-00054,Ne-EQ-00054-0,flow_meter,New_York,Spencer-Williams,no,Clarence Maldonado
+Ne-WO-00055,Ne-EQ-00055-0,pressure_gauge,New_York,Freeman-Rice,yes,Austin Mejia
+Ne-WO-00056,Ne-EQ-00056-0,caliper,New_York,Wells Inc,yes,Austin Huynh
+Ne-WO-00056,Ne-EQ-00056-1,flow_meter,New_York,Wells Inc,yes,Austin Huynh
+Ne-WO-00057,Ne-EQ-00057-0,flow_meter,New_York,Santiago and Sons,yes,Austin Mejia
+Ne-WO-00057,Ne-EQ-00057-1,torque,New_York,Santiago and Sons,yes,Austin Mejia
+Ne-WO-00058,Ne-EQ-00058-0,pressure_gauge,New_York,"Bell, Haney and Roberson",no,Austin Huynh
+Ne-WO-00059,Ne-EQ-00059-0,scale,New_York,Hardin-Mcdonald,yes,Clarence Maldonado
+Ne-WO-00059,Ne-EQ-00059-1,thermometer,New_York,Hardin-Mcdonald,no,Austin Huynh
+Ne-WO-00059,Ne-EQ-00059-2,pressure_gauge,New_York,Hardin-Mcdonald,no,Austin Mejia
+Ne-WO-00060,Ne-EQ-00060-0,torque,New_York,Kelley-Young,no,Austin Mejia
+Ne-WO-00060,Ne-EQ-00060-1,pressure_gauge,New_York,Kelley-Young,yes,Austin Huynh
+Ne-WO-00061,Ne-EQ-00061-0,thermometer,New_York,Grant and Sons,yes,Austin Mejia
+Ne-WO-00061,Ne-EQ-00061-1,pressure_gauge,New_York,Grant and Sons,no,Austin Mejia
+Ne-WO-00062,Ne-EQ-00062-0,flow_meter,New_York,Arnold-Peters,no,Austin Huynh
+Ne-WO-00062,Ne-EQ-00062-1,thermometer,New_York,Arnold-Peters,yes,Austin Huynh
+Ne-WO-00063,Ne-EQ-00063-0,thermometer,New_York,"Ramirez, Marsh and Alvarez",no,Austin Huynh
+Ne-WO-00063,Ne-EQ-00063-1,caliper,New_York,"Ramirez, Marsh and Alvarez",yes,Austin Huynh
+Ne-WO-00063,Ne-EQ-00063-2,thermometer,New_York,"Ramirez, Marsh and Alvarez",yes,Clarence Maldonado
+Ne-WO-00064,Ne-EQ-00064-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Clarence Maldonado
+Ne-WO-00065,Ne-EQ-00065-0,torque,New_York,"Dillon, Morton and Wood",no,Clarence Maldonado
+Ne-WO-00066,Ne-EQ-00066-0,thermometer,New_York,Moreno-Friedman,no,Austin Huynh
+Ne-WO-00067,Ne-EQ-00067-0,pressure_gauge,New_York,Lopez and Sons,no,Austin Huynh
+Ne-WO-00067,Ne-EQ-00067-1,flow_meter,New_York,Lopez and Sons,no,Austin Mejia
+Ne-WO-00068,Ne-EQ-00068-0,flow_meter,New_York,Gonzalez Ltd,yes,Austin Mejia
+Ne-WO-00069,Ne-EQ-00069-0,flow_meter,New_York,Mccann-Hoffman,yes,Clarence Maldonado
+Ne-WO-00070,Ne-EQ-00070-0,flow_meter,New_York,Brown and Sons,no,Austin Mejia
+Ne-WO-00070,Ne-EQ-00070-1,flow_meter,New_York,Brown and Sons,no,Austin Huynh
+Ne-WO-00070,Ne-EQ-00070-2,caliper,New_York,Brown and Sons,no,Austin Huynh
+Ne-WO-00071,Ne-EQ-00071-0,caliper,New_York,"Wade, Cruz and White",no,Austin Huynh
+Ne-WO-00072,Ne-EQ-00072-0,pressure_gauge,New_York,Gates and Sons,yes,Clarence Maldonado
+Ne-WO-00073,Ne-EQ-00073-0,scale,New_York,Jensen-Bell,yes,Austin Mejia
+Ne-WO-00073,Ne-EQ-00073-1,pressure_gauge,New_York,Jensen-Bell,no,Austin Mejia
+Ne-WO-00073,Ne-EQ-00073-2,torque,New_York,Jensen-Bell,yes,Clarence Maldonado
+Ne-WO-00074,Ne-EQ-00074-0,scale,New_York,Hamilton Group,no,Austin Huynh
+Ne-WO-00075,Ne-EQ-00075-0,caliper,New_York,"White, Grant and Flores",yes,Austin Huynh
+Ne-WO-00075,Ne-EQ-00075-1,torque,New_York,"White, Grant and Flores",no,Austin Mejia
+Ne-WO-00075,Ne-EQ-00075-2,torque,New_York,"White, Grant and Flores",no,Austin Mejia
+Ne-WO-00076,Ne-EQ-00076-0,caliper,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00076,Ne-EQ-00076-1,caliper,New_York,Ross Inc,yes,Clarence Maldonado
+Ne-WO-00076,Ne-EQ-00076-2,pressure_gauge,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00077,Ne-EQ-00077-0,scale,New_York,Hammond-Guerrero,yes,Austin Mejia
+Ne-WO-00078,Ne-EQ-00078-0,torque,New_York,Mann PLC,yes,Clarence Maldonado
+Ne-WO-00078,Ne-EQ-00078-1,thermometer,New_York,Mann PLC,yes,Austin Mejia
+Ne-WO-00078,Ne-EQ-00078-2,flow_meter,New_York,Mann PLC,no,Clarence Maldonado
+Ne-WO-00079,Ne-EQ-00079-0,torque,New_York,"Dillon, Morton and Wood",no,Austin Mejia
+Ne-WO-00079,Ne-EQ-00079-1,flow_meter,New_York,"Dillon, Morton and Wood",yes,Clarence Maldonado
+Ne-WO-00079,Ne-EQ-00079-2,pressure_gauge,New_York,"Dillon, Morton and Wood",yes,Austin Huynh
+Ne-WO-00080,Ne-EQ-00080-0,scale,New_York,Atkinson Group,no,Clarence Maldonado
+Ne-WO-00080,Ne-EQ-00080-1,thermometer,New_York,Atkinson Group,no,Austin Mejia
+Ne-WO-00081,Ne-EQ-00081-0,flow_meter,New_York,"Humphrey, Mullins and Moore",yes,Austin Huynh
+Ne-WO-00081,Ne-EQ-00081-1,flow_meter,New_York,"Humphrey, Mullins and Moore",no,Austin Huynh
+Ne-WO-00081,Ne-EQ-00081-2,flow_meter,New_York,"Humphrey, Mullins and Moore",yes,Austin Huynh
+Ne-WO-00082,Ne-EQ-00082-0,caliper,New_York,Spencer-Williams,no,Austin Huynh
+Ne-WO-00082,Ne-EQ-00082-1,scale,New_York,Spencer-Williams,no,Clarence Maldonado
+Ne-WO-00082,Ne-EQ-00082-2,scale,New_York,Spencer-Williams,yes,Clarence Maldonado
+Ne-WO-00083,Ne-EQ-00083-0,flow_meter,New_York,Potts-Huang,yes,Austin Mejia
+Ne-WO-00084,Ne-EQ-00084-0,caliper,New_York,Willis Inc,no,Austin Mejia
+Ne-WO-00084,Ne-EQ-00084-1,thermometer,New_York,Willis Inc,no,Austin Huynh
+Ne-WO-00084,Ne-EQ-00084-2,thermometer,New_York,Willis Inc,no,Clarence Maldonado
+Ne-WO-00085,Ne-EQ-00085-0,scale,New_York,"Hawkins, Campos and Booth",yes,Austin Huynh
+Ne-WO-00086,Ne-EQ-00086-0,torque,New_York,Willis Inc,yes,Clarence Maldonado
+Ne-WO-00086,Ne-EQ-00086-1,flow_meter,New_York,Willis Inc,yes,Clarence Maldonado
+Ne-WO-00087,Ne-EQ-00087-0,flow_meter,New_York,"Delgado, Krause and Lopez",no,Austin Huynh
+Ne-WO-00087,Ne-EQ-00087-1,torque,New_York,"Delgado, Krause and Lopez",no,Austin Huynh
+Ne-WO-00088,Ne-EQ-00088-0,thermometer,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Huynh
+Ne-WO-00088,Ne-EQ-00088-1,torque,New_York,"Armstrong, Fletcher and Wilson",yes,Austin Mejia
+Ne-WO-00089,Ne-EQ-00089-0,torque,New_York,Baker PLC,no,Clarence Maldonado
+Ne-WO-00090,Ne-EQ-00090-0,torque,New_York,Barrett-Figueroa,no,Austin Huynh
+Ne-WO-00090,Ne-EQ-00090-1,thermometer,New_York,Barrett-Figueroa,yes,Austin Huynh
+Ne-WO-00091,Ne-EQ-00091-0,thermometer,New_York,Ball LLC,yes,Austin Mejia
+Ne-WO-00091,Ne-EQ-00091-1,caliper,New_York,Ball LLC,no,Austin Huynh
+Ne-WO-00092,Ne-EQ-00092-0,caliper,New_York,Parker-Lee,yes,Clarence Maldonado
+Ne-WO-00092,Ne-EQ-00092-1,pressure_gauge,New_York,Parker-Lee,yes,Austin Mejia
+Ne-WO-00093,Ne-EQ-00093-0,flow_meter,New_York,Walker-Morales,yes,Austin Mejia
+Ne-WO-00093,Ne-EQ-00093-1,torque,New_York,Walker-Morales,no,Clarence Maldonado
+Ne-WO-00094,Ne-EQ-00094-0,torque,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00094,Ne-EQ-00094-1,pressure_gauge,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00095,Ne-EQ-00095-0,scale,New_York,Walker-Morales,no,Austin Huynh
+Ne-WO-00095,Ne-EQ-00095-1,pressure_gauge,New_York,Walker-Morales,yes,Clarence Maldonado
+Ne-WO-00095,Ne-EQ-00095-2,flow_meter,New_York,Walker-Morales,yes,Clarence Maldonado
+Ne-WO-00096,Ne-EQ-00096-0,caliper,New_York,Doyle-Barnes,no,Austin Huynh
+Ne-WO-00096,Ne-EQ-00096-1,caliper,New_York,Doyle-Barnes,no,Austin Huynh
+Ne-WO-00097,Ne-EQ-00097-0,scale,New_York,"Moore, Prince and Blankenship",yes,Austin Huynh
+Ne-WO-00098,Ne-EQ-00098-0,caliper,New_York,Garner-Rose,yes,Clarence Maldonado
+Ne-WO-00098,Ne-EQ-00098-1,torque,New_York,Garner-Rose,no,Austin Mejia
+Ne-WO-00098,Ne-EQ-00098-2,thermometer,New_York,Garner-Rose,no,Clarence Maldonado
+Ne-WO-00099,Ne-EQ-00099-0,torque,New_York,Santiago and Sons,yes,Clarence Maldonado
+Ne-WO-00099,Ne-EQ-00099-1,thermometer,New_York,Santiago and Sons,no,Austin Mejia
+Ne-WO-00099,Ne-EQ-00099-2,torque,New_York,Santiago and Sons,no,Austin Huynh
+Ne-WO-00100,Ne-EQ-00100-0,pressure_gauge,New_York,"Alexander, Green and Mcbride",no,Austin Huynh
+Ne-WO-00100,Ne-EQ-00100-1,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Clarence Maldonado
+Ne-WO-00100,Ne-EQ-00100-2,pressure_gauge,New_York,"Alexander, Green and Mcbride",yes,Austin Huynh
+Ne-WO-00101,Ne-EQ-00101-0,torque,New_York,Brown and Sons,yes,Austin Mejia
+Ne-WO-00101,Ne-EQ-00101-1,pressure_gauge,New_York,Brown and Sons,no,Clarence Maldonado
+Ne-WO-00101,Ne-EQ-00101-2,torque,New_York,Brown and Sons,yes,Clarence Maldonado
+Ne-WO-00102,Ne-EQ-00102-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Austin Mejia
+Ne-WO-00103,Ne-EQ-00103-0,caliper,New_York,Thomas LLC,yes,Austin Huynh
+Ne-WO-00104,Ne-EQ-00104-0,scale,New_York,"Copeland, Torres and Morales",yes,Clarence Maldonado
+Ne-WO-00105,Ne-EQ-00105-0,scale,New_York,"Moore, Prince and Blankenship",yes,Clarence Maldonado
+Ne-WO-00105,Ne-EQ-00105-1,torque,New_York,"Moore, Prince and Blankenship",yes,Austin Huynh
+Ne-WO-00106,Ne-EQ-00106-0,torque,New_York,"Moore, Prince and Blankenship",no,Austin Mejia
+Ne-WO-00106,Ne-EQ-00106-1,pressure_gauge,New_York,"Moore, Prince and Blankenship",no,Austin Mejia
+Ne-WO-00106,Ne-EQ-00106-2,scale,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado
+Ne-WO-00107,Ne-EQ-00107-0,caliper,New_York,Hicks PLC,no,Austin Huynh
+Ne-WO-00107,Ne-EQ-00107-1,flow_meter,New_York,Hicks PLC,no,Clarence Maldonado
+Ne-WO-00107,Ne-EQ-00107-2,thermometer,New_York,Hicks PLC,yes,Clarence Maldonado
+Ne-WO-00108,Ne-EQ-00108-0,thermometer,New_York,Cole-Cervantes,no,Clarence Maldonado
+Ne-WO-00109,Ne-EQ-00109-0,torque,New_York,Holland-Walsh,yes,Clarence Maldonado
+Ne-WO-00109,Ne-EQ-00109-1,pressure_gauge,New_York,Holland-Walsh,no,Austin Huynh
+Ne-WO-00109,Ne-EQ-00109-2,torque,New_York,Holland-Walsh,no,Austin Mejia
+Ne-WO-00110,Ne-EQ-00110-0,thermometer,New_York,"White, Grant and Flores",yes,Clarence Maldonado
+Ne-WO-00111,Ne-EQ-00111-0,scale,New_York,Brown and Sons,yes,Austin Huynh
+Ne-WO-00111,Ne-EQ-00111-1,pressure_gauge,New_York,Brown and Sons,yes,Austin Huynh
+Ne-WO-00111,Ne-EQ-00111-2,caliper,New_York,Brown and Sons,yes,Clarence Maldonado
+Ne-WO-00112,Ne-EQ-00112-0,torque,New_York,Ball LLC,no,Clarence Maldonado
+Ne-WO-00112,Ne-EQ-00112-1,caliper,New_York,Ball LLC,yes,Austin Huynh
+Ne-WO-00113,Ne-EQ-00113-0,thermometer,New_York,Huynh Group,no,Austin Huynh
+Ne-WO-00113,Ne-EQ-00113-1,caliper,New_York,Huynh Group,yes,Austin Huynh
+Ne-WO-00113,Ne-EQ-00113-2,scale,New_York,Huynh Group,no,Austin Mejia
+Ne-WO-00114,Ne-EQ-00114-0,thermometer,New_York,"Thompson, Anderson and Hopkins",yes,Austin Huynh
+Ne-WO-00115,Ne-EQ-00115-0,flow_meter,New_York,Romero Group,no,Clarence Maldonado
+Ne-WO-00116,Ne-EQ-00116-0,thermometer,New_York,"Moore, Prince and Blankenship",no,Austin Huynh
+Ne-WO-00117,Ne-EQ-00117-0,flow_meter,New_York,Hicks PLC,yes,Austin Mejia
+Ne-WO-00118,Ne-EQ-00118-0,pressure_gauge,New_York,"Delgado, Krause and Lopez",yes,Clarence Maldonado
+Ne-WO-00118,Ne-EQ-00118-1,caliper,New_York,"Delgado, Krause and Lopez",yes,Austin Huynh
+Ne-WO-00118,Ne-EQ-00118-2,scale,New_York,"Delgado, Krause and Lopez",no,Austin Huynh
+Ne-WO-00119,Ne-EQ-00119-0,pressure_gauge,New_York,Ball LLC,yes,Austin Huynh
+Ne-WO-00119,Ne-EQ-00119-1,pressure_gauge,New_York,Ball LLC,no,Austin Mejia
+Ne-WO-00119,Ne-EQ-00119-2,flow_meter,New_York,Ball LLC,no,Clarence Maldonado
+Ne-WO-00120,Ne-EQ-00120-0,caliper,New_York,Fletcher-Boone,yes,Austin Huynh
+Ne-WO-00121,Ne-EQ-00121-0,torque,New_York,"Moore, Prince and Blankenship",yes,Austin Mejia
+Ne-WO-00121,Ne-EQ-00121-1,torque,New_York,"Moore, Prince and Blankenship",no,Austin Huynh
+Ne-WO-00121,Ne-EQ-00121-2,scale,New_York,"Moore, Prince and Blankenship",no,Austin Huynh
+Ne-WO-00122,Ne-EQ-00122-0,torque,New_York,Hicks PLC,no,Clarence Maldonado
+Ne-WO-00123,Ne-EQ-00123-0,scale,New_York,Holland-Walsh,no,Austin Huynh
+Ne-WO-00123,Ne-EQ-00123-1,thermometer,New_York,Holland-Walsh,yes,Austin Huynh
+Ne-WO-00123,Ne-EQ-00123-2,pressure_gauge,New_York,Holland-Walsh,no,Clarence Maldonado
+Ne-WO-00124,Ne-EQ-00124-0,torque,New_York,Davis and Sons,no,Austin Mejia
+Ne-WO-00124,Ne-EQ-00124-1,thermometer,New_York,Davis and Sons,no,Clarence Maldonado
+Ne-WO-00124,Ne-EQ-00124-2,caliper,New_York,Davis and Sons,no,Austin Mejia
+Ne-WO-00125,Ne-EQ-00125-0,pressure_gauge,New_York,Romero Group,no,Clarence Maldonado
+Ne-WO-00126,Ne-EQ-00126-0,scale,New_York,"Rose, Rivera and Cox",yes,Austin Huynh
+Ne-WO-00126,Ne-EQ-00126-1,pressure_gauge,New_York,"Rose, Rivera and Cox",yes,Austin Huynh
+Ne-WO-00127,Ne-EQ-00127-0,torque,New_York,"Moore, Prince and Blankenship",no,Clarence Maldonado
+Ne-WO-00128,Ne-EQ-00128-0,flow_meter,New_York,"Copeland, Torres and Morales",yes,Austin Mejia
+Ne-WO-00129,Ne-EQ-00129-0,caliper,New_York,Holland-Walsh,yes,Clarence Maldonado
+Ne-WO-00129,Ne-EQ-00129-1,pressure_gauge,New_York,Holland-Walsh,no,Austin Mejia
+Ne-WO-00129,Ne-EQ-00129-2,flow_meter,New_York,Holland-Walsh,yes,Austin Huynh
+Ne-WO-00130,Ne-EQ-00130-0,flow_meter,New_York,Orr LLC,yes,Austin Huynh
+Ne-WO-00130,Ne-EQ-00130-1,scale,New_York,Orr LLC,yes,Austin Mejia
+Ne-WO-00130,Ne-EQ-00130-2,pressure_gauge,New_York,Orr LLC,yes,Clarence Maldonado
+Ne-WO-00131,Ne-EQ-00131-0,caliper,New_York,Potts-Huang,yes,Clarence Maldonado
+Ne-WO-00131,Ne-EQ-00131-1,flow_meter,New_York,Potts-Huang,no,Austin Huynh
+Ne-WO-00131,Ne-EQ-00131-2,scale,New_York,Potts-Huang,no,Austin Mejia
+Ne-WO-00132,Ne-EQ-00132-0,pressure_gauge,New_York,Baker PLC,no,Austin Mejia
+Ne-WO-00132,Ne-EQ-00132-1,scale,New_York,Baker PLC,yes,Austin Mejia
+Ne-WO-00132,Ne-EQ-00132-2,scale,New_York,Baker PLC,no,Clarence Maldonado
+Ne-WO-00133,Ne-EQ-00133-0,scale,New_York,Romero Group,no,Austin Huynh
+Ne-WO-00133,Ne-EQ-00133-1,torque,New_York,Romero Group,yes,Austin Mejia
+Ne-WO-00134,Ne-EQ-00134-0,pressure_gauge,New_York,"Jensen, Evans and Fowler",yes,Austin Huynh
+Ne-WO-00135,Ne-EQ-00135-0,pressure_gauge,New_York,Mills Inc,no,Clarence Maldonado
+Ne-WO-00136,Ne-EQ-00136-0,flow_meter,New_York,"Mcgrath, Barton and Carter",no,Clarence Maldonado
+Ne-WO-00136,Ne-EQ-00136-1,thermometer,New_York,"Mcgrath, Barton and Carter",no,Austin Huynh
+Ne-WO-00136,Ne-EQ-00136-2,caliper,New_York,"Mcgrath, Barton and Carter",yes,Austin Mejia
+Ne-WO-00137,Ne-EQ-00137-0,torque,New_York,Mccann-Hoffman,yes,Austin Mejia
+Ne-WO-00138,Ne-EQ-00138-0,pressure_gauge,New_York,"Cole, Velasquez and Johnson",no,Clarence Maldonado
+Ne-WO-00139,Ne-EQ-00139-0,thermometer,New_York,Holland-Walsh,yes,Austin Mejia
+Ne-WO-00140,Ne-EQ-00140-0,thermometer,New_York,Chang-Love,yes,Clarence Maldonado
+Ne-WO-00141,Ne-EQ-00141-0,scale,New_York,"Delgado, Krause and Lopez",no,Austin Huynh
+Ne-WO-00142,Ne-EQ-00142-0,flow_meter,New_York,"Cole, Velasquez and Johnson",yes,Austin Mejia
+Ne-WO-00142,Ne-EQ-00142-1,flow_meter,New_York,"Cole, Velasquez and Johnson",yes,Austin Huynh
+Ne-WO-00142,Ne-EQ-00142-2,pressure_gauge,New_York,"Cole, Velasquez and Johnson",no,Austin Mejia
+Ne-WO-00143,Ne-EQ-00143-0,caliper,New_York,Moreno-Friedman,yes,Austin Huynh
+Ne-WO-00143,Ne-EQ-00143-1,caliper,New_York,Moreno-Friedman,yes,Austin Huynh
+Ne-WO-00144,Ne-EQ-00144-0,torque,New_York,Woods Inc,no,Clarence Maldonado
+Ne-WO-00144,Ne-EQ-00144-1,torque,New_York,Woods Inc,no,Clarence Maldonado
+Ne-WO-00145,Ne-EQ-00145-0,thermometer,New_York,"White, Grant and Flores",yes,Austin Huynh
+Ne-WO-00146,Ne-EQ-00146-0,caliper,New_York,Morales-Banks,yes,Clarence Maldonado
+Ne-WO-00146,Ne-EQ-00146-1,pressure_gauge,New_York,Morales-Banks,yes,Clarence Maldonado
+Ne-WO-00147,Ne-EQ-00147-0,thermometer,New_York,Moreno-Friedman,yes,Austin Mejia
+Ne-WO-00147,Ne-EQ-00147-1,pressure_gauge,New_York,Moreno-Friedman,no,Clarence Maldonado
+Ne-WO-00148,Ne-EQ-00148-0,torque,New_York,Davis and Sons,no,Clarence Maldonado
+Ne-WO-00148,Ne-EQ-00148-1,thermometer,New_York,Davis and Sons,no,Austin Mejia
+Ne-WO-00149,Ne-EQ-00149-0,caliper,New_York,"Mitchell, Stephens and Ford",yes,Austin Huynh
+Ne-WO-00150,Ne-EQ-00150-0,thermometer,New_York,Ellis Group,yes,Clarence Maldonado
+Ne-WO-00151,Ne-EQ-00151-0,thermometer,New_York,Orr LLC,yes,Clarence Maldonado
+Ne-WO-00152,Ne-EQ-00152-0,torque,New_York,Lopez and Sons,yes,Clarence Maldonado
+Ne-WO-00152,Ne-EQ-00152-1,caliper,New_York,Lopez and Sons,yes,Austin Mejia
+Ne-WO-00153,Ne-EQ-00153-0,thermometer,New_York,Garcia Ltd,yes,Clarence Maldonado
+Ne-WO-00153,Ne-EQ-00153-1,pressure_gauge,New_York,Garcia Ltd,yes,Austin Huynh
+Ne-WO-00154,Ne-EQ-00154-0,scale,New_York,Freeman-Rice,yes,Austin Huynh
+Ne-WO-00154,Ne-EQ-00154-1,torque,New_York,Freeman-Rice,yes,Clarence Maldonado
+Ne-WO-00155,Ne-EQ-00155-0,torque,New_York,Holland-Walsh,no,Clarence Maldonado
+Ne-WO-00155,Ne-EQ-00155-1,torque,New_York,Holland-Walsh,yes,Clarence Maldonado
+Ne-WO-00156,Ne-EQ-00156-0,flow_meter,New_York,Rodriguez-Summers,no,Austin Huynh
+Ne-WO-00156,Ne-EQ-00156-1,thermometer,New_York,Rodriguez-Summers,no,Austin Mejia
+Ne-WO-00157,Ne-EQ-00157-0,flow_meter,New_York,Freeman-Rice,no,Austin Mejia
+Ne-WO-00157,Ne-EQ-00157-1,thermometer,New_York,Freeman-Rice,yes,Clarence Maldonado
+Ne-WO-00158,Ne-EQ-00158-0,pressure_gauge,New_York,Potts-Huang,no,Clarence Maldonado
+Ne-WO-00158,Ne-EQ-00158-1,caliper,New_York,Potts-Huang,no,Austin Mejia
+Ne-WO-00158,Ne-EQ-00158-2,scale,New_York,Potts-Huang,no,Clarence Maldonado
+Ne-WO-00159,Ne-EQ-00159-0,caliper,New_York,Ross Inc,yes,Austin Huynh
+Ne-WO-00159,Ne-EQ-00159-1,thermometer,New_York,Ross Inc,yes,Clarence Maldonado
+Ne-WO-00160,Ne-EQ-00160-0,scale,New_York,Rodriguez Inc,yes,Austin Huynh
+Ne-WO-00160,Ne-EQ-00160-1,scale,New_York,Rodriguez Inc,yes,Austin Huynh
+Ne-WO-00161,Ne-EQ-00161-0,thermometer,New_York,Neal-Kelley,yes,Austin Mejia
+Ne-WO-00162,Ne-EQ-00162-0,pressure_gauge,New_York,Serrano Inc,no,Austin Mejia
+Ne-WO-00163,Ne-EQ-00163-0,scale,New_York,Barnett-Mueller,no,Austin Huynh
+Ne-WO-00163,Ne-EQ-00163-1,pressure_gauge,New_York,Barnett-Mueller,yes,Clarence Maldonado
+Ne-WO-00163,Ne-EQ-00163-2,torque,New_York,Barnett-Mueller,yes,Austin Huynh
+Ne-WO-00164,Ne-EQ-00164-0,flow_meter,New_York,"Mcgrath, Barton and Carter",no,Austin Huynh
+Ne-WO-00164,Ne-EQ-00164-1,thermometer,New_York,"Mcgrath, Barton and Carter",no,Austin Mejia
+Ne-WO-00165,Ne-EQ-00165-0,thermometer,New_York,Cole-Cervantes,yes,Austin Mejia
+Ne-WO-00165,Ne-EQ-00165-1,scale,New_York,Cole-Cervantes,yes,Clarence Maldonado
+Ne-WO-00165,Ne-EQ-00165-2,thermometer,New_York,Cole-Cervantes,yes,Austin Huynh
+Ne-WO-00166,Ne-EQ-00166-0,torque,New_York,"Bell, Haney and Roberson",yes,Austin Huynh
+Ne-WO-00166,Ne-EQ-00166-1,scale,New_York,"Bell, Haney and Roberson",yes,Clarence Maldonado
+Ne-WO-00166,Ne-EQ-00166-2,pressure_gauge,New_York,"Bell, Haney and Roberson",no,Clarence Maldonado
+Ne-WO-00167,Ne-EQ-00167-0,torque,New_York,Freeman-Rice,yes,Austin Mejia
+Ne-WO-00168,Ne-EQ-00168-0,scale,New_York,Rodriguez-Summers,yes,Austin Mejia
+Ne-WO-00168,Ne-EQ-00168-1,flow_meter,New_York,Rodriguez-Summers,yes,Austin Mejia
+Ne-WO-00168,Ne-EQ-00168-2,caliper,New_York,Rodriguez-Summers,no,Clarence Maldonado
+Ne-WO-00169,Ne-EQ-00169-0,torque,New_York,Orr LLC,no,Clarence Maldonado
+Ne-WO-00169,Ne-EQ-00169-1,thermometer,New_York,Orr LLC,no,Austin Huynh
+Ne-WO-00169,Ne-EQ-00169-2,scale,New_York,Orr LLC,no,Clarence Maldonado
+Ne-WO-00170,Ne-EQ-00170-0,flow_meter,New_York,Smith-Fernandez,no,Clarence Maldonado
+Ne-WO-00171,Ne-EQ-00171-0,scale,New_York,Rodriguez Inc,no,Austin Huynh
+Ne-WO-00171,Ne-EQ-00171-1,pressure_gauge,New_York,Rodriguez Inc,yes,Clarence Maldonado
+Ne-WO-00171,Ne-EQ-00171-2,flow_meter,New_York,Rodriguez Inc,no,Austin Mejia
+Ne-WO-00172,Ne-EQ-00172-0,flow_meter,New_York,Hardin-Mcdonald,no,Clarence Maldonado
+Ne-WO-00173,Ne-EQ-00173-0,flow_meter,New_York,Freeman-Rice,no,Austin Huynh
+Ne-WO-00174,Ne-EQ-00174-0,flow_meter,New_York,"White, Grant and Flores",no,Austin Mejia
+Ne-WO-00174,Ne-EQ-00174-1,thermometer,New_York,"White, Grant and Flores",yes,Austin Huynh
+Ne-WO-00175,Ne-EQ-00175-0,thermometer,New_York,Collins and Sons,no,Clarence Maldonado
+Ne-WO-00175,Ne-EQ-00175-1,caliper,New_York,Collins and Sons,yes,Clarence Maldonado
+Ne-WO-00176,Ne-EQ-00176-0,thermometer,New_York,"Combs, Gibson and Mitchell",yes,Austin Huynh
+Ne-WO-00176,Ne-EQ-00176-1,torque,New_York,"Combs, Gibson and Mitchell",no,Austin Huynh
+Ne-WO-00177,Ne-EQ-00177-0,pressure_gauge,New_York,Thomas LLC,yes,Austin Huynh
+Ne-WO-00177,Ne-EQ-00177-1,scale,New_York,Thomas LLC,no,Austin Mejia
+Ne-WO-00178,Ne-EQ-00178-0,caliper,New_York,Grant and Sons,yes,Clarence Maldonado
+Ne-WO-00178,Ne-EQ-00178-1,caliper,New_York,Grant and Sons,yes,Austin Mejia
+Ne-WO-00178,Ne-EQ-00178-2,pressure_gauge,New_York,Grant and Sons,no,Austin Huynh
+Ne-WO-00179,Ne-EQ-00179-0,pressure_gauge,New_York,Spencer-Williams,yes,Austin Huynh
+Ne-WO-00179,Ne-EQ-00179-1,pressure_gauge,New_York,Spencer-Williams,yes,Austin Mejia
+Ne-WO-00180,Ne-EQ-00180-0,torque,New_York,Barnett-Mueller,yes,Clarence Maldonado
+Ne-WO-00180,Ne-EQ-00180-1,scale,New_York,Barnett-Mueller,yes,Austin Mejia
+Ne-WO-00181,Ne-EQ-00181-0,torque,New_York,Chang-Love,yes,Austin Mejia
+Ne-WO-00182,Ne-EQ-00182-0,pressure_gauge,New_York,Cole-Cervantes,yes,Clarence Maldonado
+Ne-WO-00183,Ne-EQ-00183-0,thermometer,New_York,Cole-Cervantes,no,Austin Mejia
+Ne-WO-00183,Ne-EQ-00183-1,thermometer,New_York,Cole-Cervantes,no,Clarence Maldonado
+Ne-WO-00184,Ne-EQ-00184-0,scale,New_York,Miller-Decker,no,Clarence Maldonado
+Ne-WO-00184,Ne-EQ-00184-1,pressure_gauge,New_York,Miller-Decker,no,Austin Mejia
+Ne-WO-00184,Ne-EQ-00184-2,torque,New_York,Miller-Decker,no,Austin Huynh
+Ne-WO-00185,Ne-EQ-00185-0,thermometer,New_York,Barrett-Figueroa,yes,Austin Mejia
+Ne-WO-00186,Ne-EQ-00186-0,caliper,New_York,Rodriguez Inc,no,Clarence Maldonado
+Ne-WO-00186,Ne-EQ-00186-1,scale,New_York,Rodriguez Inc,no,Austin Mejia
+Ne-WO-00186,Ne-EQ-00186-2,flow_meter,New_York,Rodriguez Inc,yes,Clarence Maldonado
+Ne-WO-00187,Ne-EQ-00187-0,flow_meter,New_York,Smith-Anthony,yes,Austin Mejia
+Ne-WO-00187,Ne-EQ-00187-1,torque,New_York,Smith-Anthony,yes,Austin Mejia
+Ne-WO-00187,Ne-EQ-00187-2,torque,New_York,Smith-Anthony,no,Austin Huynh
+Ne-WO-00188,Ne-EQ-00188-0,caliper,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00188,Ne-EQ-00188-1,thermometer,New_York,Ross Inc,yes,Austin Huynh
+Ne-WO-00188,Ne-EQ-00188-2,torque,New_York,Ross Inc,no,Austin Mejia
+Ne-WO-00189,Ne-EQ-00189-0,caliper,New_York,Davis and Sons,no,Austin Huynh
+Ne-WO-00189,Ne-EQ-00189-1,flow_meter,New_York,Davis and Sons,yes,Austin Mejia
+Ne-WO-00190,Ne-EQ-00190-0,pressure_gauge,New_York,Banks-Hughes,no,Clarence Maldonado
+Ne-WO-00191,Ne-EQ-00191-0,pressure_gauge,New_York,"Martin, Thomas and Huerta",yes,Clarence Maldonado
+Ne-WO-00192,Ne-EQ-00192-0,torque,New_York,Rodriguez Inc,yes,Austin Mejia
+Ne-WO-00192,Ne-EQ-00192-1,scale,New_York,Rodriguez Inc,no,Clarence Maldonado
+Ne-WO-00192,Ne-EQ-00192-2,torque,New_York,Rodriguez Inc,yes,Austin Mejia
+Ne-WO-00193,Ne-EQ-00193-0,pressure_gauge,New_York,Lopez and Sons,yes,Austin Mejia
+Ne-WO-00194,Ne-EQ-00194-0,flow_meter,New_York,Hicks PLC,no,Clarence Maldonado
+Ne-WO-00195,Ne-EQ-00195-0,caliper,New_York,"Parks, Miller and Watson",yes,Clarence Maldonado
+Ne-WO-00195,Ne-EQ-00195-1,scale,New_York,"Parks, Miller and Watson",yes,Clarence Maldonado
+Ne-WO-00195,Ne-EQ-00195-2,caliper,New_York,"Parks, Miller and Watson",yes,Austin Huynh
+Ne-WO-00196,Ne-EQ-00196-0,flow_meter,New_York,"Erickson, Hughes and Craig",no,Austin Mejia
+Ne-WO-00197,Ne-EQ-00197-0,torque,New_York,Cole-Cervantes,no,Austin Huynh
+Ne-WO-00197,Ne-EQ-00197-1,torque,New_York,Cole-Cervantes,yes,Clarence Maldonado
+Ne-WO-00197,Ne-EQ-00197-2,flow_meter,New_York,Cole-Cervantes,yes,Clarence Maldonado
+Ne-WO-00198,Ne-EQ-00198-0,thermometer,New_York,Rodriguez Group,yes,Austin Huynh
+Ne-WO-00198,Ne-EQ-00198-1,thermometer,New_York,Rodriguez Group,no,Austin Huynh
+Ne-WO-00198,Ne-EQ-00198-2,thermometer,New_York,Rodriguez Group,no,Austin Huynh
+Ne-WO-00199,Ne-EQ-00199-0,flow_meter,New_York,Romero Group,yes,Austin Mejia
+Ne-WO-00199,Ne-EQ-00199-1,scale,New_York,Romero Group,yes,Austin Mejia
+Ne-WO-00199,Ne-EQ-00199-2,torque,New_York,Romero Group,no,Austin Mejia
